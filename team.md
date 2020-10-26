@@ -62,3 +62,5 @@ The *Brook Lab* today is focused on the work of *Ekipa Fanihy*, which means 'Tea
 
 <img src="/assets/sami_kreling.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
 **Samantha Kreling** was a **Field Project Manager** for Ekipa Fanihy in fall 2019. Sami worked closely with Anecia Gentles and Katie Fitzgerald to organize monthly field collections on our project. Sami graduated with a B.S. in Environmental Science, Policy, and Management from UC Berkeley in 2019, where she studied black-tailed deer response to fire disturbance in northern California, among other topics. Sami plans to apply to graduate programs focused on ecology at the urban-wildland interface in the future.
+<br>
+<br>
