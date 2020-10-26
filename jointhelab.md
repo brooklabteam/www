@@ -3,7 +3,7 @@ title: "Join the Lab"
 layout: default
 ---
 
-<p1 style="color:Red;font-weight: bold">We are recruiting PhD students, postdocs, and field technicians!</p1>
+<p1 style="color:Red;font-weight: bold; font-size:150%">We are recruiting PhD students, postdocs, and field technicians!</p1>
 
 ---
 
