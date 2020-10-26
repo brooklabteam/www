@@ -24,7 +24,7 @@ The *Brook Lab* today is focused on the work of *Ekipa Fanihy*, which means 'Tea
 
 
 <img src="/assets/anecia_gentles.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
-**Anecia Gentles** is a **PhD student** working with [Dr. Nicole Gottdenker](https://www.gottdenkerlab.com/) in the Odum School of Ecology at the University of Georgia. Prior to starting at UGA, Anecia served as an 18-month  **Field Project Manager** for Ekipa Fanihy from January 2018-June 2020, organizing lead monthly field collections on our project. Anecia plans to continue work with Ekipa Fanihy throughout her PhD. Her review of previous modeling studies of bat infection dynamics will be coming out in *Emerging Pathogens and Global Health* next month. Anecia holds a Bachelor of Science degree in Ecology and Evolutionary Biology from Rice University, where she studied lemur seed dispersal in Madagascar.
+**Anecia Gentles** is a **PhD student** working with [Dr. Nicole Gottdenker](https://www.gottdenkerlab.com/) in the Odum School of Ecology at the University of Georgia. Prior to starting at UGA, Anecia served as an 18-month  **Field Project Manager** for Ekipa Fanihy from January 2018-June 2020, organizing lead monthly field collections on our project. Anecia plans to continue work with Ekipa Fanihy throughout her PhD. Her review of previous modeling studies of bat infection dynamics will be coming out in *Pathogens and Global Health* next month. Anecia holds a Bachelor of Science degree in Ecology and Evolutionary Biology from Rice University, where she studied lemur seed dispersal in Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
