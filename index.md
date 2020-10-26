@@ -12,9 +12,9 @@ In the <b>Brook Lab</b> in the <a href="https://ecologyandevolution.uchicago.edu
 <img src="/assets/mada-bridge.JPG" style="width:100%; border:10px solid; color:black" align="center">
 
 <br>
+<br>
 
-
-<p1 style="color:Red;"></b>We are recruiting PhD students, postdocs, and field technicians!</b></p1>
+<p1 style="color:Red;font-weight: bold"></b>We are recruiting PhD students, postdocs, and field technicians!</p1>
 <br>
 <b>Please visit <a href="/jointhelab.html">Join the Lab!</a> for more information.
 <br>
