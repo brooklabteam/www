@@ -13,7 +13,7 @@ layout: default
 
 <div style="clear:both;">&nbsp;</div>
 
-<font size="1.8">
+<font size="2">
 
 <ul>
 <li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. In Revision. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i></li>
@@ -33,7 +33,7 @@ layout: default
 <img src="/assets/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 300px; padding-right: 10px;" align="left"> Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
 
 
-<font size="1.8">
+<font size="2">
 
 <ul>
 <li><b>Brook CE</b>, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. <i>eLife</i>. doi: <a href="https://elifesciences.org/articles/48401"><10.7554/eLife.48401</a>. </li>
@@ -48,11 +48,11 @@ layout: default
 
 ---
 
-**Deciphering links between disease and aging in bats**
+**Deciphering links between disease and aging**
 
-<img src="/assets/bat_pop.png" alt="bat_pop" style="height: 300px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight has had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between aging resilience and disease resilience in wild bat reservoir hosts. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) will support this exciting new work. Additionally, we are currently working to develop new techniques for aging wild-caught Madagascar fruit bats by epigenetics. 
+<img src="/assets/bat_pop.png" alt="bat_pop" style="height: 280px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight has had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between aging resilience and disease resilience in wild bat reservoir hosts. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) will support this exciting new work. Additionally, we are currently working to develop new techniques for aging wild-caught Madagascar fruit bats by epigenetics. 
 
-<font size="1.8">
+<font size="2">
 
 <ul>
 <li><b>Brook CE</b> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. *Trends in Microbiology.* doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004"><10.1016/j.tim.2014.12.004</a>. </li>
@@ -65,11 +65,11 @@ layout: default
 
 ---
 
-**Conservation biology and population modeling for threatened Madagascar fruit bats**
+**Conservation biology and population modeling**
 
-<img src="/assets/baby_bat.png" alt="baby_bat" style="height: 300px; padding-right: 10px;" align="left">Using age data derived from fruit bat dentition (though see above for novel, less invasive methods of aging in development), we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, [Madigasikara Voakajy](https://www.madagasikara-voakajy.org/), to develop conservation-oriented intervention plans for this species and undertaking new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species.
+<img src="/assets/baby_bat.png" alt="baby_bat" style="height: 270px; padding-right: 10px;" align="left">Using age data derived from fruit bat dentition (though see above for novel, less invasive methods of aging in development), we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, [Madigasikara Voakajy](https://www.madagasikara-voakajy.org/), to develop conservation-oriented intervention plans for this species and undertaking new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species.
 
-<font size="1.8">
+<font size="2">
 
 <ul>
 <li><b>Brook CE</b>, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. Biological Conservation. 234: 165-171. doi: <a href="https://doi.org/10.1016/j.biocon.2019.03.032"><10.1016/j.biocon.2019.03.032</a>. </li>
@@ -81,7 +81,7 @@ layout: default
 
 ---
 
-**Next Generation Sequencing to decipher the etiology of unexplained human fevers in Madagascar**
+**Next Generation Sequencing to decipher the etiology of unexplained human fevers**
 
 <img src="/assets/christian_CZB.jpg" alt="chris_czb" style="height: 200px; padding-left: 10px;" align="left">
 Our lab was recently awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries.’ In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at Chan Zuckerberg Biohub (San Francisco, CA) in July 2019. In March 2020, we received an Illumina sequencing machine at IPM and are currently undertaking sequencing of bat excretia from our longitudinal study concurrently with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar. Our goal is to describe the landscape of potential viral zoonoses in biological samples from wild bats and identify any bat-derived zoonotic viruses responsible for human fever in Madagascar.
