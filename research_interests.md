@@ -30,8 +30,10 @@ layout: default
 
 **The coevolution of bats and viruses**
 
-<img src="/assets/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 300px; padding-right: 10px;" align="left"> Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
+<img src="/assets/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 200px; padding-right: 10px;" align="left"> Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
 
+<br>
+<br>
 
 <font size="1">
 
@@ -52,6 +54,8 @@ layout: default
 
 <img src="/assets/bat_pop.png" alt="bat_pop" style="height: 270px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight has had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between aging resilience and disease resilience in wild bat reservoir hosts. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) will support this exciting new work. Additionally, we are currently working to develop new techniques for aging wild-caught Madagascar fruit bats by epigenetics. 
 
+<br>
+<br>
 <font size="1">
 
 <ul>
@@ -69,6 +73,8 @@ layout: default
 
 <img src="/assets/baby_bat.png" alt="baby_bat" style="height: 270px; padding-right: 10px;" align="left">Using age data derived from fruit bat dentition (though see above for novel, less invasive methods of aging in development), we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, [Madigasikara Voakajy](https://www.madagasikara-voakajy.org/), to develop conservation-oriented intervention plans for this species and undertaking new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species. We are also involved in collaborations involving population modeling for threatened taxa more broadly, including endangered Madagascar lemurs, tenrecs, and the ploughshare tortoise.
 
+<br>
+<br>
 <font size="1">
 
 <ul>
