@@ -9,7 +9,7 @@ layout: default
 
 #### **A note on diversity and inclusion**
 
-<img src="/assets/ekipa_fanihy_happy.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
+<img src="/assets/ekipa_fanihy_happy.jpg" alt="bat" style="height: 180px; padding-right: 10px;" align="left">
 
 **We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below.**
 <br> 
