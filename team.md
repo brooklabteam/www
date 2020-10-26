@@ -2,8 +2,8 @@
 title: "Ekipa Fanihy"
 layout: default
 ---
-<img src="/assets/EkipaFanihyLogoWhite.png" alt="bat" style="height: 100px; padding-right: 10px;" align="left">
-*Ekipa Fanihy* means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (*Pteropus rufus*, *Eidolon dupreanum*, and *Rousettus madagascariensis*). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our [Blogsite](https://carabrook.github.io/blog/) to follow our progress in the field!
+<img src="/assets/EkipaFanihyLogoWhite.png" alt="bat" style="height: 150px; padding-right: 10px;" align="left">
+The *Brook Lab* today consists entirely of *Ekipa Fanihy*, which means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating the infection dynamics of potentially zoonotic fruit bats in Madagascar. Visit [News](https://carabrook.github.io/blog/) to follow our progress in the field, lab, and office! See [Join the Lab!](jointhelab.html) to get involved in our dynamic team, starting at the University of Chicago in fall 2021!
 
 <div style="clear:both;">&nbsp;</div>
 
