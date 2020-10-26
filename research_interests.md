@@ -13,15 +13,14 @@ layout: default
 
 <div style="clear:both;">&nbsp;</div>
 
---
-<font size="2">
+<font size="1.5">
 
 <ul>
-<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Revision. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*</li>
+<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. In Revision. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i></li>
 
-<li>Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* </li>
+<li>Gentles A, Guth S, Rozins C, and <b>Brook CE</b>. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. <i>Pathogens and Global Health.</i> </li>
 
-<li>**Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). \*=equal senior contributions.</li>
+<li><b>Brook CE</b>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE*, and Dobson AP*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. <i>Journal of Animal Ecology.</i> doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). *=equal senior contributions.</li>
 
 </ul>
 
@@ -30,6 +29,7 @@ layout: default
 ---
 
 **The coevolution of bats and viruses**
+
 <img src="/assets/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 300px; padding-right: 10px;" align="left"> Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
 
 -**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. eLife. doi: [10.7554/eLife.48401](https://elifesciences.org/articles/48401).
@@ -48,7 +48,7 @@ In addition to their unique viral tolerance, bats bost lifespans some 3.5x longe
 
 <div style="clear:both;">&nbsp;</div>
 
---
+---
 
 **Conservation biology and population modeling for threatened Madagascar fruit bats**
 
@@ -62,7 +62,7 @@ In addition to their unique viral tolerance, bats bost lifespans some 3.5x longe
 
 **Next Generation Sequencing to decipher the etiology of unexplained human fevers in Madagascar**
 
-<img src="/assets/christian_CZB.jpg" alt="chris_czb" style="height: 300px; padding-left: 10px;" align="left">
+<img src="/assets/christian_CZB.jpg" alt="chris_czb" style="height: 200px; padding-left: 10px;" align="left">
 Our lab was recently awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries.’ In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at Chan Zuckerberg Biohub (San Francisco, CA) in July 2019. In March 2020, we received an Illumina sequencing machine at IPM and are currently undertaking sequencing of bat excretia from our longitudinal study concurrently with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar. Our goal is to describe the landscape of potential viral zoonoses in biological samples from wild bats and identify any bat-derived zoonotic viruses responsible for human fever in Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
@@ -71,7 +71,7 @@ Our lab was recently awarded a [Bill & Melinda Gates Foundation Grand Challenges
 
 **Next Generation Sequencing for COVID-19 phylodynamics in Madagascar**
 
-<img src="/assets/MadaSARSCoV2.png" alt="Mada_SC2" style="height: 300px; padding-left: 10px;" align="left">
+<img src="/assets/MadaSARSCoV2.png" alt="Mada_SC2" style="height: 250px; padding-left: 10px;" align="left">
 Madagascar reported its first case of COVID-19 on March 20, 2020 and has since diagnosed several more than 16,000 cases of COVID-19 from just under 80,000 tests (daily updated data available at [COVID-19 Madagascar Dashboard](https://www.covid19mg.org/dashboard_EN.html). Our lab recently received support from UC Berkeley's [Innovative Genomics Institute](https://innovativegenomics.org/projects/covid-19-in-madagascar-next-generation-sequencing/) to use the NGS tools outlined above at IPM to sequence SARS-CoV-2 in Madagascar. Our main goals are to use these sequence data to: [1] Estimate timing of the origin of the COVID-19 epidemic in Madagascar, [2] Estimate the underreporting rate of qPCR-based positive case counts in Madagascar, and [3] Decipher patterns of cross-island connectivity and community spread across the island. We have recently released the two first sequences of SARS-COV-2 from human cases in Madagascar to GISAID, and they are available for viewing on [Nextstrain](https://nextstrain.org/sars-cov-2/). Stay tuned for more mechanistic insights as we expand our sequencing efforts soon!
 
 <div style="clear:both;">&nbsp;</div>
