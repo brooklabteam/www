@@ -14,14 +14,16 @@ layout: default
 <div style="clear:both;">&nbsp;</div>
 
 --
-<font size="1">
+<font size="2">
 
-- Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Revision. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
+<ul>
+<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Revision. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*</li>
 
-- Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
+<li>Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* </li>
 
-- **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). \*=equal senior contributions.
+<li>**Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). \*=equal senior contributions.</li>
 
+</ul>
 
 </font> 
 
