@@ -2,7 +2,7 @@
 title: "**Field Technician Position**"
 layout: default
 ---
-### **Work Description**
+#### **Work Description**
 
 This one-year position (start and end date are somewhat flexible) will involve co-leading monthly field expeditions for [Ekipa Fanihy](team.html). The new Field Technician will spend approximately 70% of time in the field, in part with Ekipa Fanihy's monthly missions to roost sites for *Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis* in the District of Moramanga, Madagascar. 
 
@@ -16,7 +16,7 @@ See [Research](research_interests.html) for an overview of the scientific questi
 
 ---
 
-### **Qualifications**
+#### **Qualifications**
 
 We are open to candidates from all backgrounds, but an ideal candidate will possess some combination of the following background traits or experiences:
 
@@ -39,6 +39,6 @@ Candidates who do not meet the above requirements will not be automatically disc
 
 ---
 
-### **Another note on diversity and inclusion**
+#### **Another note on diversity and inclusion**
 
 **We are an equal-opportunity group. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.** We acknowledge that we are unable to provide a salary competitive with full-time US-based employment for Field Project Managers at this time. However, we are committed to ensuring that this opportunity does not fall under the "unpaid internship" designation, which has been shown to reinforce socioeconomic inequities. Therefore, if the above compensation description is inadequate for your needs, please inform us of this in your application submission. We will review applications on a case-by-case basis and do our best to making this opportunity accessible for the right applicant, independent of financial constraints.
