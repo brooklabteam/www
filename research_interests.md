@@ -3,7 +3,7 @@ title: "Research"
 layout: default
 ---
 
-Research in the Brook Lab uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. We summarize major areas of research in the lab below.
+**Research in the Brook Lab** uses tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research in the lab are summarized below. 
 
 ---
 
@@ -11,13 +11,19 @@ Research in the Brook Lab uses tools derived from field biology, molecular immun
 
 <img src="/assets/flying_bat.png" alt="bat" style="height: 250px; padding-right: 10px;" align="left">Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. The Brook Lab investigates how these pathogens which manifest as highly virulent in humans are maintained at the **population-level** in wild bat reservoir hosts. Classic epidemiological modeling explores the dynamics of perfectly immunizing childhood infections, under which hosts are  born susceptible (S), become infectious (I), and recover (R) via immune responses retained for life. In the simplest example, infections persist maintained in a population by constant re-supply of susceptible births. Many bat species reproduce in annual or biannual birth pulses, meaning that susceptible re-supply is restricted within a year. Such a system suggests that bat viruses may be governed by more nuanced dynamics than standard SIR--be they longer infectious periods, latent periods for persistent infections, or periodic waning immunity. To elucidate these dynamics, we fit candidate mechanistic models to age-structured prevalence and seroprevalence data, which we collect ourselves through the field studies of the inimitable [Ekipa Fanihy](team.html). This work is funded through an [NIH capacity-building grant](http://grantome.com/grant/NIH/R01-AI129822-01) in partnership with the [Institut Pasteur of Madagascar](http://www.pasteur.mg/) (IPM).
 
+<div style="clear:both;">&nbsp;</div>
+
+--
+<font size="1">
+
 - Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Revision. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
 
 - Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
 
 - **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). \*=equal senior contributions.
 
-<div style="clear:both;">&nbsp;</div>
+
+</font> 
 
 ---
 
