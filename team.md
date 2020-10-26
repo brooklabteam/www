@@ -3,7 +3,7 @@ title: "Ekipa Fanihy"
 layout: default
 ---
 <img src="/assets/EkipaFanihyLogoWhite.png" alt="bat" style="height: 300px; padding-right: 10px;" align="left">
-*Ekipa Fanihy* means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (*Pteropus rufus*, *Eidolon dupreanum*, and *Rousettus madagascariensis*). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our [Blogsite](/news) to follow our progress in the field!
+*Ekipa Fanihy* means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (*Pteropus rufus*, *Eidolon dupreanum*, and *Rousettus madagascariensis*). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our [Blogsite](https://carabrook.github.io/blog/) to follow our progress in the field!
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -17,19 +17,19 @@ layout: default
 
 **Santino Andry**
 <img src="/assets/santino_andry.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Santino Andry** is finishing his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2020.
+**Santino Andry** is finishing his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
 
 <div style="clear:both;">&nbsp;</div>
 
 **Anecia Gentles**
 <img src="/assets/anecia_gentles.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Anecia Gentles** is our senior **Field Project Manager** for Ekipa Fanihy. Anecia joined our team in January 2019 and has been with us through two field seasons. She works closely with Sami Kreling and Katie Fitzgerald to organize and lead monthly field collections on our project. In addition to field work, Anecia is currently reviewing previous modeling studies of bat infection dynamics and plans to apply to PhD programs in disease ecology in fall 2019. Anecia graduated with a Bachelor's of Science in Ecology from Rice University in 2018.
+**Anecia Gentles** is a **PhD student** working with [Dr. Nicole Gottdenker](https://www.gottdenkerlab.com/) in the Odum School of Ecology at the University of Georgia. Prior to starting at UGA, Anecia served as an 18-month  **Field Project Manager** for Ekipa Fanihy from January 2018-June 2020, organizing lead monthly field collections on our project. Anecia plans to continue work with Ekipa Fanihy throughout her PhD. Her review of previous modeling studies of bat infection dynamics will be coming out in *Emerging Pathogens and Global Health* next month. Anecia holds a Bachelor of Science degree in Ecology and Evolutionary Biology from Rice University, where she studied lemur seed dispersal in Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
 **Sarah Guth**
 <img src="/assets/sarah_guth.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Sarah Guth** is a third-year **PhD Candidate** in the Department of Integrative Biology at the University of California, Berkeley. Sarah is advised by [Professor Mike Boots](https://bootslab.org/) and studies the evolutionary underpinnings of cross-species zoonotic emergence. Sarah is carrying out a subset of dissertation chapters in part with Ekipa Fanihy, specifically investigating seasonal variation in inter-species contact rates, as well seasonal viral pulsing of potentially zoonotic viruses shed in bat excretia. Sarah holds a Bachelor of Arts degree in Conservation Biology from Middlebury College and has previously studied foraging and learning behavior in bees, as well as served as the Program Coordinator for Harvard University's [Planetary Health Alliance](https://planetaryhealthalliance.org/).
+**Sarah Guth** is a fourth-year **PhD Candidate** in the Department of Integrative Biology at the University of California, Berkeley. Sarah is advised by [Professor Mike Boots](https://bootslab.org/) and studies the evolutionary underpinnings of cross-species zoonotic emergence. Sarah is carrying out a subset of dissertation chapters in part with Ekipa Fanihy, specifically investigating linke between disease and aging in the fruit bat methylome in collaboration with [Professor Peter Sudmant](https://www.sudmantlab.org/) at UC Berkeley. Sarah holds a Bachelor of Arts degree in Conservation Biology from Middlebury College and has previously studied foraging and learning behavior in bees, as well as served as the Program Coordinator for Harvard University's [Planetary Health Alliance](https://planetaryhealthalliance.org/).
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -41,7 +41,7 @@ layout: default
 
 **Fifi Ravelomanantsoa**
 <img src="/assets/fifi_ravelomanantsoa.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Fifi Ravelomanantsoa** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where she is studying seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
+**Fifi Ravelomanantsoa** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where she is studying seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses is currently in revision at *Emerging Topics in Life Sciences.* Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -50,13 +50,13 @@ layout: default
 
 **Kimberly Rivera**
 <img src="/assets/kimberly_rivera.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Kimberly Rivera** was a **Field Project Manager** for Ekipa Fanihy from January-August 2019. Along with Anecia Gentles (see above), Kim organized and led monthly field collection on our NIH- and DARPA-funded project. Kim graduated with a Bachelor of Science in Environmental Science from the University of Delaware in 2016 and has worked previously on projects studying bighorn sheep in the Mojave Desert, white-tailed deer in Pennsylvania, gray wolves in northern Minnesota, and migratory shorebirds on the Delaware coast. Kim recently started a Master's degree in the lab of Dr. Brian Gerber in September 2019, investigating human-wildlife conflict related to fossa depradation of domestic poultry in central Madagascar.
+**Kimberly Rivera** was a **Field Project Manager** for Ekipa Fanihy from January-August 2019. Along with Anecia Gentles (see above), Kim organized and led monthly field collection on our project. Kim graduated with a Bachelor of Science in Environmental Science from the University of Delaware in 2016 and has worked previously on projects studying bighorn sheep in the Mojave Desert, white-tailed deer in Pennsylvania, gray wolves in northern Minnesota, and migratory shorebirds on the Delaware coast. Kim is now a Master's degree in the lab of Dr. Brian Gerber, investigating human-wildlife conflict related to fossa depradation of domestic poultry in central Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
 **Katheryn Fitzgerald**
 <img src="/assets/katie_fitzgerald.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
-**Katheryn Fitzgerald** was a **Field Project Manager** for Ekipa Fanihy in fall 2019. Along with Anecia Gentles and Samantha Kreling (see below), Katie organized and led monthly field collection on our NIH- and DARPA-funded project. Katie has previously studied bats in a variety of ecosystems, ranging from the deserts of the American southwest to the rainforests of Borneo. She earned her B.S. in Environmental Studies from San Francisco State University in 2018 and hopes to continue graduate studies in bat ecology in the future.
+**Katheryn Fitzgerald** was a **Field Project Manager** for Ekipa Fanihy in fall 2019. Along with Anecia Gentles and Samantha Kreling (see below), Katie organized and led monthly field collections on our project. Katie has previously studied bats in a variety of ecosystems, ranging from the deserts of the American southwest to the rainforests of Borneo. She earned her B.S. in Environmental Studies from San Francisco State University in 2018 and hopes to continue graduate studies in bat ecology in the future.
 
 <div style="clear:both;">&nbsp;</div>
 
