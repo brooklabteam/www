@@ -6,7 +6,7 @@ layout: home
 
 <font size="4">
 
-In the **Brook Lab** in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the **University of Chicago**, we work at the interface of disease ecology and conservation biology to study the dynamics of zoonotic infections, pathogens transmitted from wildlife to human hosts. 
+In the <b>Brook Lab</b> in the <a href="https://ecologyandevolution.uchicago.edu/">Department of Ecology and Evolution</a> at the <b>University of Chicago</b>, we work at the interface of disease ecology and conservation biology to study the dynamics of zoonotic infections, pathogens transmitted from wildlife to human hosts. 
 
 <br>
 <img src="/assets/mada-bridge.JPG" style="width:100%; border:10px solid; color:black" align="center">
@@ -14,11 +14,10 @@ In the **Brook Lab** in the [Department of Ecology and Evolution](https://ecolog
 <br>
 
 
-<h1 style="color:Red;"></b>We are recruiting PhD students, postdocs, and field technicians!</b></h1>
+<p1 style="color:Red;"></b>We are recruiting PhD students, postdocs, and field technicians!</b></p1>
 <br>
-**Please visit '[Join the Lab!](/jointhelab)' for more information.**
-
-<!-- <div style="text-align: left; font-size: 1.1em;  color:black;"> -->
-**Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.**
+<b>Please visit <a href="/jointhelab.html">Join the Lab!</a> for more information.
+<br>
+Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.</b>
 
 </font>
