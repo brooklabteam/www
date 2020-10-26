@@ -2,7 +2,7 @@
 title: "Ekipa Fanihy"
 layout: default
 ---
-<img src="/assets/EkipaFanihyLogoWhite.png" alt="bat" style="height: 300px; padding-right: 10px;" align="left">
+<img src="/assets/EkipaFanihyLogoWhite.png" alt="bat" style="height: 100px; padding-right: 10px;" align="left">
 *Ekipa Fanihy* means 'Team Fruit Bat' in Malagasy. We are a collection of hard-working students and research staff investigating infection dynamics in three species of Madagascar fruit bat (*Pteropus rufus*, *Eidolon dupreanum*, and *Rousettus madagascariensis*). In an effort to build the longitudinal dataset needed to answer our research questions, we collect monthly biological samples from wild populations of the three Malagasy fruit bat species at several remote Madagascar field sites, then conduct molecular and serological assays on these samples to determine infection and immune status in the laboratory. Visit our [Blogsite](https://carabrook.github.io/blog/) to follow our progress in the field!
 
 <div style="clear:both;">&nbsp;</div>
@@ -34,7 +34,7 @@ layout: default
 <div style="clear:both;">&nbsp;</div>
 
 **Christian Ranaivoson**
-<img src="/assets/christian_ranaivoson.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
+<img src="/assets/christian_ranaivoson.jpg" alt="bat" style="height: 230px; padding-right: 10px;" align="left">
 **Christian Ranaivoson** is just finishing his **PhD** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, and has already started his appointment as a **postdoctoral researcher** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascan flying fox, *Pteropus rufus,* and *Bartonella* spp. infections of the Madagascan fruit bat, *Eidolon dupreanum.* As a postdoc, Christian will lead Next Generation Sequencing studies with targeting viral discovery in Malagasy fruit bats. Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parsites of Malagasy reptiles.
 
 <div style="clear:both;">&nbsp;</div>
@@ -61,5 +61,5 @@ layout: default
 <div style="clear:both;">&nbsp;</div>
 
 **Samantha Kreling**
-<img src="/assets/sami_kreling.jpg" alt="bat" style="height: 270px; padding-right: 10px;" align="left">
+<img src="/assets/sami_kreling.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
 **Samantha Kreling** was a **Field Project Manager** for Ekipa Fanihy in fall 2019. Sami worked closely with Anecia Gentles and Katie Fitzgerald to organize monthly field collections on our project. Sami graduated with a B.S. in Environmental Science, Policy, and Management from UC Berkeley in 2019, where she studied black-tailed deer response to fire disturbance in northern California, among other topics. Sami plans to apply to graduate programs focused on ecology at the urban-wildland interface in the future.
