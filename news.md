@@ -14,4 +14,3 @@ permalink: /news/
 	</li>
 </ul>
 
-{% include pagination.html %}
