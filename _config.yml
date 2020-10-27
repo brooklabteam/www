@@ -1,7 +1,5 @@
-title: >
-  Brook Lab
-description: >
-  Brook Lab at University of Chicago
+title: Brook Lab
+description: > Brook Lab at University of Chicago
 # permalink: ':pagetitle/'
 # timezone: America/Los_Angeles
 
@@ -36,8 +34,8 @@ description: >
 # 	- _assets/img(old)
 
 
-paginate: 8
-paginate_path: "/page/:num"
+#paginate: 8
+#paginate_path: "/page/:num"
 
 # pagination:
 #  enabled: true
