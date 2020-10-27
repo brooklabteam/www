@@ -12,7 +12,7 @@ While in the field, the tech will join the rest of the field team to capture bat
 
 In between field missions (30% of the time), the tech will live in a shared house with the other foreign team members in Madagascar's capitol city of Antananarivo (housing includes a modern kitchen, ample living space, modern bathroom, WiFi, on-site security, and weekly cleaning services). In Antananarivo ('Tana'), the new tech will work with Ekipa Fanihy to further treat and organize samples on the laboratory campus of IPM. Together, all techs will be additionally responsible for restocking, packing, and preparation of field supplies for recurring field missions. Techs may be asked to participate in basic laboratory manipulations of samples (DNA/RNA extractions, PCR, etc.) at IPM after field obligations have been fulfilled.
 
-See [Research](/research.html) for an overview of the scientific questions underpinning the field work, and visit our [news paage](/news.html) to track our team's progress in the field.
+See [Research](/research_interests) for an overview of the scientific questions underpinning the field work, and visit our [news page](/https://carabrook.github.io/blog) to track our team's progress in the field.
 
 ---
 
