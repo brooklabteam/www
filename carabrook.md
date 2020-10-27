@@ -8,7 +8,6 @@ I hail originally from beautiful Sonoma County, California, and I grew up hiking
  
 They say that those who drink the water of Manangareza River always find their way back to Madagascar, and this is certainly true of me. After a few years of transient globe-trotting, I made my way back to Madagascar in 2012 to pursue a PhD in Ecology and Evolutionary Biology at Princeton University. Since 2012, I've been studying the dynamics of zoonotic infections in this island nation, with a particular focus on emerging pathogens derived from fruit bat reservoir hosts. Madagascar has shaped my life in more ways than I can count: teaching me courage, humility, wonder, and kindness, in addition to feeding my intellectual and academic curiosity. I founded Ekipa Fanihy (Malagasy for ‘Team Fruit Bat’) out of a desire to undertake scientific development and capacity building, joint with cutting-edge, international research. I believe truly that the latter cannot be achieved without the former.
 
-<br>
 
 <a href="/assets/CV_CaraBrook_Full_July2020.pdf">Full CV</a>
 
