@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bats Are Not Our Enemies
+title: Cara and colleagues explain how 'Bats Are Not Our Enemies' in a popsci article with Scientific American
 date: 2020-05-15 01:00:00 +0300
 description:  # Add post description (optional)
 img: pteropus.jpg # Add image post (optional)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It Always Starts With a Question - Teaching Science in Madagascar
+title: Cara writes for NatGeo about teaching ecological modeling in Madagascar -- "It always starts with a question"
 date: 2018-02-13 00:00:00 +0300
 description:  # Add post description (optional)
 img: tsilavo-chameleon.jpg # Add image post (optional)
