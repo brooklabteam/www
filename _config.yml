@@ -35,6 +35,10 @@ description: >
 # 	- _assets/images
 # 	- _assets/img(old)
 
+
+paginate: 8
+paginate_path: "/page/:num"
+
 # pagination:
 #  enabled: true
 #   per_page: 10
