@@ -2,7 +2,7 @@
 title: "Cara Brook"
 layout: default
 ---
-<img src="/assets/carabrook-headshot-2020.jpeg" alt="headshot" style="height: 275px; padding-right: 10px;" align="left"> I am a [Branco Weiss ‘Society in Science’ Fellow](https://brancoweissfellowship.org/) (formerly a [Miller Fellow](http://miller.berkeley.edu/)), based jointly at the University of California, Berkeley and the Institut Pasteur of Madagascar. **I’ll be starting as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago in summer 2021**. Please feel free to get in touch if you are interested in becoming a part of our dynamic team!
+<img src="/assets/carabrook-headshot-2020.jpeg" alt="headshot" style="height: 275px; padding-right: 10px;" align="left"> I am a [Branco Weiss ‘Society in Science’ Fellow](https://brancoweissfellowship.org/) (formerly a [Miller Fellow](http://miller.berkeley.edu/)), based jointly at the University of California, Berkeley and the Institut Pasteur of Madagascar. **I’ll be starting as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago in summer 2021**. Please feel free to get in touch if you are interested in becoming a part of the lab!
 
 I hail originally from beautiful Sonoma County, California, and I grew up hiking backpacking, and camping across the North American West. In 2010, I completed a Bachelor of Science degree in Earth Systems, an interdisciplinary environmental science major, at Stanford University, and shortly after graduation, I travelled to Madagascar for the first time as a sustainable development worker with World Wildlife Fund.
  
