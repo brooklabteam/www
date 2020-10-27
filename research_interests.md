@@ -21,6 +21,7 @@ layout: default
 <li>Gentles A, Guth S, Rozins C, and <b>Brook CE</b>. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. <i>Pathogens and Global Health.</i> </li>
 
 <li><b>Brook CE</b>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE*, and Dobson AP*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. <i>Journal of Animal Ecology.</i> doi: <a href="https://doi.org/10.1111/1365-2656.12985">10.1111/1365-2656.12985</a>. *=equal senior contributions.</li>
+<li><b>Brook CE</b> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. *Trends in Microbiology.* doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a>. </li>
 
 </ul>
 
@@ -54,16 +55,6 @@ layout: default
 
 <img src="/assets/bat_pop.png" alt="bat_pop" style="height: 210px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight have had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between anti-aging pathways and disease resilience in bat hosts for emerging human diseases. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) will support this exciting new work, including the development of new techniques for aging wild-caught Madagascar fruit bats via epigenetics. 
 
-<br>
-<br>
-<font size="1">
-
-<ul>
-<li><b>Brook CE</b> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. *Trends in Microbiology.* doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a>. </li>
-
-</ul>
-
-</font> 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -74,7 +65,6 @@ layout: default
 <img src="/assets/baby_bat.png" alt="baby_bat" style="height: 230px; padding-right: 10px;" align="left">Using age data derived from fruit bat dentition (though see above for novel, less invasive methods of aging in development), we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, [Madigasikara Voakajy](https://www.madagasikara-voakajy.org/), to develop conservation-oriented intervention plans for this species and undertaking new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species. We are also involved in several other conservation collaborations, through which we have undertaken population modeling for several non-Chiropteran threatened taxa, including endemic Malagasy lemurs, tenrecs, and the ploughshare tortoise.
 
 <br>
-<br>
 <font size="1">
 
 <ul>
@@ -82,10 +72,8 @@ layout: default
 <a href="https://doi.org/10.1111/acv.12636">10.1111/acv.12636</a>. </li>
 <li><b>Brook CE</b>, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. Biological Conservation. 234: 165-171. doi: <a href="https://doi.org/10.1016/j.biocon.2019.03.032">10.1016/j.biocon.2019.03.032</a>. </li>
 <li><b>Brook CE</b>, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. 2018. Population viability and harvest sustainability for Madagascar lemurs. <i>Conservation Biology.</i> doi:  <a href="https://doi.org/10.1111/cobi.13151">10.1111/cobi.13151</a>. </li>
-
 </ul>
 </font> 
-
 <div style="clear:both;">&nbsp;</div>
 
 ---
