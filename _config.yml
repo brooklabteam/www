@@ -35,11 +35,11 @@ description: >
 # 	- _assets/images
 # 	- _assets/img(old)
 
- pagination:
-   enabled: true
-   per_page: 10
-   sort_field: 'date'
-   sort_reverse: true
+# pagination:
+#  enabled: true
+#   per_page: 10
+#   sort_field: 'date'
+#   sort_reverse: true
 
 # include:
 #   - _redirects
