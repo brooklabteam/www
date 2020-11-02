@@ -57,7 +57,7 @@ The **Brook Lab** today is comprised of *Ekipa Fanihy*, which means 'Team Fruit 
 
 
 <img src="/assets/katie_fitzgerald.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
-**Katheryn Fitzgerald** was a **Field Project Manager** for Ekipa Fanihy in fall 2019. Along with Anecia Gentles and Samantha Kreling (see below), Katie organized and led monthly field collections on our project. Katie has previously studied bats in a variety of ecosystems, ranging from the deserts of the American southwest to the rainforests of Borneo. She earned her B.S. in Environmental Studies from San Francisco State University in 2018 and hopes to continue graduate studies in bat ecology in the future.
+**Katheryn Fitzgerald** was a **Field Project Manager** for Ekipa Fanihy in fall 2019. Along with Anecia Gentles and Samantha Kreling (see below), Katie organized and led monthly field collections on our project. Katie has previously studied bats in a variety of ecosystems, ranging from the deserts of the American southwest to the rainforests of Borneo. She earned her B.S. in Environmental Studies from San Francisco State University in 2018 and is now a graduate student studying the diet of *Myotis velifer* at Angelo State University.
 
 <div style="clear:both;">&nbsp;</div>
 
