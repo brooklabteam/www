@@ -28,6 +28,9 @@ permalink: /news/
     <span class="post-date">{{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
   </div>
 </article>
+
+<div style="clear:both;">&nbsp;</div>
+
 {% endfor %}
 
   
