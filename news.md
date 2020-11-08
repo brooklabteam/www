@@ -7,7 +7,7 @@ permalink: /news/
 ---
 {% for post in site.posts %}
 <article class="post">
-  <div class="post-image" style="float:left; width:200px;">
+  <div class="post-image" style="float:left; width:200px; max-height:300px;">
     {% if post.img %}
     <a class="post-thumbnail" href="{{post.url | prepend: site.baseurl}}">
       <img src="{{"/assets/img/" | prepend: site.baseurl | append : post.img}}"/>
@@ -23,7 +23,7 @@ permalink: /news/
       <span class="link-arrow"> &rarr;</span>
     {% endif %}
 
-    <br/><br/>
+    <br/>
 
     <span class="post-date">{{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
   </div>
