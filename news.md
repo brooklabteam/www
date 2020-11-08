@@ -7,10 +7,10 @@ permalink: /news/
 ---
 {% for post in site.posts %}
 <article class="post">
-  <div class="post-image" style="float:left; width:200px; max-height:300px;">
+  <div class="post-image" style="float:left; width:200px;">
     {% if post.img %}
-    <a class="post-thumbnail_test" href="{{post.url | prepend: site.baseurl}}">
-      <img src="{{"/assets/img/" | prepend: site.baseurl | append : post.img}}" style="max-height:300px;"/>
+    <a class="post-thumbnail" href="{{post.url | prepend: site.baseurl}}">
+      <img src="{{"/assets/img/" | prepend: site.baseurl | append : post.img}}"/>
     </a>
   </div>
   {% else %}
