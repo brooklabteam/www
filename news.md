@@ -15,7 +15,7 @@ permalink: /news/
   </div>
   {% else %}
   {% endif %}
-  <div class="post-content" style="float:right;">
+  <div class="post-content" style="float:left; margin-left:2em;">
 
     <a href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">{{ post.title }}</a>
 
