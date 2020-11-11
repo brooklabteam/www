@@ -10,17 +10,18 @@ layout: default
 
 <ol reversed start="24">
 
-<li> **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. Proceedings of the National Academy of Sciences</li>
+<li> <b>Brook CE</b>, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. <i>Proceedings of the National Academy of Sciences.</i> </li>
 
-<li> Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. In Review. Modeling cross-species viral transmission and predicting zoonotic potential. *Nature Microbiology.*</li>
+<li> Albery GF, Becker DJ, Brierley L, <b>Brook CE</b>, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. In Review. Modeling cross-species viral transmission and predicting zoonotic potential. <i>Nature Microbiology.</i></li>
 
-<li> Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Review. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. *Biodiversity and Conservation.* </li>
+<li> Annapragada A, <b>Brook CE</b>, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Review. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. <i>Biodiversity and Conservation.</i> </li>
 
 </ol>
 
 **In Press**
 
-21. Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Press. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
+<ol reversed start="21">
+<li> Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Press. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.* <li>
 
 20. Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
 
