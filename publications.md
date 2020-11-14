@@ -18,9 +18,9 @@ layout: default
 
 - Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. In Press. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.*
 
-- Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* 
 
 **2020**
+- Gentles A, Guth S, Rozins C, and **Brook CE**. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* doi: [10.1080/20477724.2020.1833161](https://doi.org/10.1080/20477724.2020.1833161).
 
 - Rocha R, Aziz SA, **Brook CE**, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. *Animal Conservation.* doi: [10.1111/acv.12636](https://doi.org/10.1111/acv.12636).
 
