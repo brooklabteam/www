@@ -8,11 +8,14 @@ layout: default
 
 by Anecia Gentles
 
-
+<br>
 If [my new paper](https://doi.org/10.1080/20477724.2020.1833161) made you feel like this...
 
 <br>
 <img src="/assets/news/anecia-blog/anecia-logo-bat-model-review.png" alt="anecia-logo" style="height: 260px; padding-right: 10px;" align="left">
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -52,6 +55,7 @@ Disease ecologists also use the SIR model to understand transmission dynamics in
 <br>
 <br>
 <br>
+
 ---
 
 **Henipaviruses**
@@ -71,7 +75,7 @@ Disease ecologists also use the SIR model to understand transmission dynamics in
 <br>
 <br>
 <br>
-
+<br>
 
 
 
