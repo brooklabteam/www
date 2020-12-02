@@ -8,7 +8,7 @@ layout: default
 If [my new paper](https://doi.org/10.1080/20477724.2020.1833161) made you feel like this...
 
 <br>
-<img src="https://github.com/brooklabteam/www/tree/master/assets/news/anecia-blog/anecia-logo-bat-model-review.png" alt="anecia-logo" style="height: 260px; padding-right: 10px;" align="left">
+<img src="/assets/news/anecia-blog/anecia-logo-bat-model-review.png" alt="anecia-logo" style="height: 260px; padding-right: 10px;" align="left">
 <br>
 
 Here’s a little explanation.
