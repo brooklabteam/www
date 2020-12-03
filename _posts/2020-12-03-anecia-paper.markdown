@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cara is named a 2020 L'Oréal USA For Women in Science Fellow
+title: Anecia publishes new review of bat virus models
 date: 2020-11-17 01:00:00 +0300
 description:  (optional)
-img: loreal-FWIS-2020.png # Add image post (optional)
+img: anecia-logo-bat-model-review.png # Add image post (optional)
 tags: [bats, Madagascar, women in science] # add tag
-link: https://www.aaas.org/news/loreal-usa-funds-research-and-outreach-activities-five-female-scientists
+link: https://brooklab.org/news/2020-12-03-AG/2020-12-03-AG-post
 ---
