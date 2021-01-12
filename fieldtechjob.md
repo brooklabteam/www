@@ -1,5 +1,5 @@
 ---
-title: "**Field Technician Position**"
+title: "Field Technician Position"
 layout: default
 ---
 #### **Work Description**
