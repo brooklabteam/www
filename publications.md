@@ -8,6 +8,8 @@ layout: default
 
 **In Review**
 
+- Ehrenberg AJ, Moehle EA, Brook CE, Doudna Cate AH, Witkowsky LB, Sachdeva R, Hirsch A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea H, Murdock A, Hochstrasser ML, Bardet L, Sherry C, the IGI SARS-CoV-2 consortium, Harte A, Nicolette G, Petersen M, Giannikopoulos P, Hockemeyer D, Urnov FD, Ringeisen BR, Boots M, Doudna JA. Launching a saliva-based SARS-CoV-2 surveillance testing program on a university campus. In Review (doi) pre-print: [10.1101/2021.01.24.21250385](https://doi.org/10.1101/2021.01.24.21250385)
+
 - **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. In Review. Modeling cross-species viral transmission and predicting zoonotic potential. 
@@ -16,11 +18,16 @@ layout: default
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. In Revision. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. *Animal Conservation.*
 
+**2021**
+
+- Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, **Brook CE**, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. *Influenza and Other Respiratory Viruses.* In Press. doi (pre-print): [10.22541/au.161088504.46456502/v1](https://doi.org/10.22541/au.161088504.46456502/v1).
+
+
 **2020**
 
-- Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. 2020. The zoonotic potential of bat-borne coronaviruses. *Emerging Topics in Life Sciences.* doi: [10.1042/ETLS20200097](https://doi.org/10.1042/ETLS20200097).
+- Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. 2020. The zoonotic potential of bat-borne coronaviruses. 2020. *Emerging Topics in Life Sciences.* doi: [10.1042/ETLS20200097](https://doi.org/10.1042/ETLS20200097).
 
-- Gentles A, Guth S, Rozins C, and **Brook CE**. 2020. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. *Pathogens and Global Health.* doi: [10.1080/20477724.2020.1833161](https://doi.org/10.1080/20477724.2020.1833161).
+- Gentles A, Guth S, Rozins C, and **Brook CE**. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. *Pathogens and Global Health.* doi: [10.1080/20477724.2020.1833161](https://doi.org/10.1080/20477724.2020.1833161).
 
 - Rocha R, Aziz SA, **Brook CE**, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. *Animal Conservation.* doi: [10.1111/acv.12636](https://doi.org/10.1111/acv.12636).
 
