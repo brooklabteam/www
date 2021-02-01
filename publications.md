@@ -8,7 +8,7 @@ layout: default
 
 **In Review**
 
-- Ehrenberg AJ, Moehle EA, Brook CE, Doudna Cate AH, Witkowsky LB, Sachdeva R, Hirsch A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea H, Murdock A, Hochstrasser ML, Bardet L, Sherry C, the IGI SARS-CoV-2 consortium, Harte A, Nicolette G, Petersen M, Giannikopoulos P, Hockemeyer D, Urnov FD, Ringeisen BR, Boots M, Doudna JA. Launching a saliva-based SARS-CoV-2 surveillance testing program on a university campus. In Review (doi) pre-print: [10.1101/2021.01.24.21250385](https://doi.org/10.1101/2021.01.24.21250385)
+- Ehrenberg AJ, Moehle EA, **Brook CE**, Doudna Cate AH, Witkowsky LB, Sachdeva R, Hirsch A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea H, Murdock A, Hochstrasser ML, Bardet L, Sherry C, the IGI SARS-CoV-2 consortium, Harte A, Nicolette G, Petersen M, Giannikopoulos P, Hockemeyer D, Urnov FD, Ringeisen BR, Boots M, Doudna JA. Launching a saliva-based SARS-CoV-2 surveillance testing program on a university campus. In Review (doi) pre-print: [10.1101/2021.01.24.21250385](https://doi.org/10.1101/2021.01.24.21250385)
 
 - **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
 
