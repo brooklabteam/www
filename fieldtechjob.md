@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-<p1 style="color:Red;font-weight: bold; font size=2">Applications are now open for our Ekipa Fanihy field technicians! Please apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 26, 2021!** </p1>
+<p1 style="color:Red;font-weight: bold; font size=2">Applications are now open for our Ekipa Fanihy field technicians! Please apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 19, 2021!** </p1>
 <br>
 
 ---
