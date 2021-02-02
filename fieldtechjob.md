@@ -4,14 +4,17 @@ layout: default
 ---
 
 
-<p1 style="color:Red;font-weight: bold">Applications are now open for our Ekipa Fanihy field technicians! Please apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 26, 2021!** </p1>
+<p1 style="color:Red;font-weight: bold; font size=2">Applications are now open for our Ekipa Fanihy field technicians! Please apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 26, 2021!** </p1>
 <br>
 
-Applications are now open for our Ekipa Fanihy field technicians! Please apply [here](https://airtable.com/shrkvG1XEp0yaOIzz) by **5pm PST on Friday, February 26, 2021!** 
+---
+
+**Projected Project Period**: Jan 15 (start date) - Dec 20, 2022 (end date), with options to extend into 2023. 
+
+---
 
 #### **Work Description**
 
-**Projected Project Period**: Jan 15 (start date) - Dec 20, 2022 (end date), with options to extend into 2023 on a case-by-case basis. 
 
 This one-year position will involve co-leading monthly field expeditions for [Ekipa Fanihy](team.html). We are hiring two Field Technicians who will join local PhD students at the University of Antananarivo to carry out monthly capture and sampling of Madagascar flying foxes (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. 
 
