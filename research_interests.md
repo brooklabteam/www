@@ -94,4 +94,18 @@ Madagascar reported its first case of COVID-19 on March 20, 2020 and has since d
 
 <div style="clear:both;">&nbsp;</div>
 
+
+<br>
+<br>
+
+<font size="1">
+
+<ul>
+<li>Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, <b>Brook CE</b>, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. <i>Influenza and Other Respiratory Viruses.</i> In Press. doi (pre-print): <a href="(https://doi.org/10.22541/au.161088504.46456502/v1">10.22541/au.161088504.46456502/v1</a>. </li>
+
+</ul>
+
+</font> 
+
+
 ---
