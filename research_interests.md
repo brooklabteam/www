@@ -94,10 +94,6 @@ Madagascar reported its first case of COVID-19 on March 20, 2020 and has since d
 
 <div style="clear:both;">&nbsp;</div>
 
-
-<br>
-<br>
-
 <font size="1">
 
 <ul>
