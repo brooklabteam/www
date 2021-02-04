@@ -7,7 +7,7 @@ layout: default
 
 <p1 style="color:Red;font-weight: bold">Applications are now open for Ekipa Fanihy Field Technicians! 
 <br>
-Apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 19, 2021! </p1>
+Apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 19, 2021 to be considered! </p1>
 </font>
 
 ---
@@ -29,7 +29,7 @@ While in the field, the field team will capture bats, collect biological samples
 
 In between field missions (30% of the time), the Field Technicians will live in a shared house in Madagascar's capitol city of Antananarivo (housing includes a modern kitchen, ample living space, modern bathroom, WiFi, on-site security, and weekly cleaning services). In Antananarivo ('Tana'), the Field Technicians will work with Ekipa Fanihy to further treat, organize, and conduct basic molecular analyses (DNA/RNA extractions, PCR, etc.) of samples at the laboratory campus of IPM or [Mahaliana](https://www.mahaliana.org/). Together, Field Technicians will be additionally responsible for restocking, packing, and preparation of field supplies for recurring field missions. 
 
-See [Research](/research_interests) for an overview of the scientific questions underpinning the field work, and visit our [News](/news) page to read previous reports of the team's adventures in the field. Please feel free to reach out to contact former Ekipa Fanihy Field Technician, Anecia Gentles, at [gentles@uga.edu](Gentles@uga.edu) with any questions about the job.
+See [Research](/research_interests) for an overview of the scientific questions underpinning the field work, and visit our [News](/news) page to read previous reports of the team's adventures in the field. Please feel free to reach out to contact former Ekipa Fanihy Field Technicians, Anecia Gentles (at [gentles@uga.edu](Gentles@uga.edu)) or Kimberly Rivera (at [karivera@uri.edu](karivera@uri.edu)), with any questions about the job.
 
 ---
 
