@@ -3,7 +3,7 @@ title: "Join the Lab"
 layout: default
 ---
 
-<p1 style="color:Red;font-weight: bold; font-size:150%">We are recruiting PhD students, postdocs, and field technicians!</p1>
+<p1 style="color:Red;font-weight: bold; font-size:150%">We are hiring Field Technicians! Click <a href="/fieldtechjob.html">here</a> for detailed job description and application!</p1>
 
 ---
 
@@ -20,6 +20,14 @@ If interested, please email [cbrook@uchicago.edu](cbrook@uchicago.edu) with a br
 
 ---
 
+#### **Field Technicians**
+
+In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually American post-bac students; see [Team](/team)) to work with Malagasy graduate students catching and collecting samples from wild fruit bats in Madagascar. I have found this to be rewarding opportunity for both parties to engage in scientific and cultural exchange. Please feel free to contact Cara Brook at [cbrook@uchicago.edu](cbrook@uchicago.edu) with any questions or concerns. 
+
+**Applications are now live -- apply [here](/fieldtechjob) by 5pm PST on Friday, February 19, 2021 to be considered!** 
+
+---
+
 #### **PhD Positions**
 
 I will be starting as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago in summer 2021. **Applications to join my new lab in autumn 2021 are now past due**. Please check back in late summer/early fall 2021 if you are interested in applying to start in 2022. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. If interested, please don't hesitate to reach out!
@@ -32,7 +40,3 @@ I will be starting as an Assistant Professor in the [Department of Ecology and E
 
 ---
 
-
-#### **Field Technicians**
-
-In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually American post-bac students; see [Team](/team)) to work with Malagasy graduate students catching and collecting samples from wild fruit bats in Madagascar. I have found this to be rewarding opportunity for both parties to engage in scientific and cultural exhange. Field tech positions are currently on hold due to COVID-19, but **I am happy to announce that I will be hiring new field techs to start in January 2022**. I will advertise these positions formally in early February 2021. Please check back at that time for an application. In the meantime, please feel free to contact me with any questions!

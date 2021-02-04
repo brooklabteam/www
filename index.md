@@ -14,9 +14,9 @@ In the <b>Brook Lab</b> in the <a href="https://ecologyandevolution.uchicago.edu
 <br>
 <br>
 
-<p1 style="color:Red;font-weight: bold">We are recruiting PhD students, postdocs, and field technicians!</p1>
+<p1 style="color:Red;font-weight: bold">We are recruiting Field Technicians for Madagascar bat work!</p1>
 <br>
-<b>Please visit <a href="/jointhelab.html">Join the Lab!</a> for more information.
+<b>Please see <a href="/fieldtechjob.html">here</a> for detailed job description and application.
 <br>
 Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.</b>
 
