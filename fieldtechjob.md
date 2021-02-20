@@ -5,9 +5,7 @@ layout: default
 
 <font size="4">
 
-<p1 style="color:Red;font-weight: bold">Applications are now open for Ekipa Fanihy Field Technicians! 
-<br>
-Apply <a href="https://airtable.com/shrkvG1XEp0yaOIzz">here</a> by 5pm PST on Friday, February 19, 2021 to be considered! </p1>
+<p1 style="color:Red;font-weight: bold">Applications are now past due for Ekipa Fanihy Field Technicians. Please check back in 2022 for additional opportunities and new hires. 
 </font>
 
 ---

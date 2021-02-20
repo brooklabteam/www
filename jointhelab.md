@@ -3,7 +3,7 @@ title: "Join the Lab"
 layout: default
 ---
 
-<p1 style="color:Red;font-weight: bold; font-size:150%">We are hiring Field Technicians! Click <a href="/fieldtechjob.html">here</a> for detailed job description and application!</p1>
+<p1 style="color:Red;font-weight: bold; font-size:150%">We are hiring Field Technicians!
 
 ---
 
@@ -22,9 +22,9 @@ If interested, please email [cbrook@uchicago.edu](cbrook@uchicago.edu) with a br
 
 #### **Field Technicians**
 
-In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually American post-bac students; see [Team](/team)) to work with Malagasy graduate students catching and collecting samples from wild fruit bats in Madagascar. I have found this to be rewarding opportunity for both parties to engage in scientific and cultural exchange. Please feel free to contact Cara Brook at [cbrook@uchicago.edu](cbrook@uchicago.edu) with any questions or concerns. 
+In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually American post-bac students; see [Team](/team)) to work with Malagasy graduate students catching and collecting samples from wild fruit bats in Madagascar. I have found this to be rewarding opportunity for both parties to engage in scientific and cultural exchange. Applications are now past due for positions beginning in January 2022. Please check back next year for new opportunities and additional hires!
 
-**Applications are now live -- apply [here](/fieldtechjob) by 5pm PST on Friday, February 19, 2021 to be considered!** 
+Please see [here](/fieldtechjob.html) for a previous jobn description!
 
 ---
 
