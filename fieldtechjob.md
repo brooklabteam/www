@@ -5,7 +5,7 @@ layout: default
 
 <font size="4">
 
-<p1 style="color:Red;font-weight: bold">Applications are now past due for Ekipa Fanihy Field Technicians. Please check back in 2022 for additional opportunities and new hires. 
+<p1 style="color:Red;font-weight: bold">Applications are now past due for Ekipa Fanihy Field Technicians. Please check back in 2022 for additional opportunities and new hires. </p1>
 </font>
 
 ---
