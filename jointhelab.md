@@ -3,8 +3,6 @@ title: "Join the Lab"
 layout: default
 ---
 
-<p1 style="color:Red;font-weight: bold; font-size:150%">We are hiring Field Technicians!
-
 ---
 
 #### **A note on diversity and inclusion**
