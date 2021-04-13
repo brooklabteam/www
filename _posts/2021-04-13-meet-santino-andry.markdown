@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Santino Andry reflects on COVID in Madagascar...
+title: Santino Andry reflects on COVID-19 in Madagascar...
 date: 2021-04-13 01:00:00 -0700
 description:  (optional)
 img: santino_andry.jpg # Add image post (optional)
