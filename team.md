@@ -15,6 +15,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 ### **University of Chicago Team**
 
+---
+
 #### **Graduate Students**
 
 <img src="/assets/gwenkettenburg.jpg" alt="gwen" style="height: 200px; padding-right: 10px;" align="left">
@@ -24,6 +26,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <br>
 
+---
 
 #### **Postdocs**
 
@@ -47,6 +50,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 ### **Madagascar Team**
 
+---
+
 #### **Graduate Students**
 
 <br>
@@ -68,6 +73,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <br>
 
+---
+
 #### **Postdocs**
 
 <img src="/assets/christian_ranaivoson.jpg" alt="bat" style="height: 230px; padding-right: 10px;" align="left">
@@ -78,7 +85,7 @@ Dr. **Christian Ranaivoson** just finished his **PhD** in the Department of Zool
 <br>
 ---
 
-###**Ekipa Collaborators**
+### **Ekipa Collaborators**
 
 
 <img src="/assets/anecia_gentles.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
