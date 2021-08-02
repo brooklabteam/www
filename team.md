@@ -9,6 +9,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+<br>
+
 ---
 
 ## **University of Chicago Team**
@@ -19,6 +21,9 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 **Gwenddolen Kettenburg** is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she plans to study seasonal pathogen dynamics in Madagascar bats in the field, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously works on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. 
 
 <div style="clear:both;">&nbsp;</div>
+
+<br>
+
 
 # **Postdocs**
 
@@ -35,12 +40,16 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 [personal website](https://theresalaverty.weebly.com/)
 
 <div style="clear:both;">&nbsp;</div>
+<br>
+
 
 ---
 
 ## **Madagascar Team**
 
 # **Graduate Students**
+
+<br>
 
 <img src="/assets/angelo_andrianiaina.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
 **Angelo Andrianiaina** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
@@ -56,6 +65,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 **Fifi Ravelomanantsoa** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where she is studying seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses is currently in revision at *Emerging Topics in Life Sciences.* Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
+
+<br>
 
 # **Postdocs**
 
