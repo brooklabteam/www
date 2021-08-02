@@ -18,8 +18,7 @@ layout: default
 <ul>
 <li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. In Revision. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i></li>
 
-<li>Gentles A, Guth S, Rozins C, and <b>Brook CE</b>. In Press. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. <i>Pathogens and Global Health.</i> </li>
-
+<li>Gentles A, Guth S, Rozins C, and  <b>Brook CE</b>. 2020. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. <i>Pathogens and Global Health.</> doi:<a href="https://doi.org/10.1080/20477724.2020.1833161">10.1080/20477724.2020.1833161</a>.
 <li><b>Brook CE</b>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE*, and Dobson AP*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. <i>Journal of Animal Ecology.</i> doi: <a href="https://doi.org/10.1111/1365-2656.12985">10.1111/1365-2656.12985</a>. *=equal senior contributions.</li>
 <li><b>Brook CE</b> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. *Trends in Microbiology.* doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a>. </li>
 
@@ -39,6 +38,8 @@ layout: default
 <font size="1">
 
 <ul>
+<li>Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M, and <b>Brook CE</b>. <i>In Review</i>. Bats host the most virulent—but not the most dangerous—zoonotic viruses. doi (pre-print): <a href="https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1">10.1101/2021.07.25.453574</a>. </li>
+
 <li><b>Brook CE</b>, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. <i>eLife</i>. doi: <a href="https://elifesciences.org/articles/48401">10.7554/eLife.48401</a>. </li>
 
 <li>Guth S, Visher E, Boots M, and <b>Brook CE.</b> 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. <i>Philosophical Transactions of the Royal Society.</i> 374(1782): 20190296. doi: <a href="https://doi.org/10.1098/rstb.2019.0296">10.1098/rstb.2019.0296</a>. </li>
@@ -53,7 +54,7 @@ layout: default
 
 **Deciphering links between disease and aging**
 
-<img src="/assets/bat_pop.png" alt="bat_pop" style="height: 210px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight have had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between anti-aging pathways and disease resilience in bat hosts for emerging human diseases. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) will support this exciting new work, including the development of new techniques for aging wild-caught Madagascar fruit bats via epigenetics. 
+<img src="/assets/bat_pop.png" alt="bat_pop" style="height: 210px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight have had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between anti-aging pathways and disease resilience in bat hosts for emerging human diseases. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) is supporting this exciting new work, including the development of new techniques for aging wild-caught Madagascar fruit bats via epigenetics. 
 
 
 <div style="clear:both;">&nbsp;</div>
@@ -81,7 +82,7 @@ layout: default
 **Next Generation Sequencing to decipher the etiology of unexplained human fevers**
 
 <img src="/assets/christian_CZB.jpg" alt="chris_czb" style="height: 200px; padding-left: 10px;" align="left">
-Our lab was recently awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries.’ In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at Chan Zuckerberg Biohub (San Francisco, CA) in July 2019. In March 2020, we received an Illumina sequencing machine at IPM and are currently undertaking sequencing of bat excretia from our longitudinal study concurrently with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar. Our goal is to describe the landscape of potential viral zoonoses in biological samples from wild bats and identify any bat-derived zoonotic viruses responsible for human fever in Madagascar.
+Our lab was  awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries.’ In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at Chan Zuckerberg Biohub (San Francisco, CA) in July 2019. In March 2020, we received an Illumina sequencing machine at IPM and are currently undertaking sequencing of bat excretia from our longitudinal study concurrently with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar. Our goal is to describe the landscape of potential viral zoonoses in biological samples from wild bats and identify any bat-derived zoonotic viruses responsible for human fever in Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -90,14 +91,16 @@ Our lab was recently awarded a [Bill & Melinda Gates Foundation Grand Challenges
 **COVID-19 phylodynamics in Madagascar**
 
 <img src="/assets/MadaSARSCoV2.png" alt="Mada_SC2" style="height: 240px; padding-left: 10px;" align="left">
-Madagascar reported its first case of COVID-19 on March 20, 2020 and has since diagnosed several more than 16,000 cases of COVID-19 from just under 80,000 tests (daily updated data available at [COVID-19 Madagascar Dashboard](https://www.covid19mg.org/dashboard_EN.html)). Our lab recently received support from UC Berkeley's [Innovative Genomics Institute](https://innovativegenomics.org/projects/covid-19-in-madagascar-next-generation-sequencing/) to use the NGS tools outlined above at IPM to sequence SARS-CoV-2, the causative agent in COVID-19, in Madagascar. Our main goals are to use these sequence data to: [1] Estimate timing of the origin of the COVID-19 epidemic in Madagascar, [2] Estimate the underreporting rate of qPCR-based positive case counts in Madagascar, and [3] Decipher patterns of cross-island connectivity and community spread across the island. We have recently released the two first sequences of SARS-COV-2 from human cases in Madagascar to GISAID, and they are available for viewing on [Nextstrain](https://nextstrain.org/sars-cov-2/). Stay tuned for more mechanistic insights as we expand our sequencing efforts soon!
+With support from the Bill and Melinda Gates Foundation and the UC Berkeley [Innovative Genomics Institute](https://innovativegenomics.org/projects/covid-19-in-madagascar-next-generation-sequencing/), we are using the  NGS tools outlined above at IPM to sequence SARS-CoV-2, the causative agent in COVID-19, in Madagascar. Our main goals are to use these sequence data to: [1] Estimate timing of the origin of the COVID-19 epidemic in Madagascar, [2] Estimate the underreporting rate of qPCR-based positive case counts in Madagascar, and [3] Decipher patterns of cross-island connectivity and community spread across the island.
 
 <div style="clear:both;">&nbsp;</div>
 
 <font size="1">
 
 <ul>
-<li>Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, <b>Brook CE</b>, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. <i>Influenza and Other Respiratory Viruses.</i> In Press. doi (pre-print): <a href="(https://doi.org/10.22541/au.161088504.46456502/v1">10.22541/au.161088504.46456502/v1</a>. </li>
+<li>Andriamandimby SF*, <b>Brook CE*</b>, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. <i>Epidemics.</i> doi (pre-print): <a href="https://pubmed.ncbi.nlm.nih.gov/34268517/">10.1101/2021.07.06.21259473</a>. </li>
+
+<li>Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, <b>Brook CE</b>, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. <i>Influenza and Other Respiratory Viruses.</i> In Press. doi (pre-print): <a href="https://doi.org/10.22541/au.161088504.46456502/v1">10.22541/au.161088504.46456502/v1</a>. </li>
 
 </ul>
 
