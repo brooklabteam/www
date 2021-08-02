@@ -10,9 +10,9 @@ layout: default
 
 - **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. 
 
-- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Review. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1).
+- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Review. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
-- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. doi (pre-print): 10.1101/2021.07.06.21259473 \*=equal lead contributions	
+- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. doi (pre-print): 10.1101/2021.07.06.21259473 \*=equal lead contributions; ± equal senior contributions
 
 - **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
 
@@ -47,7 +47,7 @@ https://doi.org/10.1371/journal.pone.0251296)
 
 - Olival KJ\*, Cryan PM\*, Amman BR, Baric RS, Blehert DS, **Brook CE**, Calisher CH, Castle KT, Coleman JTH, Daszak P, Epstein JH, Field H, Frick WF, Gilbert AT, Hayman DTS, Ip HS, Karesh WB, Johnson CK, Kading RK, Kingston T, Lorch JM, Mendendall IH, Peel AJ, Phelps KL, Plowright RK, Reeder DM, Reichard JD, Sleeman JM, Streicker DG, Towner JS, and Wang L-F. 2020. Possible risks of SARS-CoV-2 spillover to free-ranging wildlife: a case study of bats. 2020. *PLoS Pathogens.* 16(9): e1008758. doi: [10.1371/journal.ppat.1008758](https://doi.org/10.1371/journal.ppat.1008758).  \*=equal lead contributions
 
-- Amen AM, Barry KW, Boyle JM, **Brook CE**, Choo S, Cornmesser LT, Dilworth DJ, Doudna JA\*, Ehrenberg AJ, Fedrigo I, Friedline SE, Graham TGW, Green R, Hamilton JR, Hirsh A, Hochstrasser ML, Hockemeyer D\*, Krishnappa N, Lari A, Li H, Lin-Shiao E, Lu T, Lyons EF, Mark KG, Martell LA, Martins ARO, McDevitt SL, Mitchell PS, Moehle EA, Naca CL, Nandakumar D, O’Brien E, Pappas DJ, Pestal K, Quach DL, Rubin BE, Sachdeva R, Stahl EC, Syed AM, Tan I-L, Tollner AL, Tsuchida CA, Tsui CK, Turkalo TK, Urnov F\*, Warf MB, Whitney ON, Witkowsky LB. 2020. Blueprint for a Pop-up SARS-CoV-2 Testing Lab. *Nature Biotechnology.* 38(7):791-797. doi: [10.1038/s41587-020-0583-3](https://doi.org/10.1038/s41587-020-0583-3). \*=equal senior contributions	
+- Amen AM, Barry KW, Boyle JM, **Brook CE**, Choo S, Cornmesser LT, Dilworth DJ, Doudna JA±, Ehrenberg AJ, Fedrigo I, Friedline SE, Graham TGW, Green R, Hamilton JR, Hirsh A, Hochstrasser ML, Hockemeyer D±, Krishnappa N, Lari A, Li H, Lin-Shiao E, Lu T, Lyons EF, Mark KG, Martell LA, Martins ARO, McDevitt SL, Mitchell PS, Moehle EA, Naca CL, Nandakumar D, O’Brien E, Pappas DJ, Pestal K, Quach DL, Rubin BE, Sachdeva R, Stahl EC, Syed AM, Tan I-L, Tollner AL, Tsuchida CA, Tsui CK, Turkalo TK, Urnov F±, Warf MB, Whitney ON, Witkowsky LB. 2020. Blueprint for a Pop-up SARS-CoV-2 Testing Lab. *Nature Biotechnology.* 38(7):791-797. doi: [10.1038/s41587-020-0583-3](https://doi.org/10.1038/s41587-020-0583-3). ±=equal senior contributions	
 
 -	**Brook CE**, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. *eLife.* doi: [10.7554/eLife.48401](https://elifesciences.org/articles/48401).
     - Highlighted in [CNN special](https://cnnpressroom.blogs.cnn.com/2020/06/09/cnn-to-air-special-on-the-connection-between-bats-and-covid-19/): 'Bats: The Mystery Behind COVID-19' 
@@ -60,11 +60,11 @@ https://doi.org/10.1371/journal.pone.0251296)
 
 - Guth S, Visher E, Boots M, and **Brook CE.** 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. *Philosophical Transactions of the Royal Society.* 374(1782): 20190296. doi: [10.1098/rstb.2019.0296](https://doi.org/10.1098/rstb.2019.0296).
 
-- **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE\*, and Dobson AP\*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). \*=equal senior contributions. *Profiled in JAE blog [here](https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/).*
+- **Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE±, and Dobson AP±. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). ±=equal senior contributions. *Profiled in JAE blog [here](https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/).*
 
 - **Brook CE**, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. *Biological Conservation.* 234: 165-171. doi: [10.1016/j.biocon.2019.03.032](https://doi.org/10.1016/j.biocon.2019.03.032).
 
--	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L\* and **Brook CE**\*. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12(51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). \*=equal senior contributions
+-	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L± and **Brook CE**±. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12(51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). ±=equal senior contributions
 
 **2018**
 
@@ -72,11 +72,11 @@ https://doi.org/10.1371/journal.pone.0251296)
 
 **2017**
 
-- **Brook CE**, Bai Y, Yu EO, Ranaivoson HC, Shin H, Dobson AP, Metcalf CJE\*, Kosoy MY\* and Dittmar K\*. 2017. Elucidating transmission dynamics and host-parasite-vector relationships for rodent-borne *Bartonella* spp. in Madagascar. *Epidemics.* 20:56-66. \*= equal senior contributions doi: [10.1016/j.epidem.2017.03.004](https://doi.org/10.1016/j.epidem.2017.03.004).
+- **Brook CE**, Bai Y, Yu EO, Ranaivoson HC, Shin H, Dobson AP, Metcalf CJE±, Kosoy MY± and Dittmar K±. 2017. Elucidating transmission dynamics and host-parasite-vector relationships for rodent-borne *Bartonella* spp. in Madagascar. *Epidemics.* 20:56-66. ±= equal senior contributions doi: [10.1016/j.epidem.2017.03.004](https://doi.org/10.1016/j.epidem.2017.03.004).
 
 **2016**
 
-- Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M\*\*, and Metcalf CJE. 2016\*\*. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. *Journal of the Royal Society Interface.* 13(177): 20151101. \* =  equal lead contributions; \*\*=equal senior contributions. doi: [10.1098/rsif.2015.110](https://doi.org/10.1098/rsif.2015.110).
+- Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M±, and Metcalf CJE. 2016±. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. *Journal of the Royal Society Interface.* 13(177): 20151101. \* =  equal lead contributions; ±=equal senior contributions. doi: [10.1098/rsif.2015.110](https://doi.org/10.1098/rsif.2015.110).
 
 **2015**
 
