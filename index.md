@@ -12,6 +12,10 @@ In the <b>Brook Lab</b> in the <a href="https://ecologyandevolution.uchicago.edu
 <img src="/assets/mada-bridge.jpg" style="width:100%; border:10px solid; color:black" align="center">
 
 <br>
+The University of Chicago
+Department of Ecology and Evolution
+1101 East 57th Street
+Chicago, IL 60637
 <br>
 
 </font>
