@@ -14,7 +14,4 @@ In the <b>Brook Lab</b> in the <a href="https://ecologyandevolution.uchicago.edu
 <br>
 <br>
 
-
-
-
 </font>
