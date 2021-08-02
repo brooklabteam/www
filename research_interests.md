@@ -16,9 +16,8 @@ layout: default
 <font size="1">
 
 <ul>
-<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. In Revision. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i></li>
-
-<li>Gentles A, Guth S, Rozins C, and  <b>Brook CE</b>. 2020. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. <i>Pathogens and Global Health.</> doi:<a href="https://doi.org/10.1080/20477724.2020.1833161">10.1080/20477724.2020.1833161</a>.
+<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. 2020. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i> doi:<a href="https://doi.org/10.1042/ETLS20200097">10.1042/ETLS20200097</a>.</li>
+<li>Gentles A, Guth S, Rozins C, and  <b>Brook CE</b>. 2020. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. <i>Pathogens and Global Health.</i> doi:<a href="https://doi.org/10.1080/20477724.2020.1833161">10.1080/20477724.2020.1833161</a>.</li>
 <li><b>Brook CE</b>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE*, and Dobson AP*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. <i>Journal of Animal Ecology.</i> doi: <a href="https://doi.org/10.1111/1365-2656.12985">10.1111/1365-2656.12985</a>. *=equal senior contributions.</li>
 <li><b>Brook CE</b> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. *Trends in Microbiology.* doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a>. </li>
 
@@ -98,8 +97,7 @@ With support from the Bill and Melinda Gates Foundation and the UC Berkeley [Inn
 <font size="1">
 
 <ul>
-<li>Andriamandimby SF*, <b>Brook CE*</b>, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. <i>Epidemics.</i> doi (pre-print): <a href="https://pubmed.ncbi.nlm.nih.gov/34268517/">10.1101/2021.07.06.21259473</a>. </li>
-
+<li>Andriamandimby SF*, <b>Brook CE*</b>, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. <i>Epidemics.</i> doi (pre-print): <a href="https://pubmed.ncbi.nlm.nih.gov/34268517/">10.1101/2021.07.06.21259473</a. </li>
 <li>Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, <b>Brook CE</b>, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. <i>Influenza and Other Respiratory Viruses.</i> In Press. doi (pre-print): <a href="https://doi.org/10.22541/au.161088504.46456502/v1">10.22541/au.161088504.46456502/v1</a>. </li>
 
 </ul>
