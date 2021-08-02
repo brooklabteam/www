@@ -11,16 +11,16 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 ---
 
-##**University of Chicago Team**
+## **University of Chicago Team**
 
-#**Graduate Students**
+# **Graduate Students**
 
 <img src="/assets/gwenkettenburg.jpg" alt="gwen" style="height: 200px; padding-right: 10px;" align="left">
 **Gwenddolen Kettenburg** is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she plans to study seasonal pathogen dynamics in Madagascar bats in the field, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously works on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. 
 
 <div style="clear:both;">&nbsp;</div>
 
-#**Postdocs**
+# **Postdocs**
 
 <img src="/assets/emily_ruhs.jpg" alt="emily" style="height: 200px; padding-right: 10px;" align="left">
 **Emily Cornelius Ruhs** is a Postdoctoral Scholar in the Department of Ecology and Evolution at the University of Chicago. She will be working on a long-term dataset exploring viral exposure, nutritional status and animal contact in villages in Madagascar. In the future she hopes to explore how food supplementation impacts viral shedding in bats. Emily holds her Master’s degree from the University of Georgia where she studied disease ecology and her Ph.D. from the University of Wisconsin-Madison where she studied wildlife ecology. She has previously worked on projects examining how acute environmental perturbations influences bird physiology and how aspects of the innate immune system scale with body size. Emily is broadly interested in how energetic constraints drive life-history trade-offs and influences disease dynamics in wildlife.
@@ -30,19 +30,17 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/theresa_laverty.jpg" alt="theresa" style="height: 200px; padding-right: 10px;" align="left">
-
-Beginning September 2021, **Theresa Laverty** will be joining the Brook Lab as a postdoctoral scholar in the Department of Ecology and Evolution at the University of Chicago. Using methods such as molecular dietary analysis and population viability analyses, her work will advance our knowledge of the population, community, and disease ecology of Malagasy bats. Theresa holds a PhD degree in Fish, Wildlife, and Conservation Biology from Colorado State University, where she conducted social and ecological research to understand the drivers of bat community structure and identify conservation challenges / opportunities within several pastoralist communal conservancies in the northern Namib Desert, Namibia. Prior to joining Ekipa Fanihy, Theresa was a postdoctoral fellow at Colorado State University studying the population ecology of migratory long-nosed bats (Leptonycteris spp.) in relation to the timing and availability of their food (nectar of Agave spp.) in New Mexico. 
+**Theresa Laverty** will be joining the Brook Lab in September 2021 as a postdoctoral scholar in the Department of Ecology and Evolution at the University of Chicago. Using methods such as molecular dietary analysis and population viability analyses, her work will advance our knowledge of the population, community, and disease ecology of Malagasy bats. Theresa holds a PhD in Fish, Wildlife, and Conservation Biology from Colorado State University, where she conducted social and ecological research to understand the drivers of bat community structure and identify conservation challenges / opportunities within pastoralist communal conservancies in the northern Namib Desert, Namibia. Prior to Chicago, Theresa was a postdoctoral fellow at Colorado State University studying the population ecology of migratory long-nosed bats (Leptonycteris spp.) in relation to the timing and availability of their Agave nectar food in New Mexico.
 
 [personal website](https://theresalaverty.weebly.com/)
 
 <div style="clear:both;">&nbsp;</div>
 
-
 ---
 
-##**Madagascar Team**
+## **Madagascar Team**
 
-#**Graduate Students**
+# **Graduate Students**
 
 <img src="/assets/angelo_andrianiaina.jpg" alt="bat" style="height: 200px; padding-right: 10px;" align="left">
 **Angelo Andrianiaina** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
@@ -59,7 +57,7 @@ Beginning September 2021, **Theresa Laverty** will be joining the Brook Lab as a
 
 <div style="clear:both;">&nbsp;</div>
 
-#**Postdocs**
+# **Postdocs**
 
 <img src="/assets/christian_ranaivoson.jpg" alt="bat" style="height: 230px; padding-right: 10px;" align="left">
 Dr. **Christian Ranaivoson** just finished his **PhD** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, and has already started his appointment as a **postdoctoral researcher** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascan flying fox, *Pteropus rufus,* and *Bartonella* spp. infections of the Madagascan fruit bat, *Eidolon dupreanum.* As a postdoc, Christian leads Next Generation Sequencing studies targeting viral discovery in Malagasy fruit bats and sequencing SARS-CoV-2 in human cases in Madagascar. Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parsites of Malagasy reptiles.
