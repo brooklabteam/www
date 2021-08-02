@@ -8,11 +8,11 @@ layout: default
 
 **In Review**
 
-- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. Science.
+- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. 
 
-- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Review. PNAS. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1).
+- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Review. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1).
 
-- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. Epidemics. doi (pre-print): 10.1101/2021.07.06.21259473 \*=equal lead contributions	
+- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. doi (pre-print): 10.1101/2021.07.06.21259473 \*=equal lead contributions	
 
 - **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
 
