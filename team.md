@@ -9,8 +9,6 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<br>
-
 ---
 
 ### **University of Chicago Team**
