@@ -14,10 +14,7 @@ In the <b>Brook Lab</b> in the <a href="https://ecologyandevolution.uchicago.edu
 <br>
 <br>
 
-Department of Ecology and Evolution
-University of Chicago
-1101 East 57th Street
-Chicago, IL 60637
+Department of Ecology and Evolution | University of Chicago | 1101 East 57th St | Chicago, IL 60637
 
 
 </font>
