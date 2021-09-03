@@ -41,15 +41,18 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 [personal website](https://theresalaverty.weebly.com/)
 
 <div style="clear:both;">&nbsp;</div>
-<br>
+
 
 ---
 
 #### **Lab Manager**
 
-<img src="/assets/freddygonzalez.jpg" alt="freddy" style="height: 200px; padding-right: 10px;" align="left">
+<img src="/assets/freddygonzalez.jpg" alt="freddy" style="height: 400px; padding-right: 10px;" align="left">
 Freddy Gonzalez is a post-baccalaureate student through the NIH PREP program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the **Daphnia magna** virome and identified putative bacteriophage hosts.
 
+<br>
+<br>
+<br>
 
 ---
 
