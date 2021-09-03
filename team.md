@@ -43,6 +43,12 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 <div style="clear:both;">&nbsp;</div>
 <br>
 
+---
+
+#### **Lab Manager**
+
+Freddy Gonzalez
+
 
 ---
 
@@ -81,6 +87,8 @@ Dr. **Christian Ranaivoson** just finished his **PhD** in the Department of Zool
 <div style="clear:both;">&nbsp;</div>
 
 <br>
+
+
 ---
 
 ### **Ekipa Collaborators**
