@@ -8,7 +8,9 @@ layout: default
 Prior to the University of Chicago, I spent time as a [Miller Postdoctoral Fellow](http://miller.berkeley.edu/) working with [Mike Boots](https://bootslab.org/) in the Department of Integrative Biology at the University of California, Berkeley. I received my PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and my BS in Earth Systems from Stanford University in 2010. I hail originally from beautiful Sonoma County, California. When not chasing bat viruses, you will find me hiking, backpacking, and camping across the North American West. 
 
 
-Contact: cbrook@uchicago.edu
+Contact:
+Cara Brook (she/her)
+cbrook@uchicago.edu
 
 <a href="/assets/CV_CaraBrook_Full_July2021">Full CV</a>
 
