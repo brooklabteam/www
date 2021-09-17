@@ -12,7 +12,6 @@ We believe that open policies and expectations promote a more equitable and incl
 
 ---
 ### **Lab Meetings**
----
 
 A weekly hour-long lab meeting forms the core of our laboratory culture. We hold these meetings as video conferences to facilitate equal partnership with our colleagues who are not based in Chicago, most particularly those who are based in Madagascar. We set the calendar for lab meeting on a quarterly basis, with different lab members taking turns leading each session. We open each quarter with a lab meeting dedicated to discussions and readings surrounding issues related to Diversity, Equity, and Inclusion (DEI).
 
@@ -24,13 +23,11 @@ You should expect, on average, to lead ~two lab meetings per quarter, one "Resea
 
 ---
 ### **Individual Meetings**
----
 
 Students, postdocs, and lab managers who make up the University of Chicago contingent of the lab are expected to attend weekly, half-hour meetings with Cara. These can take place in person or digitally, as you choose, and the timing for these meetings will be set at the begining of every quarer. The agenda is yours during this time--we can discuss ongoing work, future plans, or anything else you may need. It is also fine to check in to say that there is nothing you need to talk about on a given week. I am also available to meet in impromptu settings at other times during the week for both University of Chicago and University of Antananrivo members of the lab--please don't be shy to ask! 
 
 ---
 ### **Funding and Support**
----
 
 Funding is rarely discussed openly in academic settings but is generally a critical component of scientific research. I am trying to make this a more open dialogue in the Brook Lab. Explicit funding policies are as follows:
 
@@ -49,13 +46,11 @@ Each lab member, both from the University of Chicago and the University of Antan
 
 ---
 ### **Conference Travel**
----
 
 University of Chicago PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider fudning multiple meetings in the same year with justification.
 
 ---
 ### **Working Hours and Remote Work**
----
 
 Lifestyle freedom is one of the great perks of being an academic, and I do not police strict hours in the lab. I often work odd hours or from various locations (home, cafés, library, etc.) myself, and I trust you to do the same. Research is project-based work, and some weeks are long and intense while others less so. I expect you to work hard but also value work-life balance and maintaining health and sanity, so please do not burn yourself out.
 
@@ -66,8 +61,7 @@ Due to our cross-continental extent, the Brook Lab has many policies in place th
 University of Antananarivo PhD students will be funded to train at the University of Chicago for a minimum of one four week session during the course of their PhD research. These trainings will require significant advance planning and flexibility with timing on the part of the student.
 
 ---
-#### **Computing Tools**
----
+### **Computing Tools**
 
 Code and data for all projects in the lab must be uploaded to a project folder on our  [Brook Lab GitHub platform](https://github.com/brooklabteam), where we also store composite datasets available for any lab member to use following clearance from Cara. It is my expectation that you add your work to this platform as well.
 
