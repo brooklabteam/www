@@ -21,7 +21,11 @@ layout: default
 
 #### **PhD Positions**
 
-I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2022!**. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. If interested, please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrwbDz0QWBo0SMnQ) by **midnight on October 31, 2021**. I will review submissions and arrange 30-minute conversations with promising candidates the week of November 8, just under a month prior to the application deadline for U-Chicago.
+I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2022!**. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+
+**If you are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrwbDz0QWBo0SMnQ) by midnight on October 31, 2021**. 
+
+I will review submissions and arrange 30-minute conversations with promising candidates the week of November 8, just under a month prior to the application deadline for U-Chicago.
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
 
