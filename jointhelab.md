@@ -8,7 +8,7 @@ layout: default
 
 <font size="4">
 
-<p1 style="color:Red;font-weight: bold">We am recruiting PhD students! If you are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form <a href="https://airtable.com/shrwbDz0QWBo0SMnQ">linked here</a> by midnight on October 31, 2021.</p1>
+<p1 style="color:Red;font-weight: bold">We are recruiting PhD students! If you are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form <a href="https://airtable.com/shrwbDz0QWBo0SMnQ">linked here</a> by midnight on October 31, 2021.</p1>
 <br>
 </font>
 
