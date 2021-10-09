@@ -8,31 +8,35 @@ layout: default
 
 **In Review**
 
-- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. 
+- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and Brook CE. Full genome Nobecovirus sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Review. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
+
+- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print):[10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1).
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Review. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
-
-- **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Review. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
-
-- Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. Modeling cross-species viral transmission and predicting zoonotic potential. In Review. 
 
 **In Revision**
 
 - Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Revision. Epidemics. doi (pre-print): [10.1101/2021.07.06.21259473](https://doi.org/10.1101/2021.07.06.21259473). \*=equal lead contributions; ± equal senior contributions
 
-- Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... de Oliveira T.  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. In Revision. Science. doi: [10.1101/2021.05.12.21257080](https://doi.org/10.1101/2021.05.12.21257080).
+- **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Revision. Epidemics. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Bats have “special” microbiomes: unique bacteriomes modulate bat health. In Revision. Trends in Microbiology. \*=equal lead contributions	
+- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Bats have “special” microbiomes: unique bacteriomes modulate bat health. In Revision. Trends in Microbiology. \*=equal senior contributions	
 
-- Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. In Revision. Nature Microbiology.
+- Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The future of host-virus network prediction. In Revision. Nature Microbiology.
+
+**In Press**
+
+- Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... de Oliveira T.  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. In Press. Science. doi: [10.1101/2021.05.12.21257080](https://doi.org/10.1101/2021.05.12.21257080).
+
+
+- Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. In Press. Nature Microbiology.
 
 
 **2021**
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. 2021. *Animal Conservation.* doi: [10.1111/acv.12714](https://doi.org/10.1111/acv.12714).
 
-- Ehrenberg AJ, Moehle EA, **Brook CE**, Doudna Cate AH, Witkowsky LB, Sachdeva R, Hirsch A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea H, Murdock A, Hochstrasser ML, Bardet L, Sherry C, the IGI SARS-CoV-2 consortium, Harte A, Nicolette G, Petersen M, Giannikopoulos P, Hockemeyer D, Urnov FD, Ringeisen BR, Boots M, Doudna JA. Launching a saliva-based SARS-CoV-2 surveillance testing program on a university campus. 2021. PLoS One. doi: [10.1371/journal.pone.0251296](
-https://doi.org/10.1371/journal.pone.0251296)
+- Ehrenberg AJ, Moehle EA, **Brook CE**, Doudna Cate AH, Witkowsky LB, Sachdeva R, Hirsch A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea H, Murdock A, Hochstrasser ML, Bardet L, Sherry C, the IGI SARS-CoV-2 consortium, Harte A, Nicolette G, Petersen M, Giannikopoulos P, Hockemeyer D, Urnov FD, Ringeisen BR, Boots M, Doudna JA. Launching a saliva-based SARS-CoV-2 surveillance testing program on a university campus. 2021. PLoS One. doi: [10.1371/journal.pone.0251296](https://doi.org/10.1371/journal.pone.0251296)
 
 - Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, **Brook CE**, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. 2021. *Influenza and Other Respiratory Viruses.*  doi (pre-print): [10.22541/au.161088504.46456502/v1](https://doi.org/10.22541/au.161088504.46456502/v1).
 
