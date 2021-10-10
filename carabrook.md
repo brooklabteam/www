@@ -12,7 +12,7 @@ Contact:
 Cara Brook (she/her)
 cbrook@uchicago.edu
 
-<a href="/assets/CV_CaraBrook_Full_July2021">Full CV</a>
+<a href="/assets/CV_CaraBrook_Full_October2021.pdf">Full CV</a>
 
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
