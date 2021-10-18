@@ -24,6 +24,14 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <br>
 
+<img src="/assets/sophiahorigan.jpg" alt="gwen" style="height: 200px; padding-right: 10px;" align="left">
+**Sophia Horigan** is a **PhD candidate** in the Department of Ecology and Evolution at the University of Chicago. Her work centers on leveraging computational models and field data to understand disease dynamics, as well as predicting and mitigating future outbreaks of harmful pathogens. In the Brook lab, she is using models to improve our understanding of the transmission dynamics of viruses in Madagascar fruit bats, as well as exploring how bat vaccination strategies may alter these dynamics. Sophia earned her B.A. from Lewis & Clark College, where she focused on building bioinformatics pipelines that utilized proteomic and transcriptomic datasets to understand the evolutionary history of Haplogyne spiders and their venom. 
+
+<div style="clear:both;">&nbsp;</div>
+
+<br>
+
+
 ---
 
 #### **Postdocs**
