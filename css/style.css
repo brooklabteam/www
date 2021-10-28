@@ -80,3 +80,7 @@ a:active {
   color: #26190D;
   text-decoration: none;
 }
+
+ul {
+  font-size: .5em;
+}
