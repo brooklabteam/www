@@ -42,4 +42,4 @@ In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually Am
 
 <br />
 
-Please see [here](/fieldtechjob.html) for a previous job description!
+Please see [here](/people/fieldtechjob) for a previous job description!
