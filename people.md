@@ -20,7 +20,7 @@ Prior to the University of Chicago, I spent time as a [Miller Postdoctoral Fello
 
 Contact: Cara Brook (she/her) or via email at cbrook (at) uchicago (dot) edu
 
-* <a href="/assets/CV_CaraBrook_Full_October2021.pdf">Full CV</a>
+* <a href="/people/CV_CaraBrook_Full_October2021.pdf">Full CV</a>
 * <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 * <a href="https://www.youtube.com/embed/8AMpIQ9gTbE">Research/Outreach Video Summary</a>
 
