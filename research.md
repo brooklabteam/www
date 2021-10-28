@@ -12,7 +12,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul>
+<ul class="citation">
 	<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. 2020. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i> doi:<a href="https://doi.org/10.1042/ETLS20200097">10.1042/ETLS20200097</a>.</li>
 	<li>Gentles A, Guth S, Rozins C, and  <b>Brook CE</b>. 2020. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. <i>Pathogens and Global Health.</i> doi:<a href="https://doi.org/10.1080/20477724.2020.1833161">10.1080/20477724.2020.1833161</a>.</li>
 	<li><b>Brook CE</b>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE*, and Dobson AP*. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. <i>Journal of Animal Ecology.</i> doi: <a href="https://doi.org/10.1111/1365-2656.12985">10.1111/1365-2656.12985</a>. *=equal senior contributions.</li>
@@ -27,7 +27,7 @@ Bats appear to host otherwise virulent viral infections without themselves exper
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul>
+<ul class="citation">
 	<li>Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M, and <b>Brook CE</b>. <i>In Review</i>. Bats host the most virulent—but not the most dangerous—zoonotic viruses. doi (pre-print): <a href="https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1">10.1101/2021.07.25.453574</a>.</li>
 	<li><b>Brook CE</b>, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. <i>eLife</i>. doi: <a href="https://elifesciences.org/articles/48401">10.7554/eLife.48401</a>.</li>
 	<li>Guth S, Visher E, Boots M, and <b>Brook CE.</b> 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. <i>Philosophical Transactions of the Royal Society.</i> 374(1782): 20190296. doi: <a href="https://doi.org/10.1098/rstb.2019.0296">10.1098/rstb.2019.0296</a>.</li>
@@ -49,7 +49,7 @@ Using age data derived from fruit bat dentition (though see above for novel, les
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul>
+<ul class="citation">
 	<li>Rocha R, Aziz SA, <b>Brook CE</b>, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. <i>Animal Conservation.</i> doi:
 	<a href="https://doi.org/10.1111/acv.12636">10.1111/acv.12636</a>. </li>
 	<li><b>Brook CE</b>, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. Biological Conservation. 234: 165-171. doi: <a href="https://doi.org/10.1016/j.biocon.2019.03.032">10.1016/j.biocon.2019.03.032</a>. </li>
@@ -72,7 +72,7 @@ With support from the Bill and Melinda Gates Foundation and the UC Berkeley [Inn
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul>
+<ul class="citation">
 	<li>Andriamandimby SF*, <b>Brook CE*</b>, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Review. <i>Epidemics.</i> doi (pre-print): <a href="https://pubmed.ncbi.nlm.nih.gov/34268517/">10.1101/2021.07.06.21259473</a>.</li>
 	<li>Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, <b>Brook CE</b>, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. <i>Influenza and Other Respiratory Viruses.</i> In Press. doi (pre-print): <a href="https://doi.org/10.22541/au.161088504.46456502/v1">10.22541/au.161088504.46456502/v1</a>.</li>
 </ul>
