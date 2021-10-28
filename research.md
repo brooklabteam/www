@@ -50,13 +50,13 @@ Using age data derived from fruit bat dentition (though see above for novel, les
 
 <h2>Next Generation Sequencing to decipher the etiology of unexplained human fevers</h2>
 
-<img src="/assets/christian_CZB.jpg" alt="chris_czb" style="height: 200px; padding-left: 10px;" align="left">
+<img src="/research/christian_CZB.jpg" alt="chris_czb" style="width: 300px; padding: 1em 1em 1em 0;" />
 
 Our lab was  awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries.’ In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at Chan Zuckerberg Biohub (San Francisco, CA) in July 2019. In March 2020, we received an Illumina sequencing machine at IPM and are currently undertaking sequencing of bat excretia from our longitudinal study concurrently with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar. Our goal is to describe the landscape of potential viral zoonoses in biological samples from wild bats and identify any bat-derived zoonotic viruses responsible for human fever in Madagascar.
 
 <h2>COVID-19 phylodynamics in Madagascar</h2>
 
-<img src="/assets/MadaSARSCoV2.png" alt="Mada_SC2" style="height: 240px; padding-left: 10px;" align="left">
+<img src="/research/MadaSARSCoV2.png" alt="Mada_SC2" style="width: 300px; padding: 1em 1em 1em 0;" />
 
 With support from the Bill and Melinda Gates Foundation and the UC Berkeley [Innovative Genomics Institute](https://innovativegenomics.org/projects/covid-19-in-madagascar-next-generation-sequencing/), we are using the  NGS tools outlined above at IPM to sequence SARS-CoV-2, the causative agent in COVID-19, in Madagascar. Our main goals are to use these sequence data to: [1] Estimate timing of the origin of the COVID-19 epidemic in Madagascar, [2] Estimate the underreporting rate of qPCR-based positive case counts in Madagascar, and [3] Decipher patterns of cross-island connectivity and community spread across the island.
 
