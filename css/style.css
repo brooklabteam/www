@@ -19,6 +19,17 @@ body {
   max-width: 900px;
 }
 
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  padding: 0 0 1em 0;
+}
+
+h2 {
+  font-weight: bold;
+  padding: 1em 0;
+}
+
 img {
   width: 100%;
   max-width: 900px;
