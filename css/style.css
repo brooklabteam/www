@@ -22,3 +22,18 @@ img {
   width: 100%;
   max-width: 800px;
 }
+
+header nav {
+  float: right;
+}
+	
+header li, footer li {
+  list-style-type: none;
+  float: left;
+}
+	
+header li a {
+  display: block;
+  padding: 0 0 0 2em;
+  text-decoration: none;
+}
