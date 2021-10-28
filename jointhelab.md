@@ -8,6 +8,8 @@ We are recruiting PhD students! If you are interested in joining the Brook Lab, 
 
 <em>This page last updated October 28, 2021.</em>
 
+--- 
+
 <h2>A note on diversity and inclusion</h2>
 
 <img src="/jointhelab/ekipa_fanihy_happy.jpg" alt="bat" class="img-left-w-text" />
@@ -15,6 +17,8 @@ We are recruiting PhD students! If you are interested in joining the Brook Lab, 
 We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below.
 
 <div style="clear:both;">&nbsp;</div>
+
+---
 
 <h2>PhD Positions</h2>
 
@@ -32,9 +36,13 @@ Please do not feel pressure to spend exorbitant amounts of time on this submissi
 
 Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2021.
 
+---
+
 <h2>Postdocs</h2>
 
 **All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](http://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. The [University of Chicago Fellows](https://biologicalsciences.uchicago.edu/research/chicago-fellows) program in the Biological Sciences (applications due annually in December) is one exciting opportunity specific to our university. Please feel free to reach out at [cbrook@uchicago.edu](cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
+
+--- 
 
 <h2>Field Technicians</h2>
 
