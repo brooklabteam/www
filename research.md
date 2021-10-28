@@ -7,7 +7,7 @@ layout: default
 
 ---
 
-**Bats as reservoirs for emerging viral zoonoses**
+<h2>Bats as reservoirs for emerging viral zoonoses</h2>
 
 <img src="/research/flying_bat.png" alt="bat" style="float: left; width: 300px; padding: 1em 1em 1em 0;">
 
@@ -29,7 +29,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 ---
 
-**The coevolution of bats and viruses**
+<h2>The coevolution of bats and viruses</h2>
 
 <img src="/assets/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="height: 250px; padding-right: 10px;" align="left"> Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
 
@@ -53,7 +53,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 ---
 
-**Deciphering links between disease and aging**
+<h2>Deciphering links between disease and aging</h2>
 
 <img src="/assets/bat_pop.png" alt="bat_pop" style="height: 210px; padding-right: 10px;" align="left">In addition to their unique viral tolerance, bats bost lifespans some 3.5x longer than those of any other mammalian group. Evidence suggests that unique molecular mechanisms evolved to enable flight have had cascading consequences on both bats' viral tolerance and their extraordinary longevity. In collaboration with the [Sudmant Lab](https://www.sudmantlab.org/) at UC Berkeley, we are launching new work, both in the field and in tissue culture elucidating links between anti-aging pathways and disease resilience in bat hosts for emerging human diseases. Funding from the [Branco Weiss 'Society in Science' Fellowship](https://brancoweissfellowship.org/) is supporting this exciting new work, including the development of new techniques for aging wild-caught Madagascar fruit bats via epigenetics. 
 
@@ -62,7 +62,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 ---
 
-**Conservation biology and population modeling**
+<h2>Conservation biology and population modeling</h2>
 
 <img src="/assets/baby_bat.png" alt="baby_bat" style="height: 230px; padding-right: 10px;" align="left">Using age data derived from fruit bat dentition (though see above for novel, less invasive methods of aging in development), we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, [Madigasikara Voakajy](https://www.madagasikara-voakajy.org/), to develop conservation-oriented intervention plans for this species and undertaking new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species. We are also involved in several other conservation collaborations, through which we have undertaken population modeling for several non-Chiropteran threatened taxa, including endemic Malagasy lemurs, tenrecs, and the ploughshare tortoise.
 
@@ -80,7 +80,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 ---
 
-**Next Generation Sequencing to decipher the etiology of unexplained human fevers**
+<h2>Next Generation Sequencing to decipher the etiology of unexplained human fevers</h2>
 
 <img src="/assets/christian_CZB.jpg" alt="chris_czb" style="height: 200px; padding-left: 10px;" align="left">
 Our lab was  awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries.’ In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at Chan Zuckerberg Biohub (San Francisco, CA) in July 2019. In March 2020, we received an Illumina sequencing machine at IPM and are currently undertaking sequencing of bat excretia from our longitudinal study concurrently with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar. Our goal is to describe the landscape of potential viral zoonoses in biological samples from wild bats and identify any bat-derived zoonotic viruses responsible for human fever in Madagascar.
@@ -89,7 +89,7 @@ Our lab was  awarded a [Bill & Melinda Gates Foundation Grand Challenges Explora
 
 ---
 
-**COVID-19 phylodynamics in Madagascar**
+<h2>COVID-19 phylodynamics in Madagascar</h2>
 
 <img src="/assets/MadaSARSCoV2.png" alt="Mada_SC2" style="height: 240px; padding-left: 10px;" align="left">
 With support from the Bill and Melinda Gates Foundation and the UC Berkeley [Innovative Genomics Institute](https://innovativegenomics.org/projects/covid-19-in-madagascar-next-generation-sequencing/), we are using the  NGS tools outlined above at IPM to sequence SARS-CoV-2, the causative agent in COVID-19, in Madagascar. Our main goals are to use these sequence data to: [1] Estimate timing of the origin of the COVID-19 epidemic in Madagascar, [2] Estimate the underreporting rate of qPCR-based positive case counts in Madagascar, and [3] Decipher patterns of cross-island connectivity and community spread across the island.
