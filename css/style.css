@@ -39,7 +39,7 @@ img {
 img.img-left-w-text {
   float: left;
   width: 200px;
-  padding: 1em 1em 1em 0;
+  padding: 0 1em 1em 0;
 }
 
 header {
