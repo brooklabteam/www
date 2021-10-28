@@ -13,6 +13,6 @@ Prior to the University of Chicago, I spent time as a [Miller Postdoctoral Fello
 <div style="clear:both;">&nbsp;</div>
 
 * Contact: cbrook (at) uchicago (dot) edu
-* <a href="/team/CV_CaraBrook_Full_October2021.pdf">Full CV</a>
+* <a href="/carabrook/CV_CaraBrook_Full_October2021.pdf">Full CV</a>
 * <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 * <a href="https://www.youtube.com/watch?v=8AMpIQ9gTbE">Research/Outreach Video Summary</a>
