@@ -10,7 +10,7 @@ We are recruiting PhD students! If you are interested in joining the Brook Lab, 
 
 <h2>A note on diversity and inclusion</h2>
 
-<img src="/jointhelab/ekipa_fanihy_happy.jpg" alt="bat" class="image-left-w-text" />
+<img src="/jointhelab/ekipa_fanihy_happy.jpg" alt="bat" class="img-left-w-text" />
 
 We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below.
 
