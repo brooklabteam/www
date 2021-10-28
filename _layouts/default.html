@@ -8,6 +8,12 @@
 
   {% include header.html %}
 
+  {% if page.title == "Brook Lab @ University of Chicago" %}
+    <h1>Brook Lab @ University of Chicago</h1>
+  {% else %}
+    <h1>{{ page.title | escape }}</h1>
+  {% endif %}
+
   {{ content }}
 
   {% include footer.html %}
