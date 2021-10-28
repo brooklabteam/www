@@ -24,6 +24,10 @@ img {
   max-width: 800px;
 }
 
+header {
+  padding: 0 0 2em 0;
+}
+
 header nav {
   float: right;
 }
