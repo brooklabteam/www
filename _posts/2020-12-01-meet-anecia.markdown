@@ -5,5 +5,5 @@ date: 2020-12-01 01:00:00 -0700
 description:  (optional)
 img: anecia_gentles.jpg # Add image post (optional)
 tags: [bats, Madagascar, women in science] # add tag
-link: https://brooklab.org/news/2020-12-01-AG-post
+link: /news/2020-12-01-AG-post
 ---
