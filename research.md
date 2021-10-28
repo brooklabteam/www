@@ -6,9 +6,11 @@ We use tools derived from field biology, molecular immunology, and epidemiologic
 
 <h2>Bats as reservoirs for emerging viral zoonoses</h2>
 
-<img src="/research/flying_bat.png" alt="bat" style="float: left; width: 300px; padding: 1em 1em 1em 0;" />
+<img src="/research/flying_bat.png" alt="bat" style="float: left; width: 200px; padding: 1em 1em 1em 0;" />
 
 Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. The Brook Lab investigates how these pathogens which manifest as highly virulent in humans are maintained at the **population-level** in wild bat reservoir hosts. Classic epidemiological modeling explores the dynamics of perfectly immunizing childhood infections, under which hosts are  born susceptible (S), become infectious (I), and recover (R) via immune responses retained for life. In the simplest example, infections persist maintained in a population by constant re-supply of susceptible births. Many bat species reproduce in annual or biannual birth pulses, meaning that susceptible re-supply is restricted within a year. Such a system suggests that bat viruses may be governed by more nuanced dynamics than standard SIR--be they longer infectious periods, latent periods for persistent infections, or periodic waning immunity. To elucidate these dynamics, we fit candidate mechanistic models to age-structured prevalence and seroprevalence data, which we collect ourselves through the field studies of the inimitable [Ekipa Fanihy](team.html). This work is funded through an [NIH capacity-building grant](http://grantome.com/grant/NIH/R01-AI129822-01) in partnership with the [Institut Pasteur of Madagascar](http://www.pasteur.mg/) (IPM).
+
+<div style="clear:both;">&nbsp;</div>
 
 <ul>
 	<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <b>Brook CE</b>. 2020. The zoonotic potential of bat-borne coronaviruses. <i>Emerging Topics in Life Sciences.</i> doi:<a href="https://doi.org/10.1042/ETLS20200097">10.1042/ETLS20200097</a>.</li>
@@ -22,6 +24,8 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 <img src="/research/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" style="width: 300px; padding: 1em 1em 1em 0;" />
 
 Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
+
+<div style="clear:both;">&nbsp;</div>
 
 <ul>
 	<li>Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M, and <b>Brook CE</b>. <i>In Review</i>. Bats host the most virulent—but not the most dangerous—zoonotic viruses. doi (pre-print): <a href="https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1">10.1101/2021.07.25.453574</a>.</li>
