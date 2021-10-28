@@ -23,6 +23,7 @@ img {
   width: 100%;
   max-width: 800px;
   padding: 0;
+  margin: 1em;
 }
 
 header {
