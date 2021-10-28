@@ -80,5 +80,9 @@ a:active {
 }
 
 ul {
+  font-size: 2em;
+}
+
+ul.citation {
   font-size: .5em;
 }
