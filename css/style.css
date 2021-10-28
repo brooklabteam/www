@@ -36,6 +36,12 @@ img {
   padding: 0;
 }
 
+img.img-left-w-text {
+  float: left;
+  width: 200px;
+  padding: 1em 1em 1em 0;
+}
+
 header {
   padding: 0 0 2em 0;
 }
