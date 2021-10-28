@@ -16,14 +16,13 @@ body {
 #wrapper {
   margin: auto;
   padding: 2em;
-  max-width: 800px;
+  max-width: 900px;
 }
 
 img {
   width: 100%;
-  max-width: 800px;
+  max-width: 900px;
   padding: 0;
-  margin: 1em;
 }
 
 header {
