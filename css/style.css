@@ -86,3 +86,11 @@ ul {
 ul.citation {
   font-size: .5em;
 }
+
+strong {
+  font-style: bold;
+}
+
+em {
+  font-style: italic;
+}
