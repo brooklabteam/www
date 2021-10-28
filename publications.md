@@ -4,9 +4,7 @@ layout: default
 ---
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
-<br>
-
-**In Review**
+<h2>In Review</h2>
 
 - Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Review. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
 
@@ -14,7 +12,7 @@ layout: default
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Review. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
-**In Revision**
+<h2>In Revision</h2>
 
 - Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Revision. *Epidemics*. doi (pre-print): [10.1101/2021.07.06.21259473](https://doi.org/10.1101/2021.07.06.21259473). \*=equal lead contributions; ± equal senior contributions
 
@@ -24,7 +22,7 @@ layout: default
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The future of host-virus network prediction. In Revision. *Nature Microbiology*.
 
-**In Press**
+<h2>In Press</h2>
 
 - Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... de Oliveira T.  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. In Press. *Science*. doi: [10.1101/2021.05.12.21257080](https://doi.org/10.1101/2021.05.12.21257080).
 
@@ -32,7 +30,7 @@ layout: default
 - Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. In Press. *Nature Microbiology*.
 
 
-**2021**
+<h2>2021</h2>
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. 2021. *Animal Conservation.* doi: [10.1111/acv.12714](https://doi.org/10.1111/acv.12714).
 
@@ -41,7 +39,7 @@ layout: default
 - Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, **Brook CE**, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. 2021. *Influenza and Other Respiratory Viruses.*  doi (pre-print): [10.22541/au.161088504.46456502/v1](https://doi.org/10.22541/au.161088504.46456502/v1).
 
 
-**2020**
+<h2>2020</h2>
 
 - Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. 2020. The zoonotic potential of bat-borne coronaviruses. 2020. *Emerging Topics in Life Sciences.* doi: [10.1042/ETLS20200097](https://doi.org/10.1042/ETLS20200097).
 
@@ -58,7 +56,7 @@ layout: default
     - Profiled in the National Science Foundation's '[4 Awesome Discoveries](https://www.youtube.com/watch?v=y5_g_pjf0eE&feature=youtu.be)' video series 
     - Covered in [The Economist](https://www.economist.com/science-and-technology/2020/04/18/bats-spread-viruses), [Science News](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people), [Berkeley News](https://news.berkeley.edu/2020/02/10/coronavirus-outbreak-raises-question-why-are-bat-viruses-so-deadly/), the [Daily Cal](https://www.sciencenews.org/article/bats-immune-system-viruses-ebola-marburg-people)
 
-**2019**
+<h2>2019</h2>
 
 -	**Brook CE**. 2019. A batty concept goes viral. *Nature Ecology & Evolution.* 3(12): 1620-1621. doi: [10.1038/s41559-019-1045-5](https://www.nature.com/articles/s41559-019-1045-5).
 
@@ -70,19 +68,19 @@ layout: default
 
 -	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L± and **Brook CE**±. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12(51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). ±=equal senior contributions
 
-**2018**
+<h2>2018</h2>
 
 - **Brook CE**, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. 2018. Population viability and harvest sustainability for Madagascar lemurs. *Conservation Biology.* doi: [10.1111/cobi.13151](https://doi.org/10.1111/cobi.13151).
 
-**2017**
+<h2>2017</h2>
 
 - **Brook CE**, Bai Y, Yu EO, Ranaivoson HC, Shin H, Dobson AP, Metcalf CJE±, Kosoy MY± and Dittmar K±. 2017. Elucidating transmission dynamics and host-parasite-vector relationships for rodent-borne *Bartonella* spp. in Madagascar. *Epidemics.* 20:56-66. ±= equal senior contributions doi: [10.1016/j.epidem.2017.03.004](https://doi.org/10.1016/j.epidem.2017.03.004).
 
-**2016**
+<h2>2016</h2>
 
 - Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M±, and Metcalf CJE. 2016±. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. *Journal of the Royal Society Interface.* 13(177): 20151101. \* =  equal lead contributions; ±=equal senior contributions. doi: [10.1098/rsif.2015.110](https://doi.org/10.1098/rsif.2015.110).
 
-**2015**
+<h2>2015</h2>
 
 - **Brook CE**, Beauclair R, Ngwenya O, Worden L,  Ndeffo-Mbah M, Lietman TM, Satpathy SK,  Galvani AP, and Porco TP. 2015. Spatial heterogeneity in projected leprosy trends in India. *Parasites & Vectors.* 8(542): 2-11. doi: [10.1186/s13071-015-1124-7](https://doi.org/10.1186/s13071-015-1124-7).
 
@@ -96,6 +94,6 @@ layout: default
 
 - Young HS, McCauley DJ, Dirzo R, Goheen JR, Agwanda B, **Brook CE**, Castillo EO, Ferguson AW, Nyaga SN, McDonough MM, Palmer TM, Pringle RM, Young TP, and Helgen KM. 2015. Context dependence of land-use change on small mammal communities. *Ecological Applications.* (25):348–60. doi: [10.1890/14-0995.1](https://doi.org/10.1890/14-0995.1).
 
-**2013**
+<h2>2013</h2>
 
 - **Brook CE**, Bernstein DP, and Hadly EA. 2013. Human food subsidies and Common Raven occurrence in Yosemite National Park, CA. *Western Birds.* 44(2):127-34.
