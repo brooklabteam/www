@@ -47,3 +47,25 @@ header li a {
 footer {
   padding: 2em 0;
 }
+
+a:link {
+  color: #26190D;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #26190D;
+  text-decoration: underline;
+}
+
+a:hover {
+//  color: #D9863D;
+  color: #26190D;
+  text-decoration: none;
+}
+
+a:active {
+//  color: #D9863D;
+  color: #26190D;
+  text-decoration: none;
+}
