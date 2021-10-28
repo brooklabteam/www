@@ -25,7 +25,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
 
-<div style="clear:left;">&nbsp;</div>
+<div style="clear:both;">&nbsp;</div>
 
 <ul>
 	<li>Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M, and <b>Brook CE</b>. <i>In Review</i>. Bats host the most virulent—but not the most dangerous—zoonotic viruses. doi (pre-print): <a href="https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1">10.1101/2021.07.25.453574</a>.</li>
