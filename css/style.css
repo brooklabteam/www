@@ -38,3 +38,7 @@ header li a {
   padding: 0 0 0 2em;
   text-decoration: none;
 }
+
+footer {
+  padding: 2em 0;
+}
