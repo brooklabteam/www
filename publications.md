@@ -4,7 +4,10 @@ layout: default
 ---
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
-<h2>In Review</h2>
+<h2>In Review, **pre-prints**</h2>
+
+-Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
+NAF, Treuer T, and **Brook CE&&. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Review. Journal of Mammalogy. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
 
 - Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Review. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
 
@@ -20,17 +23,16 @@ layout: default
 
 - Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Bats have “special” microbiomes: unique bacteriomes modulate bat health. In Revision. *Trends in Microbiology*. \*=equal senior contributions	
 
-- Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The future of host-virus network prediction. In Revision. *Nature Microbiology*.
+<h2>Accpeted, In Press</h2>
 
-<h2>In Press</h2>
-
-- Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... de Oliveira T.  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. In Press. *Science*. doi: [10.1101/2021.05.12.21257080](https://doi.org/10.1101/2021.05.12.21257080).
-
+- Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The science of the host-virus network. In Press. *Nature Microbiology*.
 
 - Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. In Press. *Nature Microbiology*.
 
 
 <h2>2021</h2>
+
+- Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... and de Oliveira T (291 authors).  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. 2021. *Science*. doi: [10.1126/science.abj4336](https://www.science.org/doi/10.1126/science.abj4336).
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. 2021. *Animal Conservation.* doi: [10.1111/acv.12714](https://doi.org/10.1111/acv.12714).
 
