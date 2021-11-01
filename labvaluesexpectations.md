@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Values and Expectations
+title: Lab Values and Policies
 ---
 
 
@@ -23,6 +23,7 @@ In Madagascar, where we conduct the bulk of our field work, the land represents 
 
 
 *Weekly Lab Meeting*
+
 A weekly hour-long lab meeting forms the core of our laboratory culture. We hold these meetings as video conferences to facilitate equal partnership with our colleagues who are not based in Chicago, most particularly those who are based in Madagascar. We set the calendar for lab meeting on a quarterly basis, with different lab members taking turns leading each session. We open each quarter with a lab meeting dedicated to discussions and readings surrounding issues related to Diversity, Equity, and Inclusion (DEI).
 
 After our inaugural DEI meeting, we alternate between weeks focused on "Research Updates" and "Science Lessons.". Prior to the central topic of the day, all lab meetings open with individual updates where each lab member shares one positive result from the week, one frustration, and one topic of anticipation for future weeks.
@@ -34,6 +35,7 @@ After our inaugural DEI meeting, we alternate between weeks focused on "Research
 You should expect, on average, to lead ~two lab meetings per quarter, one "Research Update" and one "Science Lesson". We are also always available for impromptu meetings if a lab member needs to practice a talk or receive quick feedback on a piece of work.
 
 *Semi-Annual Goals Meeting*
+
 Twice a year, in August and January, the Brook Lab hosts a meeting in which each member briefly summarizes the work they carried out over the last six months as well as the work they aim to accomplish in the next six months. During these meetings, members may also highlight any shortcomings related to their research and discuss potential solutions to increase future success.
 
 
@@ -48,14 +50,17 @@ Students, postdocs, and lab managers who make up the University of Chicago conti
 Funding is rarely discussed openly in academic settings but is generally a critical component of scientific research. I am trying to make this a more open dialogue in the Brook Lab. Explicit funding policies are as follows:
 
 *Salary*
+
 If you are a University of Chicago postdoc or technician or a University of Antananarivo PhD student, your salary is covered by the lab for the duration of your contract and subject to renewal on an annual basis. If you are a University of Chicago PhD student, you are funded through a combination of departmental funds, training grants, personal fellowships, and grant money from the lab. I expect and encourage all PhD students and postdocs to pursue fellowship opportunities, as grant writing is good practice, and fellowships are prestigious additions to a CV.
 
 Per university policy, University of Chicago salaries include medical and retirement benefits. All members of the Brook lab will receive a 3% salary increase per year, instituted annually upon the start date of your employment. For those based in Madagascar who worked in the lab previous to my employment at U-Chicago, this policy begins on August 1, 2021.
 
 *Research Funding*
+
 It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your réesumé. A list of small grants with links to websites can be found here -- please add as you find other opportunities.
 
 *Personal Development and Personal Equipment*
+
 University of Chicago and University of Antananarivo PhD students working in the Brook Llab will have the opportunity to purchase one computer for personal research use during their tenure in the lab--this can be acquired immediately upon entering the lab or at a later date, as each person sees fit. The exact specifications of the machine will be worked out on a case-by-case basis between the student and the PI.
 
 Postdocs and lab technicians or managers will also have the opportunity to acquire a computer for use, though I ask that these will remain with the lab after the postdoc or technician departs. Please reach out if you are in need of a machine for your work. If you prefer to use your own device, that is perfectly acceptable and can be subsidized with your personal development funds.
@@ -63,6 +68,7 @@ Postdocs and lab technicians or managers will also have the opportunity to acqui
 Each lab member, both from the University of Chicago and the University of Antananarivo, will have access to $200 annually for personal development (monitors, headphones, books, workshops, etc.). In general, these funds will not rollover from year-to-year. However, if you are interested in compiling funds across multiple years for a specific purpose, this can be arranged upon request.
 
 *Conference Travel*
+
 University of Chicago PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification.
 
 University of Antananarivo PhD students will be funded to attend one international conference per person during the duration of their PhD tenure (conference fees, travel, lodging). If opportunities for domestic conferences that are scientifically relevant arise within Madagascar, the lab will fund attendance to these, as well.
@@ -81,6 +87,7 @@ Due to our cross-continental extent, the Brook Lab has many policies in place th
 University of Antananarivo PhD students will be funded to train at the University of Chicago for a minimum of one four week session during the course of their PhD research. These trainings will require significant advance planning and flexibility with timing on the part of the student.
 
 *Parental Leave*
+
 We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of the University of Chicago, as outlined here. That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
 
 ---
