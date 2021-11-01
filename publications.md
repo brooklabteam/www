@@ -23,7 +23,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Bats have “special” microbiomes: unique bacteriomes modulate bat health. In Revision. *Trends in Microbiology*. \*=equal senior contributions	
 
-<h2>Accpeted, In Press</h2>
+<h2>In Press (accepted)</h2>
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The science of the host-virus network. In Press. *Nature Microbiology*.
 
