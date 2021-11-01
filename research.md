@@ -58,7 +58,7 @@ NAF, Treuer T, and <strong>Brook CE</strong>. 2021. Reproduction, seasonal morph
 	<li><strong>Brook CE</strong>, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. 2018. Population viability and harvest sustainability for Madagascar lemurs. <em>Conservation Biology.</em> doi:  <a href="https://doi.org/10.1111/cobi.13151">10.1111/cobi.13151</a>. </li>
 </ul>
 
-<h2>Next Generation Sequencing for Public Health in Madagascar</h2>
+<h2>Next Generation Sequencing for public health in Madagascar</h2>
 
 <img src="/research/christian_CZB.jpg" alt="chris_czb" class="img-left-w-text" />
 
