@@ -4,10 +4,10 @@ layout: default
 ---
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
-<h2>In Review, **pre-prints**</h2>
+<h2>In Review (pre-prints)</h2>
 
--Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
-NAF, Treuer T, and **Brook CE&&. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Review. Journal of Mammalogy. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
+- Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
+NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Review. Journal of Mammalogy. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
 
 - Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Review. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
 
