@@ -25,9 +25,13 @@ In Madagascar, where we conduct the bulk of our field work, the land represents 
 *Weekly Lab Meeting*
 
 A weekly hour-long lab meeting forms the core of our laboratory culture. We hold these meetings as video conferences to facilitate equal partnership with our colleagues who are not based in Chicago, most particularly those who are based in Madagascar. We set the calendar for lab meeting on a quarterly basis, with different lab members taking turns leading each session. We open each quarter with a lab meeting dedicated to discussions and readings surrounding issues related to Diversity, Equity, and Inclusion (DEI).
-<br/>
+
+
+
 After our inaugural DEI meeting, we alternate between weeks focused on "Research Updates" and "Science Lessons.". Prior to the central topic of the day, all lab meetings open with individual updates where each lab member shares one positive result from the week, one frustration, and one topic of anticipation for future weeks.
-<br/>
+
+
+
 "Research Updates" are informal presentations designed to solicit feedback from the rest of the lab about work-in-progress (data analysis, project design, grant/proposal/paper writing). 
 <br/>
 "Science Lessons" are more flexible: we ask only that you teach us all something new. This can take the form of a journal club, a review of a particular area of the literature, a tutorial on a useful tool, or a facilitated discussion of relevant science or science-related news.
@@ -79,6 +83,7 @@ You are entitled to 4 weeks of vacation, 8 designated holidays, and 12 sick days
 Due to our cross-continental extent, the Brook Lab has many policies in place that support remote work. That said, University of Chicago PhD students will need to live in Chicago to attend courses and participate in departmental and lab activities. University of Chicago postdocs are also expected to be on site, unless a remote residence is negotiated with the PI Cara. In the event of the latter, I will fund travel (flight only) to Chicago once per quarter for those based domestically; and once per year for those based internationally. 
 <br/>
 University of Antananarivo PhD students will be funded to train at the University of Chicago for a minimum of one four week session during the course of their PhD research. These trainings will require significant advance planning and flexibility with timing on the part of the student.
+
 <br/>
 *Parental Leave*
 We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of the University of Chicago, as outlined here. That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
