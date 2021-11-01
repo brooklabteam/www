@@ -35,7 +35,13 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/team/freddygonzalez.jpg" alt="freddy" class="img-left-w-text" />
 
-Freddy Gonzalez is the **lab manager** and a post-baccalaureate student through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts.
+Freddy Gonzalez is a post-baccalaureate **Research Assistant** funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/team/yimei-li.jpg" alt="freddy" class="img-left-w-text" />
+
+Yimei Li is a post-baccalaureate **Research Assistant** in the Department of Ecology and Evolution at the University of Chicago. She is working on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. Yimei holds a Master’s degree in Environmental Studies from the University of Pennsylvania where she focused on human-environment relationship and her B.S. from Drexel University where she studied computational biology.
 
 <div style="clear:both;">&nbsp;</div>
 
