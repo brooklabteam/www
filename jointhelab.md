@@ -2,11 +2,11 @@
 layout: default
 title: "Join the Lab"
 ---
-We are recruiting PhD students! If you are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form <a href="https://airtable.com/shrwbDz0QWBo0SMnQ">linked here</a> by midnight on October 31, 2021.
+If you are a prospective PhD student, the submission window for expressions of interest has already passed, though the U-Chicago asmissions deadline is not until December 1. If you are just seeing this posting for the first time and are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form <a href="https://airtable.com/shrwbDz0QWBo0SMnQ">linked here</a>. Please also drop me an email at [cbrook@uchicag.edu](cbrook@uchicag.edu) to alert me of your submission, as I have already begun arranging conversations with prospective applicants.
 
 <br />
 
-<em>This page last updated October 28, 2021.</em>
+<em>This page last updated November 4, 2021.</em>
 
 --- 
 
@@ -26,7 +26,7 @@ I recently started as an Assistant Professor in the [Department of Ecology and E
 
 <br />
 
-**If you are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrwbDz0QWBo0SMnQ) by midnight on October 31, 2021**. I will review submissions and arrange 30-minute conversations with promising candidates the week of November 8, just under a month prior to the application deadline for U-Chicago.
+**If you are interested in joining the Brook Lab, I asked that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrwbDz0QWBo0SMnQ) prior to midnight on October 31, 2021**. If you are just seeing this posting for the first time, you can still submit materials, but please drop me an email to notify me of your submission.
 
 <br />
 
