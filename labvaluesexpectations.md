@@ -8,7 +8,7 @@ The Brook Lab is an equal-opportunity group, committed to enacting anti-racist a
 
 <br/>
 
-We believe that open policies and expectations promote a more equitable and inclusive laboratory environment. This "Lab Values and Expectations" is a living document designed to provide guidelines for conduct for the PI, postdocs, PhD students, lab managers, and collaborators who make up the Brook Lab.
+We believe that open policies and expectations promote a more equitable and inclusive laboratory environment. This "Lab Values and Policies" is a living document designed to provide guidelines for conduct for the PI, postdocs, PhD students, lab managers, and collaborators who make up the Brook Lab.
 
 ---
 
