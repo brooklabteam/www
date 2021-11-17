@@ -23,7 +23,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 <h2>In Press (accepted)</h2>
 
-- **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Press. *Epidemics*. doi (pre-print): [10.1101/2020.11.12.20230870](https://doi.org/10.1101/2020.11.12.20230870)
+- **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Press. *Epidemics*. doi (pre-print): [10.1016/j.epidem.2021.100527](https://doi.org/10.1016/j.epidem.2021.100527)
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The science of the host-virus network. In Press. *Nature Microbiology*.
 
