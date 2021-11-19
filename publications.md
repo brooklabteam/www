@@ -19,7 +19,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Revision. *Epidemics*. doi (pre-print): [10.1101/2021.07.06.21259473](https://doi.org/10.1101/2021.07.06.21259473). \*=equal lead contributions; ± equal senior contributions
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Bats have “special” microbiomes: unique bacteriomes modulate bat health. In Revision. *Trends in Microbiology*. \*=equal senior contributions	
+- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do unique gastrointestinal microbiomes facilitate bats’ roles as major viral reservoirs? In Revision. *Trends in Microbiology*. \*=equal senior contributions	
 
 <h2>In Press (accepted)</h2>
 
@@ -29,7 +29,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 <h2>2021</h2>
 
-- Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. 2021. *Nature Microbiology*. doi: [10.1038/s41579-021-00652-2](https://doi.org/10.1038/s41579-021-00652-2)
+- Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. 2021. *Nature Reviews Microbiology*. doi: [10.1038/s41579-021-00652-2](https://doi.org/10.1038/s41579-021-00652-2)
 
 - Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... and de Oliveira T (291 authors).  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. 2021. *Science*. doi: [10.1126/science.abj4336](https://www.science.org/doi/10.1126/science.abj4336).
 
