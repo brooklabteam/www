@@ -27,10 +27,9 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The science of the host-virus network. In Press. *Nature Microbiology*.
 
-- Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. In Press. *Nature Microbiology*.
-
-
 <h2>2021</h2>
+
+- Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. 2021. *Nature Microbiology*. doi: [10.1038/s41579-021-00652-2](https://doi.org/10.1038/s41579-021-00652-2)
 
 - Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... and de Oliveira T (291 authors).  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. 2021. *Science*. doi: [10.1126/science.abj4336](https://www.science.org/doi/10.1126/science.abj4336).
 
