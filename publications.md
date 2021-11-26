@@ -9,11 +9,12 @@ layout: default
 - Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
 NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Review. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
 
-- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Review. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
 
 - **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1).
 
 <h2>In Revision</h2>
+
+- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Revision. *Frontiers in Public Health*. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Revision. *PNAS*. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
@@ -21,13 +22,11 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do unique gastrointestinal microbiomes facilitate bats’ roles as major viral reservoirs? In Revision. *Trends in Microbiology*. \*=equal senior contributions	
 
-<h2>In Press (accepted)</h2>
-
-- **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. In Press. *Epidemics*. doi (pre-print): [10.1016/j.epidem.2021.100527](https://doi.org/10.1016/j.epidem.2021.100527)
-
-- Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The science of the host-virus network. In Press. *Nature Microbiology*.
-
 <h2>2021</h2>
+
+- **Brook CE**, Northrup GR, Ehrenberg AJ, the IGI Testing Consortium, Doudna JA, and Boots M. Optimizing COVID-19 control with asymptomatic surveillance testing in a university environment. 2021. *Epidemics*. doi: [10.1016/j.epidem.2021.100527](https://doi.org/10.1016/j.epidem.2021.100527)
+
+- Albery GF, Becker DJ, Brierley L, **Brook CE**, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell M, Glennon E, Guth S, Joseph MB, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Sjodin AR, Seifert S, Sorrell EM, and Carlson CJ. The science of the host-virus network. 2021. *Nature Microbiology*. doi: [10.1038/s41564-021-00999-5](https://doi.org/10.1038/s41564-021-00999-5)
 
 - Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. 2021. *Nature Reviews Microbiology*. doi: [10.1038/s41579-021-00652-2](https://doi.org/10.1038/s41579-021-00652-2)
 
