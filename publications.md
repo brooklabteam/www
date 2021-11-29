@@ -18,9 +18,12 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Revision. *PNAS*. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
-- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Revision. *Epidemics*. doi (pre-print): [10.1101/2021.07.06.21259473](https://doi.org/10.1101/2021.07.06.21259473). \*=equal lead contributions; ± equal senior contributions
 
 - Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do unique gastrointestinal microbiomes facilitate bats’ roles as major viral reservoirs? In Revision. *Trends in Microbiology*. \*=equal senior contributions	
+
+<h2>Accepted, In Press</h2>
+
+- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. In Press. *Epidemics*. doi (pre-print): [10.1101/2021.07.06.21259473](https://doi.org/10.1101/2021.07.06.21259473). \*=equal lead contributions; ± equal senior contributions
 
 <h2>2021</h2>
 
