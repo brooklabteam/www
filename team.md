@@ -33,6 +33,12 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/team/katie-young.jpg" alt="young" class="img-left-w-text" />
+**Katie Young** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be using an inter-disciplinary approach including field-based sampling, metagenomic sequencing, and open-source data to better understand the complex host-vector-environmental interactions that drive viral emergence in Madagascar. Katie holds a Master’s degree and Ph.D. from New Mexico State University where she studied the ecology and evolution of arthropod-borne viruses. She was awarded a Fulbright Fellowship in 2016 to research the impact of oil palm insertion into native Bornean forests on the risk of spillover of dengue viruses from non-human primates to humans. Prior to joining the Brook Lab, Katie was a USDA-ARS funded postdoctoral fellow studying the ecological drivers of vesicular stomatitis virus emergence from Southern Mexico into the US and supported the development of an early warning system using Big-Data-Model-Integration approaches.
+
+<div style="clear:both;">&nbsp;</div>
+
+
 <img src="/team/freddygonzalez.jpg" alt="freddy" class="img-left-w-text" />
 
 Freddy Gonzalez is a post-baccalaureate **Research Assistant** funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts.
