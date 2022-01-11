@@ -29,15 +29,16 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/team/theresa_laverty.jpg" alt="theresa" class="img-left-w-text" />
+
 **[Theresa Laverty](https://theresalaverty.weebly.com/)** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. Using methods such as molecular dietary analysis and population viability analyses, her work will advance our knowledge of the population, community, and disease ecology of Malagasy bats. Theresa holds a PhD in Fish, Wildlife, and Conservation Biology from Colorado State University, where she conducted social and ecological research to understand the drivers of bat community structure and identify conservation challenges / opportunities within pastoralist communal conservancies in the northern Namib Desert, Namibia. Prior to Chicago, Theresa was a postdoctoral fellow at Colorado State University studying the population ecology of migratory long-nosed bats (Leptonycteris spp.) in relation to the timing and availability of their Agave nectar food in New Mexico.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/team/katie-young.jpg" alt="young" class="img-left-w-text" />
+
 **Katie Young** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be using an inter-disciplinary approach including field-based sampling, metagenomic sequencing, and open-source data to better understand the complex host-vector-environmental interactions that drive viral emergence in Madagascar. Katie holds a Master’s degree and Ph.D. from New Mexico State University where she studied the ecology and evolution of arthropod-borne viruses. She was awarded a Fulbright Fellowship in 2016 to research the impact of oil palm insertion into native Bornean forests on the risk of spillover of dengue viruses from non-human primates to humans. Prior to joining the Brook Lab, Katie was a USDA-ARS funded postdoctoral fellow studying the ecological drivers of vesicular stomatitis virus emergence from Southern Mexico into the US and supported the development of an early warning system using Big-Data-Model-Integration approaches.
 
 <div style="clear:both;">&nbsp;</div>
-
 
 <img src="/team/freddygonzalez.jpg" alt="freddy" class="img-left-w-text" />
 
