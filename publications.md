@@ -18,7 +18,9 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Revision. *PNAS*. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do unique gastrointestinal microbiomes facilitate bats’ roles as major viral reservoirs? In Revision. *Trends in Microbiology*. \*=equal senior contributions	
+<h2>In Press, Accepted</h2>
+
+- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? In Press. *Trends in Microbiology*. \*=equal senior contributions	
 
 
 <h2>2021</h2>
