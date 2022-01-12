@@ -34,7 +34,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/team/katie-young.png" alt="young" class="img-left-w-text" />
+<img src="/team/katie-young.png" alt="katie" class="img-left-w-text" />
 
 **Katie Young** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be using an inter-disciplinary approach including field-based sampling, metagenomic sequencing, and open-source data to better understand the complex host-vector-environmental interactions that drive viral emergence in Madagascar. Katie holds a Master’s degree and Ph.D. from New Mexico State University where she studied the ecology and evolution of arthropod-borne viruses. She was awarded a Fulbright Fellowship in 2016 to research the impact of oil palm insertion into native Bornean forests on the risk of spillover of dengue viruses from non-human primates to humans. Prior to joining the Brook Lab, Katie was a USDA-ARS funded postdoctoral fellow studying the ecological drivers of vesicular stomatitis virus emergence from Southern Mexico into the US and supported the development of an early warning system using Big-Data-Model-Integration approaches.
 
@@ -46,13 +46,13 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/team/yimei-li.jpg" alt="freddy" class="img-left-w-text" />
+<img src="/team/yimei-li.jpg" alt="yimei" class="img-left-w-text" />
 
 **Yimei Li** is a post-baccalaureate **Research Assistant** in the Department of Ecology and Evolution at the University of Chicago. She is working on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. Yimei holds a Master’s degree in Environmental Studies from the University of Pennsylvania where she focused on human-environment relationship and her B.S. from Drexel University where she studied computational biology.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/team/vera-soloview.jpeg" alt="freddy" class="img-left-w-text" />
+<img src="/team/vera-soloview.jpeg" alt="vera" class="img-left-w-text" />
 
 **Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
 
