@@ -52,6 +52,12 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/team/vera-soloview.jpeg" alt="freddy" class="img-left-w-text" />
+
+**Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
+
+<div style="clear:both;">&nbsp;</div>
+
 <h2>Madagascar Team</h2>
 
 <img src="/team/angelo_andrianiaina.jpg" alt="bat" class="img-left-w-text" />
