@@ -14,13 +14,15 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 <h2>In Revision</h2>
 
-- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Revision. *Frontiers in Public Health*. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
-
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Revision. *PNAS*. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
 <h2>In Press, Accepted</h2>
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? In Press. *Trends in Microbiology*. \*=equal senior contributions	
+- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Press. *Frontiers in Public Health*. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
+
+<h2>2022</h2>
+
+- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2021. *Trends in Microbiology*. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
 
 
 <h2>2021</h2>
