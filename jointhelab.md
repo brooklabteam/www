@@ -55,7 +55,7 @@ Please see [here](/jointhelab/fieldtechjob) for a previous job description!
 <br />
 
 If you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities;
--- ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))
+- ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))
 - [Texas A&M Wildlife and Fisheries Sciences job board](https://wfscjobs.tamu.edu/job-board/)
 - [Society for Conservation Biology job board](https://careers.conbio.org/)
 - [Primate-jobs (paid jobs in primatology)](https://groups.google.com/a/g-groups.wisc.edu/g/primate-job)
