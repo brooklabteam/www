@@ -51,6 +51,7 @@ In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually Am
 <br />
 
 Please see [here](/jointhelab/fieldtechjob) for a previous job description!
+
 <br />
 
 If you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities;
