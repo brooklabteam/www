@@ -54,7 +54,10 @@ Please see [here](/jointhelab/fieldtechjob) for a previous job description!
 
 <br />
 
-If you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities;
+If you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
+
+<br />
+
 - ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))
 - [Texas A&M Wildlife and Fisheries Sciences job board](https://wfscjobs.tamu.edu/job-board/)
 - [Society for Conservation Biology job board](https://careers.conbio.org/)
