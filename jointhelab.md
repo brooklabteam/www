@@ -58,11 +58,9 @@ If you are interested in finding research positions in the meantime, you may wan
 
 <br />
 
-<p>This is a single paragraph</p>
-
-- ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))
-- [Texas A&M Wildlife and Fisheries Sciences job board](https://wfscjobs.tamu.edu/job-board/)
-- [Society for Conservation Biology job board](https://careers.conbio.org/)
+<p>ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))</p>
+<p>[Texas A&M Wildlife and Fisheries Sciences job board](https://wfscjobs.tamu.edu/job-board/)</p>
+</p>- [Society for Conservation Biology job board](https://careers.conbio.org/)</p>
 - [Primate-jobs (paid jobs in primatology)](https://groups.google.com/a/g-groups.wisc.edu/g/primate-job)
 - [Wildlife Disease Association job board](https://www.wildlifedisease.org/PersonifyEbusiness/Opportunities/Careers)
 - [Society for Integrative & Comparative Biology job board](https://sicb.org/jobs-and-fellowships/)
