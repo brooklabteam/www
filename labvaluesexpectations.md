@@ -102,9 +102,11 @@ University of Chicago PhD students, postdocs, and technicians will be funded to 
 
 University of Antananarivo PhD students will be funded to attend one international conference per person during the duration of their PhD tenure (conference fees, travel, lodging). If opportunities for domestic conferences that are scientifically relevant arise within Madagascar, the lab will fund attendance to these, as well.
 
-Outside of the Brook lab, University of Chicago graduate students are eligible to apply for a $500 travel grant once every calendar year through the Biological Sciences Division (BSD). There is both a fall and a spring deadline for applications, which are solicited via email. Scroll down on [this link](https://biosciences.uchicago.edu/current-students/funding) for details about how to apply.
+Outside of the Brook lab, University of Chicago graduate students have access to \$500 of "student funds" per year which can compile from year-to-year and can be applied to conferences, travel, electronics, or a variety of other items. Check with Audrey Aronowksy for details.
 
-University of Chicago postdoctoral scholars are eligible to apply for either a $500 travel grant for conferences or a 1000 travel grant for career development workshops through the BSD Office for Postdoctoral Affairs. Applications are solicited annuall via email. See details from last year [here](https://bsdpostdoc.uchicago.edu/2019/08/22/2019-2020-bsd-career-advancement-for-postdocs-travel-award/).
+Additionally, U-Chicago grad students are eligible to apply for a \$500 travel grant once every calendar year through the Biological Sciences Division (BSD). There is both a fall and a spring deadline for applications, which are solicited via email. Scroll down on [this link](https://biosciences.uchicago.edu/current-students/funding) for details about how to apply.
+
+University of Chicago postdoctoral scholars are eligible to apply for either a \$500 travel grant for conferences or a \$1000 travel grant for career development workshops through the BSD Office for Postdoctoral Affairs. Applications are solicited annually via email. See details from last year [here](https://bsdpostdoc.uchicago.edu/2019/08/22/2019-2020-bsd-career-advancement-for-postdocs-travel-award/).
 <br />
 
 
