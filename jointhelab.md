@@ -60,7 +60,7 @@ If you are interested in finding research positions in the meantime, you may wan
 
 <dl>
   <dt>Coffee</dt>
-  <dd>- [Society for Conservation Biology job board](https://careers.conbio.org/)</dd>
+  <dd>- <a href="https://careers.conbio.org/">Society for Conservation Biology job board</a>  </dd>
 </dl>
 
 <br />
