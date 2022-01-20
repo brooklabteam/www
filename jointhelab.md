@@ -56,8 +56,6 @@ Please see [here](/jointhelab/fieldtechjob) for a previous job description!
 
 If you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
 
-<br />
-
 <dl>
   <dt></dt>
   <dd>- ECOLOG-L job board (note you need to register first for access- <a href="https://halllab.asu.edu/how-to-join-the-ecolog-job-board/">instructions here</a>)</dd>
