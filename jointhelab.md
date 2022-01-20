@@ -58,11 +58,26 @@ If you are interested in finding research positions in the meantime, you may wan
 
 <br />
 
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink</dd>
+</dl>
+
+<br />
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 <p>ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))</p>
 <p>[Texas A&M Wildlife and Fisheries Sciences job board](https://wfscjobs.tamu.edu/job-board/)</p>
-</p> - [Society for Conservation Biology job board](https://careers.conbio.org/)</p>
-</p> - [Primate-jobs (paid jobs in primatology)](https://groups.google.com/a/g-groups.wisc.edu/g/primate-job)</p>
+- [Society for Conservation Biology job board](https://careers.conbio.org/)</p>
+- [Primate-jobs (paid jobs in primatology)](https://groups.google.com/a/g-groups.wisc.edu/g/primate-job)</p>
 </p> - [Wildlife Disease Association job board](https://www.wildlifedisease.org/PersonifyEbusiness/Opportunities/Careers)</p>
 </p> - [Society for Integrative & Comparative Biology job board](https://sicb.org/jobs-and-fellowships/)</p>
 </p> - [IDDjobs (infectious disease dynamics opportunities)](https://iddjobs.org/)</p>
 </p> - [Wolves & Moose of Isle Royale](https://isleroyalewolf.org/participate/participate/interns.html)</p>
+
