@@ -72,19 +72,19 @@ If you are a University of Chicago postdoc or technician or a University of Anta
 
 <br />
 
-Per university policy, University of Chicago salaries include medical and retirement benefits. All members of the Brook lab will receive a 3% salary increase per year, instituted annually upon the start date of your employment. For those based in Madagascar who worked in the lab previous to my employment at U-Chicago, this policy begins on August 1, 2021.
+Per university policy, University of Chicago salaries include medical and retirement benefits.
 
 <br />
 
 *Research Funding*
 
-It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your réesumé. A list of small grants with links to websites can be found here -- please add as you find other opportunities.
+It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your résumé. A list of small grants with links to websites can be found here -- please add as you find other opportunities.
 
 <br />
 
 *Personal Development and Personal Equipment*
 
-University of Chicago and University of Antananarivo PhD students working in the Brook Llab will have the opportunity to purchase one computer for personal research use during their tenure in the lab--this can be acquired immediately upon entering the lab or at a later date, as each person sees fit. The exact specifications of the machine will be worked out on a case-by-case basis between the student and the PI.
+University of Chicago and University of Antananarivo PhD students working in the Brook Lab will have the opportunity to purchase one computer for personal research use during their tenure in the lab--this can be acquired immediately upon entering the lab or at a later date, as each person sees fit. The exact specifications of the machine will be worked out on a case-by-case basis between the student and the PI.
 
 <br />
 
@@ -92,17 +92,20 @@ Postdocs and lab technicians or managers will also have the opportunity to acqui
 
 <br />
 
-Each lab member, both from the University of Chicago and the University of Antananarivo, will have access to $200 annually for personal development (monitors, headphones, books, workshops, etc.). In general, these funds will not rollover from year-to-year. However, if you are interested in compiling funds across multiple years for a specific purpose, this can be arranged upon request.
+Each lab member, both from the University of Chicago and the University of Antananarivo, will have access to $200 annually for personal development (monitors, headphones, books, workshops, etc.), corresponding to the start date of your employment. These funds can roll over from year-to-year, and you will be able to access them in advance for a larger, composite purchase if desired, pending discussion with me regarding available funds. 
 
 <br />
 
 *Conference Travel*
 
-University of Chicago PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification.
-
-<br />
+University of Chicago PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification. 
 
 University of Antananarivo PhD students will be funded to attend one international conference per person during the duration of their PhD tenure (conference fees, travel, lodging). If opportunities for domestic conferences that are scientifically relevant arise within Madagascar, the lab will fund attendance to these, as well.
+
+Outside of the Brook lab, University of Chicago graduate students are eligible to apply for a $500 travel grant once every calendar year through the Biological Sciences Division (BSD). There is both a fall and a spring deadline for applications, which are solicited via email. Scroll down on [this link](https://biosciences.uchicago.edu/current-students/funding) for details about how to apply.
+
+University of Chicago postdoctoral scholars are eligible to apply for either a $500 travel grant for conferences or a 1000 travel grant for career development workshops through the BSD Office for Postdoctoral Affairs. Applications are solicited annuall via email. See details from last year [here](https://bsdpostdoc.uchicago.edu/2019/08/22/2019-2020-bsd-career-advancement-for-postdocs-travel-award/).
+<br />
 
 
 ---
@@ -113,7 +116,7 @@ Lifestyle freedom is one of the great perks of being an academic, and I do not p
 
 <br />
 
-You are entitled to 4 weeks of vacation, 8 designated holidays, and 12 sick days per year per university policy. You can allocate these as you see fit, and I trust you to keep your own calendar--if you work on a Sunday so you can take a Friday off when family is in town, that is perfectly reasonable. For longer vacations, I simply ask that you keep me informed of your plans a month or two in advance. For my own part, I often take vacation as: ~1.5 weeks off around the holidays, ~1.5 weeks off in the summer, and a smattering of long weekends interspersed throughout the year.
+You are entitled to 4 weeks of vacation, 8 designated holidays, and 12 sick days per year per university policy. You can allocate these as you see fit, and I trust you to keep your own calendar--if you work on a Sunday so you can take a Friday off when family is in town, that is perfectly reasonable. For longer vacations, I simply ask that you keep me informed of your plans a month or two in advance. For my own part, I often take vacation as: ~1.5 weeks off around the holidays, ~2 weeks off in the summer, and a smattering of long weekends interspersed throughout the year.
 
 <br />
 
