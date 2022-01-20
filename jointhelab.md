@@ -59,19 +59,16 @@ If you are interested in finding research positions in the meantime, you may wan
 <br />
 
 <dl>
-  <dt>Coffee</dt>
+  <dt>ECOLOG-L job board (note you need to register first for access- <a href="https://halllab.asu.edu/how-to-join-the-ecolog-job-board/">instructions here</a>)</dt>
+  <dd>- <a href="https://wfscjobs.tamu.edu/job-board/">Texas A&M Wildlife and Fisheries Sciences job board</a>  </dd>
   <dd>- <a href="https://careers.conbio.org/">Society for Conservation Biology job board</a>  </dd>
+  <dd>- <a href="https://groups.google.com/a/g-groups.wisc.edu/g/primate-job">Primate-jobs (paid jobs in primatology)</a>  </dd>
+  <dd>- <a href="https://www.wildlifedisease.org/PersonifyEbusiness/Opportunities/Careers">Wildlife Disease Association job board</a>  </dd>
+  <dd>- <a href="https://sicb.org/jobs-and-fellowships/">Society for Integrative & Comparative Biology job board</a>  </dd>
+  <dd>- <a href="https://iddjobs.org/">IDDjobs (infectious disease dynamics opportunities)</a>  </dd>
+  <dd>- <a href="https://isleroyalewolf.org/participate/participate/interns.html">Wolves & Moose of Isle Royale</a>  </dd>
 </dl>
 
 <br />
 
-
-<p>ECOLOG-L job board (note you need to register first for access- [instructions here](https://halllab.asu.edu/how-to-join-the-ecolog-job-board/))</p>
-<p>[Texas A&M Wildlife and Fisheries Sciences job board](https://wfscjobs.tamu.edu/job-board/)</p>
-- </p>
-- [Primate-jobs (paid jobs in primatology)](https://groups.google.com/a/g-groups.wisc.edu/g/primate-job)</p>
-</p> - [Wildlife Disease Association job board](https://www.wildlifedisease.org/PersonifyEbusiness/Opportunities/Careers)</p>
-</p> - [Society for Integrative & Comparative Biology job board](https://sicb.org/jobs-and-fellowships/)</p>
-</p> - [IDDjobs (infectious disease dynamics opportunities)](https://iddjobs.org/)</p>
-</p> - [Wolves & Moose of Isle Royale](https://isleroyalewolf.org/participate/participate/interns.html)</p>
 
