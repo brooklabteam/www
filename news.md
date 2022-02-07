@@ -30,7 +30,7 @@ permalink: /news/
 </article>
 
 <div style="clear:both;">&nbsp;</div>
-
+ 
 {% endfor %}
 
 
