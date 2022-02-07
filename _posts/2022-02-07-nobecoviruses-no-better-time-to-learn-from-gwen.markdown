@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Santino Andry reflects on COVID-19 in Madagascar...
+title: Nobecoviruses? No better time to learn! 
 date: 2022-02-07 01:00:00 -0700
 description:  (optional)
 img: GK.jpg # Add image post (optional)
