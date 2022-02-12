@@ -66,6 +66,7 @@ If you are interested in finding research positions in the meantime, you may wan
   <dd>- <a href="https://sicb.org/jobs-and-fellowships/">Society for Integrative & Comparative Biology job board</a>  </dd>
   <dd>- <a href="https://iddjobs.org/">IDDjobs (infectious disease dynamics opportunities)</a>  </dd>
   <dd>- <a href="https://isleroyalewolf.org/participate/participate/interns.html">Wolves & Moose of Isle Royale</a>  </dd>
+  <dd>- <a href="https://ornithologyexchange.org/jobs/board/">Ornithology Exchange job board</a>  </dd>
 </dl>
 
 <br />
