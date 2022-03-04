@@ -3,7 +3,7 @@ layout: default
 pagination:
   enabled: true
 title: News
-permalink: /news/
+permalink: /news
 ---
 {% for post in site.posts %}
 <article class="post">
