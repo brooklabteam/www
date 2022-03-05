@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Ekipa Fanihy (Team)
 ---
 <img src="/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-left-w-text" />
