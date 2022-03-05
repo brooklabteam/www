@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lab Values and Policies
+permalink: /values-and-policies
 ---
 
 

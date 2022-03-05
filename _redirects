@@ -3,6 +3,10 @@
 # Redirects from what the browser requests to what we serve
 /feed              /feed.xml
 
+# Redirects from changing page URLs
+/jointhelab	/join
+/labvaluesexpectations	/values-and-expectations
+
 # Redirects from old post titles
 /news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
 /news/2022-02-07-GK-post	/news/nobecoviruses-paper
