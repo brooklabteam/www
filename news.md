@@ -8,13 +8,10 @@ permalink: /news
 {% for post in site.posts %}
 <article class="post">
   <div class="post-image" style="float:left; width:200px;">
-    {% if post.img %}
-    <a class="post-thumbnail" href="{{post.url | prepend: site.baseurl}}">
+    <a class="post-thumbnail" href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">{{ post.title }}">
       <img src="{{"/assets/img/" | prepend: site.baseurl | append : post.img}}"/>
     </a>
   </div>
-  {% else %}
-  {% endif %}
   <div class="post-content" style="float:left; margin-left:2em; max-width:500px;">
 
     <a href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">{{ post.title }}</a>

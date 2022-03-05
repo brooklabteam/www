@@ -1,0 +1,7 @@
+# netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+
+# Redirects from what the browser requests to what we serve
+/feed              /feed.xml
+
+# Redirects from old post titles
+# none yet
