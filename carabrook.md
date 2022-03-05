@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Cara Brook"
 ---
 <img src="/team/carabrook-headshot-2020.jpeg" alt="headshot" class="img-left-w-text" />
