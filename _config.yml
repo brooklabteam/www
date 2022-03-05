@@ -45,5 +45,5 @@ description: Brook Lab
 #   sort_field: 'date'
 #   sort_reverse: true
 
-# include:
-#   - _redirects
+include:
+  - _redirects
