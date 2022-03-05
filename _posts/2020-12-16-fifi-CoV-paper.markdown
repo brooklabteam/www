@@ -5,7 +5,7 @@ date: 2020-12-16 01:00:00 -0700
 description:  (optional)
 img: m_etls_4_4.cover.png # Add image post (optional)
 tags: [bats, Madagascar, coronavirus] # add tag
-permalink: /news/2020-12-16-FR-post
+permalink: /news/fifi-coronavirus-review
 ---
 <h2>A simple breakdown of bat coronavirus molecular biology</h2>
 

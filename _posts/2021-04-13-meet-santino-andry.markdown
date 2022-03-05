@@ -5,7 +5,7 @@ date: 2021-04-13 01:00:00 -0700
 description:  (optional)
 img: santino_andry.jpg # Add image post (optional)
 tags: [bats, Madagascar, COVID-19] # add tag
-permalink: /news/2021-04-13-SA-post
+permalink: /news/santino-reflects-on-covid-in-madagascar
 ---
 <img src="/assets/img/santino_andry.jpg" alt="santino" class="img-left-w-text" />
 

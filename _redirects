@@ -4,4 +4,12 @@
 /feed              /feed.xml
 
 # Redirects from old post titles
-# none yet
+/news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
+/news/2022-02-07-GK-post	/news/nobecoviruses-paper
+/news/2021-04-18-FR-post	/news/covid-in-madagascar
+/news/2021-04-13-SA-post	/news/santino-reflects-on-covid-in-madagascar
+/news/2021-01-11-AA-post	/news/meet-angelo
+/news/2020-12-16-FR-post	/news/fifi-coronavirus-review
+/news/2020-12-15-FR-post	/news/meet-fifi
+/news/2020-12-02-ag-post	/news/anecia-review-paper
+/news/2020-12-01-AG-post	/news/meet-anecia

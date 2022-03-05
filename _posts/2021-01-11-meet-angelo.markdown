@@ -5,7 +5,7 @@ date: 2021-01-11 01:00:00 -0700
 description:  (optional)
 img: angelo_andrianiaina.jpg # Add image post (optional)
 tags: [bats, Madagascar] # add tag
-permalink: /news/2021-01-11-AA-post
+permalink: /news/meet-angelo
 ---
 <img src="/assets/img/angelo_andrianiaina.jpg" alt="angelo" class="img-left-w-text" />
 

@@ -5,7 +5,7 @@ date: 2020-12-15 01:00:00 -0700
 description:  (optional)
 img: fifi_ravelomanantsoa.jpg # Add image post (optional)
 tags: [bats, Madagascar, women in science] # add tag
-permalink: /news/2020-12-15-FR-post
+permalink: /news/meet-fifi
 ---
 <img src="/assets/img/fifi_ravelomanantsoa.jpg" alt="fifi" class="img-left-w-text" />
 
