@@ -5,7 +5,7 @@ date: 2020-12-02 01:00:00 -0700
 description:  (optional)
 img: anecia-logo-bat-model-review.png # Add image post (optional)
 tags: [bats, Madagascar, women in science] # add tag
-link: /news/2020-12-02-ag-post
+permalink: /news/2020-12-02-ag-post
 ---
 <h2>A high schooler's guide to 'A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease'</h2>
 
