@@ -1,19 +1,19 @@
-a:link:not(.navbar):not(.card) {
+a:not(.navbar):not(.card):link {
   color: #800000;
   text-decoration: underline;
 }
 
-a:visited:not(.navbar):not(.card) {
+a:not(.navbar):not(.card):visited {
   color: #800000;
   text-decoration: underline;
 }
 
-a:hover:not(.navbar):not(.card) {
+a:not(.navbar):not(.card):hover {
   color: #26190D;
   text-decoration: none;
 }
 
-a:active:not(.navbar):not(.card) {
+a:not(.navbar):not(.card):active {
   color: #26190D;
   text-decoration: none;
 }
