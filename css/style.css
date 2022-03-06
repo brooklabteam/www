@@ -1,19 +1,19 @@
-a:not(.nav-link):not(.btn-primary):link {
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):link {
   color: #800000;
   text-decoration: underline;
 }
 
-a:not(.nav-link):not(.btn-primary):visited {
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
   color: #800000;
   text-decoration: underline;
 }
 
-a:not(.nav-link):not(.btn-primary):hover {
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
   color: #26190D;
   text-decoration: none;
 }
 
-a:not(.nav-link):not(.btn-primary):active {
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
   color: #26190D;
   text-decoration: none;
 }
