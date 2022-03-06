@@ -3,7 +3,9 @@ layout: page
 title: "Join the Lab"
 permalink: /join
 ---
+<div class="bs-callout bs-callout-info">
 If you are a prospective PhD student, the submission window for expressions of interest has already passed, though the U-Chicago asmissions deadline is not until December 1. If you are just seeing this posting for the first time and are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form <a href="https://airtable.com/shrwbDz0QWBo0SMnQ">linked here</a>. Please also drop me an email at [cbrook@uchicago.edu](cbrook@uchicago.edu) to alert me of your submission, as I have already begun arranging conversations with prospective applicants.
+</div>
 
 <em>This page last updated November 4, 2021.</em>
 
