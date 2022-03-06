@@ -26,6 +26,6 @@ img {
   max-width: 100%;
 }
 
-img .float-start {
+img.float-start {
   margin: 0 1rem 1rem 0;
 }
