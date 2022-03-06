@@ -12,3 +12,7 @@ a:active {
   color: #26190D;
   text-decoration: none;
 }
+
+.img {
+  max-width: 100%;
+}
