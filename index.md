@@ -16,9 +16,8 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul class="citation">
-  
-  <li>Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and <strong>Brook CE</strong>. 2021. Full genome <em>Nobecovirus</em> sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. <em> bioRxiv. </em> doi (pre-print):<a href="https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1">10.1101/2021.09.29.462406</a>.</li>
+<ul>
+	<li>Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and <strong>Brook CE</strong>. 2021. Full genome <em>Nobecovirus</em> sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. <em> bioRxiv. </em> doi (pre-print):<a href="https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1">10.1101/2021.09.29.462406</a>.</li>
 	<li>Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and <strong>Brook CE</strong>. 2020. The zoonotic potential of bat-borne coronaviruses. <em>Emerging Topics in Life Sciences.</em> doi:<a href="https://doi.org/10.1042/ETLS20200097">10.1042/ETLS20200097</a>.</li>
 	<li>Gentles A, Guth S, Rozins C, and  <strong>Brook CE</strong>. 2020. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. <em>Pathogens and Global Health.</em> doi:<a href="https://doi.org/10.1080/20477724.2020.1833161">10.1080/20477724.2020.1833161</a>.</li>
 	<li><strong>Brook CE</strong>, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE, and Dobson AP. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. <em>Journal of Animal Ecology.</em> doi: <a href="https://doi.org/10.1111/1365-2656.12985">10.1111/1365-2656.12985</a>. *=equal senior contributions.</li>
@@ -33,8 +32,7 @@ Bats appear to host otherwise virulent viral infections without themselves exper
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul class="citation">
-
+<ul>
 	<li><strong>Brook CE</strong>, Rozins C, Guth S, Boots M. 2021. <em>bioRxiv</em>. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. doi (pre-print): <a href="https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1">10.1101/2021.10.06.463372</a>.</li>
 	<li>Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M, and <strong>Brook CE</strong>. 2021. <em>bioRxiv</em>. Bats host the most virulent—but not the most dangerous—zoonotic viruses. doi (pre-print): <a href="https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1">10.1101/2021.07.25.453574</a>.</li>
 	<li><strong>Brook CE</strong>, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. <em>eLife</em>. doi: <a href="https://elifesciences.org/articles/48401">10.7554/eLife.48401</a>.</li>
@@ -49,17 +47,12 @@ Using age data derived from fruit bat dentition, we have undertaken population m
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul class="citation">
-
-<li>Andrianiaina A, Andry S, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
-NAF, Treuer T, and <strong>Brook CE</strong>. 2021. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. <em> bioRxiv </em>. doi (pre-print):
-	<a href="https://biorxiv.org/cgi/content/short/2021.10.28.466299v1">10.1101/2021.10.28.466299</a>. </li>
-	<li>Annapragada A, <strong>Brook CE</strong>, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. 2021. <em>Animal Conservation</em>. doi:
-	<a href="https://doi.org/10.1111/acv.12714">10.1111/acv.12714</a>. </li>
-	<li>Rocha R, Aziz SA, <strong>Brook CE</strong>, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. 2020. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. <em>Animal Conservation.</em> doi:
-	<a href="https://doi.org/10.1111/acv.12636">10.1111/acv.12636</a>. </li>
-	<li><strong>Brook CE</strong>, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. <em>Biological Conservation.</em> 234: 165-171. doi: <a href="https://doi.org/10.1016/j.biocon.2019.03.032">10.1016/j.biocon.2019.03.032</a>. </li>
-	<li><strong>Brook CE</strong>, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. 2018. Population viability and harvest sustainability for Madagascar lemurs. <em>Conservation Biology.</em> doi:  <a href="https://doi.org/10.1111/cobi.13151">10.1111/cobi.13151</a>. </li>
+<ul>
+	<li>Andrianiaina A, Andry S, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa NAF, Treuer T, and <strong>Brook CE</strong>. 2021. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. <em> bioRxiv </em>. doi (pre-print): <a href="https://biorxiv.org/cgi/content/short/2021.10.28.466299v1">10.1101/2021.10.28.466299</a>.</li>
+	<li>Annapragada A, <strong>Brook CE</strong>, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. 2021. <em>Animal Conservation</em>. doi: <a href="https://doi.org/10.1111/acv.12714">10.1111/acv.12714</a>.</li>
+	<li>Rocha R, Aziz SA, <strong>Brook CE</strong>, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. 2020. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. <em>Animal Conservation.</em> doi: <a href="https://doi.org/10.1111/acv.12636">10.1111/acv.12636</a>.</li>
+	<li><strong>Brook CE</strong>, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. <em>Biological Conservation.</em> 234: 165-171. doi: <a href="https://doi.org/10.1016/j.biocon.2019.03.032">10.1016/j.biocon.2019.03.032</a>.</li>
+	<li><strong>Brook CE</strong>, Herrera JP, Borgerson C, Fuller E, Andriamahazoarivosoa P, Rasolofoniaina BJR, Randrianasolo JLRR, Rakotondrafarasata ZRE, Randriamady HJ, Dobson AP, and Golden CD. 2018. Population viability and harvest sustainability for Madagascar lemurs. <em>Conservation Biology.</em> doi: <a href="https://doi.org/10.1111/cobi.13151">10.1111/cobi.13151</a>.</li>
 </ul>
 
 <h2>Next Generation Sequencing for public health in Madagascar</h2>
@@ -70,7 +63,7 @@ Our lab was  awarded a [Bill & Melinda Gates Foundation Grand Challenges Explora
 
 <div style="clear:both;">&nbsp;</div>
 
-<ul class="citation">
+<ul>
 	<li>Andriamandimby SF<sup>*</sup>, <strong>Brook CE<sup>*</sup></strong>, Razanajatovo N, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Randremanana R±, Heraud J-M±, Dussart P±. 2021. Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. doi (pre-print): <a href="https://pubmed.ncbi.nlm.nih.gov/34268517/">10.1101/2021.07.06.21259473</a>.</li>
 	<li>Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, <strong>Brook CE</strong>, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. <em>Influenza and Other Respiratory Viruses.</em> 2021. doi (pre-print): <a href="https://doi.org/10.22541/au.161088504.46456502/v1">10.22541/au.161088504.46456502/v1</a>.</li>
 </ul>
