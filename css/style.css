@@ -18,6 +18,10 @@ a:active {
   text-decoration: none;
 }
 
+.navbar a:link, .navbar a:visited {
+  text-decoration: none;
+}
+
 .img {
   max-width: 100%;
 }
