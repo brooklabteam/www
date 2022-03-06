@@ -89,7 +89,7 @@ Due to our cross-continental extent, the Brook Lab has many policies in place th
 
 University of Antananarivo PhD students will be funded to train at the University of Chicago for a minimum of one four week session during the course of their PhD research. These trainings will require significant advance planning and flexibility with timing on the part of the student.
 
-### Parental Leave*
+### Parental Leave
 
 We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of the University of Chicago, as outlined here. That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
 
