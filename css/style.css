@@ -18,6 +18,16 @@ a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
   text-decoration: none;
 }
 
+.btn-primary:link, .btn-primary:visited {
+  background-color: #800000;
+  border-color: #800000;
+}
+
+.btn-primary:hover, .btn-primary:active {
+  background-color: #26190D;
+  border-color: #26190D;
+}
+
 /*
 .nav-link a:link, .nav-link a:visited {
   text-decoration: none;
