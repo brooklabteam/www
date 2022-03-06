@@ -4,7 +4,7 @@ title: Ekipa Fanihy (Team)
 ---
 <img src="/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
 
-The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago, in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo and Institut Pasteur de Madagascar. Collectively, we are *Ekipa Fanihy*, Malagasy for 'Team Fruit Bat.'
+The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo and Institut Pasteur de Madagascar. Collectively, we are *Ekipa Fanihy*, Malagasy for 'Team Fruit Bat.'
 
 <div style="clear:both;">&nbsp;</div>
 
