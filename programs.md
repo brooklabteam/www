@@ -17,7 +17,7 @@ permalink: /programs
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
-        <h5 class="card-title">E2M2</h5>
+        <h5 class="card-title">E<sup>2</sup>M<sup>2</sup></h5>
         <p class="card-text">An introduction to R and workshop introducing the use of dynamical models in understanding ecological and epidemiological data.</p>
         <p><em>On hold due to COVID-19.</em></p>
         <a href="https://e2m2.org/" class="btn btn-primary">Learn more</a>
