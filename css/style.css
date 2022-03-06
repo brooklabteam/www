@@ -29,3 +29,7 @@ img {
 img.float-start {
   margin: 1rem 1rem 1rem 0;
 }
+
+img.float-end {
+  margin: 1rem 0 1rem 1rem;
+}
