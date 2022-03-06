@@ -21,7 +21,7 @@ In many mammals, gastrointestinal microbiomes (GIT)—or the bacteria, bacteriop
 
 <br />
 
-[<img src="/assets/img/2022-02-20-FR-2.png" alt="FR"/>](https://www.shutterstock.com/image-vector/realistic-flat-vector-illustration-small-large-1305066094)
+[<img src="/assets/img/2022-02-20-FR-2.png" alt="FR" class="img-fluid" />](https://www.shutterstock.com/image-vector/realistic-flat-vector-illustration-small-large-1305066094)
 
 <br/><br/>
 
@@ -29,7 +29,7 @@ While human and mouse GIT microbiomes are largely dominated by the phyla, Bacter
 
 <br />
 
-<img src="/assets/img/2022-02-20-FR-3.png" alt="FR"/>
+<img src="/assets/img/2022-02-20-FR-3.png" alt="FR" class="img-fluid" />
 
 <br/><br/>
 
