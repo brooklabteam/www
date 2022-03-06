@@ -34,53 +34,37 @@ img.float-end {
   margin: 1rem 0 1rem 1rem;
 }
 
-/* https://github.com/wuliupo/getbootstrap/blob/1abe20cd7482b16d18cce6f0dd20bda263b670b5/assets/css/src/docs.css
- * Callouts
- *
- * Not quite alerts, but custom and helpful notes for folks reading the docs.
- * Requires a base and modifier class.
- */
+/* Side notes for calling out things
+https://gist.github.com/matthiasg/6153853
+-------------------------------------------------- */
 
-/* Common styles for all types */
+/* Base styles (regardless of theme) */
 .bs-callout {
-  padding: 20px;
   margin: 20px 0;
-  border: 1px solid #eee;
-  border-left-width: 5px;
-  border-radius: 3px;
+  padding: 15px 30px 15px 15px;
+  border-left: 5px solid #eee;
 }
 .bs-callout h4 {
   margin-top: 0;
-  margin-bottom: 5px;
 }
 .bs-callout p:last-child {
   margin-bottom: 0;
 }
-.bs-callout code {
-  border-radius: 3px;
+.bs-callout code,
+.bs-callout .highlight {
+  background-color: #fff;
 }
 
-/* Tighten up space between multiple callouts */
-.bs-callout + .bs-callout {
-  margin-top: -5px;
-}
-
-/* Variations */
+/* Themes for different contexts */
 .bs-callout-danger {
-  border-left-color: #ce4844;
-}
-.bs-callout-danger h4 {
-  color: #ce4844;
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
 }
 .bs-callout-warning {
-  border-left-color: #aa6708;
-}
-.bs-callout-warning h4 {
-  color: #aa6708;
+  background-color: #fefbed;
+  border-color: #f1e7bc;
 }
 .bs-callout-info {
-  border-left-color: #1b809e;
-}
-.bs-callout-info h4 {
-  color: #1b809e;
+  background-color: #f0f7fd;
+  border-color: #d0e3f0;
 }

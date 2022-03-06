@@ -3,7 +3,7 @@ layout: page
 title: "Join the Lab"
 permalink: /join
 ---
-<div class=".bs-callout-warning">
+<div class="bs-callout bs-callout-warning">
 Testing 1-2-3
 </div>
 
