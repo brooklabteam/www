@@ -24,7 +24,8 @@ a:active {
 
 .img {
   max-width: 100%;
-  &.float-start {
-    margin: 1rem;
-  }
+}
+
+.float-start img {
+  margin: 1rem;
 }
