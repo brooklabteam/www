@@ -1,28 +1,27 @@
+a:link:not(.navbar):not(.card) {
+  color: #800000;
+  text-decoration: underline;
+}
+
+a:visited:not(.navbar):not(.card) {
+  color: #800000;
+  text-decoration: underline;
+}
+
+a:hover:not(.navbar):not(.card) {
+  color: #26190D;
+  text-decoration: none;
+}
+
+a:active:not(.navbar):not(.card) {
+  color: #26190D;
+  text-decoration: none;
+}
+
 /*
-a:link {
-  color: #800000;
-  text-decoration: underline;
-}
-
-a:visited {
-  color: #800000;
-  text-decoration: underline;
-}
-
-a:hover {
-  color: #26190D;
-  text-decoration: none;
-}
-
-a:active {
-  color: #26190D;
-  text-decoration: none;
-}
-
 .navbar a:link, .navbar a:visited {
   text-decoration: none;
-}
-*/
+} */
 
 img {
   max-width: 100%;
