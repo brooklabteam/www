@@ -2,25 +2,19 @@
 	<nav class="navbar navbar-expand-lg navbar-light bg-light rounded" aria-label="navbar">
 		<div class="container-fluid">
 		  <a class="navbar-brand" href="/">🦇 Brook Lab</a>
-		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		  </button>
 	
-		  <div class="collapse navbar-collapse" id="navbarsExample04">
+		  <div class="collapse navbar-collapse" id="navbar">
 			<ul class="navbar-nav me-auto mb-2 mb-md-0">
-			  <li class="nav-item"><a class="nav-link" href="/publications">Publications</a></li>
-			  <li class="nav-item"><a class="nav-link" href="/cara-brook">Cara</a></li>
-			  <li class="nav-item"><a class="nav-link" href="/team">Team</a></li>
-			  <li class="nav-item"><a class="nav-link" href="/values-and-policies">Values</a></li>
-			  <li class="nav-item"><a class="nav-link" href="/join">Join</a></li>
-			  <li class="nav-item"><a class="nav-link" href="/news">News</a></li>
-			  <li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-bs-toggle="dropdown" aria-expanded="false">Programs</a>
-				<ul class="dropdown-menu" aria-labelledby="dropdown04">
-				  <li><a class="dropdown-item" href="https://coding4conservation.org">Coding 4 Conservation</a></li>
-				  <li><a class="dropdown-item" href="https://e2m2.org">E&sup2;M&sup2;</a></li>
-				</ul>
-			  </li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Publications" %} active{% endif %}" href="/publications">Publications</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Cara Brook" %} active{% endif %}" href="/cara-brook">Cara</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Ekipa Fanihy (Team)" %} active{% endif %}" href="/team">Team</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Lab Values and Policies" %} active{% endif %}" href="/values-and-policies">Values</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Join the Lab" %} active{% endif %}" href="/join">Join</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "News" %} active{% endif %}" href="/news">News</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Programs" %} active{% endif %}" href="/programs">Programs</a></li>
 			</ul>
 		  </div>
 		</div>
