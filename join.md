@@ -9,7 +9,7 @@ If you are a prospective PhD student, the submission window for expressions of i
 
 --- 
 
-## A note on diversity and inclusion
+<h2>A note on diversity and inclusion</h2>
 
 <img src="/jointhelab/ekipa_fanihy_happy.jpg" alt="bat" class="float-start col-sm-5" />
 
