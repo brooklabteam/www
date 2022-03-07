@@ -1,102 +1,81 @@
-/* reset */
-
-html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}ins{background-color:#ff9;color:#000;text-decoration:none}mark{background-color:#ff9;color:#000;font-style:italic;font-weight:700}del{text-decoration:line-through}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}table{border-collapse:collapse;border-spacing:0}hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}input,select{vertical-align:middle} .clearfix:after{clear:both;content:' ';display:block;font-size:0;line-height:0;visibility:hidden;width:0;height:0}.clearfix{display:inline-block}* html .clearfix{height:1%}.clearfix{display:block}
-
-/* structure */
-
-body {
-	background: #fff;
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):link {
+  color: #800000;
+  text-decoration: underline;
 }
 
-/* System Fonts as used by GitHub */
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
+  color: #800000;
+  text-decoration: underline;
 }
 
-#wrapper {
-  margin: auto;
-  padding: 2em;
-  max-width: 900px;
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
+  color: #26190D;
+  text-decoration: none;
 }
 
-h1 {
-  font-size: 2em;
-  font-weight: bold;
-  margin: 1em 0;
+a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
+  color: #26190D;
+  text-decoration: none;
 }
 
-h2 {
-  font-weight: bold;
-  margin: 2em 0 1em 0;
+.btn-primary:link, .btn-primary:visited {
+  background-color: #800000;
+  border-color: #800000;
 }
+
+.btn-primary:hover, .btn-primary:active {
+  background-color: #26190D;
+  border-color: #26190D;
+}
+
+/*
+.nav-link a:link, .nav-link a:visited {
+  text-decoration: none;
+} */
 
 img {
-  width: 100%;
-  max-width: 900px;
-  padding: 0;
+  max-width: 100%;
 }
 
-img.img-left-w-text {
-  float: left;
-  width: 200px;
-  padding: 0 1em 1em 0;
+img.float-start {
+  margin: 1rem 1rem 1rem 0;
 }
 
-header {
-  margin: 0 0 2em 0;
+img.float-end {
+  margin: 1rem 0 1rem 1rem;
 }
 
-header nav {
-  float: left;
+/* Side notes for calling out things
+https://gist.github.com/matthiasg/6153853
+-------------------------------------------------- */
+
+/* Base styles (regardless of theme) */
+.bs-callout {
+  margin: 20px 0;
+  padding: 15px 30px 15px 15px;
+  border-left: 5px solid #eee;
 }
-	
-header li, footer li {
-  list-style-type: none;
-  float: left;
+.bs-callout h4 {
+  margin-top: 0;
 }
-	
-header li a {
-  display: block;
-  padding: 0 2em 0 0;
-  text-decoration: none;
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+.bs-callout code,
+.bs-callout .highlight {
+  background-color: #fff;
 }
 
-footer {
-  padding: 2em 0;
+/* Themes for different contexts */
+.bs-callout-danger {
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
 }
-
-a:link {
-  color: #800000;
-  text-decoration: underline;
+.bs-callout-warning {
+  background-color: #fefbed;
+  border-color: #f1e7bc;
 }
-
-a:visited {
-  color: #800000;
-  text-decoration: underline;
-}
-
-a:hover {
-  color: #26190D;
-  text-decoration: none;
-}
-
-a:active {
-  color: #26190D;
-  text-decoration: none;
-}
-
-ul {
-  font-size: 1em;
-}
-
-ul.citation {
-  font-size: .5em;
-}
-
-strong {
-  font-weight: bold;
-}
-
-em {
-  font-style: italic;
+.bs-callout-info {
+  background-color: #f0f7fd;
+  border-color: #d0e3f0;
 }
