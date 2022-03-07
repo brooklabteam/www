@@ -6,6 +6,7 @@
 # Redirects from changing page URLs
 /jointhelab	/join
 /labvaluesexpectations	/values-and-policies
+/jointhelab/team.html /team
 
 # Redirects from old post titles
 /news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
