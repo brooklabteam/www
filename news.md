@@ -13,12 +13,12 @@ permalink: /news
     </a>
   </div>
   <div class="post-content" style="float:left; margin-left:2em; max-width:500px;">
-
-    {% if post.link %}
-      <span class="link-arrow">&rarr; </span>
-    {% endif %}
     
     <a href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">{{ post.title }}</a>
+    
+    {% if post.link %}
+      <span class="link-arrow"> &#129141;</span>
+    {% endif %}
 
     <br/>
 
@@ -29,6 +29,3 @@ permalink: /news
 <div style="clear:both;">&nbsp;</div>
  
 {% endfor %}
-
-
-  
