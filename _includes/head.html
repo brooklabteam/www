@@ -35,9 +35,11 @@
   <meta property="og:description" content="{{ site.description }}" >
 {% endif %}
 {% if page.ogimage %}
-  <meta property="og:image" content="{{ site.url }}{{ page.ogimage }}" >
+  <meta property="og:image" content="{{ page.ogimage }}" >
+  <meta property="twitter:image" content="{{ page.ogimage }}" >
 {% else %}
-  <meta property="og:image" content="{{ site.url }}/team/EkipaFanihyLogoWhite.png" >
+  <meta property="og:image" content="/team/EkipaFanihyLogoWhite.png" >
+  <meta property="twitter:image" content="/team/EkipaFanihyLogoWhite.png" >
 {% endif %}
 
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
