@@ -8,10 +8,12 @@ pagination:
   <header class="entry-header">
 	<h1 class="entry-title">{{ page.title | escape }}</h1>
 	<div class="entry-meta">
-	  <span class="entry-date">{{ page.date | date: "%-d %B %Y" }}</span>
+	  <span class="entry-date">{{ page.date | date: "%B %-d, %Y" }}</span>
 	</div>
   </header>
   <div class="entry-content">
 	{{ content }}
   </div>
 </article>
+
+<a href="/news">Back to News</a>

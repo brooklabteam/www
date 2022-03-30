@@ -1,0 +1,31 @@
+# netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+
+# Redirects from what the browser requests to what we serve
+/feed              /feed.xml
+
+# Redirects from changing page URLs
+/jointhelab	/join
+/labvaluesexpectations	/values-and-policies
+/carabrook	/cara-brook
+/people	/team
+/jointhelab/team.html /team
+/research_interests /research
+
+# Redirects from old post titles
+/news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
+/news/2022-02-20-fr-post	/news/gastrointestinal-microbiomes
+/news/2022-02-07-GK-post	/news/nobecoviruses-paper
+/news/2022-02-07-gk-post	/news/nobecoviruses-paper
+/news/2021-04-18-FR-post	/news/covid-in-madagascar
+/news/2021-04-18-fr-post	/news/covid-in-madagascar
+/news/2021-04-13-SA-post	/news/santino-reflects-on-covid-in-madagascar
+/news/2021-04-13-sa-post	/news/santino-reflects-on-covid-in-madagascar
+/news/2021-01-11-AA-post	/news/meet-angelo
+/news/2021-01-11-aa-post	/news/meet-angelo
+/news/2020-12-16-FR-post	/news/fifi-coronavirus-review
+/news/2020-12-16-fr-post	/news/fifi-coronavirus-review
+/news/2020-12-15-FR-post	/news/meet-fifi
+/news/2020-12-15-fr-post	/news/meet-fifi
+/news/2020-12-02-ag-post	/news/anecia-review-paper
+/news/2020-12-01-AG-post	/news/meet-anecia
+/news/2020-12-01-ag-post	/news/meet-anecia

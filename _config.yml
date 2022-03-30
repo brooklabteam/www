@@ -1,5 +1,6 @@
 title: Brook Lab
 description: Brook Lab
+url: "https://brooklab.org"
 # permalink: ':pagetitle/'
 # timezone: America/Los_Angeles
 
@@ -45,5 +46,5 @@ description: Brook Lab
 #   sort_field: 'date'
 #   sort_reverse: true
 
-# include:
-#   - _redirects
+include:
+  - _redirects

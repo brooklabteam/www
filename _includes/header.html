@@ -1,15 +1,23 @@
 <header>
-<nav>
-	<ul>
-	  <li><a href="/">Brook Lab</a></li>
-	  <li><a href="/research">Research</a></li>
-	  <li><a href="/publications">Publications</a></li>
-	  <li><a href="/carabrook">Cara Brook</a></li>
-	  <li><a href="/Team">Team</a></li>
-	  <li><a href="/labvaluesexpectations">Lab Values</a></li>
-	  <li><a href="/jointhelab">Join</a></li>
-	  <li><a href="/news/">News</a></li>
-	  <li><a href="https://e2m2.org">E&sup2;M&sup2;</a></li>
-	</ul>
-</nav>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light rounded" aria-label="navbar">
+		<div class="container-fluid">
+		  <a class="navbar-brand" href="/">🦇 Brook Lab</a>
+		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		  </button>
+	
+		  <div class="collapse navbar-collapse" id="navbar">
+			<ul class="navbar-nav me-auto mb-2 mb-md-0">
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Research" %} active{% endif %}" href="/research">Research</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Publications" %} active{% endif %}" href="/publications">Publications</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Cara Brook" %} active{% endif %}" href="/cara-brook">Cara</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Ekipa Fanihy (Team)" %} active{% endif %}" href="/team">Team</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Lab Values and Policies" %} active{% endif %}" href="/values-and-policies">Values</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Join the Lab" %} active{% endif %}" href="/join">Join</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "News" %} active{% endif %}" href="/news">News</a></li>
+			  <li class="nav-item"><a class="nav-link{% if page.title == "Programs" %} active{% endif %}" href="/programs">Programs</a></li>
+			</ul>
+		  </div>
+		</div>
+	  </nav>
 </header>
