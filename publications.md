@@ -6,24 +6,20 @@ title: Publications
 
 <h2>In Review (pre-prints)</h2>
 
-- Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
-NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Review. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
-
-
 - **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1).
-
-<h2>In Revision</h2>
-
-- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. In Revision. *PNAS*. doi (pre-print): [10.1101/ 2021.07.25.453574](https://www.biorxiv.org/content/10.1101/2021.07.25.453574v1). ± = equal senior contributions
 
 <h2>In Press, Accepted</h2>
 
-- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. In Press. *Frontiers in Public Health*. doi (pre-print): [10.1101/2021.09.29.462406](https://www.biorxiv.org/content/10.1101/2021.09.29.462406v1).
+- Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
+NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Press. *Journal of Mammalogy*. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
 
 <h2>2022</h2>
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2021. *Trends in Microbiology*. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
+- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. 2022. *PNAS*. doi: [10.1073/pnas.2113628119](https://doi.org/10.1073/pnas.2113628119). ± = equal senior contributions
 
+- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. 2022. *Frontiers in Public Health*. doi: [10.3389/fpubh.2022.786060](https://doi.org/10.3389/fpubh.2022.786060).
+
+- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2021. *Trends in Microbiology*. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
 
 <h2>2021</h2>
 
@@ -41,7 +37,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Ehrenberg AJ, Moehle EA, **Brook CE**, Doudna Cate AH, Witkowsky LB, Sachdeva R, Hirsch A, Barry K, Hamilton JR, Lin-Shiao E, McDevitt S, Valentin-Alvarado L, Letourneau KN, Hunter L, Pestal K, Frankino PA, Murley A, Nandakumar D, Stahl EC, Tsuchida CA, Gildea H, Murdock A, Hochstrasser ML, Bardet L, Sherry C, the IGI SARS-CoV-2 consortium, Harte A, Nicolette G, Petersen M, Giannikopoulos P, Hockemeyer D, Urnov FD, Ringeisen BR, Boots M, Doudna JA. Launching a saliva-based SARS-CoV-2 surveillance testing program on a university campus. 2021. PLoS One. doi: [10.1371/journal.pone.0251296](https://doi.org/10.1371/journal.pone.0251296)
 
-- Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, **Brook CE**, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. 2021. *Influenza and Other Respiratory Viruses.*  doi (pre-print): [10.22541/au.161088504.46456502/v1](https://doi.org/10.22541/au.161088504.46456502/v1).
+- Randremanana R, Andriamandimby SF, Rakotondramanga J-M, Razanajatovo N, Mangahasimbola R, Randriambolamanantsoa T, Ranaivoson HC, Rabemananjara H, Razanajatovo I, Razafindratsimandresy R, Rabarison J, **Brook CE**, Rakotomanana F, Rabetombosoa R, Razafimanjato H, Ahyong V, Raharinosy V, Raharimanga V, Raharinantoanina S, Randrianarisoa M, Bernardson B, Randrianasolo L, Randriamampionona L, Tato CM, DeRisi JR, Dussart P, Vololoniaina M, Randriatsarafara F, Randriamanantany Z, and Heraud J-M. The COVID-19 Epidemic in Madagascar: clinical description and laboratory results of the first wave, March-September 2020. 2021. *Influenza and Other Respiratory Viruses.*  doi: [10.1111/irv.12845"](https://doi.org/10.1111/irv.12845").
 
 
 <h2>2020</h2>
