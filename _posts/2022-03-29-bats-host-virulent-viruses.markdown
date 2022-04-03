@@ -3,6 +3,7 @@ layout: post
 title: Bats host the most virulent—but not the most dangerous—zoonotic viruses
 date: 2022-03-29 01:00:00 -0700
 description:  (optional)
+img: bat-virus-virulence.png
 tags: [bats, viruses] # add tag
 permalink: /news/bat-virus-virulence
 ---
