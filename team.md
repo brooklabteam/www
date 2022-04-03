@@ -4,7 +4,7 @@ title: Ekipa Fanihy (Team)
 ---
 <img src="/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
 
-The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo and Institut Pasteur de Madagascar. Collectively, we are *Ekipa Fanihy*, Malagasy for 'Team Fruit Bat.'
+The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively, we are *Ekipa Fanihy*, Malagasy for 'Team Fruit Bat.'
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -79,7 +79,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/team/christian_ranaivoson.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
 
-Dr. **Christian Ranaivoson** has a **PhD** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, and has already started his appointment as a **Postdoctoral Researcher** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascan flying fox, *Pteropus rufus,* and *Bartonella* spp. infections of the Madagascan fruit bat, *Eidolon dupreanum.* As a postdoc, Christian leads Next Generation Sequencing studies targeting viral discovery in Malagasy fruit bats and sequencing SARS-CoV-2 in human cases in Madagascar. Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parsites of Malagasy reptiles.
+Dr. **Christian Ranaivoson** has a **PhD** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently finished an appointment as a **Research Engineer** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascan flying fox, *Pteropus rufus,* and *Bartonella* spp. infections of the Madagascan fruit bat, *Eidolon dupreanum.* At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian will be joining the Brook lab as a **Postdoctoral Scholar** in June 2022 to lead NGS efforts targeting viral discovery in Malagasy fruit bats. Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parsites of Malagasy reptiles.
 
 <div style="clear:both;">&nbsp;</div>
 
