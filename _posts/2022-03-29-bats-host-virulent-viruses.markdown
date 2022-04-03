@@ -8,7 +8,7 @@ permalink: /news/bat-virus-virulence
 ---
 <br />
 
-<img src="assets/img/bat-virus-virulence.png" alt="CB" class="float-start col-md-5" />
+<img src="/assets/img/bat-virus-virulence.png" alt="CB" class="float-start col-md-5" />
 
 <br />
 
