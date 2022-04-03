@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nexststrain community build for Madagascar now live!
+title: Nextstrain community build for Madagascar now live!
 date: 2022-04-02 01:00:00 -0700
 description:  (optional)
 img: nextstrain-mada.png
