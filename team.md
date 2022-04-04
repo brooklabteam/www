@@ -41,11 +41,6 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
-
-**Kendall Fitzgerald** is a **Field Technician** with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
-
-<div style="clear:both;">&nbsp;</div>
 
 <img src="/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
 
@@ -77,6 +72,14 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 **Santino Andry** is finishing his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
 
 <div style="clear:both;">&nbsp;</div>
+
+
+<img src="/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
+
+**Kendall Fitzgerald** is a **Field Technician** with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
+
+<div style="clear:both;">&nbsp;</div>
+
 
 <img src="/team/fifi_ravelomanantsoa.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
 
