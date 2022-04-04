@@ -40,6 +40,13 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/team/kendall-fitzgerald.png" alt="kendall" class="img-thumbnail float-start col-md-3" />
+
+**Kendall Fitzgerald** is a **Field Technician** with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
+
+<div style="clear:both;">&nbsp;</div>
+
+
 <img src="/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
 
 **Freddy Gonzalez** is a post-baccalaureate **Research Assistant** funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts.
