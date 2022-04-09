@@ -40,6 +40,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+
+
 <img src="/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
 
 **Freddy Gonzalez** is a post-baccalaureate **Research Assistant** funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts.
@@ -71,6 +73,14 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+
+<img src="/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
+
+**Kendall Fitzgerald** is a **Field Technician** with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
+
+<div style="clear:both;">&nbsp;</div>
+
+
 <img src="/team/fifi_ravelomanantsoa.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
 
 **Fifi Ravelomanantsoa** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where she is studying seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses is currently in revision at *Emerging Topics in Life Sciences.* Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
@@ -97,3 +107,5 @@ Dr. **Christian Ranaivoson** has a **PhD** in the Department of Zoology and Anim
 **Sarah Guth** is a fourth-year **PhD Candidate** in the Department of Integrative Biology at the University of California, Berkeley. Sarah is advised by [Professor Mike Boots](https://bootslab.org/) and studies the evolutionary underpinnings of cross-species zoonotic emergence. Sarah is carrying out a subset of dissertation chapters in part with Ekipa Fanihy, specifically investigating linke between disease and aging in the fruit bat methylome in collaboration with [Professor Peter Sudmant](https://www.sudmantlab.org/) at UC Berkeley. Sarah holds a Bachelor of Arts degree in Conservation Biology from Middlebury College and has previously studied foraging and learning behavior in bees, as well as served as the Program Coordinator for Harvard University's [Planetary Health Alliance](https://planetaryhealthalliance.org/).
 
 <div style="clear:both;">&nbsp;</div>
+
+
