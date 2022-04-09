@@ -40,7 +40,7 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 We are hiring a new **Field Technician** for the upcoming 2022-2023 year! This job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team)) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. 
 
-Applications for our current position are due on April 29, 2022. Please see [here](/jointhelab/fieldtechjob) for a job description and a link to an application!
+**Applications for our current position are due at midnight CT on Friday, April 29, 2022. Please see [here](/jointhelab/fieldtechjob) for a job description and a link to an application!**
 
 Outside of my lab, if you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
 
