@@ -20,13 +20,13 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2022!** I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2022!** I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. For recruits to start in AY2023-2024, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar.
 
-**If you are interested in joining the Brook Lab, I asked that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrwbDz0QWBo0SMnQ) prior to midnight on October 31, 2021**. If you are just seeing this posting for the first time, you can still submit materials, but please drop me an email to notify me of your submission.
+**If you are interested in joining the Brook Lab, I asked that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrbNU7XV2wIHFZtK) prior to midnight on October 15, 2022**. 
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
 
-Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2021.
+Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2022.
 
 ---
 
@@ -38,11 +38,11 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 <h2>Field Technicians</h2>
 
-In part with Ekipa Fanihy, I periodically hire **Field Technicians** (usually American post-bac students; see [the Team page for more](/team)) to work with Malagasy graduate students catching and collecting samples from wild fruit bats in Madagascar. I have found this to be rewarding opportunity for both parties to engage in scientific and cultural exchange. Applications are now past due for positions beginning in January 2022. Please check back next year for new opportunities and additional hires!
+We are hiring a new **Field Technician** for the upcoming 2022-2023 year! This job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team)) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. 
 
-Please see [here](/jointhelab/fieldtechjob) for a previous job description!
+Applications for our current position are due on April 29, 2022. Please see [here](/jointhelab/fieldtechjob) for a job description and a link to an application!
 
-If you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
+Outside of my lab, if you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
 
 <ul>
   <li>ECOLOG-L job board (note you need to register first for access- <a href="https://halllab.asu.edu/how-to-join-the-ecolog-job-board/">instructions here</a>)</li>
