@@ -5,7 +5,7 @@ layout: default
 
 <font size="4">
 
-<p1 style="color:Red;font-weight: bold">We are hiring a new Ekipa Fanihy Field Technician! Projected employment period September 2022 - August 2023. Apply [here](https://airtable.com/shr4Tsj8vJWidr2oh) by midnight CT on Friday, April 29, 2022! </p1>
+<p1 style="color:Red;font-weight: bold">We are hiring a new Ekipa Fanihy Field Technician! Projected employment period September 2022 - August 2023. Apply <a href="https://airtable.com/shr4Tsj8vJWidr2oh">here</a> by midnight CT on Friday, April 29, 2022! </p1>
 </font>
 
 ---
