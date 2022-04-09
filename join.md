@@ -4,8 +4,8 @@ title: "Join the Lab"
 permalink: /join
 ---
 <div class="bs-callout bs-callout-warning">
-<p>If you are a prospective PhD student, the submission window for expressions of interest has already passed, though the U-Chicago asmissions deadline is not until December 1. If you are just seeing this posting for the first time and are interested in joining the Brook Lab, please fill out an expression of interest and upload a short CV or resumé at the form <a href="https://airtable.com/shrwbDz0QWBo0SMnQ">linked here</a>. Please also drop me an email at <a href="mailto:cbrook@uchicago.edu">cbrook@uchicago.edu</a> to alert me of your submission, as I have already begun arranging conversations with prospective applicants.</p>
-<p><em>This page last updated November 4, 2021.</em></p>
+<p>We are hiring a new Field Technician for a year-long field position, starting in September 2022. Please see [here](/jointhelab/fieldtechjob) for a job description and a link to submit an application.</p>
+<p><em>This page last updated April 9, 2022.</em></p>
 </div>
 
 <h2>A note on diversity and inclusion</h2>
@@ -20,7 +20,7 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2022!** I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. For recruits to start in AY2023-2024, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar.
+I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2023!** I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. For recruits to start in AY2023-2024, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar.
 
 **If you are interested in joining the Brook Lab, I asked that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrbNU7XV2wIHFZtK) prior to midnight on October 15, 2022**. 
 
