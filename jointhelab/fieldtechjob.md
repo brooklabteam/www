@@ -65,7 +65,7 @@ Field Technicians will be part-time, benefits ineligible employees at the Univer
 - One-year supply of malaria medication (i.e. malarone, doxycycline) (a ~$200 value, depending on health insurance)
 - An extendable scientific research visa (~$55 USD value)
 
-Once arrived in-country, field technicians will receive a monthly living stipend of ~$100 a week, which will be more than sufficient to support a comfortable lifestyle throughout the duration of the project. Rent on Tana housing and all in-field food expenses will be paid by the project. Field Technicians will be expected to purchase and cook food using their living stipend while in Tana, and any excess funds from the stipend may be kept for personal use. 
+Once arrived in-country, field technicians will receive a monthly living stipend of ~$100 a week (~400,000 Ar), which will be more than sufficient to support a comfortable lifestyle throughout the duration of the project (average daily cost of living is < 5,000 Ar in Madagascar). Rent on Tana housing and all in-field food expenses will be paid by the project. Field technicians will be expected to purchase and cook food using their living stipend while in Tana, and any excess funds from the stipend may be kept for personal use. 
 
 One roundtrip plane ticket from a major international US airport will be funded by the project across the duration of the one year of employment. Ekipa Fanihy will take a 2-week break from field work during the December holidays, and the tech will be free to travel in country or, if desired, return to the US using personal funds during this time. Breaks from field studies for personal travel of up to 3 weeks total at other times of the year will be permitted if requested with a minimum of 2 months advance notice.
 
