@@ -73,6 +73,12 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/team/dominic_daniels.png" alt="dominic" class="img-thumbnail float-start col-md-3" />
+
+**Dominic Daniels** is a **Field Project Manager** for Ekipa Fanihy in Madagascar, where he co-facilitates field missions for the sampling of Pteropus, Eidolon, and Rousettus bats. His side projects include bioacoustics sampling for insectivorous bats and GIS mapping. Dominic holds a B.S. in Conservation & Resource Studies and a B.A. in French from the University of California, Berkeley; and has previously worked for the Lincoln Park Zoo, the US Bureau of Land Management, and CAL FIRE.
+
+<div style="clear:both;">&nbsp;</div>
+
 
 <img src="/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
 
