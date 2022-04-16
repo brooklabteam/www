@@ -50,7 +50,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/team/yimei-li.jpg" alt="yimei" class="img-thumbnail float-start col-md-3" />
 
-**Yimei Li** is a post-baccalaureate **Research Assistant** in the Department of Ecology and Evolution at the University of Chicago. She is working on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. Yimei holds a Master’s degree in Environmental Studies from the University of Pennsylvania where she focused on human-environment relationship and her B.S. from Drexel University where she studied computational biology.
+**Yimei Li** is a post-baccalaureate **Research Assistant** in the Department of Ecology and Evolution at the University of Chicago. She is working on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. Yimei holds a Master’s degree in Environmental Studies from the University of Pennsylvania where she focused on human-environment relationship.
 
 <div style="clear:both;">&nbsp;</div>
 
