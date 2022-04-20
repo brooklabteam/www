@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ekipa Fanihy (Team)
+permalink: /team
 ---
 <img src="/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
 

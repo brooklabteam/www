@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+permalink: /research
 ---
 We use tools derived from field biology, molecular immunology, and epidemiological modeling to study how zoonotic pathogens persist, transmit, and evolve in wild reservoir and spillover human hosts. Much of our work is focused on zoonotic infections derived from bat reservoirs, and we conduct the majority of our field studies in Madagascar. Major areas of research in the lab are summarized below.
 
