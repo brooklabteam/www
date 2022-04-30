@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+permalink: /publications
 ---
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
