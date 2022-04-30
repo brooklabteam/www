@@ -5,7 +5,7 @@ layout: default
 
 <font size="4">
 
-<p1 style="color:Red;font-weight: bold">Applications are now closed for the Ekipa Fanihy Field Technician. PLease stay tuned for further information or future opportunities. </p1>
+<p1 style="color:Red;font-weight: bold">Applications are now closed for the Ekipa Fanihy Field Technician. Please stay tuned for further information or future opportunities. </p1>
 </font>
 
 ---
