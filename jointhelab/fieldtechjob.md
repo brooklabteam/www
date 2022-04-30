@@ -5,7 +5,7 @@ layout: default
 
 <font size="4">
 
-<p1 style="color:Red;font-weight: bold">We are hiring a new Ekipa Fanihy Field Technician! Apply <a href="https://airtable.com/shr4Tsj8vJWidr2oh">here</a> by midnight CT on Friday, April 29, 2022! </p1>
+<p1 style="color:Red;font-weight: bold">Applications are now closed for the Ekipa Fanihy Field Technician. PLease stay tuned for further information or future opportunities. </p1>
 </font>
 
 ---

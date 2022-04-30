@@ -4,8 +4,8 @@ title: "Join the Lab"
 permalink: /join
 ---
 <div class="bs-callout bs-callout-warning">
-<p>We are hiring a new Field Technician for a year-long field position, starting in September 2022! Please see <a href="/jointhelab/fieldtechjob">here</a> for a job description and a link to submit an application.</p>
-<p><em>This page last updated April 9, 2022.</em></p>
+<p>Applications are now closed for the Ekipa Fanihy Field Technician. PLease stay tuned for further information or future opportunities.</p>
+<p><em>This page last updated April 30, 2022.</em></p>
 </div>
 
 <h2>A note on diversity and inclusion</h2>
@@ -40,9 +40,7 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 <h2>Field Technicians</h2>
 
-We are hiring a new **Field Technician** for the upcoming 2022-2023 year! This job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team)) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. 
-
-**Applications for our current position are due at midnight CT on Friday, April 29, 2022. Please see [here](/jointhelab/fieldtechjob) for a job description and a link to an application!**
+We recently solicited applications for a new **Field Technician** for the upcoming 2022-2023 year. Applications are now closed and will not renew again until the fall. For future opportunities, please note that this job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team)) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. Please see [here](/jointhelab/fieldtechjob) for a job description of past opportunities. We will likely solicit applications again in September for a January 2023 start.
 
 Outside of my lab, if you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
 
