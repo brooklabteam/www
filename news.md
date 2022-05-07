@@ -17,7 +17,7 @@ permalink: /news
     <a href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">{{ post.title }}</a>
     
     {% if post.link %}
-      <span class="link-arrow"> &#129141;</span>
+      <span class="link-arrow"> &#129125;</span>
     {% endif %}
 
     <br/>
