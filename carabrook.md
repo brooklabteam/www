@@ -10,7 +10,7 @@ I am an Assistant Professor in the [Department of Ecology and Evolution](https:/
 Prior to the University of Chicago, I spent time as a [Miller Postdoctoral Fellow](http://miller.berkeley.edu/) working with [Mike Boots](https://bootslab.org/) in the Department of Integrative Biology at the University of California, Berkeley. I received my PhD in Ecology and Evolutionary Biology from Princeton University in 2017 and my BS in Earth Systems from Stanford University in 2010. I hail originally from beautiful Sonoma County, California. When not chasing bat viruses, you will find me hiking, backpacking, and camping across the North American West. 
 
 * Contact: cbrook (at) uchicago (dot) edu
-* <a href="/carabrook/CV_CaraBrook_Full_April2022.pdf">Full CV</a>
+* <a href="/carabrook/CV_CaraBrook_Full_June2022.pdf">Full CV</a>
 * <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 * <a href="https://www.youtube.com/watch?v=8AMpIQ9gTbE">Research/Outreach Video Summary</a>
 
