@@ -7,6 +7,10 @@ permalink: /publications
 
 <h2>In Review (pre-prints)</h2>
 
+- Madera S, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. In Review. doi (pre-print): [10.1101/2022.06.12.495793](https://doi.org/10.1101/2022.06.12.495793)
+
+- **Brook CE**, Li Y, Yek C, Northrup GR, Lay S, Chea S, Ahyong V, Parker DM, Man S, Pacheco AR, Mengheng O, Oliveira F, Farhsbender L, Leang R, Huy R, Lon C, Tato CM, DeRisi JL, Boots M, Bohl JA, Manning JE. The Perfect Storm of 2019: An immunological and phylodynamic analysis of Cambodia’s unprecedented dengue outbreak. In Review. doi (pre-print): [10.1101/2022.06.08.22276171](https://doi.org/10.1101/2022.06.08.22276171)
+
 - **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1).
 
 <h2>In Press, Accepted</h2>
