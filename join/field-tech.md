@@ -1,6 +1,7 @@
 ---
 title: "Field Technician Position"
 layout: default
+permalink: /join/field-tech
 ---
 
 <font size="4">
