@@ -3,7 +3,7 @@ layout: page
 title: "Cara Brook"
 permalink: /cara-brook
 ---
-<img src="/team/carabrook-headshot-2020.jpeg" alt="headshot" class="img-thumbnail float-end col-md-5" />
+<img src="/assets/team/carabrook-headshot-2020.jpeg" alt="headshot" class="img-thumbnail float-end col-md-5" />
 
 I am an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago and a [Branco Weiss ‘Society in Science’ Fellow](https://brancoweissfellowship.org/). I investigate the ecological and evolutionary dynamics of zoonotic infections, in particular those derived from wild bat hosts. I maintain a longterm field site studying fruit bat viruses on  the island nation of Madagascar, where I work closely with students from the University of Antananarivo and Institut Pasteur de Madagascar. I am committed to conducting rigorous science while simultaneously promoting scientific development, education, and capacity building in Madagascar.
 
