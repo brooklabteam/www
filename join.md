@@ -40,7 +40,7 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 <h2>Field Technicians</h2>
 
-We recently solicited applications for a new **Field Technician** for the upcoming 2022-2023 year. Applications are now closed and will not renew again until the fall. For future opportunities, please note that this job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. Please see [here](/jointhelab/fieldtechjob) for a job description of past opportunities. We will likely solicit applications again in September for a January 2023 start.
+We recently solicited applications for a new **Field Technician** for the upcoming 2022-2023 year. Applications are now closed and will not renew again until the fall. For future opportunities, please note that this job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. Please see [here](/join/field-tech) for a job description of past opportunities. We will likely solicit applications again in September for a January 2023 start.
 
 Outside of my lab, if you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
 
