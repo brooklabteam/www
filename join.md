@@ -4,8 +4,8 @@ title: "Join the Lab"
 permalink: /join
 ---
 <div class="bs-callout bs-callout-warning">
-<p>Applications are now closed for the Ekipa Fanihy Field Technician. Please stay tuned for further information or future opportunities.</p>
-<p><em>This page last updated April 30, 2022.</em></p>
+<p>We are recruiting PhD students to apply in fall 2022 for AY2023-2024. Fill out the form orm [linked here](https://airtable.com/shrbNU7XV2wIHFZtK) to express your interest!</p>
+<p><em>This page last updated Aug 1, 2022.</em></p>
 </div>
 
 <h2>A note on diversity and inclusion</h2>
