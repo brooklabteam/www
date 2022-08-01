@@ -7,7 +7,7 @@ We use tools derived from field biology, molecular immunology, and epidemiologic
 
 <h2>Bats as reservoirs for emerging viral zoonoses</h2>
 
-<img src="/research/flying_bat.png" alt="bat" class="float-start col-sm-3" />
+<img src="/assets/research/flying_bat.png" alt="bat" class="float-start col-sm-3" />
 
 Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses, including Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. The Brook Lab investigates how these pathogens which manifest as highly virulent in humans are maintained at the **population-level** in wild bat reservoir hosts. Classic epidemiological modeling explores the dynamics of perfectly immunizing childhood infections, under which hosts are  born susceptible (S), become infectious (I), and recover (R) via immune responses retained for life. In the simplest example, infections persist maintained in a population by constant re-supply of susceptible births. Many bat species reproduce in annual or biannual birth pulses, meaning that susceptible re-supply is restricted within a year. Such a system suggests that bat viruses may be governed by more nuanced dynamics than standard SIR--be they longer infectious periods, latent periods for persistent infections, or periodic waning immunity. To elucidate these dynamics, we fit candidate mechanistic models to age-structured prevalence and seroprevalence data, which we collect ourselves through the field studies of the inimitable [Ekipa Fanihy](team.html).
 
@@ -23,7 +23,7 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 
 <h2>The coevolution of bats and viruses</h2>
 
-<img src="/research/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" class="float-start col-sm-3" />
+<img src="/assets/research/PaKi_EBOV_induced_10K_200hrs_CELL.gif" alt="bat_cell" class="float-start col-sm-3" />
 
 Bats appear to host otherwise virulent viral infections without themselves experiencing substantial pathology. Accumulating molecular evidence links the evolution of flight to bat viral tolerance: unique anti-inflammatory pathways in bat immune systems enable them to avoid oxidative damage accrued during the metabolically expensive process of flight, with cascading consequences for bat longevity and resilience to intracellular infections. Bats' abilities to host viruses without disease may provide selective pressure for the evolution of pathogens which are not virulent to their bat hosts but cause extreme disease uponn spillover to non-bat (i.e. human) hosts. We use a combination of experiments carried out in bat cell tissue culture and theoretical models to investigate the co-evolution of bat immune systems and their pathogens. On average, we have shown that bat-borne zoonoses cause higher human case fatality rates than do viruses derived from any other mammalian group.
 
@@ -38,7 +38,7 @@ Bats appear to host otherwise virulent viral infections without themselves exper
 
 <h2>Conservation biology and population modeling</h2>
 
-<img src="/research/baby_bat.png" alt="baby_bat" class="float-start col-sm-3" />
+<img src="/assets/research/baby_bat.png" alt="baby_bat" class="float-start col-sm-3" />
 
 Using age data derived from fruit bat dentition, we have undertaken population modeling studies for wild, Madagascar fruit bats. These studies suggest that the Madagascar Flying Fox, *Pteropus rufus*, is particularly threatened by habitat destruction and human hunting for food consumption in Madagascar. We are currently working with a local conservation NGO, [Madigasikara Voakajy](https://www.madagasikara-voakajy.org/), to develop conservation-oriented intervention plans for this species and undertaking new studies aimed at quantifying the positive benefits that this bat offers to healthy ecosystems, including pollination of several endangered Malagasy baobab species. We are also involved in several other conservation collaborations, through which we have undertaken population modeling for several non-Chiropteran threatened taxa, including endemic Malagasy lemurs and tenrecs.
 
@@ -54,7 +54,7 @@ Using age data derived from fruit bat dentition, we have undertaken population m
 
 <h2>Next Generation Sequencing for public health in Madagascar</h2>
 
-<img src="/research/christian_CZB.jpg" alt="chris_czb" class="float-start col-sm-3" />
+<img src="/assets/research/christian_CZB.jpg" alt="chris_czb" class="float-start col-sm-3" />
 
 Our lab was  awarded a [Bill & Melinda Gates Foundation Grand Challenges Explorations grant](https://gcgh.grandchallenges.org/grant/metagenomics-and-etiology-zoonotic-disease-deciphering-bat-human-viral-transmission-madagascar) for ‘Metagenomic Next Generation Sequencing for Pathogen Identification in Low-Income Countries’ in late 2019. In part with this award, Malagasy colleagues from the [IPM](http://www.pasteur.mg/) trained in library preparation and metagenomic Next Generation Sequencing at the Chan Zuckerberg Biohub (San Francisco, CA), and with additional support from the UC Berkeley [Innovative Genomics Institute](https://innovativegenomics.org/projects/covid-19-in-madagascar-next-generation-sequencing/), we have been using a new in-country Illumina iSeq to carry out genomic surveillance for SARS-CoV-2 variants of concern in Madagascar. In the past two years, we have contributed over 700 genomes to the global genome repository, GISAID. See updated analysis of Madagascar SARS-CoV-2 genomic surveillance at our [Nextstrain](https://nextstrain.org/) community build page [here](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). In the future, we hope to use the iSeq to carry out concurrent sequencing of bat excretia from our longitudinal study along with sequencing of samples from undiagnosed febrile human patients reporting to public hospitals across Madagascar.
 
