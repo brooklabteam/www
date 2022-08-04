@@ -41,20 +41,6 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-
-
-<img src="/assets/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
-
-**Freddy Gonzalez** is a post-baccalaureate **Research Assistant** funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He plans to study the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. Freddy holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/yimei-li.jpg" alt="yimei" class="img-thumbnail float-start col-md-3" />
-
-**Yimei Li** is a post-baccalaureate **Research Assistant** in the Department of Ecology and Evolution at the University of Chicago. She is working on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. Yimei holds a Master’s degree from the University of Pennsylvania where she focused on human-environment relationship.
-
-<div style="clear:both;">&nbsp;</div>
-
 <img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
 
 **Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
@@ -113,6 +99,19 @@ Dr. **Christian Ranaivoson** has a **PhD** in the Department of Zoology and Anim
 
 **Sarah Guth** is a fourth-year **PhD Candidate** in the Department of Integrative Biology at the University of California, Berkeley. Sarah is advised by [Professor Mike Boots](https://bootslab.org/) and studies the evolutionary underpinnings of cross-species zoonotic emergence. Sarah is carrying out a subset of dissertation chapters in part with Ekipa Fanihy, specifically investigating linke between disease and aging in the fruit bat methylome in collaboration with [Professor Peter Sudmant](https://www.sudmantlab.org/) at UC Berkeley. Sarah holds a Bachelor of Arts degree in Conservation Biology from Middlebury College and has previously studied foraging and learning behavior in bees, as well as served as the Program Coordinator for Harvard University's [Planetary Health Alliance](https://planetaryhealthalliance.org/).
 
+
 <div style="clear:both;">&nbsp;</div>
 
+<h2>Ekipa Alumni</h2>
 
+<img src="/assets/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
+
+**Freddy Gonzalez** was a post-baccalaureate **Research Assistant** funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He studied the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis throughout bouts of migration, reproduction, and hibernation. He holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts. Freddy is now a PhD student in Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/yimei-li.jpg" alt="yimei" class="img-thumbnail float-start col-md-3" />
+
+**Yimei Li** was a post-baccalaureate **Research Assistant** in the Department of Ecology and Evolution at the University of Chicago. She worked on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. She holds a Master’s degree from the University of Pennsylvania where she focused on human-environment relationship. Yimei is now a PhD student working with Simon Levin in the Quantitative and Computational Biology program at Princeton.
+
+<div style="clear:both;">&nbsp;</div>
