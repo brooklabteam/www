@@ -47,7 +47,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/katherine_mcferrin.jpeg" alt="katherine" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
 **Katherine McFerrin** is the **Lab Manager**. She provides support for the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine holds a Bachelor of Arts in Biology from Carleton College where she focused on organismal biology and bioinformatics. She previously conducted hantavirus surveillance in Washington and studied wildlife conservation in Uganda. 
 
