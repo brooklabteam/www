@@ -35,7 +35,7 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 <h2>Postdocs</h2>
 
-**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](http://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. The [University of Chicago Fellows](https://biologicalsciences.uchicago.edu/research/chicago-fellows) program in the Biological Sciences (applications due annually in December) is one exciting opportunity specific to our university. Please feel free to reach out at [cbrook@uchicago.edu](cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
+**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](http://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. The [University of Chicago Fellows](https://biologicalsciences.uchicago.edu/research/chicago-fellows) program in the Biological Sciences (applications due annually in December) is one exciting opportunity specific to our university. Please feel free to reach out at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
 
 --- 
 
