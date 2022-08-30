@@ -12,12 +12,10 @@ permalink: /publications
 
 - **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1).
 
-<h2>In Press, Accepted</h2>
+<h2>2022</h2>
 
 - Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
-NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. In Press. *Journal of Mammalogy*. doi (pre-print): [10.1101/2021.10.28.466299](https://biorxiv.org/cgi/content/short/2021.10.28.466299v1).
-
-<h2>2022</h2>
+NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. 2022. *Journal of Mammalogy*. doi: [10.1093/jmammal/gyac072](https://doi.org/10.1093/jmammal/gyac072).
 
 - Madera S, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
 
