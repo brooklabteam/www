@@ -7,6 +7,9 @@ img: GK.jpg # Add image post (optional)
 tags: [bats, COVID-19] # add tag
 permalink: /news/nobecoviruses-paper
 ---
+
+By Gwen Kettenburg
+
 <img src="/assets/img/GK.jpg" alt="gwen" class="img-left-w-text" />
 
 Looking for new descriptions of emerging bat coronaviruses in underexplored areas? Then check out our [new paper](https://www.frontiersin.org/articles/10.3389/fpubh.2022.786060/abstract), and read our short description below. 

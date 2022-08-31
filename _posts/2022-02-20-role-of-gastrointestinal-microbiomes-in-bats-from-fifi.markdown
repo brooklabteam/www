@@ -9,7 +9,11 @@ permalink: /news/gastrointestinal-microbiomes
 ---
 <br />
 
+By Fifi Ravelomanantsoa
+
 <img src="/assets/img/2022-02-20-FR-1.png" alt="FR" class="float-start col-md-5" />
+
+
 
 <br />
 
