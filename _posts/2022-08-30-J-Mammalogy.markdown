@@ -7,9 +7,11 @@ img: Pteropus_rufus.jpeg
 tags: [Madagascar, fruit bats, conservation] # add tag
 permalink: /news/mada-bat-morphology
 ---
+<br />
+
 By Santino Andry and Angelo Andrianiaina
 
-<br />
+<br> 
 
 <img src="/assets/img/Pteropus_rufus.jpeg" alt="pteropus" class="float-start col-md-5" />
 
@@ -27,12 +29,12 @@ In our new paper, we quantify life history traits, such as the reproductive peri
 <br> 
 <br> 
 
-<img src="/assets/img/JMamFig1.png" alt="timeline" class="float-start col-md-5" />
+<img src="/assets/img/JMamFig1.png" alt="timeline" class="float-start col-md-8" />
 
 In our paper, we quantify the reproductive period for all three Malagasy fruit bats, predicting  gestation spanning from April through September for P. rufus, July through October for E. dupreanum, and August through November for R. madagascariensis in the Moramanga District of central Madagascar. Consistent with previous reports from other frugivores (e.g. lemurs) in Madagascar, we find that all three bats wean their young simultaneously, at the height of the fruit season in late January/early February. We note that we observed the longest period for gestation and lactation for the largest of the three fruit bat species, P.rufus, which is the species most threatened by human hunting. This species also had the most protracted juvenile growth period, so–all in all–the longest period under the most vulnerable life history conditions.
 <br> 
 <br> 
-<img src="/assets/img/JMamFig3.png" alt="mass_reside" class="float-start col-md-5" />
+<img src="/assets/img/JMamFig3.png" alt="mass_reside" class="float-start col-md-8" />
 
 We also demonstrated that mass and forearm length are positively correlated for adult fruit bats, but that residuals above and below the regression line can be be used to approximate a bat’s “health”. This mass : forearm residual functions like a ‘body mass index’ for a bat. We showed how this ‘bat BMI’ dips for males during the winter (low fruit) season and increases during the summer (high fruit) season. For females, these data are confounded by the effect of pregnancy - we can see how these residuals increase during the gestation period for female bats, staggered across all three species. Quantification of the duration of this staggered gestation period is important for pinpointing the season when these bats are most vulnerable to human hunting–as well as when humans are most at risk for the spillover of bat-borne viruses, known to be shed intensively under reproductive stress.
 <br> 
