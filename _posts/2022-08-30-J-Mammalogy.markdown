@@ -20,7 +20,10 @@ This post commemorates the publication of our new paper, ['Reproduction, seasona
 The Old World Fruit Bat family Pteropodidae is the most endangered group of mammals on earth. Around 35% of the pteropodid species are classified under some category of threat on the IUCN Red List.
 <br> 
 <br> 
-Madagascar is home to three endemic fruit bats in the family Pteropodidae: Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis. Malagasy fruit bats are facing intense population pressure due to heavy hunting for human consumption and habitat loss from land conversion. Both P. rufus and E. dupreanum are classed as ‘Vulnerable’ on the IUCN Red List and R. madagascariensis as ‘Near Threatened.’ This situation is alarming  because the information concerning the life history traits of the Malagasy bats is scarce, making it challenging to project population viability into the future. In our new paper, recently published in the Journal of Mammalogy, we quantify life history traits, such as the reproductive period and juvenile growth rate, for these three species. Quantifying this information will be necessary to future efforts to estimate the population viability of these Malagasy fruit bats, as well as to understand their role in maintaining potentially zoonotic viral pathogens.
+Madagascar is home to three endemic fruit bats in the family Pteropodidae: Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis. Malagasy fruit bats are facing intense population pressure due to heavy hunting for human consumption and habitat loss from land conversion. Both P. rufus and E. dupreanum are classed as ‘Vulnerable’ on the IUCN Red List and R. madagascariensis as ‘Near Threatened.’ This situation is alarming  because the information concerning the life history traits of the Malagasy bats is scarce, making it challenging to project population viability into the future. 
+<br> 
+<br> 
+In our new paper, we quantify life history traits, such as the reproductive period and juvenile growth rate, for these three species. Quantifying this information will be necessary to future efforts to estimate the population viability of these Malagasy fruit bats, as well as to understand their role in maintaining potentially zoonotic viral pathogens.
 <br> 
 <br> 
 
