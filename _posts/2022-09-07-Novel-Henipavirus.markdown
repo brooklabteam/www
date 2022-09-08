@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Novel Henipavirus from the Malagasy fruit bat, <i>Eidolon dupreanum</i>!
-date: 2022-09-07 01:00:00 -0700
+title: Novel henipavirus from the Malagasy fruit bat, <i> Eidolon dupreanum </i>!
+date: 2022-09-08 01:00:00 -0700
 description:  (optional)
 img: eidolon-dupreanum-duped.jpeg
 tags: [Madagascar, fruit bats, viral discovery] # add tag
@@ -18,7 +18,7 @@ We are excited to announce that we have characterized a novel henipavirus, Angav
 <br> 
 <br> 
 
-<img src="/assets/img/Madera2022Fig1.jpeg" alt="sampling site" class="float-start col-md-12" />
+<img src="/assets/img/Madera2022Fig1.jpg" alt="sampling site" class="float-start col-md-12" />
 
 <br> 
 <br> 
@@ -28,7 +28,7 @@ Henipaviruses are highly pathogenic emerging zoonotic viruses from bat, rodent a
 <br> 
 <br> 
 
-<img src="/assets/img/Madera2022Fig3.jpeg" alt="pathogenic protein residues" class="float-start col-md-12" />
+<img src="/assets/img/Madera2022Fig3.jpg" alt="pathogenic protein residues" class="float-start col-md-12" />
 
 <br> 
 <br> 
@@ -38,7 +38,7 @@ AngV is an ancestral bat-borne henipavirus. Using maximum-likelihood and Bayesia
 <br> 
 <br> 
 
-<img src="/assets/img/Madera2022Fig4" alt="henipavirus phylogenetic trees" class="float-start col-md-12" />
+<img src="/assets/img/Madera2022Fig4.jpg" alt="henipavirus phylogenetic trees" class="float-start col-md-12" />
 
 <br> 
 <br> 
@@ -48,7 +48,7 @@ AngV also provides insights into the greater evolutionary story of henipavirus p
 <br> 
 <br> 
 
-<img src="/assets/img/Madera2022Fig5.jpeg" alt="ephrin" class="float-start col-md-12" />
+<img src="/assets/img/Madera2022Fig5.jpg" alt="ephrin" class="float-start col-md-12" />
 
 <br> 
 <br> 
