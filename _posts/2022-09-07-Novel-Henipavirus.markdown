@@ -11,10 +11,10 @@ By Katherine McFerrin
 
 <img src="/assets/img/eidolon-dupreanum-duped.jpeg" alt="eidolon" class="float-start col-md-5" />
 
-<br> 
 <br />
-We are excited to announce that we have characterized a novel henipavirus, Angavokely Virus (AngV). Our recent publication in the Journal of Virology describes the complete coding sequence of AngV from urine samples of the Malagasy fruit bat, Eidolon dupreanum. In prior work AngV had only been identified by serology.
-<br> 
+We are excited to announce that we have characterized a novel henipavirus, Angavokely Virus (AngV). Our ['recent publication in the Journal of Virology'](https://journals.asm.org/doi/epub/10.1128/jvi.00921-22) describes the complete coding sequence of AngV from urine samples of the Malagasy fruit bat, Eidolon dupreanum. In prior work AngV had only been identified by serology.
+
+<br/> 
 Henipaviruses are highly pathogenic emerging zoonotic viruses from bat, rodent and shrew reservoirs. AngV may fall within the ranks of other pathogenic henipaviruses including Hendra and Nipah virus following spillover to human hosts. Our work reveals that AngV encodes major proteins associated with pathogenic henipaviruses, notably, the phosphoprotein (P-protein) embedded V and W proteins, which are known to evoke host immune responses. V and W proteins in pathogenic Hendra (HeV), Nipah (NiV), Mojiang (MojV), Daeryong (DARV) and Gamak viruses (GAKV) and Ghanian bat Henipavirus (GhV), but are absent in non-pathogenic Cedar virus (CedV). This suggests that AngV is likely also pathogenic.
 
 <br> 
