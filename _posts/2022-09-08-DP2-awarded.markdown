@@ -15,14 +15,16 @@ The Brook Lab is excited to announce that we have been awarded an <a href="https
 <br> 
 <br> 
  
-Over the next 5 years, we'll be working to decipher the population-level transmission dynamics of potentially zoonotic henipaviruses, filoviruses, and coronaviruses in Madagascar fruit bats, model the within-host energetic constraints that drive seasonal pulses in bat virus shedding, and attempt to eradicate potentially zoonotic henipaviruses from Malagasy <i>Eidolon dupreanum</i> (see below) through application of a multivalent henipavirus vaccine. 
+Over the next 5 years, we'll be working to (1) decipher the population-level transmission dynamics of potentially zoonotic henipaviruses, filoviruses, and coronaviruses in Madagascar fruit bats, (2) model the within-host energetic constraints that drive seasonal pulses in bat virus shedding, and (3) eradicate potentially zoonotic henipaviruses from Malagasy <i>Eidolon dupreanum</i> (see below) through application of a multivalent henipavirus vaccine. 
 
 <img src="/assets/img/eidolon-dupreanum-duped.jpeg" alt="eidolon" class="float-start col-md-5" />
-<br> 
-<br> 
 <br> 
 <br> 
 We'll be collaborating with the lab of <a href="https://sites.google.com/view/aguilarlab/home">Dr. Hector Aguilar Carreno</a> at Cornell University to develop and deploy this vaccine.
 <br>
 Stay tuned for all the exciting work ahead!
-</br> 
+<br> 
+<br>
+<br> 
+<br>
+
