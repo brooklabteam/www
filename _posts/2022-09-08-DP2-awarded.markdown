@@ -19,10 +19,13 @@ Over the next 5 years, we'll be working to (1) decipher the population-level tra
 
 <img src="/assets/img/eidolon-dupreanum-duped.jpeg" alt="eidolon" class="float-start col-md-5" />
 <br> 
-<br> 
 We'll be collaborating with the lab of <a href="https://sites.google.com/view/aguilarlab/home">Dr. Hector Aguilar Carreno</a> at Cornell University to develop and deploy this vaccine.
 <br>
 Stay tuned for all the exciting work ahead!
+<br> 
+<br>
+<br> 
+<br>
 <br> 
 <br>
 <br> 
