@@ -10,7 +10,7 @@ permalink: /publications
 
 - **Brook CE**, Li Y, Yek C, Northrup GR, Lay S, Chea S, Ahyong V, Parker DM, Man S, Pacheco AR, Mengheng O, Oliveira F, Farhsbender L, Leang R, Huy R, Lon C, Tato CM, DeRisi JL, Boots M, Bohl JA, Manning JE. The Perfect Storm of 2019: An immunological and phylodynamic analysis of Cambodia’s unprecedented dengue outbreak. In Review. doi (pre-print): [10.1101/2022.06.08.22276171](https://doi.org/10.1101/2022.06.08.22276171)
 
-- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v1).
+- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Review. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v2).
 
 <h2>2022</h2>
 
