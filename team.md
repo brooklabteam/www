@@ -25,7 +25,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/assets/team/christian_ranaivoson.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
 
-Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a **Research Engineer** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
+Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -55,7 +55,7 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**Katherine McFerrin** is the **Lab Manager**. She provides support for the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine holds a Bachelor of Arts in Biology from Carleton College where she focused on organismal biology and bioinformatics. She previously conducted hantavirus surveillance in Washington and studied wildlife conservation in Uganda. 
+**Katherine McFerrin** is the **Lab Manager**. She provides support for the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine holds a Bachelor of Arts in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance of rodents in Washington and studied wildlife conservation in Uganda. 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -78,6 +78,11 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
+
+Nuzha Baksh is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
+
+<div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/fifi_ravelomanantsoa.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
 
