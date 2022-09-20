@@ -23,6 +23,12 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/christian_ranaivoson.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+
+Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a **Research Engineer** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
+
+<div style="clear:both;">&nbsp;</div>
+
 <img src="/assets/team/emily_ruhs.jpg" alt="emily" class="img-thumbnail float-start col-md-3" />
 
 **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be working on a long-term dataset exploring viral exposure, nutritional status and animal contact in villages in Madagascar. In the future she hopes to explore how food supplementation impacts viral shedding in bats. Emily holds her Master’s degree from the University of Georgia where she studied disease ecology and her Ph.D. from the University of Wisconsin-Madison where she studied wildlife ecology. She has previously worked on projects examining how acute environmental perturbations influences bird physiology and how aspects of the innate immune system scale with body size. Emily is broadly interested in how energetic constraints drive life-history trade-offs and influences disease dynamics in wildlife.
@@ -66,13 +72,6 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/dominic_daniels.jpg" alt="dominic" class="img-thumbnail float-start col-md-3" />
-
-**Dominic Daniels** is a **Field Project Manager** for Ekipa Fanihy in Madagascar, where he co-facilitates field missions for the sampling of Pteropus, Eidolon, and Rousettus bats. His side projects include bioacoustics sampling for insectivorous bats and GIS mapping. Dominic holds a B.S. in Conservation & Resource Studies and a B.A. in French from the University of California, Berkeley; and has previously worked for the Lincoln Park Zoo, the US Bureau of Land Management, and CAL FIRE.
-
-<div style="clear:both;">&nbsp;</div>
-
-
 <img src="/assets/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
 
 **Kendall Fitzgerald** is a **Field Project Manager** with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
@@ -86,12 +85,6 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/christian_ranaivoson.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
-
-Dr. **Christian Ranaivoson** has a **PhD** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently finished an appointment as a **Research Engineer** in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascan flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian will be joining the Brook lab as a **Postdoctoral Scholar** in June 2022 to lead NGS efforts targeting viral discovery in Malagasy fruit bats. Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parsites of Malagasy reptiles.
-
-
-<div style="clear:both;">&nbsp;</div>
 
 <h2>Ekipa Collaborators</h2>
 
@@ -112,12 +105,18 @@ Dr. **Christian Ranaivoson** has a **PhD** in the Department of Zoology and Anim
 
 <img src="/assets/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
 
-**Freddy Gonzalez** is now a **PhD student** in Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale. He was post-baccalaureate Research Assistant funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program, based in the Department of Ecology and Evolution at the University of Chicago. He studied the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis during migration, reproduction, and hibernation. He holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts. 
+**Freddy Gonzalez** is now a **PhD student** in Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale. He was post-baccalaureate Research Assistant funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program to work in the Brook Lab. He studied the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis during migration, reproduction, and hibernation. He holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts. 
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/yimei-li.jpg" alt="yimei" class="img-thumbnail float-start col-md-3" />
 
 **Yimei Li** is now a **PhD student** working with Simon Levin in the Quantitative and Computational Biology program at Princeton. She was a post-baccalaureate Research Assistant in the Brook Lab. She worked on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. She holds a Master’s degree from the University of Pennsylvania where she focused on human-environment relationship. 
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/dominic_daniels.jpg" alt="dominic" class="img-thumbnail float-start col-md-3" />
+
+**Dominic Daniels** is now working for Bat Conservation International in Pennsylvania. He was a previous Field Project Manager for Ekipa Fanihy in Madagascar, where he co-facilitated field missions for the sampling of Pteropus, Eidolon, and Rousettus bats. His side projects included bioacoustics sampling for insectivorous bats and GIS mapping. Dominic holds a B.S. in Conservation & Resource Studies and a B.A. in French from the University of California, Berkeley; and has previously worked for the Lincoln Park Zoo, the US Bureau of Land Management, and CAL FIRE.
 
 <div style="clear:both;">&nbsp;</div>
