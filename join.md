@@ -3,11 +3,11 @@ layout: page
 title: "Join the Lab"
 permalink: /join
 ---
-<div class="bs-callout bs-callout-warning">
+<!-- <div class="bs-callout bs-callout-warning">
 <p>We are recruiting PhD students to apply in fall 2022 for AY2023-2024. Please fill out the form 
 <a href="https://airtable.com/shrbNU7XV2wIHFZtK">linked here</a> to express your interest!</p>
 <p><em>This page last updated Aug 1, 2022.</em></p>
-</div>
+</div> -->
 
 <h2>A note on diversity and inclusion</h2>
 
@@ -21,13 +21,13 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. **I am recruiting new graduate students to join my lab in fall 2023!** I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. I am recruiting new graduate students to join my lab in fall 2023. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
 
 For recruits to start in AY2023-2024, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. If either or both of these topics sounds like you, please reach out!
 
-**If you are interested in joining the Brook Lab, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrbNU7XV2wIHFZtK) prior to midnight on October 14, 2022**. 
+<!--**If you are interested in joining the Brook Lab, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shrbNU7XV2wIHFZtK) prior to midnight on October 14, 2022**.
 
-Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
+Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal. -->
 
 Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2022.
 
