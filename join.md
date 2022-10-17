@@ -4,11 +4,17 @@ title: "Join the Lab"
 permalink: /join
 ---
 <br />
-<!-- <div class="bs-callout bs-callout-warning">
+
+<!-- 
+
+<div class="bs-callout bs-callout-warning">
 <p>We are recruiting PhD students to apply in fall 2022 for AY2023-2024. Please fill out the form 
 <a href="https://airtable.com/shrbNU7XV2wIHFZtK">linked here</a> to express your interest!</p>
 <p><em>This page last updated Aug 1, 2022.</em></p>
+
 </div> -->
+
+
 
 <h2>A note on diversity and inclusion</h2>
 
