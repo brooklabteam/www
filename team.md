@@ -55,7 +55,7 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**Katherine McFerrin** is the **Lab Manager**. She provides support for the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine holds a Bachelor of Arts in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance of rodents in Washington and studied wildlife conservation in Uganda. 
+**Katherine McFerrin** is the **Lab Manager**. She provides support for the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine earned her B.A. from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab. Additionally, she studied wildlife conservation in Uganda where she used ecological surveys and social science methods to better understand human-wildlife interactions. 
 
 <div style="clear:both;">&nbsp;</div>
 
