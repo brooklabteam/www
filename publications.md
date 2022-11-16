@@ -14,6 +14,8 @@ permalink: /publications
 
 <h2>2022</h2>
 
+- Tegally H, San J, Cotten M, Tegomoh B, Martin D...**Brook CE**...Ranaivoson HC...and Wilkinson E (397 authors). The evolving SARS-CoV-2 epidemic in Africa: Insights from rapidly expanding genomic surveillance. 2022. *Science*. doi: [10.1126/science.abq5358](https://doi.org/10.1126/science.abq5358).
+
 - Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
 NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. 2022. *Journal of Mammalogy*. doi: [10.1093/jmammal/gyac072](https://doi.org/10.1093/jmammal/gyac072).
 
