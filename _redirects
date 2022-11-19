@@ -14,6 +14,9 @@
 /research_interests 		/research
 /jointhelab/fieldtechjob	/join/field-tech
 
+# Redirects from old CV to new
+/assets/CV_CaraBrook_Full_June2022.pdf 		/assets/CV_CaraBrook_Full_September2022.pdf
+
 # Redirects from old post titles
 /news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
 /news/2022-02-20-fr-post	/news/gastrointestinal-microbiomes
