@@ -68,7 +68,7 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/santino_andry.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
-**Santino Andry** is finishing his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
+**Santino Andry** recently finished his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
 
 <div style="clear:both;">&nbsp;</div>
 
