@@ -35,21 +35,19 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/theresa_laverty.jpg" alt="theresa" class="img-thumbnail float-start col-md-3" />
-
-**[Theresa Laverty](https://theresalaverty.weebly.com/)** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. Using methods such as molecular dietary analysis and population viability analyses, her work will advance our knowledge of the population, community, and disease ecology of Malagasy bats. Theresa holds a PhD in Fish, Wildlife, and Conservation Biology from Colorado State University, where she conducted social and ecological research to understand the drivers of bat community structure and identify conservation challenges / opportunities within pastoralist communal conservancies in the northern Namib Desert, Namibia. Prior to Chicago, Theresa was a postdoctoral fellow at Colorado State University studying the population ecology of migratory long-nosed bats (Leptonycteris spp.) in relation to the timing and availability of their Agave nectar food in New Mexico.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/katie-young.png" alt="katie" class="img-thumbnail float-start col-md-3" />
-
-**Katie Young** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be using an inter-disciplinary approach including field-based sampling, metagenomic sequencing, and open-source data to better understand the complex host-vector-environmental interactions that drive viral emergence in Madagascar. Katie holds a Master’s degree and Ph.D. from New Mexico State University where she studied the ecology and evolution of arthropod-borne viruses. She was awarded a Fulbright Fellowship in 2016 to research the impact of oil palm insertion into native Bornean forests on the risk of spillover of dengue viruses from non-human primates to humans. Prior to joining the Brook Lab, Katie was a USDA-ARS funded postdoctoral fellow studying the ecological drivers of vesicular stomatitis virus emergence from Southern Mexico into the US and supported the development of an early warning system using Big-Data-Model-Integration approaches.
+**Margot Bolanos-Gamez** is an undergraduate **Research Assistant** studying Environmental Science and Global Studies at the University of Chicago.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
 
 **Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
+
+**Kendall Fitzgerald** is a **Laboratory Research Technician**. She previously was a Field Project Manager with Ekipa Fanihy, where she co-led field missions with the team to carry out capture and sampling of Madagascar fruit bats. She also served as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -72,21 +70,13 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
-
-**Kendall Fitzgerald** is a **Field Project Manager** with Ekipa Fanihy. She co-leads tri-monthly field missions with the team to carry out monthly capture and sampling of Madagascar fruit bats. She will also serve as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
-
-<div style="clear:both;">&nbsp;</div>
-
 <img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
 
-Nuzha Baksh is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
+**Nuzha Baksh** is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/fifi_ravelomanantsoa.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
-
-**Fifi Ravelomanantsoa** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where she is studying seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses is currently in revision at *Emerging Topics in Life Sciences.* Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
+**Michael McGuire** is a **Field Project Manager** with Ekipa Fanihy.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -123,5 +113,23 @@ Nuzha Baksh is a **Field Project Manager** with Ekipa Fanihy. She co-leads month
 <img src="/assets/team/dominic_daniels.jpg" alt="dominic" class="img-thumbnail float-start col-md-3" />
 
 **Dominic Daniels** is now working for Bat Conservation International in Pennsylvania. He was a previous Field Project Manager for Ekipa Fanihy in Madagascar, where he co-facilitated field missions for the sampling of Pteropus, Eidolon, and Rousettus bats. His side projects included bioacoustics sampling for insectivorous bats and GIS mapping. Dominic holds a B.S. in Conservation & Resource Studies and a B.A. in French from the University of California, Berkeley; and has previously worked for the Lincoln Park Zoo, the US Bureau of Land Management, and CAL FIRE.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/fifi_ravelomanantsoa.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+
+**Fifi Ravelomanantsoa** was a **Research Technician** for Ekipa Fanihy. She studied seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses was published in [Emerging Topics in Life Sciences](https://doi.org/10.1042/ETLS20200097) in 2020. Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/theresa_laverty.jpg" alt="theresa" class="img-thumbnail float-start col-md-3" />
+
+**[Theresa Laverty](https://theresalaverty.weebly.com/)** is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. She was a **Postdoctoral Scholar** at the University of Chicago. Using methods such as molecular dietary analysis and population viability analyses, her work advanced our knowledge of the population, community, and disease ecology of Malagasy bats. Theresa holds a PhD in Fish, Wildlife, and Conservation Biology from Colorado State University, where she conducted social and ecological research to understand the drivers of bat community structure and identify conservation challenges / opportunities within pastoralist communal conservancies in the northern Namib Desert, Namibia. Prior to Chicago, Theresa was a postdoctoral fellow at Colorado State University studying the population ecology of migratory long-nosed bats (Leptonycteris spp.) in relation to the timing and availability of their Agave nectar food in New Mexico.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/katie-young.png" alt="katie" class="img-thumbnail float-start col-md-3" />
+
+**Katie Young** is now a **Adjunct Assistant Professor** at New Mexico State University. She was a **Postdoctoral Scholar** at the University of Chicago. She used an inter-disciplinary approach including field-based sampling, metagenomic sequencing, and open-source data to better understand the complex host-vector-environmental interactions that drive viral emergence in Madagascar. Katie holds a Master’s degree and Ph.D. from New Mexico State University where she studied the ecology and evolution of arthropod-borne viruses. She was awarded a Fulbright Fellowship in 2016 to research the impact of oil palm insertion into native Bornean forests on the risk of spillover of dengue viruses from non-human primates to humans. Prior to joining the Brook Lab, Katie was a USDA-ARS funded postdoctoral fellow studying the ecological drivers of vesicular stomatitis virus emergence from Southern Mexico into the US and supported the development of an early warning system using Big-Data-Model-Integration approaches.
 
 <div style="clear:both;">&nbsp;</div>
