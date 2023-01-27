@@ -41,7 +41,7 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/margo_bolanos_gamez.jpeg" alt="margo" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/margot_bolanos_gamez.jpg" alt="margot" class="img-thumbnail float-start col-md-3" />
 
 **Margot Bolaños-Gamez** is an undergraduate **Research Assistant** studying Environmental Science and Global Studies at the University of Chicago. As part of the Marine Biological Sciences September courses, she has researched the biodiversity of the local Little Sippewissett Marsh fiddler crabs and the biogeography of the flora and field mice of Penikese Island. A recent Center for Global Health fellow, she led an investigation in Honduras on the health decentralization reform by conducting ethnographic interviews in local clinics, governmental agencies, and regional health centers. Being a research assistant in the Brook Lab introduces her to an insightful field and lab skills relevant to her professional journey. She aspires to work on research that centralizes human and environmental health concerns and combines her passion for social and health sciences.
 
