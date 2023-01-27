@@ -23,7 +23,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/christian_ranaivoson.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="img-thumbnail float-start col-md-3" />
 
 Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
 
@@ -35,13 +35,19 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
+
+**Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
+
+<div style="clear:both;">&nbsp;</div>
+
 **Margot Bolanos-Gamez** is an undergraduate **Research Assistant** studying Environmental Science and Global Studies at the University of Chicago.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
+**Katherine McFerrin** is the **Lab Manager**. She supports the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -51,21 +57,15 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
-
-**Katherine McFerrin** is the **Lab Manager**. She provides support for the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine earned her B.A. from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab. Additionally, she studied wildlife conservation in Uganda where she used ecological surveys and social science methods to better understand human-wildlife interactions. 
-
-<div style="clear:both;">&nbsp;</div>
-
 <h2>Madagascar Team</h2>
 
-<img src="/assets/team/angelo_andrianiaina.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/angelo_andrianiaina.jpg" alt="angelo" class="img-thumbnail float-start col-md-3" />
 
 **Angelo Andrianiaina** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/santino_andry.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
 **Santino Andry** recently finished his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
 
 <div style="clear:both;">&nbsp;</div>
@@ -76,20 +76,22 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
-**Michael McGuire** is a **Field Project Manager** with Ekipa Fanihy.
+<img src="/assets/team/michael_mcguire.jpg" alt="michael" class="img-thumbnail float-start col-md-3" />
+
+**Michael McGuire** is a **Field Project Manager** with Ekipa Fanihy. He co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Michael holds a B.S. in Wildlife and Fisheries Biology and a minor in Geography from the University of Vermont. He has a diverse work history from environmental education and backcountry canoe & kayak guiding in Northern Wisconsin, fieldwork on a sampling project of snowshoe hares in Colorado, assisting and filming an expedition down the Mississippi River to study microplastics distribution, trail construction with Americorps in and around Olympic National Park, salmon habitat restoration on Washington’s Olympic Peninsula, and whale-watch guiding within the Salish Sea. Michael is also an accomplished wildlife and nature photographer having earned scholarships, held galleries for his work, and won several awards.
 
 <div style="clear:both;">&nbsp;</div>
 
 
 <h2>Ekipa Collaborators</h2>
 
-<img src="/assets/team/anecia_gentles.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/anecia_gentles.jpg" alt="anecia" class="img-thumbnail float-start col-md-3" />
 
 **Anecia Gentles** is a **PhD student** working with [Dr. Nicole Gottdenker](https://www.gottdenkerlab.com/) in the Odum School of Ecology at the University of Georgia. Prior to starting at UGA, Anecia served as an 18-month  **Field Project Manager** for Ekipa Fanihy from January 2018-June 2020, organizing lead monthly field collections on our project. Anecia plans to continue work with Ekipa Fanihy throughout her PhD. Her review of previous modeling studies of bat infection dynamics will be coming out in *Pathogens and Global Health* next month. Anecia holds a Bachelor of Science degree in Ecology and Evolutionary Biology from Rice University, where she studied lemur seed dispersal in Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/sarah_guth.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/sarah_guth.jpg" alt="sarah" class="img-thumbnail float-start col-md-3" />
 
 **Sarah Guth** is a fourth-year **PhD Candidate** in the Department of Integrative Biology at the University of California, Berkeley. Sarah is advised by [Professor Mike Boots](https://bootslab.org/) and studies the evolutionary underpinnings of cross-species zoonotic emergence. Sarah is carrying out a subset of dissertation chapters in part with Ekipa Fanihy, specifically investigating link between disease and aging in the fruit bat methylome in collaboration with [Professor Peter Sudmant](https://www.sudmantlab.org/) at UC Berkeley. Sarah holds a Bachelor of Arts degree in Conservation Biology from Middlebury College and has previously studied foraging and learning behavior in bees, as well as served as the Program Coordinator for Harvard University's [Planetary Health Alliance](https://planetaryhealthalliance.org/).
 
@@ -116,7 +118,7 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/fifi_ravelomanantsoa.jpg" alt="bat" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/fifi_ravelomanantsoa.jpg" alt="fifi" class="img-thumbnail float-start col-md-3" />
 
 **Fifi Ravelomanantsoa** was a **Research Technician** for Ekipa Fanihy. She studied seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses was published in [Emerging Topics in Life Sciences](https://doi.org/10.1042/ETLS20200097) in 2020. Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
 
