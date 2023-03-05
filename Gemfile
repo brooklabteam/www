@@ -19,5 +19,5 @@ gem "jekyll", "4.1.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   get "jekyll-sitemap"
+   gem "jekyll-sitemap"
 end
