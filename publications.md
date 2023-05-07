@@ -7,6 +7,9 @@ permalink: /publications
 
 <h2>In Review (pre-prints)</h2>
 
+
+- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, **Brook1 CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Review.
+
 - Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, Manning JE. Dengue in Cambodia 2002-2020: Cases, characteristics and capture by national surveillance. In Review. 
 
 <h2>In Revision (pre-prints)</h2>
