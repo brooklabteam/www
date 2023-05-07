@@ -8,13 +8,13 @@ permalink: /publications
 <h2>In Review (pre-prints)</h2>
 
 
-- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, **Brook1 CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Review.
+- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Review.
 
-- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, Manning JE. Dengue in Cambodia 2002-2020: Cases, characteristics and capture by national surveillance. In Review. 
+- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. Dengue in Cambodia 2002-2020: Cases, characteristics and capture by national surveillance. In Review. 
 
 <h2>In Revision (pre-prints)</h2>
 
-- **Brook CE**, Rozins C, Guth S, Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Revision. *PLoS Biology*. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v2).
+- **Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Revision. *PLoS Biology*. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v2).
 
 <h2>2022</h2>
 
@@ -23,13 +23,13 @@ permalink: /publications
 - Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
 NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. 2022. *Journal of Mammalogy*. doi: [10.1093/jmammal/gyac072](https://doi.org/10.1093/jmammal/gyac072).
 
-- Madera S, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
+- Madera S, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, and **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
 
-- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. 2022. *PNAS*. doi: [10.1073/pnas.2113628119](https://doi.org/10.1073/pnas.2113628119). ± = equal senior contributions
+- Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, and **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. 2022. *PNAS*. doi: [10.1073/pnas.2113628119](https://doi.org/10.1073/pnas.2113628119). ± = equal senior contributions
 
 - Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. 2022. *Frontiers in Public Health*. doi: [10.3389/fpubh.2022.786060](https://doi.org/10.3389/fpubh.2022.786060).
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2021. *Trends in Microbiology*. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
+- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, and **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2021. *Trends in Microbiology*. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
 
 <h2>2021</h2>
 
