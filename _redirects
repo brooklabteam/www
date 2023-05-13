@@ -8,19 +8,19 @@
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from changing page URLs
-/jointhelab					/join
+/jointhelab					      /join
 /labvaluesexpectations		/values-and-policies
-/carabrook					/cara-brook
-/cara-brook/CV_CaraBrook_Full_June2022.pdf	/assets/CV_CaraBrook_Full_June2022.pdf
-/people						/team
+/carabrook					      /cara-brook
 /jointhelab/team.html 		/team
-/team.html					/team
-/research_interests 		/research
 /jointhelab/fieldtechjob	/join/field-tech
+/people						        /team
+/research_interests 		  /research
+/team.html					      /team
 
 # Redirects from old CV to /cara-brook (which includes link to current CV)
 /carabrook/CV_CaraBrook_Full_April2022.pdf  /cara-brook
 /assets/CV_CaraBrook_Full_June2022.pdf      /cara-brook
+/cara-brook/CV_CaraBrook_Full_June2022.pdf	/cara-brook
 
 # Redirects from old post titles
 /news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
