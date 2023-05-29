@@ -48,7 +48,7 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 <h2>Postdocs</h2>
 
-**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](http://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. The [University of Chicago Fellows](https://biologicalsciences.uchicago.edu/research/chicago-fellows) program in the Biological Sciences (applications due annually in December) is one exciting opportunity specific to our university. Please feel free to reach out at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
+**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](https://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. The [University of Chicago Fellows](https://biologicalsciences.uchicago.edu/research/chicago-fellows) program in the Biological Sciences (applications due annually in December) is one exciting opportunity specific to our university. Please feel free to reach out at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
 
 --- 
 
@@ -61,7 +61,7 @@ Undergraduates wishing to conduct summer research should look out for a mid-Apri
 
 Additionally, students may apply for support to offset living expenses both during the academic year and during the summer through one of the University of Chicago's [Metcalf Internship Programs](https://careeradvancement.uchicago.edu/student-opportunities/college-sponsored-grants), which offers multiple deadlines throughout the year. However, research in an on-campus lab is not the primary goal of this program, and students are encouraged to clarify their intentions with the program's advisors before submitting an application. The Quad Scholars programs outlined above are a better fit overall.
 
-If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@uchicago.edu](cbrook@uchicago.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
+If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
 
 --- 
 
