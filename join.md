@@ -20,7 +20,7 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>Field Technicians</h2>
 
-We are currently soliciting applications for a new Madagascar-based **Field Technician** to join Ekipa Fanihy from November 2023-November 2024 (start and end dates somewhat flexible). This year, due to limitations imposed by our funding sources, we are specifically soliciting applicaitons for a **Chicago Post-Baccaulaureate Field Fellow** who must either be a native of the Chicagoland region or a recent graduate of a Chicago region university. Please see [here](/join/Chicago-field-fellow) for our up-to-date job description and application.
+We are currently soliciting applications for a new Madagascar-based **Field Technician** to join Ekipa Fanihy from November 2023-November 2024 (start and end dates somewhat flexible). This year, due to limitations imposed by our funding sources, we are specifically soliciting applicaitons for a **Chicago Post-Baccaulaureate Field Fellow** who must either be a native of the Chicagoland region or a recent graduate of a Chicago region university. Please see [Chicago field fellow](/join/chicago-field-fellow) for our up-to-date job description and application.
 
 **Applications are due by midnight on Friday, June 30, 2023!**
 
