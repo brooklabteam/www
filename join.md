@@ -3,26 +3,10 @@ title: "Join the Lab"
 layout: page
 permalink: /join
 ---
-<br />
-
-
 <div class="bs-callout bs-callout-warning">
 <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/Chicago-field-fellow">here</a> for job description and application, due by midnight on <strong>June 30, 2023!</strong>. 
 <p><em>This page last updated May 28, 2023.</em></p>
-
 </div>
-
-
-<!-- 
-
-<div class="bs-callout bs-callout-warning">
-<p>We are recruiting PhD students to apply in fall 2022 for AY2023-2024. Please fill out the form 
-<a href="https://airtable.com/shrbNU7XV2wIHFZtK">linked here</a> to express your interest!</p>
-<p><em>This page last updated Aug 1, 2022.</em></p>
-
-</div> -->
-
-
 
 <h2>A note on diversity and inclusion</h2>
 
