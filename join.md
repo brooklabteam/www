@@ -8,8 +8,6 @@ permalink: /join
   <p><em>This page last updated May 28, 2023.</em></p>
 </div>
 
-<div style="clear:both;">&nbsp;</div>
-
 <h2>A note on diversity and inclusion</h2>
 
 <img src="/assets/join/ekipa_fanihy_happy.jpg" alt="bat" class="float-start col-sm-5" />
