@@ -3,7 +3,6 @@ title: "Chicago Field Fellow"
 layout: default
 permalink: /join/chicago-field-fellow
 ---
-
 <div class="bs-callout bs-callout-warning">
   <p><a href="https://airtable.com/shr0RFNYVfvR12Tfh">Submit your application</a> by midnight (Central) on June 30, 2023 for consideration as the 2023-2024 Chicago Post-Baccalaureate Field Fellow! Two recommenders should upload letters using <a href="https://airtable.com/shrrlOZMdf5B0bCnd">this recommendation submission form</a> by the same deadline.</p>
 </div>
