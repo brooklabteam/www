@@ -5,7 +5,6 @@ permalink: /team
 ---
 <div class="bs-callout bs-callout-info">
   <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/chicago-field-fellow">the Chicago field fellow</a> for job description and application, due by midnight (Central) on <strong>June 30, 2023</strong>!</p>
-  <p><em>This page last updated May 28, 2023.</em></p>
 </div>
 
 <img src="/assets/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
