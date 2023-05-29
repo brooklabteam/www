@@ -3,6 +3,11 @@ layout: page
 title: Ekipa Fanihy (Team)
 permalink: /team
 ---
+<div class="bs-callout bs-callout-info">
+  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/chicago-field-fellow">the Chicago field fellow</a> for job description and application, due by midnight (Central) on <strong>June 30, 2023</strong>!</p>
+  <p><em>This page last updated May 28, 2023.</em></p>
+</div>
+
 <img src="/assets/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
 
 The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to suite of inspiring Malagasy graduate students and postdocs at the University of Antananarivo. Collectively, we are *Ekipa Fanihy*, Malagasy for 'Team Fruit Bat.'
