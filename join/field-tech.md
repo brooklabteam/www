@@ -1,6 +1,6 @@
 ---
 title: "Field Technician Position"
-layout: default
+layout: page
 permalink: /join/field-tech
 ---
 

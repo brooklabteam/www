@@ -1,6 +1,6 @@
 ---
-title: "Join the Lab"
 layout: page
+title: "Join the Lab"
 permalink: /join
 ---
 <div class="bs-callout bs-callout-info">

@@ -1,6 +1,6 @@
 ---
+layout: page
 title: "Chicago Field Fellow"
-layout: default
 permalink: /join/chicago-field-fellow
 ---
 <div class="bs-callout bs-callout-warning">
