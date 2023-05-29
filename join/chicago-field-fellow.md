@@ -5,7 +5,7 @@ permalink: /join/chicago-field-fellow
 ---
 
 <div class="bs-callout bs-callout-warning">
-  <p>Apply <a href="https://airtable.com/shr0RFNYVfvR12Tfh">here</a> by midnight on June 30, 2023 for consideration as the 2023-2024 Chicago Post-Baccalaureate Field Fellow! Two recommenders should upload letters to [this link](https://airtable.com/shrrlOZMdf5B0bCnd) by the same deadline.</p>
+  <p><a href="https://airtable.com/shr0RFNYVfvR12Tfh">Submit your application</a> by midnight (Central) on June 30, 2023 for consideration as the 2023-2024 Chicago Post-Baccalaureate Field Fellow! Two recommenders should upload letters to [this link](https://airtable.com/shrrlOZMdf5B0bCnd) by the same deadline.</p>
 </div>
 
 ---
