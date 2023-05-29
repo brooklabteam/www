@@ -1,9 +1,17 @@
 ---
-layout: page
 title: "Join the Lab"
+layout: page
 permalink: /join
 ---
 <br />
+
+
+<div class="bs-callout bs-callout-warning">
+<p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/Chicago-field-fellow">here</a> for job description and application, due by midnight on <strong>June 30, 2023!</strong>. 
+<p><em>This page last updated May 28, 2023.</em></p>
+
+</div>
+
 
 <!-- 
 
@@ -26,9 +34,23 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 ---
 
+<h2>Field Technicians</h2>
+
+We are currently soliciting applications for a new Madagascar-based **Field Technician** to join Ekipa Fanihy from November 2023-November 2024 (start and end dates somewhat flexible). This year, due to limitations imposed by our funding sources, we are specifically soliciting applicaitons for a **Chicago Post-Baccaulaureate Field Fellow** who must either be a native of the Chicagoland region or a recent graduate of a Chicago region university. Please see [here](/join/Chicago-field-fellow) for our up-to-date job description and application.
+
+**Applications are due by midnight on Friday, June 30, 2023!**
+
+<!-- 
+the new field technician will be recrufunding restrictions, . Applications are now closed and will not renew again until spring 2023, for a likely September 2023 start date. For future opportunities, please note that this job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. Please see [here](/join/field-tech) for a job description of past opportunities. 
+
+-->
+
+
+---
+
 <h2>PhD Positions</h2>
 
-I recently started as an Assistant Professor in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the University of Chicago. I am recruiting new graduate students to join my lab in fall 2024. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+The Brook lab is recruiting new graduate students to join our lab in fall 2024. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
 
 For recruits to start in AY2024-2025, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
 
@@ -46,11 +68,34 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 --- 
 
+
+<h2>Undergraduates</h2>
+
+We have several University of Chicago undergraduate researchers in the lab at any given time and many small projects available for an interested student. As a policy, I do not allow undergrads to intern without pay, a practice that has been shown to exacerbate inequities in opportunity and access. We do not currently have any specific positions available at this time; however, the University of Chicago abounds with opportunities for proactive undergrads to acquire funding to carry out mentored research. 
+
+Undergraduates wishing to conduct summer research should look out for a mid-April deadline for grants through the [Quad Summer Undergraduate Research Scholars](https://ccrf.uchicago.edu/undergraduate-research/quad-summer-undergraduate-research-scholars) program. Rising fourth years interested in pursuing honors thesis research in Ecology and Evolution over the summer should additionally watch for an email from Professor Cathy Pfister soliciting applications every ~March/April. During the academic year, the [Quad Undergraduate Research Grants](https://ccrf.uchicago.edu/undergraduate-research/quad-undergraduate-research-scholars-program) program additionally offers grants directly to students who must submit to application cycles in early October or early January. Finally, the [Quad Faculty Research Grant](https://ccrf.uchicago.edu/undergraduate-research/quad-faculty-research-grant-program) program has an early September deadline. Under this initiative (which funded Vera Soloview and Margot Bolaños-Gamez in AY 2022-2023), Professor Cara Brook would submit the application with a specific student and project in mind. 
+
+Additionally, students may apply for support to offset living expenses both during the academic year and during the summer through one of the University of Chicago's [Metcalf Internship Programs](https://careeradvancement.uchicago.edu/student-opportunities/college-sponsored-grants), which offers multiple deadlines throughout the year. However, research in an on-campus lab is not the primary goal of this program, and students are encouraged to clarify their intentions with the program's advisors before submitting an application. The Quad Scholars programs outlined above are a better fit overall.
+
+If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@uchicago.edu](cbrook@uchicago.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
+
+--- 
+
+<h2>Post-Baccaulaureate Fellows</h2>
+
+We periodically host post-baccaulaureate research fellows for a full year through the NIH-sponsored [University of Chicago PREP (Post-Baccaulaureate Research Education Program)](https://bsdprep.uchicago.edu/), which funds underrepresented minority students to carry out a full year of research in a host lab. PREP students also receive financial support and mentoring through the graduate school and NSF Graduate Research Fellowship application processes. Freddy Gonzalez was a PREP scholar in AY 2021-2022 and is now a PhD student in Dr. Paul Turner's lab at Yale.
+
+Applications for PREP are due internally to UChicago annually in March or April--watch for deadlines [here](https://bsdprep.uchicago.edu/program-activities/application-procedure/).
+
+
+
+---
+
 <h2>Field Technicians</h2>
 
-We recently solicited applications for a new **Field Technician** for the upcoming 2022-2023 year. Applications are now closed and will not renew again until spring 2023, for a likely September 2023 start date. For future opportunities, please note that this job is targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team) to catch and collect samples from wild fruit bats in Madagascar. I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange. Please see [here](/join/field-tech) for a job description of past opportunities. 
 
-Outside of my lab, if you are interested in finding research positions in the meantime, you may want to explore the following job boards or research opportunities:
+Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
+
 
 <ul>
   <li>ECOLOG-L job board (note you need to register first for access- <a href="https://halllab.asu.edu/how-to-join-the-ecolog-job-board/">instructions here</a>)</li>
@@ -63,3 +108,6 @@ Outside of my lab, if you are interested in finding research positions in the me
   <li><a href="https://isleroyalewolf.org/participate/participate/interns.html">Wolves & Moose of Isle Royale</a></li>
   <li><a href="https://ornithologyexchange.org/jobs/board/">Ornithology Exchange job board</a></li>
 </ul>
+
+
+
