@@ -5,16 +5,17 @@ permalink: /publications
 ---
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
-<h2>In Review (pre-prints)</h2>
 
-
-- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Review.
-
-- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. Dengue in Cambodia 2002-2020: Cases, characteristics and capture by national surveillance. In Review. 
 
 <h2>In Revision (pre-prints)</h2>
 
-- **Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Revision. *PLoS Biology*. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v2).
+- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Revision. Frontiers in Public Health.
+
+- **Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. In Revision. *PLoS Biology*. doi (pre-print): [10.1101/2021.10.06.463372](https://www.biorxiv.org/content/10.1101/2021.10.06.463372v3).
+
+<h2>In Press (pre-prints)</h2>
+
+- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. Dengue in Cambodia 2002-2020: Cases, characteristics and capture by national surveillance. In Press. *Bulletin of the World Health Organization.* 
 
 <h2>2022</h2>
 
