@@ -19,68 +19,51 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/assets/team/gwenkettenburg.jpg" alt="gwen" class="img-thumbnail float-start col-md-3" />
 
-**Gwenddolen Kettenburg** is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she plans to study seasonal pathogen dynamics in Madagascar bats in the field, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously works on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. 
+**Gwenddolen Kettenburg** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she plans to study seasonal pathogen dynamics in Madagascar bats in the field, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously works on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. 
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/sophiahorigan.jpg" alt="sophia" class="img-thumbnail float-start col-md-3" />
 
-**Sophia Horigan** is a **PhD candidate** in the Department of Ecology and Evolution at the University of Chicago. Her work centers on leveraging computational models and field data to understand disease dynamics, as well as predicting and mitigating future outbreaks of harmful pathogens. In the Brook lab, she is using models to improve our understanding of the transmission dynamics of viruses in Madagascar fruit bats, as well as exploring how bat vaccination strategies may alter these dynamics. Sophia earned her B.A. from Lewis & Clark College, where she focused on building bioinformatics pipelines that utilized proteomic and transcriptomic datasets to understand the evolutionary history of Haplogyne spiders and their venom. 
+**Sophia Horigan** (she/her) is a **PhD candidate** in the Department of Ecology and Evolution at the University of Chicago. Her work centers on leveraging computational models and field data to understand disease dynamics, as well as predicting and mitigating future outbreaks of harmful pathogens. In the Brook lab, she is using models to improve our understanding of the transmission dynamics of viruses in Madagascar fruit bats, as well as exploring how bat vaccination strategies may alter these dynamics. Sophia earned her B.A. from Lewis & Clark College, where she focused on building bioinformatics pipelines that utilized proteomic and transcriptomic datasets to understand the evolutionary history of Haplogyne spiders and their venom. 
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="img-thumbnail float-start col-md-3" />
 
-Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
+Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. He will lead NGS efforts targeting viral discovery in Malagasy fruit bats. He has a PhD in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and recently worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led Next Generation Sequencing (NGS) studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/emily_ruhs.jpg" alt="emily" class="img-thumbnail float-start col-md-3" />
 
-**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be working on a long-term dataset exploring viral exposure, nutritional status and animal contact in villages in Madagascar. In the future she hopes to explore how food supplementation impacts viral shedding in bats. Emily holds her Master’s degree from the University of Georgia where she studied disease ecology and her Ph.D. from the University of Wisconsin-Madison where she studied wildlife ecology. She has previously worked on projects examining how acute environmental perturbations influences bird physiology and how aspects of the innate immune system scale with body size. Emily is broadly interested in how energetic constraints drive life-history trade-offs and influences disease dynamics in wildlife.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
-
-**Vera Soloview** is an undergraduate **Research Assistant** studying Biological Sciences at the University of Chicago. Over the past two summers, Vera has completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. She has recently joined the Brook Lab, currently assisting on research projects.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/margot_bolanos_gamez.jpg" alt="margot" class="img-thumbnail float-start col-md-3" />
-
-**Margot Bolaños-Gamez** is an undergraduate **Research Assistant** studying Environmental Science and Global Studies at the University of Chicago. As part of the Marine Biological Sciences September courses, she has researched the biodiversity of the local Little Sippewissett Marsh fiddler crabs and the biogeography of the flora and field mice of Penikese Island. A recent Center for Global Health fellow, she led an investigation in Honduras on the health decentralization reform by conducting ethnographic interviews in local clinics, governmental agencies, and regional health centers. Being a research assistant in the Brook Lab introduces her to an insightful field and lab skills relevant to her professional journey. She aspires to work on research that centralizes human and environmental health concerns and combines her passion for social and health sciences.
+**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be working on a long-term dataset exploring viral exposure, nutritional status and animal contact in villages in Madagascar. In the future she hopes to explore how food supplementation impacts viral shedding in bats. Emily holds her Master’s degree from the University of Georgia where she studied disease ecology and her Ph.D. from the University of Wisconsin-Madison where she studied wildlife ecology. She has previously worked on projects examining how acute environmental perturbations influences bird physiology and how aspects of the innate immune system scale with body size. Emily is broadly interested in how energetic constraints drive life-history trade-offs and influences disease dynamics in wildlife.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**Katherine McFerrin** is the **Lab Manager**. She supports the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
+**Katherine McFerrin** (she/her) is the **Lab Manager**. She supports the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
-
-**Kendall Fitzgerald** is a **Laboratory Research Technician**. She previously was a Field Project Manager with Ekipa Fanihy, where she co-led field missions with the team to carry out capture and sampling of Madagascar fruit bats. She also served as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
-
-<div style="clear:both;">&nbsp;</div>
 
 <h2>Madagascar Team</h2>
 
 <img src="/assets/team/angelo_andrianiaina.jpg" alt="angelo" class="img-thumbnail float-start col-md-3" />
 
-**Angelo Andrianiaina** is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
+**Angelo Andrianiaina** (he/him) is a **PhD student** in the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar, where he studies seasonal variation in ectoparasite infestation of two Malagasy fruit bats (*Eidolon dupreanum* and *Rousettus madagascariensis*) and the impacts of this variation on the dynamics of infection for vector-borne pathogens, such as *Bartonella* spp. Angelo holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously worked on projects promoting lemur conservation in vanilla plantations in northern Madagascar, as well as projects documenting small mammal and herpetological biodiversity in the Moramanga District of east-central Madagascar.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
-**Santino Andry** recently finished his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
+**Santino Andry** (he/him) recently finished his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
 
-**Nuzha Baksh** is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
+**Nuzha Baksh** (she/her) is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -107,6 +90,26 @@ Dr. **Christian Ranaivoson** is a **Postdoctoral Scholar** in the Department of 
 <div style="clear:both;">&nbsp;</div>
 
 <h2>Ekipa Alumni</h2>
+
+<img src="/assets/team/margot_bolanos_gamez.jpg" alt="margot" class="img-thumbnail float-start col-md-3" />
+
+**Margot Bolaños-Gamez** is now a Master's in Public Health student at Emory University. Previously, she was an undergraduate **Research Assistant** in the Brook lab and a University of Chicago Center for Global Health fellow, where she led an investigation in Honduras on the health decentralization reform by conducting ethnographic interviews in local clinics, governmental agencies, and regional health centers. She aspires to work on research that centralizes human and environmental health concerns and combines her passion for social and health sciences.
+
+<div style="clear:both;">&nbsp;</div>
+
+
+<img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
+
+**Vera Soloview** is now living and working in the Hyde Park area. Previously, she was an undergraduate **Research Assistant** in the Brook lab where she completed an undergraduate honors thesis studying urbanization and stress responses in Chicagoland American Robins. Previously, Vera completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. 
+
+<div style="clear:both;">&nbsp;</div>
+
+
+<img src="/assets/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
+
+**Kendall Fitzgerald** is now an independent documentary filmmaker. She previously worked as a Laboratory Research Technician and a Field Project Manager with Ekipa Fanihy, where she co-led field missions with the team to carry out capture and sampling of Madagascar fruit bats. She also served as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
+
+<div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
 
