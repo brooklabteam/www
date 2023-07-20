@@ -43,10 +43,15 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**Katherine McFerrin** (she/her) is the **Lab Manager**. She supports the Brook Lab’s research and fieldwork. She will also be comparing methods to estimate bat aging and helping with hormonal assays. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
+**Katherine McFerrin** (she/her) is the **Lab Manager**. She supports the Brook Lab’s research and fieldwork. She is using serology to study histories of viral exposure in Malagasy fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/mars_woodward.jpeg" alt="Mars" class="img-thumbnail float-start col-md-3" />
+
+**Mars Woodward** (they/she) is a post-baccalaureate Research Assistant funded by the [NIH PREP program](https://www.nigms.nih.gov/training/PREP). Mars holds a B.A. from Pomona College, with a Biology major and Africana Studies minor. They studied the convergence of Biology and Africana Studies within the field of Urban Ecology. In the past, they investigated the ecology of different Caenorhabditis species at NYU and worked on a bioinformatic pipeline to identify the avian MHC region and copy numbers at the American Museum of Natural History.
+
+<div style="clear:both;">&nbsp;</div>
 
 <h2>Madagascar Team</h2>
 
