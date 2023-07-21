@@ -49,7 +49,13 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/mars_woodward.jpeg" alt="Mars" class="img-thumbnail float-start col-md-3" />
 
-**Mars Woodward** (they/she) is a post-baccalaureate Research Assistant funded by the [NIH PREP program](https://www.nigms.nih.gov/training/PREP). Mars holds a B.A. from Pomona College, with a Biology major and Africana Studies minor. They studied the convergence of Biology and Africana Studies within the field of Urban Ecology. In the past, they investigated the ecology of different Caenorhabditis species at NYU and worked on a bioinformatic pipeline to identify the avian MHC region and copy numbers at the American Museum of Natural History.
+**Mars Woodward** (they/she) is a **post-baccalaureate Research Assistant** funded by the [NIH PREP program](https://www.nigms.nih.gov/training/PREP). Mars holds a B.A. from Pomona College, with a Biology major and Africana Studies minor. They studied the convergence of Biology and Africana Studies within the field of Urban Ecology. In the past, they investigated the ecology of different Caenorhabditis species at NYU and worked on a bioinformatic pipeline to identify the avian MHC region and copy numbers at the American Museum of Natural History.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/areen_khan.jpg" alt="Areen" class="img-thumbnail float-start col-md-3" />
+
+**Areen Khan** (she/her) is a high school student at the University of Chicago Laboratory School. She is a **Research Assistant** at the Brook Lab and is working on aiding a number of ongoing projects at the Brook Lab and the Field Museum. After high school, she hopes to pursue an interdisciplinary undergraduate degree followed by a JD/MD.
 
 <div style="clear:both;">&nbsp;</div>
 
