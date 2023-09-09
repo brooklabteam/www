@@ -18,7 +18,7 @@ permalink: /publications
 
 - **Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. 2023. *PLoS Biology*. doi: [10.1371/journal.pbio.3002268](https://doi.org/10.1371/journal.pbio.3002268).
 
-- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. Dengue in Cambodia 2002-2020: Cases, characteristics and capture by national surveillance. 2023. *Bulletin of the World Health Organization.* doi: [10.2471/BLT.21.287728](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10452936/pdf/BLT.23.289713.pdf)
+- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. National dengue surveillance, Cambodia 2002-2020. 2023. *Bulletin of the World Health Organization.* doi: [10.2471/BLT.21.287728](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10452936/pdf/BLT.23.289713.pdf)
 
 <h2>2022</h2>
 
