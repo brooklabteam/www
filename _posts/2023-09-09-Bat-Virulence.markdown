@@ -18,9 +18,11 @@ In a [paper the Brook lab published in PNAS in 2022](https://doi.org/10.1073/pna
 
 
 <br> 
+
 Our paper presents a theoretical model that seeks to mechanistically recapture the virulence of zoonotic viruses in two key steps: first allowing a virus to evolve over long timescales in its reservoir host, then second, to spillover on shorter timescales in a human host while still maintaining traits (specifically its growth rate) optimized on its original reservoir. 
 <br> 
-In our first analysis, we focus on virus adaption in the reservoir host, using a nested, within-host and population-level model and a technique known as 'adaptive dynamics' to derive a mathematical expression that demonstrates how a virus's evolutionarily optimal growth rate which we call $r^*$ should reflect the diverse life history traits and physiologies of its reservoir. The optimal $$r^*$$ balances the benefits of enhanced between-host transmission and the costs of elevated virulence for the host that both result from higher virus growth rates. Faster-reproducing viruses generate higher virus densities in their hosts to facilitate transmission to new hosts--but these high virus densities can also cause direct pathology (disease) or elicit inflammatory immunopathological responses in their hosts. In disease ecology, this paradox is known as the ['transmission-virulence tradeoff'](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1420-9101.2008.01658.x). 
+
+In our first analysis, we focus on virus adaption in the reservoir host, using a nested, within-host and population-level model and a technique known as 'adaptive dynamics' to derive a mathematical expression that demonstrates how a virus's evolutionarily optimal growth rate--which we call <em>r<sup>*</sup></em>--should reflect the diverse life history traits and physiologies of its reservoir. The optimal $$r^*$$ balances the benefits of enhanced between-host transmission and the costs of elevated virulence for the host that both result from higher virus growth rates. Faster-reproducing viruses generate higher virus densities in their hosts to facilitate transmission to new hosts--but these high virus densities can also cause direct pathology (disease) or elicit inflammatory immunopathological responses in their hosts. In disease ecology, this paradox is known as the ['transmission-virulence tradeoff'](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1420-9101.2008.01658.x). 
 
 <img src="/assets/img/Brook2023Fig2.pdf" alt="model structure" class="float-start col-md-5" />
 
