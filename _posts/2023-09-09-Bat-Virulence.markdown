@@ -1,9 +1,9 @@
 ---
 layout: post
-title: New Brook lab paper offers a mechanism for the extreme virulence of bat virus zoonoses.
+title: New paper offers a mechanism for the extreme virulence of bat virus zoonoses!
 date: 2023-09-09 01:00:00 -0700
 description:  (optional)
-img: 
+img: Brook2023PLoSBio.pdf
 tags: [bat, virus, virulence, tradeoff theory] # add tag
 permalink: /news/bat-virus-virulence
 ---
