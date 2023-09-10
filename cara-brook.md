@@ -13,6 +13,6 @@ Prior to the University of Chicago, I spent time as a [Miller Postdoctoral Fello
 * Pronouns: she/her
 * <a href="/assets/CV_CaraBrook_Full_September2023.pdf">Full CV</a>
 * <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
-* <a href="https://www.youtube.com/watch?v=8AMpIQ9gTbE">Research/Outreach Video Summary</a>
+* <a href="https://vimeo.com/840916526">Research Video Summary</a>
 
 <div style="clear:both;">&nbsp;</div>
