@@ -44,5 +44,10 @@ Intriguingly, our model also allows us to make spillover virulence predictions f
 <br> 
 All told, our paper is, essentially, **a robust, quantitative hypothesis meant to stimulate further data collection** at the *in vitro* scale that will facilitate more fine-scaled predictions and empirical tests of those predictions in the future. In [previous work in bat cell tissue culture](https://elifesciences.org/articles/48401), we found some evidence of high virus growth rates evolving in bat immune systems. In upcoming work, we plan to use similar approaches to directly challenge and evaluate the predictions outlined here. 
 
+<br>
+For further insights, read [this fantastic primer](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002286) summarizing our paper by Samuel Alizon!
+
+
+
 <br/> 
 <br/>
