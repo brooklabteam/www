@@ -13,13 +13,10 @@ permalink: /publications
 
 - Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Press. *Frontiers in Public Health*.
 
-
 <h2>2023</h2>
-
 
 -	**Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. 2023. *PLoS Biology*. 21 (9): e3002268. doi: [10.1371/journal.pbio.3002268](https://doi.org/10.1371/journal.pbio.3002268).
       - Profiled in *PLoS Biology* Primer by Samuel Alizon [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002286).
-      
 
 - Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. National dengue surveillance, Cambodia 2002-2020. 2023. *Bulletin of the World Health Organization.* 101: 605-616. doi: [10.2471/BLT.21.287728](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10452936/pdf/BLT.23.289713.pdf)
 
@@ -83,7 +80,6 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 -	**Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE±, and Dobson AP±. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* . 88 (7): 1001-1016. doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). ±=equal senior contributions.
       - Profiled in JAE blog [here](https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/).
       
-
 - **Brook CE**, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. *Biological Conservation.* 234: 165-171. doi: [10.1016/j.biocon.2019.03.032](https://doi.org/10.1016/j.biocon.2019.03.032).
 
 -	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L± and **Brook CE**±. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12 (51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). ±=equal senior contributions
