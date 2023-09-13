@@ -11,7 +11,7 @@ permalink: /publications
 
 <h2>Accepted, In Press (pre-prints)</h2>
 
-- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Press. Frontiers in Public Health.
+- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Press. *Frontiers in Public Health*.
 
 
 <h2>2023</h2>
