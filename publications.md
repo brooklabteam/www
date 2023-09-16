@@ -17,6 +17,7 @@ permalink: /publications
 
 -	**Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. 2023. *PLoS Biology*. 21 (9): e3002268. doi: [10.1371/journal.pbio.3002268](https://doi.org/10.1371/journal.pbio.3002268).
       - Profiled in *PLoS Biology* Primer by Samuel Alizon [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002286).
+      - Highlughted in *Newsweek* magazine article by Jess Thompson [here](https://www.newsweek.com/bat-disease-virus-more-deadly-humans-1825340).
 <br/><br/>
 - Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. National dengue surveillance, Cambodia 2002-2020. 2023. *Bulletin of the World Health Organization.* 101: 605-616. doi: [10.2471/BLT.21.287728](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10452936/pdf/BLT.23.289713.pdf)
 
