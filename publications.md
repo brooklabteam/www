@@ -9,11 +9,9 @@ permalink: /publications
 
 
 
-<h2>Accepted, In Press (pre-prints)</h2>
-
-- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. In Press. *Frontiers in Public Health*.
-
 <h2>2023</h2>
+
+- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. 2023. *Frontiers in Public Health*. 11: 1212018. doi: [10.3389/fpubh.2023.1212018](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1212018/full).
 
 -	**Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. 2023. *PLoS Biology*. 21 (9): e3002268. doi: [10.1371/journal.pbio.3002268](https://doi.org/10.1371/journal.pbio.3002268).
       - Profiled in *PLoS Biology* Primer by Samuel Alizon [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002286).
