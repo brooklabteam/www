@@ -22,15 +22,20 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-The Brook lab is recruiting new graduate students to join our lab in fall 2024. I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+The Brook lab is recruiting new graduate students to join our lab in fall 2024. I have already solicited statements of interest from prospective students, who I will be contacting for informal zoom meetings in the last week in October. Please stay tuned for more information.
+
+I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
 
 For recruits to start in AY2024-2025, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar. There are also potential opportunities for a field-capable graduate student to lead efforts to launch new bat virus-focused research projects at pilot field sites in the Southwestern US (in collaboration with the [Laverty Lab](https://lavertylab.org/) at NMSU) or in Cambodia (in collaboration with the [ICER Program](https://www.niaid.nih.gov/about/cambodia-icer-program)).
 
 I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
 
+<!--
+
 **If you are interested in joining the Brook Lab in AY2024-2025, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shr9BK76MwdhBhxlG) prior to midnight on October 13, 2023**.
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
+-->
 
 Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2023.
 
