@@ -6,7 +6,9 @@ permalink: /publications
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
 
+<h2>In Review</h2>
 
+- Kim C, Buchholz D, Yeo YY, Ma A, Ezzatpour S, **Brook CE**, and Aguilar-Carreno H. Angavokely virus fusion and attachment glycoproteins mediate membrane fusion in human cells. In Review. *mBio*.
 
 
 <h2>2023</h2>
