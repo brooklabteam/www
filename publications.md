@@ -8,7 +8,7 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. In Review. doi (preprint): [10.1101/2022.06.08.22276171](https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v3). 
+- **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. In Review. [Link to MedRxiv Preprint](https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v3). 
 
 
 - Kim C, Buchholz D, Yeo YY, Ma A, Ezzatpour S, **Brook CE**, and Aguilar-Carreno H. Angavokely virus fusion and attachment glycoproteins mediate membrane fusion in human cells. In Review.
