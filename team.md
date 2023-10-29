@@ -22,6 +22,8 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 **Sophie Lockwood** (she/her) is a PhD student in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
 
+<div style="clear:both;">&nbsp;</div>
+
 <img src="/assets/team/gwenkettenburg.jpg" alt="gwen" class="img-thumbnail float-start col-md-3" />
 
 **Gwenddolen Kettenburg** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she plans to study seasonal pathogen dynamics in Madagascar bats in the field, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously works on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. 
