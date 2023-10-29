@@ -31,7 +31,7 @@ permalink: /publications
 
 - Tegally H, San J, Cotten M, Tegomoh B, Martin D...**Brook CE**...**Ranaivoson HC**...and Wilkinson E (397 authors). The evolving SARS-CoV-2 epidemic in Africa: Insights from rapidly expanding genomic surveillance. 2022. *Science*. 378 (6615): eabq5358. doi: [10.1126/science.abq5358](https://doi.org/10.1126/science.abq5358).
 
-- **Andrianiaina A\* **, **Andry S\* **, **Gentles A**, Guth S, Héraud JM, **Ranaivoson HC**, Ravelomanantsoa
+- **Andrianiaina A\*, Andry S\* , Gentles A**, Guth S, Héraud JM, **Ranaivoson HC**, Ravelomanantsoa
 NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. 2022. *Journal of Mammalogy*. 103 (6): 1397-1408. doi: [10.1093/jmammal/gyac072](https://doi.org/10.1093/jmammal/gyac072).
 
 - Madera S, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, and **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. 96 (18): e00921-22. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
