@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ekipa Fanihy (Team)
+title: Team
 permalink: /team
 ---
 <!--
@@ -92,24 +92,10 @@ Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the De
 
 <img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
 
-**Nuzha Baksh** (she/her) is a **Data Manager** working part-time with Ekipa Fanihy. Previously, she served as a Field Project Manager from Sep 2023-Sept 2023. She is now working full time as a Lab Manager in the Tarvin lab at UC Berkeley. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
-
-
-
-<h2>Ekipa Collaborators</h2>
-
-<img src="/assets/team/anecia_gentles.jpg" alt="anecia" class="img-thumbnail float-start col-md-3" />
-
-**Anecia Gentles** is a **PhD student** working with [Dr. Nicole Gottdenker](https://www.gottdenkerlab.com/) in the Odum School of Ecology at the University of Georgia. Prior to starting at UGA, Anecia served as an 18-month  **Field Project Manager** for Ekipa Fanihy from January 2018-June 2020, organizing lead monthly field collections on our project. Anecia plans to continue work with Ekipa Fanihy throughout her PhD. Her review of previous modeling studies of bat infection dynamics will be coming out in *Pathogens and Global Health* next month. Anecia holds a Bachelor of Science degree in Ecology and Evolutionary Biology from Rice University, where she studied lemur seed dispersal in Madagascar.
+**Nuzha Baksh** (she/her) is a **Data Manager** working part-time with Ekipa Fanihy. Previously, she served as a Field Project Manager from Sep 2023-Sept 2023. She is now working full time as a Lab Manager in the lab of Dr. Rebecca Tarvin at UC Berkeley. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for lab of Dr. Cherie Briggs.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/sarah_guth.jpg" alt="sarah" class="img-thumbnail float-start col-md-3" />
-
-**Sarah Guth** is a fourth-year **PhD Candidate** in the Department of Integrative Biology at the University of California, Berkeley. Sarah is advised by [Professor Mike Boots](https://bootslab.org/) and studies the evolutionary underpinnings of cross-species zoonotic emergence. Sarah is carrying out a subset of dissertation chapters in part with Ekipa Fanihy, specifically investigating link between disease and aging in the fruit bat methylome in collaboration with [Professor Peter Sudmant](https://www.sudmantlab.org/) at UC Berkeley. Sarah holds a Bachelor of Arts degree in Conservation Biology from Middlebury College and has previously studied foraging and learning behavior in bees, as well as served as the Program Coordinator for Harvard University's [Planetary Health Alliance](https://planetaryhealthalliance.org/).
-
-
-<div style="clear:both;">&nbsp;</div>
 
 <h2>Ekipa Alumni</h2>
 
@@ -147,10 +133,14 @@ Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the De
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/dominic_daniels.jpg" alt="dominic" class="img-thumbnail float-start col-md-3" />
-
 **Dominic Daniels** was Field Project Manager for Association Ekipa Fanihy from Feb-Sept 2022. He is now working for Bat Conservation International in Pennsylvania.
 
 <div style="clear:both;">&nbsp;</div>
+
+**Anecia Gentles** was Field Project Manager for Association Ekipa Fanihy from Jan 2019 - March 2020. She is now a PhD student in Dr. Nicole Gottdenker's lab at the University of Georgia.
+
+<div style="clear:both;">&nbsp;</div>
+
+**Sarah Guth** was a PhD student in Mike Boots' lab at UC Berkeley while Cara was a postdoc. Sarah worked closely with Cara on several field and computational projects. She is now an Assistant Professor of Biology at Skyline College in San Bruno, CA.
 
 
