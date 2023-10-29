@@ -141,6 +141,6 @@ Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the De
 
 <div style="clear:both;">&nbsp;</div>
 
-**Sarah Guth** was a PhD student in Mike Boots' lab at UC Berkeley while Cara was a postdoc. Sarah worked closely with Cara on several field and computational projects. She is now an Assistant Professor of Biology at Skyline College in San Bruno, CA.
+**Sarah Guth** was a PhD student in Mike Boots' lab at UC Berkeley while Cara was a postdoc (2017-2021). Sarah worked closely with Cara on several field and computational projects. She is now an Assistant Professor of Biology at Skyline College in San Bruno, CA.
 
 
