@@ -8,7 +8,10 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, Li Y, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, Young K, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. In Review. [Link to MedRxiv Preprint](https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v3). 
+- **Horigan S**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, **Kettenburg G**, Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. In Review.
+
+
+- **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, **Li Y**, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, **Young KI**, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. In Review. [Link to MedRxiv Preprint](https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v3). 
 
 
 - Kim C, Buchholz D, Yeo YY, Ma A, Ezzatpour S, **Brook CE**, and Aguilar-Carreno H. Angavokely virus fusion and attachment glycoproteins mediate membrane fusion in human cells. In Review.
@@ -16,30 +19,30 @@ permalink: /publications
 
 <h2>2023</h2>
 
-- Ruhs EC, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. 2023. *Frontiers in Public Health*. 11: 1212018. doi: [10.3389/fpubh.2023.1212018](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1212018/full).
+- **Ruhs EC**, Chia WN, Hiang Foo RJ, Peel AJ, Li Y, Larman HB, Irving AT, Wang LF, and **Brook CE**. Applications of VirScan to broad serological profiling of bat reservoirs for emerging zoonoses. 2023. *Frontiers in Public Health*. 11: 1212018. doi: [10.3389/fpubh.2023.1212018](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1212018/full).
 
 -	**Brook CE**, Rozins C, Guth S, and Boots M. Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. 2023. *PLoS Biology*. 21 (9): e3002268. doi: [10.1371/journal.pbio.3002268](https://doi.org/10.1371/journal.pbio.3002268).
       - Profiled in *PLoS Biology* Primer by Samuel Alizon [here](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002286).
       - Highlighted in *Newsweek* magazine article by Jess Thompson [here](https://www.newsweek.com/bat-disease-virus-more-deadly-humans-1825340).
 <br/><br/>
-- Yek C, Li Y, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. National dengue surveillance, Cambodia 2002-2020. 2023. *Bulletin of the World Health Organization.* 101: 605-616. doi: [10.2471/BLT.21.287728](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10452936/pdf/BLT.23.289713.pdf)
+- Yek C, **Li Y**, Pacheco AR, Lon C, Duong V, Dussart P, Chea S, **Young KI**, Lay S, Man S, Kimsan S, Huch C, Leang R, Huy R, **Brook CE**, and Manning JE. National dengue surveillance, Cambodia 2002-2020. 2023. *Bulletin of the World Health Organization.* 101: 605-616. doi: [10.2471/BLT.21.287728](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10452936/pdf/BLT.23.289713.pdf)
 
 <h2>2022</h2>
 
-- Tegally H, San J, Cotten M, Tegomoh B, Martin D...**Brook CE**...Ranaivoson HC...and Wilkinson E (397 authors). The evolving SARS-CoV-2 epidemic in Africa: Insights from rapidly expanding genomic surveillance. 2022. *Science*. 378 (6615): eabq5358. doi: [10.1126/science.abq5358](https://doi.org/10.1126/science.abq5358).
+- Tegally H, San J, Cotten M, Tegomoh B, Martin D...**Brook CE**...**Ranaivoson HC**...and Wilkinson E (397 authors). The evolving SARS-CoV-2 epidemic in Africa: Insights from rapidly expanding genomic surveillance. 2022. *Science*. 378 (6615): eabq5358. doi: [10.1126/science.abq5358](https://doi.org/10.1126/science.abq5358).
 
-- Andrianiaina A\*, Andry S\*, Gentles A, Guth S, Héraud JM, Ranaivoson HC, Ravelomanantsoa
+- **Andrianiaina A\* **, **Andry S\* **, **Gentles A**, Guth S, Héraud JM, **Ranaivoson HC**, Ravelomanantsoa
 NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. 2022. *Journal of Mammalogy*. 103 (6): 1397-1408. doi: [10.1093/jmammal/gyac072](https://doi.org/10.1093/jmammal/gyac072).
 
-- Madera S, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, and **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. 96 (18): e00921-22. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
+- Madera S, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, and **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. 96 (18): e00921-22. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, and **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. 2022. *PNAS*. 119 (14): e2113628119. doi: [10.1073/pnas.2113628119](https://doi.org/10.1073/pnas.2113628119). ± = equal senior contributions
 
-- Kettenburg G, Kistler A, Ranaivoson HC, Ahyong V, Andrianiaina A, Andry S, DeRisi JL, Gentles A, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. 2022. *Frontiers in Public Health*. 10: 786060. doi: [10.3389/fpubh.2022.786060](https://doi.org/10.3389/fpubh.2022.786060).
+- **Kettenburg G**, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, DeRisi JL, **Gentles A**, Raharinosy V, Randriambolamanantsoa TH, **Ravelomanantsoa NAF**, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. 2022. *Frontiers in Public Health*. 10: 786060. doi: [10.3389/fpubh.2022.786060](https://doi.org/10.3389/fpubh.2022.786060).
 
-- Jones DN, Ravelomanantsoa NAF, Yeoman CJ, Plowright RK\*, and **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2022. *Trends in Microbiology*. 30 (7): 632-642. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
+- Jones DN, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK\*, and **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2022. *Trends in Microbiology*. 30 (7): 632-642. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
 
-- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Randriambolamanantsoa TH, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Ratsimbazafy AM, Raharinosy V, Rabemananjara AH, Ranaivoson HC, Razafimanjato H, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. 2022. *Epidemics*. 38: 1000533. doi: [10.1016/j.epidem.2021.100533](https://doi.org/10.1016/j.epidem.2021.100533). \*=equal lead contributions; ± equal senior contributions
+- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Randriambolamanantsoa TH, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Ratsimbazafy AM, Raharinosy V, Rabemananjara AH, **Ranaivoson HC**, Razafimanjato H, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. 2022. *Epidemics*. 38: 1000533. doi: [10.1016/j.epidem.2021.100533](https://doi.org/10.1016/j.epidem.2021.100533). \*=equal lead contributions; ± equal senior contributions
 
 <h2>2021</h2>
 
@@ -49,7 +52,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Ruiz-Aravena M, McKee C, Gamble A, Hudson P, Parrish CR, Bharti N, Faust C, Schountz T, Restif O, Morris A, Jax E, Dee L, Lunn T, Peel A, Munster VJ, Yinda CK, Port JR, **Brook CE**, Aguilar HC, Yeo YY, Buchholz DW, Lloyd-Smith JO, Snedden C, Gurley ES, Jones D, Kessler M, Falvo C, Crowley D, Botto G, Rynda-Apple A, Plowright RK.  Coronaviruses in bats: Ecology, evolution, and zoonotic spillover. 2021. *Nature Reviews Microbiology*. 20: 299-314. doi: [10.1038/s41579-021-00652-2](https://doi.org/10.1038/s41579-021-00652-2)
 
-- Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**... and de Oliveira T (291 authors).  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. 2021. *Science*. 374 (6566): 423-431. doi: [10.1126/science.abj4336](https://www.science.org/doi/10.1126/science.abj4336).
+- Wilkinson E, Giovanetti M, Tegally T, San JE, Lessels R, Cuadros D, Martin DP, Zekri A-RN, Sangare AK, Ouedraogo A-S, Sesay AK, Hammami A, Amuri AA, Sayed A, Rebai A, Elargoubi A, Trotter AJ, Keita AK, Sall AA, Kone A, Souissi A, Gutierrez AV, Page AJ, Iranzadeh A, Lambisia A, Sylverken A, Ibrahimi A, Dhaala B, Kouriba B, Kleinhans B, **Brook CE**...**Ranaivoson HC**... and de Oliveira T (291 authors).  A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa. 2021. *Science*. 374 (6566): 423-431. doi: [10.1126/science.abj4336](https://www.science.org/doi/10.1126/science.abj4336).
 
 - Annapragada A, **Brook CE**, Luskin MS, Rahariniaina RP, Helin M, Razafinarivo O, Ralaiarison AR, Randriamady HJ, Olson LE, Goodman SM, Golden CD. Evaluation of tenrec population viability and potential sustainable management under hunting pressure in northeastern Madagascar. 2021. *Animal Conservation.* 24 (6): 1059-1070. doi: [10.1111/acv.12714](https://doi.org/10.1111/acv.12714).
 
@@ -60,9 +63,9 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 <h2>2020</h2>
 
-- Ravelomanantsoa NAF, Guth S, Andrianiaina A, Andry S, Gentles A, Ranaivoson HC, and **Brook CE**. 2020. The zoonotic potential of bat-borne coronaviruses. 2020. *Emerging Topics in Life Sciences.* 4 (4): 365-381. doi: [10.1042/ETLS20200097](https://doi.org/10.1042/ETLS20200097).
+- **Ravelomanantsoa NAF**, Guth S, **Andrianiaina A**, **Andry S**, **Gentles A**, Ranaivoson HC, and **Brook CE**. 2020. The zoonotic potential of bat-borne coronaviruses. 2020. *Emerging Topics in Life Sciences.* 4 (4): 365-381. doi: [10.1042/ETLS20200097](https://doi.org/10.1042/ETLS20200097).
 
-- Gentles A, Guth S, Rozins C, and **Brook CE**. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. *Pathogens and Global Health.* 114 (8): 407-425. doi: [10.1080/20477724.2020.1833161](https://doi.org/10.1080/20477724.2020.1833161).
+- **Gentles A**, Guth S, Rozins C, and **Brook CE**. A review of mechanistic models of viral dynamics in bat reservoirs for zoonotic disease. 2020. *Pathogens and Global Health.* 114 (8): 407-425. doi: [10.1080/20477724.2020.1833161](https://doi.org/10.1080/20477724.2020.1833161).
 
 - Rocha R, Aziz SA, **Brook CE**, Carvalho WD, Cooper-Bohannon R, Frick WF, Huang JCC, Kingston T, Lopez-Baucells A, Maas B, Mathews F, Medellin RA, Olival KJ, Peel AJ, Plowright RK, Razgour O, Rebelo H, Rodrigues L, Rossiter SJ, Russo D, Straka TM, Teeling EC, Treuer T, Voigt CC, and  Webala PW. Bat conservation and zoonotic disease risk: A research agenda to prevent misguided persecution in the aftermath of COVID-19. 2020. *Animal Conservation.* 24 (3): 303-307. doi: [10.1111/acv.12636](https://doi.org/10.1111/acv.12636).
 
@@ -81,12 +84,12 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Guth S, Visher E, Boots M, and **Brook CE.** 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. *Philosophical Transactions of the Royal Society.* 374 (1782): 20190296. doi: [10.1098/rstb.2019.0296](https://doi.org/10.1098/rstb.2019.0296).
 
--	**Brook CE**, Ranaivoson HC, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE±, and Dobson AP±. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* . 88 (7): 1001-1016. doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). ±=equal senior contributions.
+-	**Brook CE**, **Ranaivoson HC**, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE±, and Dobson AP±. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* . 88 (7): 1001-1016. doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). ±=equal senior contributions.
       - Profiled in JAE blog [here](https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/).
 <br/><br/>
 - **Brook CE**, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. *Biological Conservation.* 234: 165-171. doi: [10.1016/j.biocon.2019.03.032](https://doi.org/10.1016/j.biocon.2019.03.032).
 
--	Ranaivoson HC, Héraud JM, Goethert HK, Telford SR, Rabetafika L± and **Brook CE**±. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12 (51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). ±=equal senior contributions
+-	**Ranaivoson HC**, Héraud JM, Goethert HK, Telford SR, Rabetafika L± and **Brook CE**±. Babesial infection in the Madagascan flying fox, *Pteropus rufus* É. Geoffroy, 1803. 2019. *Parasites & Vectors.* 12 (51): 1307101933. doi:  [10.1186/s13071-019-3300-7](https://doi.org/10.1186/s13071-019-3300-7). ±=equal senior contributions
 
 <h2>2018</h2>
 
@@ -94,7 +97,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 <h2>2017</h2>
 
-- **Brook CE**, Bai Y, Yu EO, Ranaivoson HC, Shin H, Dobson AP, Metcalf CJE±, Kosoy MY± and Dittmar K±. 2017. Elucidating transmission dynamics and host-parasite-vector relationships for rodent-borne *Bartonella* spp. in Madagascar. *Epidemics.* 20: 56-66. ±= equal senior contributions doi: [10.1016/j.epidem.2017.03.004](https://doi.org/10.1016/j.epidem.2017.03.004).
+- **Brook CE**, Bai Y, Yu EO, **Ranaivoson HC**, Shin H, Dobson AP, Metcalf CJE±, Kosoy MY± and Dittmar K±. 2017. Elucidating transmission dynamics and host-parasite-vector relationships for rodent-borne *Bartonella* spp. in Madagascar. *Epidemics.* 20: 56-66. ±= equal senior contributions doi: [10.1016/j.epidem.2017.03.004](https://doi.org/10.1016/j.epidem.2017.03.004).
 
 <h2>2016</h2>
 
@@ -106,7 +109,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Rist CL, Ngonghala CN,  Garchitorena A, **Brook CE**, Ramananjato, Miller RC, Randrianarivelojosia M, Wright PC, Gillespie TR, and Bonds MH. 2015. Modeling the burden of poultry disease on the rural poor in Madagascar. *One Health.* 1: 60-65. doi: [10.1016/j.onehlt.2015.10.002](https://doi.org/10.1016/j.onehlt.2015.10.002).
 
-- **Brook CE**, Bai Y, Dobson AP, Osikowicz L, Ranaivoson HC, Zhu Q, Kosoy MY, and Dittmar K. 2015. *Bartonella* spp. in fruit bats and blood-feeding ectoparasites in Madagascar. *PLoS Neglected Tropical Diseases.* 10 (2): e0003532. doi: [10.1371/journal.pntd.0003532](https://doi.org/10.1371/journal.pntd.0003532).
+- **Brook CE**, Bai Y, Dobson AP, Osikowicz L, **Ranaivoson HC**, Zhu Q, Kosoy MY, and Dittmar K. 2015. *Bartonella* spp. in fruit bats and blood-feeding ectoparasites in Madagascar. *PLoS Neglected Tropical Diseases.* 10 (2): e0003532. doi: [10.1371/journal.pntd.0003532](https://doi.org/10.1371/journal.pntd.0003532).
 
 - **Brook CE** and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. *Trends in Microbiology.* 23(3): 172-180. doi: [10.1016/j.tim.2014.12.004](https://doi.org/10.1016/j.tim.2014.12.004).
 

@@ -17,6 +17,11 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <h2>University of Chicago Team</h2>
 
+
+<img src="/assets/team/sophielockwood.jpg" alt="sophie" class="img-thumbnail float-start col-md-3" />
+
+**Sophie Lockwood** (she/her) is a PhD student in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
+
 <img src="/assets/team/gwenkettenburg.jpg" alt="gwen" class="img-thumbnail float-start col-md-3" />
 
 **Gwenddolen Kettenburg** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she plans to study seasonal pathogen dynamics in Madagascar bats in the field, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously works on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. 
@@ -37,13 +42,15 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/emily_ruhs.jpg" alt="emily" class="img-thumbnail float-start col-md-3" />
 
-**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be working on a long-term dataset exploring viral exposure, nutritional status and animal contact in villages in Madagascar. In the future she hopes to explore how food supplementation impacts viral shedding in bats. Emily holds her Master’s degree from the University of Georgia where she studied disease ecology and her Ph.D. from the University of Wisconsin-Madison where she studied wildlife ecology. She has previously worked on projects examining how acute environmental perturbations influences bird physiology and how aspects of the innate immune system scale with body size. Emily is broadly interested in how energetic constraints drive life-history trade-offs and influences disease dynamics in wildlife.
+Dr. **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. She will be working on a long-term dataset exploring viral exposure, nutritional status and animal contact in villages in Madagascar. In the future she hopes to explore how food supplementation impacts viral shedding in bats. Emily holds her Master’s degree from the University of Georgia where she studied disease ecology and her Ph.D. from the University of Wisconsin-Madison where she studied wildlife ecology. She has previously worked on projects examining how acute environmental perturbations influences bird physiology and how aspects of the innate immune system scale with body size. Emily is broadly interested in how energetic constraints drive life-history trade-offs and influences disease dynamics in wildlife.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/natalia_cortes_delgado.jpg" alt="natalia" class="img-thumbnail float-start col-md-3" />
 
-**Katherine McFerrin** (she/her) is the **Lab Manager**. She supports the Brook Lab’s research and fieldwork. She is using serology to study histories of viral exposure in Malagasy fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
+Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. Her research will focus on estimating effective population size and connectivity of three species of Malagasy bats, as well as the influence of bat microbiome on tolerance to viral infections. Natalia holds a PhD in Ecology and Evolution from the University of Illinois at Chicago, where she investigated the role of the Andes as a driver of genetic differentiation in bat populations. She has a Master’s degree in Sciences from the Instituto de Ecologia, A.C. in Mexico where she studied roost use and foraging areas by the fruit bat species *Sturnira hondurensis*. Natalia’s research interests are broad and are mainly concentrated in bat evolution, including the understanding of patterns of genetic structure and speciation in bat species, in addition to bat immune response evolution.
+
+
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -53,11 +60,7 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/areen_khan.jpg" alt="Areen" class="img-thumbnail float-start col-md-3" />
 
-**Areen Khan** (she/her) is a high school student at the University of Chicago Laboratory School. She is a **Research Assistant** at the Brook Lab and is working on aiding a number of ongoing projects at the Brook Lab and the Field Museum. After high school, she hopes to pursue an interdisciplinary undergraduate degree followed by a JD/MD.
-
-<div style="clear:both;">&nbsp;</div>
 
 <h2>Madagascar Team</h2>
 
@@ -68,13 +71,14 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
+
 **Santino Andry** (he/him) recently finished his **Master's** degree in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and will be enrolling as a PhD student with the team in 2021.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
-**Nuzha Baksh** (she/her) is a **Field Project Manager** with Ekipa Fanihy. She co-leads monthly field expeditions to capture and sample fruit bats endemic to Madagascar (<i>Pteropus rufus, Eidolon dupreanum, and Rousettus madagascariensis</i>). She has also previously conducted fieldwork sampling endangered mountain yellow-legged frogs in the Sierra Nevadas and various frog species in East Bay California. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
+**Katherine McFerrin** (she/her) is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -83,6 +87,11 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 **Michael McGuire** is a **Field Project Manager** with Ekipa Fanihy. He co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Michael holds a B.S. in Wildlife and Fisheries Biology and a minor in Geography from the University of Vermont. He has a diverse work history from environmental education and backcountry canoe & kayak guiding in Northern Wisconsin, fieldwork on a sampling project of snowshoe hares in Colorado, assisting and filming an expedition down the Mississippi River to study microplastics distribution, trail construction with Americorps in and around Olympic National Park, salmon habitat restoration on Washington’s Olympic Peninsula, and whale-watch guiding within the Salish Sea. Michael is also an accomplished wildlife and nature photographer having earned scholarships, held galleries for his work, and won several awards.
 
 <div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/nuzha_baksh.jpg" alt="nuzha" class="img-thumbnail float-start col-md-3" />
+
+**Nuzha Baksh** (she/her) is a **Data Manager** working part-time with Ekipa Fanihy. Previously, she served as a Field Project Manager from Sep 2023-Sept 2023. She is now working full time as a Lab Manager in the Tarvin lab at UC Berkeley. Nuzha holds a B.S. in Zoology and a Minor in Linguistics from UC Santa Barbara, where she studied the effects of chytrid fungus (Batrachochytrium dendrobatidis) on amphibian populations and worked as lab technician to care for a colony of Pacific tree frogs for the Briggs lab.
+
 
 
 <h2>Ekipa Collaborators</h2>
@@ -102,58 +111,44 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <h2>Ekipa Alumni</h2>
 
-<img src="/assets/team/margot_bolanos_gamez.jpg" alt="margot" class="img-thumbnail float-start col-md-3" />
+**[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook lab from Sept 2021 - December 2022. She is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
 
-**Margot Bolaños-Gamez** is now a Master's in Public Health student at Emory University. Previously, she was an undergraduate **Research Assistant** in the Brook lab and a University of Chicago Center for Global Health fellow, where she led an investigation in Honduras on the health decentralization reform by conducting ethnographic interviews in local clinics, governmental agencies, and regional health centers. She aspires to work on research that centralizes human and environmental health concerns and combines her passion for social and health sciences.
+<div style="clear:both;">&nbsp;</div>
+
+**Katie Young** was a **Postdoctoral Scholar** in the Brook lab from Jan 2022 - December 2022. She is now a **Adjunct Assistant Professor** at New Mexico State University and a postdoctoral scholar at the University of Texas, El Paso.
+
+<div style="clear:both;">&nbsp;</div>
+
+**Freddy Gonzalez** was a post-baccalaureate scholar funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program to work in the Brook Lab. He is now a PhD student in Dr. Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale University.
+
+<div style="clear:both;">&nbsp;</div>
+
+**Yimei Li** was a post-baccalaureate Research Assistant in the Brook Lab. She is now a **PhD student** working with Dr. Simon Levin, Dr. Bryan Grenfell, and Dr. A.J. te Velthuis in the Quantitative and Computational Biology program at Princeton University. 
 
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/vera-soloview.jpeg" alt="vera" class="img-thumbnail float-start col-md-3" />
-
-**Vera Soloview** is now living and working in the Hyde Park area. Previously, she was an undergraduate **Research Assistant** in the Brook lab where she completed an undergraduate honors thesis studying urbanization and stress responses in Chicagoland American Robins. Previously, Vera completed research with the University of Alaska Anchorage sequencing distinct lineages of H1N1 influenza circulating in Laos. 
+**Areen Khan** was a high school student working with the Brook lab through the  University of Chicago Laboratory School "Summer LabLink" program. She is back at classes in her senior year and now applying to college.
 
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/kendall-fitzgerald.JPG" alt="kendall" class="img-thumbnail float-start col-md-3" />
-
-**Kendall Fitzgerald** is now an independent documentary filmmaker. She previously worked as a Laboratory Research Technician and a Field Project Manager with Ekipa Fanihy, where she co-led field missions with the team to carry out capture and sampling of Madagascar fruit bats. She also served as an in-country facilitator for the new “Coding for Conservation” mentorship program for Malagasy students. Additionally, Kendall documents media for the lab through film, blogs and images. Kendall holds a Bachelor of Arts degree from UC Berkeley in Evolution, Ecology and Organismal Biology and she previously studied identification of subfossil sub-saharan African shrews as well as conducted field work in South Africa, Malawi and California.
+**Margot Bolaños-Gamez** was an undergraduate who completed her Honor's thesis in the Brook lab in 2023. She is now a Master's in Public Health student at Emory University in Atlanta.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/freddygonzalez.jpg" alt="freddy" class="img-thumbnail float-start col-md-3" />
-
-**Freddy Gonzalez** is now a **PhD student** in Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale. He was post-baccalaureate Research Assistant funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program to work in the Brook Lab. He studied the evolutionary relationship between bats and their native viruses, while seeking to understand how the bat immune system temporally dampens pathogenesis during migration, reproduction, and hibernation. He holds a B.S. in Microbiology from the University of Nebraska-Lincoln where he characterized the *Daphnia magna* virome and identified putative bacteriophage hosts. 
+**Vera Soloview** was an undergraduate who completed her Honor's thesis in the Brook lab in 2023. She is now an intern with the American Bird Conservancy in Chicago. 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/yimei-li.jpg" alt="yimei" class="img-thumbnail float-start col-md-3" />
-
-**Yimei Li** is now a **PhD student** working with Simon Levin in the Quantitative and Computational Biology program at Princeton. She was a post-baccalaureate Research Assistant in the Brook Lab. She worked on dynamical modeling of dengue incidence, as well as the genomic epidemiology of SARS-CoV-2 in Madagascar. In the future, she hopes to use statistical and computational models and field data to explore disease dynamics. She holds a Master’s degree from the University of Pennsylvania where she focused on human-environment relationship. 
+**Kendall Fitzgerald** was a Field Project Manager with Association Ekipa Fanihy and a Research Technician in the Brook Lab at UChicago from Feb 2022-August 2023. Shes now an independent documentary filmmaker in the Chicago area.
 
 <div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/dominic_daniels.jpg" alt="dominic" class="img-thumbnail float-start col-md-3" />
 
-**Dominic Daniels** is now working for Bat Conservation International in Pennsylvania. He was a previous Field Project Manager for Ekipa Fanihy in Madagascar, where he co-facilitated field missions for the sampling of Pteropus, Eidolon, and Rousettus bats. His side projects included bioacoustics sampling for insectivorous bats and GIS mapping. Dominic holds a B.S. in Conservation & Resource Studies and a B.A. in French from the University of California, Berkeley; and has previously worked for the Lincoln Park Zoo, the US Bureau of Land Management, and CAL FIRE.
+**Dominic Daniels** was Field Project Manager for Association Ekipa Fanihy from Feb-Sept 2022. He is now working for Bat Conservation International in Pennsylvania.
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/fifi_ravelomanantsoa.jpg" alt="fifi" class="img-thumbnail float-start col-md-3" />
 
-**Fifi Ravelomanantsoa** was a **Research Technician** for Ekipa Fanihy. She studied seasonal variation in microbiome gut flora in Malagasy fruit bats and the interactions of these microbiome communities with the dynamics of viral and bacterial infections. Fifi's review of the zoonotic potential of bat-borne coronaviruses was published in [Emerging Topics in Life Sciences](https://doi.org/10.1042/ETLS20200097) in 2020. Fifi holds a Master's degree in Animal Conservation from the University of Antananarivo and has previously studied patterns in chiropteran biodiversity in the Melaky region of western Madagascar.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/theresa_laverty.jpg" alt="theresa" class="img-thumbnail float-start col-md-3" />
-
-**[Theresa Laverty](https://theresalaverty.weebly.com/)** is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. She was a **Postdoctoral Scholar** at the University of Chicago. Using methods such as molecular dietary analysis and population viability analyses, her work advanced our knowledge of the population, community, and disease ecology of Malagasy bats. Theresa holds a PhD in Fish, Wildlife, and Conservation Biology from Colorado State University, where she conducted social and ecological research to understand the drivers of bat community structure and identify conservation challenges / opportunities within pastoralist communal conservancies in the northern Namib Desert, Namibia. Prior to Chicago, Theresa was a postdoctoral fellow at Colorado State University studying the population ecology of migratory long-nosed bats (Leptonycteris spp.) in relation to the timing and availability of their Agave nectar food in New Mexico.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/katie-young.png" alt="katie" class="img-thumbnail float-start col-md-3" />
-
-**Katie Young** is now a **Adjunct Assistant Professor** at New Mexico State University. She was a **Postdoctoral Scholar** at the University of Chicago. She used an inter-disciplinary approach including field-based sampling, metagenomic sequencing, and open-source data to better understand the complex host-vector-environmental interactions that drive viral emergence in Madagascar. Katie holds a Master’s degree and Ph.D. from New Mexico State University where she studied the ecology and evolution of arthropod-borne viruses. She was awarded a Fulbright Fellowship in 2016 to research the impact of oil palm insertion into native Bornean forests on the risk of spillover of dengue viruses from non-human primates to humans. Prior to joining the Brook Lab, Katie was a USDA-ARS funded postdoctoral fellow studying the ecological drivers of vesicular stomatitis virus emergence from Southern Mexico into the US and supported the development of an early warning system using Big-Data-Model-Integration approaches.
-
-<div style="clear:both;">&nbsp;</div>
