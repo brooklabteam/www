@@ -17,8 +17,12 @@ permalink: /join
 We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below. 
 
 <br>
+<br>
+<br>
+<br>
 
-**Additionally, as a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to Cara Brook directly.**
+
+**Additionally, as a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to [Cara Brook](cbrook@uchicago.edu) directly.**
 
 <div style="clear:both;">&nbsp;</div>
 
