@@ -16,7 +16,9 @@ Bats are  reservoir hosts for the world's most virulent emerging viral zoonoses,
 	<li><strong>Brook CE</strong>, Rozins C, Guth S, Boots M. 2023.  Reservoir host immunology and life history shape virulence evolution in zoonotic viruses. <em>PLoS Biology</em>. 21 (9): e3002268. doi: <a href="https://doi.org/10.1371/journal.pbio.3002268">10.1371/journal.pbio.3002268</a>.</li>
 	<li>Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M, and <strong>Brook CE</strong>. 2022.  Bats host the most virulent—but not the most dangerous—zoonotic viruses.<em>PNAS</em>. 119 (14): e2113628119. doi: <a href="https://doi.org/10.1073/pnas.2113628119">10.1073/pnas.2113628119</a>.</li>
 	<li><strong>Brook CE</strong>, Boots M, Chandran KC, Dobson AP, Drosten C, Graham AL, Grenfell BT, Müller MA, Ng M, Wang LF, and van Leeuwen A. 2020. Accelerated viral dynamics in bat cell lines, with implications for zoonotic emergence. <em>eLife</em>. 9: e48401. doi: <a href="https://elifesciences.org/articles/48401">10.7554/eLife.48401</a>.
-	<li><strong>Brook CE</strong> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. <em>Trends in Microbiology. </em> doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a>.</li></ul>
+	<li><strong>Brook CE</strong> and Dobson AP. 2015. Bats as ‘special’ reservoirs for emerging zoonotic pathogens. <em>Trends in Microbiology. </em> doi: <a href="https://doi.org/10.1016/j.tim.2014.12.004">10.1016/j.tim.2014.12.004</a>.
+	</li>
+</ul>
 
 
 
