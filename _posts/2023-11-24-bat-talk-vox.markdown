@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cara goes on camera with Vox: "Science, Explained!" to talk bat physiology and its consequences for viral infection!
+title: Cara goes on camera with Vox Science to talk bat physiology and its consequences for viral infection!
 date: 2023-11-24 01:00:00 -0700
 description:  (optional)
 img: vox-icon.png
