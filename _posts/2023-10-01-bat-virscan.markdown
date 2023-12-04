@@ -9,7 +9,7 @@ permalink: /news/bat-virscan
 ---
 
 
-
+by Emily Ruhs
 
 <br />
 What if we could apply technology designed for human viral surveillance to other mammals known to host a variety of highly pathogenic viruses? In a recent paper published by the Brook lab in <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1212018/full" target="_blank">Frontiers in Public Health</a>, we do just that!
