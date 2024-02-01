@@ -6,7 +6,7 @@ permalink: /publications
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
 
-<h2>In Review</h2>
+<h2>In Review/Revision</h2>
 
 - **Horigan S**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, **Kettenburg G**, Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. [Link to BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564436v1).
 
