@@ -78,6 +78,15 @@ Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the De
 
 <div style="clear:both;">&nbsp;</div>
 
+
+<img src="/assets/team/rova_indrianala_ratsimamanga .jpg" alt="rova" class="img-thumbnail float-start col-md-3" />
+
+**Rova Ratsimamanga** is a **Master's Student** with Association Ekipa Fanihy.
+
+Rova is currently pursuing a Master's degree in the Department of Zoology and Animal Biology at the University of Antananarivo, Madagascar. He is studying *Bartonella* spp. prevalence on Madagascar's fruit bats. Rova joined the Association Ekipa Fanihy in February 2023.  
+
+<div style="clear:both;">&nbsp;</div>
+
 <img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
 
 **Katherine McFerrin** (she/her) is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
