@@ -30,22 +30,22 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-The Brook lab is recruiting new graduate students to join our lab in fall 2024. I have already solicited statements of interest from prospective students, who I will be contacting for informal zoom meetings in the last week in October. Please stay tuned for more information.
+I am not planning to take on any new students in the fall 2024 application cycle, for a fall 2025 start. I may solicit applications in a subsequent year (fall 2025 for a 2026 start), though I do not intend to finalize those plans until sometime next year. In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
 
-I'm looking for motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
-
+<!--
 For recruits to start in AY2024-2025, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar. There are also potential opportunities for a field-capable graduate student to lead efforts to launch new bat virus-focused research projects at pilot field sites in the Southwestern US (in collaboration with the [Laverty Lab](https://lavertylab.org/) at NMSU) or in Cambodia (in collaboration with the [ICER Program](https://www.niaid.nih.gov/about/cambodia-icer-program)).
 
 I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
 
-<!--
+
 
 **If you are interested in joining the Brook Lab in AY2024-2025, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shr9BK76MwdhBhxlG) prior to midnight on October 13, 2023**.
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
--->
 
 Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2023.
+
+-->
 
 ---
 
@@ -68,9 +68,9 @@ If you are an undergrad with an interest in applying for one of these opportunit
 
 --- 
 
-<h2>Post-Baccaulaureate Fellows</h2>
+<h2>Post-Baccalaureate Fellows</h2>
 
-We periodically host post-baccaulaureate research fellows for a full year through the NIH-sponsored [University of Chicago PREP (Post-Baccaulaureate Research Education Program)](https://bsdprep.uchicago.edu/), which funds underrepresented minority students to carry out a full year of research in a host lab. PREP students also receive financial support and mentoring through the graduate school and NSF Graduate Research Fellowship application processes. Freddy Gonzalez was a PREP scholar in AY 2021-2022 and is now a PhD student in Dr. Paul Turner's lab at Yale. Mars Woodward ia a current PREP scholar in our group.
+We periodically host post-baccaulaureate research fellows for a full year through the NIH-sponsored [University of Chicago PREP (Post-Baccaulaureate Research Education Program)](https://bsdprep.uchicago.edu/), which funds underrepresented minority students to carry out a full year of research in a host lab. PREP students also receive financial support and mentoring through the graduate school and NSF Graduate Research Fellowship application processes. Freddy Gonzalez was a PREP scholar in AY 2021-2022 and is now a PhD student in Dr. Paul Turner's lab at Yale. Mars Woodward is a current PREP scholar in our group.
 
 Applications for PREP are due internally to UChicago annually in March or April--watch for deadlines [here](https://bsdprep.uchicago.edu/program-activities/application-procedure/).
 
@@ -79,9 +79,9 @@ Applications for PREP are due internally to UChicago annually in March or April-
 
 <h2>Field Technicians</h2>
 
-We typically employ two, Madagascar-based **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
+We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-Application submissions for our newest Madagascar-based **Field Technician** position to join the Fanihy from November 2023-November 2024 have now closed and will not renew again until spring 2024, for a likely August or September 2024 start date. This year, due to limitations imposed by our funding sources, we specifically solicited applicaitons for a **Chicago Post-Baccaulaureate Field Fellow** who must either be a native of the Chicagoland region or a recent graduate of a Chicago region university. Please see [Chicago field fellow](/join/chicago-field-fellow) for a job description of past opportunities. 
+Madagascar-based **Field Technician** positions are currently full. I plan to release an application in August or September 2024 for a January 2025 start date. Due to limitations imposed by our funding sources, in the last round of hires, we specifically solicited applications for a **Chicago Post-Baccaulaureate Field Fellow** who had to be a native of the Chicagoland region or a recent graduate of a Chicago region university. In the next cycle, I anticipate that the position will be open to all. Please see [Chicago field fellow](/join/chicago-field-fellow) for a job description of the last hire. 
 
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
