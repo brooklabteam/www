@@ -12,7 +12,7 @@ permalink: /join
 
 <h2>A note on diversity and inclusion</h2>
 
-<img src="/assets/join/ekipa_fanihy_happy.jpg" alt="bat" class="float-start col-sm-5" />
+<img src="/assets/join/brook_lab_ranomafana.jpg" alt="ranomafana" class="float-start col-sm-5" />
 
 We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below. 
 
@@ -22,7 +22,7 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 <div style="clear:both;">&nbsp;</div>
 
 
-**Additionally, as a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to [Cara Brook](mailto:cbrook@uchicago.edu) directly.**
+**As a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to [Cara Brook](mailto:cbrook@uchicago.edu) directly.**
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -30,7 +30,7 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-I am not planning to take on any new students in the fall 2024 application cycle, for a fall 2025 start. I may solicit applications in a subsequent year (fall 2025 for a 2026 start), though I do not intend to finalize those plans until sometime next year. In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+**All PhD positions in my group are full at this time.** I am not planning to take on any new students in the fall 2024 application cycle. I may solicit applications in the subsequent year (fall 2025 for a 2026 start), though I have not yet finalized those plans. In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. If you think you would be a good fit, please feel free to reach out, particularly if eligible for the NIH supplement listed above.
 
 <!--
 For recruits to start in AY2024-2025, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar. There are also potential opportunities for a field-capable graduate student to lead efforts to launch new bat virus-focused research projects at pilot field sites in the Southwestern US (in collaboration with the [Laverty Lab](https://lavertylab.org/) at NMSU) or in Cambodia (in collaboration with the [ICER Program](https://www.niaid.nih.gov/about/cambodia-icer-program)).
