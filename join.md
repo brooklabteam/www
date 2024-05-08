@@ -12,7 +12,7 @@ permalink: /join
 
 <h2>A note on diversity and inclusion</h2>
 
-<img src="/assets/join/brook_lab_ranomafana.jpg" alt="ranomafana" class="float-start col-sm-5" />
+<img src="/assets/join/brook_lab_ranomafana.jpeg" alt="ranomafana" class="float-start col-sm-5" />
 
 We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below. 
 
@@ -81,7 +81,7 @@ Applications for PREP are due internally to UChicago annually in March or April-
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-Madagascar-based **Field Technician** positions are currently full. I plan to release an application in August or September 2024 for a January 2025 start date. Due to limitations imposed by our funding sources, in the last round of hires, we specifically solicited applications for a **Chicago Post-Baccaulaureate Field Fellow** who had to be a native of the Chicagoland region or a recent graduate of a Chicago region university. In the next cycle, I anticipate that the position will be open to all. Please see [Chicago field fellow](/join/chicago-field-fellow) for a job description of the last hire. 
+**Madagascar-based Field Technician positions are currently full**. I plan to release an application in August or September 2024 for a January 2025 start date. Due to limitations imposed by our funding sources, in the last round of hires, we specifically solicited applications for a **Chicago Post-Baccaulaureate Field Fellow** who had to be a native of the Chicagoland region or a recent graduate of a Chicago region university. In the next cycle, I anticipate that the position will be open to all. Please see [Chicago field fellow](/join/chicago-field-fellow) for a job description of the last hire. 
 
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:

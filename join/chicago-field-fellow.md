@@ -10,7 +10,7 @@ permalink: /join/chicago-field-fellow
 -->
 
 
-<img src="/assets/join/ekipa_fanihy_ranomafana.jpg" alt="ekipa" class="float-start col-sm-5" />
+<img src="/assets/join/ekipa_fanihy_ranomafana.jpeg" alt="ekipa" class="float-start col-sm-5" />
 
 
 **Projected Project Period**: November 25, 2023 (start date) - November 15, 2024 (end date), with options to extend. 
