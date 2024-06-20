@@ -1,0 +1,12 @@
+---
+layout: post
+title: Coding for Conservation program concludes first round of funding. Watch our summary video!
+date: 2024-06-20 01:00:00 -0700
+description:  (optional)
+img: C4Clogo.jpg
+tags: [conservation, education, programming] # add tag
+permalink: /news/C4C-year1
+---
+
+Post-baccalaureate PREP scholar, Mars Woodward, made this inspiring video summarizing the first year of our [Coding for Conservation]() outreach program. Watch [here](https://uchicago.box.com/s/1y1p72qbl12r9eidspj0j4tb1lhomtu1), and be inspired!
+
