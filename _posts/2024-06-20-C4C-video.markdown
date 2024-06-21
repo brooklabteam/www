@@ -3,7 +3,7 @@ layout: post
 title: Coding for Conservation program concludes first round of funding. Watch our summary video!
 date: 2024-06-20 01:00:00 -0700
 description:  (optional)
-img: C4Clogo.jpg
+img: C4Clogo.jpeg
 tags: [conservation, education, programming] # add tag
 permalink: /news/C4C-year1
 ---
