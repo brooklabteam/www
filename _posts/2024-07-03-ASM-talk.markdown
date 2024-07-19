@@ -4,8 +4,8 @@ title: Cara speaks at ASM Microbe 2024!
 date: 2024-07-03 01:00:00 -0700
 description:  (optional)
 img: ASMlogo.jpg
-tags: [conservation, education, programming] # add tag
-permalink: /news/C4C-year1
+tags: [ASM, conference] # add tag
+permalink: /news/ASM-Microbe-2024
 ---
 
-Cara spoke at ASM Microbe as an invited 'Track Hub' speaker this year, and they wrote this fantastic summary of the talk: <a href="https://asm.org/Articles/2024/July/How-Studying-Bat-Viruses-Prevent-Zoonotic-Disease" target="_blank"> How Studying Bat Viruses Can Help Prevent Zoonotic Disease </a> outreach program. 
+Cara spoke at ASM Microbe as an invited 'Track Hub' speaker this year, and they wrote this fantastic summary of the talk: <a href="https://asm.org/Articles/2024/July/How-Studying-Bat-Viruses-Prevent-Zoonotic-Disease" target="_blank"> How Studying Bat Viruses Can Help Prevent Zoonotic Disease </a>. 
