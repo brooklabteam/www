@@ -10,7 +10,7 @@ permalink: /news/C4C-year1
 
 Post-baccalaureate PREP scholar, Mars Woodward, made this inspiring video summarizing the first year of our <a href="https://www.coding4conservation.org" target="_blank">Coding for Conservation</a> outreach program. Watch here:
 
-<iframe width="560" height="315" src="https://uchicago.box.com/s/1y1p72qbl12r9eidspj0j4tb1lhomtu1" title="Box video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_n2-J6PjBsI" title="C4C video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 And be inspired!
 
