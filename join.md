@@ -21,8 +21,10 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <div style="clear:both;">&nbsp;</div>
 
-
+<!--
 **As a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to [Cara Brook](mailto:cbrook@uchicago.edu) directly.**
+
+-->
 
 <div style="clear:both;">&nbsp;</div>
 

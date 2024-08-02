@@ -11,7 +11,7 @@ Prior to the University of Chicago, I spent time as a [Miller Postdoctoral Fello
 
 * Contact: cbrook (at) uchicago (dot) edu
 * Pronouns: she/her
-* <a href="/assets/CV_CaraBrook_Full_May2024.pdf">Full CV</a>
+* <a href="/assets/CV_CaraBrook_Full_August2024.pdf">Full CV</a>
 * <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 * <a href="https://vimeo.com/840916526">Research Video Summary</a>
 
