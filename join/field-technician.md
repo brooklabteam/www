@@ -17,7 +17,7 @@ permalink: /join/field-technician
 
 #### **Work Description**
 
-This one-year position, open only to US citizens, will involve organizing and participating in monthly field expeditions for [Ekipa Fanihy](/team) with one additional tech and a team of PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through May 2025 and be replaced in June 2025. 
+This one-year position, open only to US citizens, will involve organizing and participating in monthly field expeditions for [Ekipa Fanihy](/team) with one additional tech (also from the US) and a team of Malagasy PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through May 2025 and be replaced in June 2025. 
 
 Ekipa Fanihy carries out monthly capture and sampling of Madagascar's fruit bats (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. This work supports a long-term field study aimed at deciphering the mechanisms underpinning persistence of potentially zoonotic RNA viruses in wild, Madagascar fruit bats. Bats are reservoirs for several important, highly-virulent zoonoses, including rabies, Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. This work also contributes data to population viability analyses and assessments of the conservation status of threatened fruit bats in Madagascar. Please see [Research](/research_interests) for further details about the major themes of the project.
 
