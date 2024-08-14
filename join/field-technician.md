@@ -1,27 +1,27 @@
 ---
 layout: page
 title: "Field Technician Position"
-permalink: /join/field-tech
+permalink: /join/field-technician
 ---
 
-<font size="4">
 
-<p1 style="color:Red;font-weight: bold">Applications are now closed for the Ekipa Fanihy Field Technician. Please stay tuned for further information or future opportunities. </p1>
-</font>
+<div class="bs-callout bs-callout-warning">
+  <p><a href="https://airtable.com/appk3FVPSeHqejris/shrqiltm8TPu72lbJ">Submit your application</a> by midnight (Central) on September 22, 2024 for consideration as the 2025 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appk3FVPSeHqejris/shrpzintPrzYWSa6g">this recommendation submission form</a> by the same deadline.</p>
+</div>
 
 ---
 
-**Projected Project Period**: September 10, 2022 (start date) - August 31, 2023 (end date), with options to extend. 
+**Projected Project Period**: January  13, 2025 (start date) - December 13, 2025 (end date), with options to extend. 
 
 ---
 
 #### **Work Description**
 
-This one-year position, open only to US citizens, will involve organizing and participating in monthly field expeditions for [Ekipa Fanihy](/team) with one additional tech and a team of PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through December 2022 and be replaced in January 2023. 
+This one-year position, open only to US citizens, will involve organizing and participating in monthly field expeditions for [Ekipa Fanihy](/team) with one additional tech and a team of PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through May 2025 and be replaced in June 2025. 
 
 Ekipa Fanihy carries out monthly capture and sampling of Madagascar's fruit bats (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. This work supports a long-term field study aimed at deciphering the mechanisms underpinning persistence of potentially zoonotic RNA viruses in wild, Madagascar fruit bats. Bats are reservoirs for several important, highly-virulent zoonoses, including rabies, Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. This work also contributes data to population viability analyses and assessments of the conservation status of threatened fruit bats in Madagascar. Please see [Research](/research_interests) for further details about the major themes of the project.
 
-Field technicians will be trained in the field in September 2022 by project PI, Professor Cara Brook, and/or postdoc, Dr. Theresa Laverty, then supervised remotely (from the University of Chicago) for the duration of the year, interspersed with regular visits from Dr. Brook, Dr. Laverty, and PhD students from the Brook lab.
+Field technicians will be trained in the field in January 2025 by project PI, Professor Cara Brook, and/or graduate student, Sophia Horigan, then supervised remotely (from the University of Chicago) for the duration of the year, interspersed with regular visits from Dr. Brook, Horigan, and other members of the Brook lab.
 
 Techs will spend approximately 70% of their time in the field. During each field mission, techs will travel with University of Antananarivo PhD students for up to 1-2 days to remote field sites in vehicles with hired drivers. While in the field, the team will reside in tents provided by the project for up to two weeks at a time. The work will necessitate strenuous hiking and hauling heavy equipment, sometimes in adverse weather conditions. During field missions, a local cook will be hired to prepare meals, and all expenses (including food) will be funded by the project.  
 
@@ -31,7 +31,7 @@ In between field missions (30% of the time), techs will live in a shared house i
 
 When not in the field, techs will additionally have opportunities to take part in professional development in the form of remote lab meetings with the Brook Lab at the University of Chicago, as well as receive guidance on the graduate school application process if desired. Field technicians will be acknowledged on publications arising from this work and may or may not be included as co-authors depending on the duration of their employment and the extent of their intellectual contributions to data analysis and interpretation after the field work concludes. Opportunities for independent work--either in science communication or in research--may be pursued on a case-by-case basis. 
 
-Please visit our [News](/news) page or current field tech Kendall Fitzgerald's [blogsite](https://fitzgeraldmadagascar.wordpress.com/) to read previous reports of the team's adventures in the field. Feel free to reach out to contact current Ekipa Fanihy field technicians, Kendall Fitzgerald (at [fitzk@berkeley.edu](mailto:fitzk@berkeley.edu)) or Dominic Daniels (at [dtdaniels@berkeley.edu](mailto:dtdaniels@berkeley.edu)), with any questions about the job.
+Please visit our [News](/news) page or prior field tech Kendall Fitzgerald's [blogsite](https://fitzgeraldmadagascar.wordpress.com/) to read previous reports of the team's adventures in the field. Feel free to reach out to contact current Ekipa Fanihy field technicians, Katherine McFerrin (at [kmcferrin@uchicago.edu](mailto:kmcferrin@uchicago.edu)) or Martin Roland (at [martincroland@gmail.com](mailto:martincroland@gmail.com)), with any questions about the job.
 
 ---
 
@@ -75,4 +75,4 @@ At the conclusion of 12 months of employment, field technicians will receive an 
 
 ## **Diversity and Inclusion**
 
-**We are an equal-opportunity group. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.** We acknowledge that we are unable to provide a salary competitive with full-time US-based employment for field technicians at this time. However, if the above compensation description is inadequate for your needs, please inform us of this in your application submission. **We will review applications on a case-by-case basis and do our best to making this opportunity accessible for the right applicant, independent of financial constraints!**
+**We are an equal-opportunity group. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply.** We acknowledge that we are unable to provide a salary competitive with full-time US-based employment for field technicians at this time. However, if the above compensation description is inadequate for your needs, please inform us of this in your application submission. **We will review applications on a case-by-case basis and do our best to making this opportunity accessible for the right applicant, independent of financial constraints!** In addition, if you believe you match the qualifications for an [NIH Research Supplement to Promote Diversity](https://www.niaid.nih.gov/grants-contracts/research-supplements) (or any other supplement, for that matter!), we may be able to apply to increase or extend your funding starting in mid-2025.
