@@ -8,17 +8,19 @@ permalink: /publications
 
 <h2>In Review</h2>
 
+- **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.08.09.607319). 
+
 - Kim C, Buchholz D, Yeo YY, Ma A, Ezzatpour S, **Brook CE**, and Aguilar-Carreno H. Angavokely virus fusion and attachment glycoproteins mediate membrane fusion in human cells. In Review.
 
 <h2>In Revision</h2>
 
 - Randriambolamanantsoa TH, Razanajatovo NH, **Ranaivoson HC**, Randrianasolo L, Rabarison JH, Razafinmanjato H, Ratsimbazafy A, Rakoto DAD, Héraud J-M, Lacoste V, and **Brook CE**. Climatic drivers of seasonal dynamics for Respiratory Syncytial Virus (RSV) in Antananarivo, Madagascar, 2011-2021. In Revision. [Link to medRxiv Preprint](https://doi.org/10.1101/2024.02.03.24302203).
 
-- **Horigan S**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, **Kettenburg G**, Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. [Link to BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564436v1).
-
 <h2>In Press (Accepted)</h2>
 
 - **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, **Li Y**, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, **Young KI**, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. In Press at *PNAS*. [Link to MedRxiv Preprint](https://www.medrxiv.org/content/10.1101/2022.06.08.22276171v5). 
+
+- **Horigan S**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, **Kettenburg G**, Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. In Press at *Virology Journal*. [Link to BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564436v1).
 
 
 <h2>2023</h2>
