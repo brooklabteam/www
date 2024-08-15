@@ -17,9 +17,9 @@ permalink: /join/field-technician
 
 #### **Work Description**
 
-This one-year position, open only to US citizens, will involve organizing and participating in monthly field expeditions for [Ekipa Fanihy](/team) with one additional tech (also from the US) and a team of Malagasy PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through May 2025 and be replaced in June 2025. 
+This one-year position, open only to US citizens, will involve organizing and participating in biweekly field expeditions for [Ekipa Fanihy](/team) with one additional tech (also from the US) and a team of Malagasy PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through May 2025 and be replaced in June 2025. 
 
-Ekipa Fanihy carries out monthly capture and sampling of Madagascar's fruit bats (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. This work supports a long-term field study aimed at deciphering the mechanisms underpinning persistence of potentially zoonotic RNA viruses in wild, Madagascar fruit bats. Bats are reservoirs for several important, highly-virulent zoonoses, including rabies, Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. This work also contributes data to population viability analyses and assessments of the conservation status of threatened fruit bats in Madagascar. Please see [Research](/research_interests) for further details about the major themes of the project.
+Ekipa Fanihy carries out capture and sampling of Madagascar's fruit bats (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. This work supports a long-term field study aimed at deciphering the mechanisms underpinning persistence of potentially zoonotic RNA viruses in wild, Madagascar fruit bats. Bats are reservoirs for several important, highly-virulent zoonoses, including rabies, Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. This work also contributes data to population viability analyses and assessments of the conservation status of threatened fruit bats in Madagascar. Please see [Research](/research_interests) for further details about the major themes of the project.
 
 Field technicians will be trained in the field in January 2025 by project PI, Professor Cara Brook, and/or graduate student, Sophia Horigan, then supervised remotely (from the University of Chicago) for the duration of the year, interspersed with regular visits from Dr. Brook, Horigan, and other members of the Brook lab.
 
@@ -31,7 +31,7 @@ In between field missions (30% of the time), techs will live in a shared house i
 
 When not in the field, techs will additionally have opportunities to take part in professional development in the form of remote lab meetings with the Brook Lab at the University of Chicago, as well as receive guidance on the graduate school application process if desired. Field technicians will be acknowledged on publications arising from this work and may or may not be included as co-authors depending on the duration of their employment and the extent of their intellectual contributions to data analysis and interpretation after the field work concludes. Opportunities for independent work--either in science communication or in research--may be pursued on a case-by-case basis. 
 
-Please visit our [News](/news) page or prior field tech Kendall Fitzgerald's [blogsite](https://fitzgeraldmadagascar.wordpress.com/) to read previous reports of the team's adventures in the field. Feel free to reach out to contact current Ekipa Fanihy field technicians, Katherine McFerrin (at [kmcferrin@uchicago.edu](mailto:kmcferrin@uchicago.edu)) or Martin Roland (at [martincroland@gmail.com](mailto:martincroland@gmail.com)), with any questions about the job.
+Please visit our [News](/news) page or prior field tech Kendall Fitzgerald's [blogsite](https://fitzgeraldmadagascar.wordpress.com/) to read previous reports of the team's adventures in the field. Feel free to reach out to contact current Ekipa Fanihy field technicians, Katherine McFerrin (at [katherine.mcferrin@gmail.com](mailto:katherine.mcferrin@gmail.com)) or Martin Roland (at [martincroland@gmail.com](mailto:martincroland@gmail.com)), with any questions about the job.
 
 ---
 
@@ -59,7 +59,7 @@ Bonus traits include:
 
 #### **Compensation**
 
-Field Technicians will be part-time, benefits ineligible employees at the University of Chicago and will be required to demonstrate evidence of US medical insurance (i.e. on a family member's plan) prior to the position start date. All techs will receive an advance stipend of $2000 prior to arrival to Madagascar to support them in preparations for the upcoming field season. Technicians will be responsible for using the stipend to obtain the following prior to the start date:
+Field Technicians will be part-time, benefits ineligible employees at the University of Chicago and will be required to demonstrate evidence of US medical insurance (i.e. on a family member's plan) prior to the position start date. All techs will receive an advance stipend of $2000 (taxes will be withheld) prior to arrival to Madagascar to support them in preparations for the upcoming field season. Technicians will be responsible for using the stipend to obtain the following prior to the start date:
 
 - [International SOS](https://www.internationalsos.com/), or some other form of medical evacuation insurance for the duration of the employment (a ~$400 value)
 - Rabies vaccination. This three-shot series can cost up to ~$1000 if not covered by insurance, though, depending on health insurance, this can usually be acquired cheaply with a letter from the project. Please reach out to your State Department of Public Health or City/County Public Health Department if struggling to obtain this from your Primary Care Provider.
@@ -70,7 +70,7 @@ Once arrived in-country, field technicians will receive a monthly living stipend
 
 One roundtrip plane ticket from a major international US airport will be funded by the project across the duration of the one year of employment. Ekipa Fanihy will take a 2-week break from field work during the December holidays, and the tech will be free to travel in country or, if desired, return to the US using personal funds during this time. Breaks from field studies for personal travel of up to 3 weeks total at other times of the year will be permitted if requested with a minimum of 2 months advance notice.
 
-At the conclusion of 12 months of employment, field technicians will receive an additional $2000 bonus to support relocation expenses upon returning home.
+At the conclusion of 12 months of employment, field technicians will receive an additional $2000 bonus (taxes will be withheld) to support relocation expenses upon returning home.
 
 
 ## **Diversity and Inclusion**
