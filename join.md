@@ -8,7 +8,7 @@ permalink: /join
   <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>September 15, 2024</strong>!</p>
   <p><em>This page last updated Aug 15, 2024.</em></p>
 
--->
+</div>
 
 <h2>A note on diversity and inclusion</h2>
 
