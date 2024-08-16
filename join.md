@@ -3,11 +3,11 @@ layout: page
 title: "Join the Lab"
 permalink: /join
 ---
-<!--
+
 <div class="bs-callout bs-callout-info">
-  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/chicago-field-fellow">the Chicago field fellow</a> for job description and application, due by midnight (Central) on <strong>June 30, 2023</strong>!</p>
-  <p><em>This page last updated May 28, 2023.</em></p>
-</div>
+  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>September 15, 2024</strong>!</p>
+  <p><em>This page last updated Aug 15, 2024.</em></p>
+
 -->
 
 <h2>A note on diversity and inclusion</h2>
@@ -83,7 +83,7 @@ Applications for PREP are due internally to UChicago annually in March or April-
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-**Madagascar-based Field Technician positions are currently full**. I plan to release an application in August or September 2024 for a January 2025 start date. Due to limitations imposed by our funding sources, in the last round of hires, we specifically solicited applications for a **Chicago Post-Baccaulaureate Field Fellow** who had to be a native of the Chicagoland region or a recent graduate of a Chicago region university. In the next cycle, I anticipate that the position will be open to all. Please see [Chicago field fellow](/join/chicago-field-fellow) for a job description of the last hire. 
+**We are currently recruiting our next Madagascar-based Field Technician positions !**  Please see the [field technician](/join/field-technician) page for a job description. Applications are due **Sunday, September 22 by midnight Central Time!** 
 
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
