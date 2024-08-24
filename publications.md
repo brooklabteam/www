@@ -21,7 +21,7 @@ permalink: /publications
 
 - Randriambolamanantsoa TH, Razanajatovo NH, **Ranaivoson HC**, Randrianasolo L, Rabarison JH, Razafinmanjato H, Ratsimbazafy A, Rakoto DAD, Héraud J-M, Lacoste V, and **Brook CE**. Climatic drivers of seasonal dynamics for Respiratory Syncytial Virus (RSV) in Antananarivo, Madagascar, 2011-2021. In Press at *BMJ Public Health*. [Link to medRxiv Preprint](https://doi.org/10.1101/2024.02.03.24302203).
 
-- **Horigan S**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, **Kettenburg G**, Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. In Press at *Virology Journal*. [Link to BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564436v1).
+- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. In Press at *Virology Journal*. [Link to BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564436v1).
 
 
 <h2>2023</h2>
