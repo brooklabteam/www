@@ -8,9 +8,9 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.08.21.608949). 
+- **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
-- **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.08.09.607319). 
+- **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
 
 - Kim C, Buchholz D, Yeo YY, Ma A, Ezzatpour S, **Brook CE**, and Aguilar-Carreno H. Angavokely virus fusion and attachment glycoproteins mediate membrane fusion in human cells. In Review.
 
