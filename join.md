@@ -83,7 +83,7 @@ Applications for PREP are due internally to UChicago annually in March or April-
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-**We are currently recruiting our next Madagascar-based Field Technician positions !**  Please see the [field technician](/join/field-technician) page for a job description. Applications are due **Sunday, September 22 by midnight Central Time!** 
+**We are currently recruiting our next Madagascar-based Field Technician positions !**  Please see the [field technician](/join/field-technician) page for a job description. Applications are due **Sunday, September 15 by midnight Central Time!** 
 
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
