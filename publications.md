@@ -19,11 +19,12 @@ permalink: /publications
 
 - Randriambolamanantsoa TH, Razanajatovo NH, **Ranaivoson HC**, Randrianasolo L, Rabarison JH, Razafinmanjato H, Ratsimbazafy A, Rakoto DAD, Héraud J-M, Lacoste V, and **Brook CE**. Climatic drivers of seasonal dynamics for Respiratory Syncytial Virus (RSV) in Antananarivo, Madagascar, 2011-2021. In Press at *BMJ Public Health*. [Link to medRxiv Preprint](https://doi.org/10.1101/2024.02.03.24302203).
 
-- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. In Press at *Virology Journal*. [Link to BioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2023.10.27.564436v1).
 
 <h2>2024</h2>
+
 - **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, **Li Y**, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, **Young KI**, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. 2024. *PNAS*. 121 (36): e2318704121. doi: [10.1073/pnas.2318704121](https://doi.org/10.1073/pnas.2318704121).
 
+- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. 2024 *Virology Journal*. 21: 195. doi: [10.1186/s12985-024-02471-2](https://doi.org/10.1186/s12985-024-02471-2)
 
 <h2>2023</h2>
 
