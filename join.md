@@ -5,10 +5,18 @@ permalink: /join
 ---
 
 <div class="bs-callout bs-callout-info">
+<p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch to applicants in the next few weeks.!</p>
+<p><em>This page last updated September 16, 2024.</em></p>
+
+</div>
+
+<!--
+<div class="bs-callout bs-callout-info">
   <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>September 15, 2024</strong>!</p>
   <p><em>This page last updated Aug 15, 2024.</em></p>
 
 </div>
+-->
 
 <h2>A note on diversity and inclusion</h2>
 
@@ -72,9 +80,9 @@ If you are an undergrad with an interest in applying for one of these opportunit
 
 <h2>Post-Baccalaureate Fellows</h2>
 
-We periodically host post-baccaulaureate research fellows for a full year through the NIH-sponsored [University of Chicago PREP (Post-Baccaulaureate Research Education Program)](https://bsdprep.uchicago.edu/), which funds underrepresented minority students to carry out a full year of research in a host lab. PREP students also receive financial support and mentoring through the graduate school and NSF Graduate Research Fellowship application processes. Freddy Gonzalez was a PREP scholar in AY 2021-2022 and is now a PhD student in Dr. Paul Turner's lab at Yale. Mars Woodward is a current PREP scholar in our group.
+We periodically host post-baccaulaureate research fellows for a full year through the NIH-sponsored [University of Chicago PREP (Post-Baccaulaureate Research Education Program)](https://bsdprep.uchicago.edu/), which funds underrepresented minority students to carry out a full year of research in a host lab. PREP students also receive financial support and mentoring through the graduate school and NSF Graduate Research Fellowship application processes. Freddy Gonzalez was a PREP scholar in AY 2021-2022 and is now a PhD student in Dr. Paul Turner's lab at Yale. Mars Woodward was a PREP scholar in AY 2023-2024 and is now a PhD student studying with Dr. Kelly Speer and Dr. Luis Zaman at the University of Michigan.
 
-Applications for PREP are due internally to UChicago annually in March or April--watch for deadlines [here](https://bsdprep.uchicago.edu/program-activities/application-procedure/).
+Applications for PREP are due internally to UChicago annually in February or March--watch for deadlines [here](https://bsdprep.uchicago.edu/program-activities/application-procedure/).
 
 
 ---
@@ -83,8 +91,7 @@ Applications for PREP are due internally to UChicago annually in March or April-
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-**We are currently recruiting our next Madagascar-based Field Technician positions !**  Please see the [field technician](/join/field-technician) page for a job description. Applications are due **Sunday, September 15 by midnight Central Time!** 
-
+We recently closed applications for a new Ekipa Fanihy Field Technician position, with a planned start date in January 2025. We will most likely post applications again in January 2025 for another one-year position, with a planned start date in May 2025. Please see the [field technician](/join/field-technician) page for a description of a prior job posting; if you have questions in advance of this time line, contact Cara Brook at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu).
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
 
