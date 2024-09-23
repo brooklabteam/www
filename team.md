@@ -19,7 +19,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/assets/team/charlie_voirin.JPG" alt="charlie" class="img-thumbnail float-start col-md-3" />
 
-**Charlie Voirin** is a PhD student in the Department of Ecology and Evolution at the University of Chicago. He is interested in combining experimental and computational techniques to study the ecology and immunology of bats so that we can better predict the spillover of infectious diseases from animal to human populations. Before joining the Brook lab, Charlie was a postbaccalaureate fellow in the Viral Epidemiology and Immunity unit at NIAID, where he worked on a clinical trial studying the human immune response to a dengue vaccine. He holds a BA in Biology from Kenyon College, where he studied how environmental and ontogenetic factors impact telomere dynamics in nestling barn swallows.
+**Charlie Voirin** (he/him) is a PhD student in the Department of Ecology and Evolution at the University of Chicago. He is interested in combining experimental and computational techniques to study the ecology and immunology of bats so that we can better predict the spillover of infectious diseases from animal to human populations. Before joining the Brook lab, Charlie was a postbaccalaureate fellow in the Viral Epidemiology and Immunity unit at NIAID, where he worked on a clinical trial studying the human immune response to a dengue vaccine. He holds a BA in Biology from Kenyon College, where he studied how environmental and ontogenetic factors impact telomere dynamics in nestling barn swallows.
 
 <div style="clear:both;">&nbsp;</div>
 
