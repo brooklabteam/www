@@ -1,6 +1,6 @@
 ---
-layout: page
-title: International Symposium on Infectious Diseases of Bats 2024
+layout: default-no-header
+title: International Symposium on Infectious Diseases of Bats 2025
 permalink: /programs/bat-id-2025
 ---
 <div class="bs-callout bs-callout-info">
