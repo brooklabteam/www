@@ -13,7 +13,7 @@ permalink: /team
 
 The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to a suite of inspiring Malagasy graduate students at the University of Antananarivo. We carry out all field work in close collaboration with [*Association Ekipa Fanihy*](https://ekipafanihy.org), ('Ekipa Fanihy' is Malagasy for 'Team Fruit Bat'), a Madagascar-based NGO focused on bat research and conservation.
 
-<div style="clear:both;">&nbsp;</div>
+<div style="clear:both;">&nbsp;</div
 
 <h2>University of Chicago Team</h2>
 
@@ -57,6 +57,8 @@ Dr. **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** (she/her) 
 <img src="/assets/team/natalia_cortes_delgado.jpg" alt="natalia" class="img-thumbnail float-start col-md-3" />
 
 Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. Her research focuses on estimating effective population size and connectivity of three species of Malagasy bats, as well as the influence of bat microbiome on tolerance to viral infections. Natalia holds a PhD in Ecology and Evolution from the University of Illinois at Chicago, where she investigated the role of the Andes as a driver of genetic differentiation in bat populations. She has a Master’s degree in Sciences from the Instituto de Ecologia, A.C. in Mexico where she studied roost use and foraging areas by the fruit bat species *Sturnira hondurensis*. Natalia’s research interests are broad and are mainly concentrated in bat evolution, including the understanding of patterns of genetic structure and speciation in bat species, in addition to bat immune response evolution.
+
+<div style="clear:both;">&nbsp;</div
 
 <img src="/assets/team/abby-mendoza.jpg" alt="abby" class="img-thumbnail float-start col-md-3" />
 
