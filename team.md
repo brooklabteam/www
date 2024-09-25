@@ -58,6 +58,10 @@ Dr. **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** (she/her) 
 
 Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. Her research focuses on estimating effective population size and connectivity of three species of Malagasy bats, as well as the influence of bat microbiome on tolerance to viral infections. Natalia holds a PhD in Ecology and Evolution from the University of Illinois at Chicago, where she investigated the role of the Andes as a driver of genetic differentiation in bat populations. She has a Master’s degree in Sciences from the Instituto de Ecologia, A.C. in Mexico where she studied roost use and foraging areas by the fruit bat species *Sturnira hondurensis*. Natalia’s research interests are broad and are mainly concentrated in bat evolution, including the understanding of patterns of genetic structure and speciation in bat species, in addition to bat immune response evolution.
 
+<img src="/assets/team/abby-mendoza.jpg" alt="abby" class="img-thumbnail float-start col-md-3" />
+
+**Abigail Mendoza** (she/her) is the Data Manager for the lab. She is a recent graduate of the University of Houston (UH) where she received a Bachelors in Biology with a minor in Chemistry. Her current goal is to understand more about how evolution and ecology informs conservation, agriculture, and public health by applying to graduate school in 2025-26. She previously received an undergraduate research fellowship in 2023, and presented her results at the 2024 ESA conference in Long Beach. Her project centered on determining how plant-microbe interactions drives biodiversity by examining the relationship between native microbes and native and nonnative plant species. She has also been a data manager previously for the Hidden Life of Houston project which explores wildlife dynamics in the Greater Houston Area.
+
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -95,6 +99,8 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 
 **Martin Roland** is a **Field Project Manager** with Ekipa Fanihy, co-leading monthly field expeditions to capture and sample Madagascar endemic fruit bats. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
+
+
 
 
 <div style="clear:both;">&nbsp;</div>
