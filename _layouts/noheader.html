@@ -1,15 +1,13 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+{% include head.html %}
+
 <body class="bg-light">
   <div>
     <div class="bg-light p-5 rounded">
-      <div class="col-lg-8 mx-auto">
-        {% include header.html %}
-        
+      <div class="col-lg-8 mx-auto">   
         {{ content }}
-        
-        {% include footer.html %}
       </div>
     </div>
   </div>
