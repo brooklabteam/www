@@ -13,7 +13,7 @@ permalink: /team
 
 The **Brook Lab** includes students and postdocs based in the [Department of Ecology and Evolution](https://ecologyandevolution.uchicago.edu/) at the [University of Chicago](https://uchicago.edu), in addition to a suite of inspiring Malagasy graduate students at the University of Antananarivo. We carry out all field work in close collaboration with [*Association Ekipa Fanihy*](https://ekipafanihy.org), ('Ekipa Fanihy' is Malagasy for 'Team Fruit Bat'), a Madagascar-based NGO focused on bat research and conservation.
 
-<div style="clear:both;">&nbsp;</div
+<div style="clear:both;">&nbsp;</div>
 
 <h2>University of Chicago Team</h2>
 
