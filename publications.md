@@ -25,7 +25,7 @@ permalink: /publications
 
 - **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, **Li Y**, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, **Young KI**, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. 2024. *PNAS*. 121 (36): e2318704121. doi: [10.1073/pnas.2318704121](https://doi.org/10.1073/pnas.2318704121).
 
-- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. 2024 *Virology Journal*. 21: 195. doi: [10.1186/s12985-024-02471-2](https://doi.org/10.1186/s12985-024-02471-2)
+- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. 2024. *Virology Journal*. 21: 195. doi: [10.1186/s12985-024-02471-2](https://doi.org/10.1186/s12985-024-02471-2)
 
 <h2>2023</h2>
 
