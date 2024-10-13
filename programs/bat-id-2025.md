@@ -1,12 +1,12 @@
 ---
 layout: noheader
-title: BatID 2025-International Symposium on Infectious Diseases of Bats
+title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
 
 
 <div class="bs-callout bs-callout-info">
-<font size="7">  
+<font size="5">  
 <p>Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
 </font>
 </div>
@@ -16,6 +16,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <hr>
 
 <h2>Logistics</h2>
+<hr>
 <h4>Abstracts and Registration</h4>
 
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
@@ -32,9 +33,9 @@ Bats are the recognized reservoir host of several of the world's most high profi
 Faculty/Industry/Government Scientists: $300  <br>
 Postdocs: $200 <br>
 Graduate students: $150 <br>
-
-<br>
+<hr>
 <h4>Lodging</h4>
+<hr>
 <strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
 <br>
 
@@ -45,44 +46,51 @@ There are <strong>three hotels</strong>available in the Hyde Park, Chicago area,
 <br>
 
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail.
-<br>
+<hr>
 
 <h4>Travel Grants</h4>
 A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
-
+<hr>
 
 
 
 <h2>Scientific Program</h2>
+<hr>
 
 The conference will open with a welcome reception the evening of Wednesday, July 9, 2025, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
 
 Scientific talks will be organized into five main scientific themes, after the following basic outline:
-
+<hr>
 <h3>Thursday, July 10, 2025</h3>
+<hr>
 <h4>Theme I: Bat immunology and within-host dynamics</h4>
 
-Session Chair: <a href="www.brooklab.org">Dr. Cara Brook>/a>, University of Chicago <br>
-Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos>/a>, Stony Brook University
-
+Session Chair: <a href="www.brooklab.org">Dr. Cara Brook</a>, University of Chicago <br>
+Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University
+<hr>
 <h4>Theme II: Bat pathogen discovery</h4>
+<hr>
 
-Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert>/a>, Washington State University <br>
-Plenary Speaker:  <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony>/a>, University of California-Davis
-
+Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br>
+Plenary Speaker:  <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis
+<hr>
 <h4>Theme III: Bat pathogen evolution</h4>
-Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee>/a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan <br>
-Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee>/a>, Icahn School of Medicine at Mount Sinai
-
+<hr>
+Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan <br>
+Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai
+<hr>
 <h3>Friday, July 11, 2025</h3>
+<hr>
 
 <h4>Theme IV: Bat pathogen persistence and transmission dynamics</h4>
-Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker>/a>, University of Oklahoma <br>
-Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker>/a>, University of Glasgow
-
+<hr>
+Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma <br>
+Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow
+<hr>
 <h4>Theme V: Reconciling bat infectious diseases and conservation</h4>
-Session Chair: <a href="https://sse.tulane.edu/eebio/faculty/frank">Dr. Hannah Frank>/a>, Tulane University <br>
+<hr>
+Session Chair: <a href="https://sse.tulane.edu/eebio/faculty/frank">Dr. Hannah Frank</a>, Tulane University <br>
 Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Bat Conservation International
 
 
