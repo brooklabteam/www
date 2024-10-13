@@ -15,7 +15,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <hr>
 
-<h2>Logistics/h2>
+<h2>Logistics</h2>
 <h4>Abstracts and Registration</h4>
 
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
