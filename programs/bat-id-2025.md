@@ -67,7 +67,7 @@ Scientific talks will be organized into five main scientific themes, after the f
 <hr>
 <h4>Theme I: Bat immunology and within-host dynamics</h4>
 
-Session Chair: <a href="www.brooklab.org">Dr. Cara Brook</a>, University of Chicago <br>
+Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago <br>
 Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University
 
 <h4>Theme II: Bat pathogen discovery</h4>
@@ -91,7 +91,7 @@ Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, Un
 <hr>
 <h4>Theme V: Reconciling bat infectious diseases and conservation</h4>
 <hr>
-Session Chair: <a href="https://sse.tulane.edu/eebio/faculty/frank">Dr. Hannah Frank</a>, Tulane University <br>
+Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
 Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Bat Conservation International
 
 
