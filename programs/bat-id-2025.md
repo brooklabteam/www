@@ -43,7 +43,9 @@ Graduate students: $150 <br>
 
 For those not desiring to lodge in the dorms, registrants can book other options independently. 
 <br>
+<br>
 There are <strong>three hotels</strong> available in the Hyde Park, Chicago area, which can be accessed esily on foot from the University of Chicago: the <a href="https://sophyhotel.com/">Sophy</a>, the <a href="https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center">Hyatt Place Chicago-South</a>, and the <a href="https://www.thestudyatuniversityofchicago.com">Study</a>.
+<br>
 <br>
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail.
 <hr>
@@ -63,8 +65,9 @@ The conference will open with a <strong>welcome reception the evening of Wednesd
 
 Scientific talks will be organized into five main scientific themes, after the following basic outline:
 <br>
+<hr>
 <h3>Thursday, July 10, 2025</h3>
-
+<hr>
 <h4>Theme I: Bat immunology and within-host dynamics</h4>
 
 Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago <br>
