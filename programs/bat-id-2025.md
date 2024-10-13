@@ -14,7 +14,7 @@ permalink: /programs/bat-id-2025
 
 <h2>Scientific Program</h2>
 
-The conference will open with a welcome reception the evening of Wednesday, July 9, 2025, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorites in the field. 
+The conference will open with a welcome reception the evening of Wednesday, July 9, 2025, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
 
 Scientific talks will be organized into five main scientific themes, after the following basic outline:
 
@@ -48,13 +48,13 @@ Plenary Speaker: Dr. Winifred Frick, Bat Conservation International
 <h4>Key dates to remember</h4>
 
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
-<strong>March 31, 2025</strong>: Abstract submissions close
+<strong>March 31, 2025</strong>: Abstract submissions close  <br>
 <em> Submitted abstracts will be notified of their status by mid-April 2025. </em> 
 
 <strong>early February 2025</strong>: Registration opens for BatID 2025<br>
 <strong>April 30, 2025</strong>: Registration closes for BatID 2025 <br>
-Registration fees will be the same as for BatID 2022: <>
-Faculty/Industry/Government Scientists: $300 
+Registration fees will be the same as for BatID 2022: <br>
+Faculty/Industry/Government Scientists: $300  <br>
 Postdocs: $200 <br>
 Graduate students: $150 <br>
 
