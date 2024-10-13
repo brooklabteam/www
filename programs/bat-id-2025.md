@@ -1,13 +1,13 @@
 ---
 layout: noheader
-title: International Symposium on Infectious Diseases of Bats (BatID 2025)
+title: BatID 2025: International Symposium on Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
 
 
 <div class="bs-callout bs-callout-info">
-<font size="10">  
-<p>We are excited to host BatID 2025 at the University of Chicago, from July 9-11, 2025!</p>
+<font size="7">  
+<p>Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
 </font>
 </div>
 
@@ -15,40 +15,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <hr>
 
-<h2>Scientific Program</h2>
-
-The conference will open with a welcome reception the evening of Wednesday, July 9, 2025, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
-
-Scientific talks will be organized into five main scientific themes, after the following basic outline:
-
-<h3>Thursday, July 10, 2025</h3>
-<h4>Theme I: Bat immunology and within-host dynamics</h4>
-
-Session Chair: Dr. Cara Brook, University of Chicago <br>
-Plenary Speaker: Dr. Liliana Davalos, Stony Brook University
-
-<h4>Theme II: Bat pathogen discovery</h4>
-
-Session Chair:Dr. Stephanie Seifert, Washington State University <br>
-Plenary Speaker: Dr. Simon Anthony, University of California-Davis
-
-<h4>Theme III: Bat pathogen evolution</h4>
-Session Chair: Dr. Arinjay Banerjee, University of Saskatechwan <br>
-Plenary Speaker: Dr. Benhur Lee, Icahn School of Medicine at Mount Sinai
-
-<h3>Friday, July 11, 2025</h3>
-
-<h4>Theme IV: Bat pathogen persistence and transmission dynamics</h4>
-Session Chair: Dr. Daniel Becker, University of Oklahoma <br>
-Plenary Speaker: Dr. Daniel Streicker, University of Glasgow
-
-<h4>Theme V: Reconciling bat infectious diseases and conservation</h4>
-Session Chair: Dr. Hannah Frank, Tulane University <br>
-Plenary Speaker: Dr. Winifred Frick, Bat Conservation International
-
-<hr>
-
-<h2>Lgistics/h2>
+<h2>Logistics/h2>
 <h4>Abstracts and Registration</h4>
 
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
@@ -68,17 +35,57 @@ Graduate students: $150 <br>
 <br>
 <h4>Lodging</h4>
 <strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
+<br>
 
-For those not desiring to stya in the dorms, three <strong>hotels</strong> are available in the Hyde park area: the Sophy, the Hyatt, and the Study.
+For those not desiring to lodge in the dorms, registrants can book other options independently. 
+<br>
+There are <strong>three hotels</strong>available in the Hyde Park, Chicago area, which can be accessed esily on foot from the University of Chicago: the <a href="https://sophyhotel.com/">Sophy</a>, the <a href="https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center">Hyatt Place Chicago-South</a>, and the <a href="https://www.thestudyatuniversityofchicago.com">Study</a>.
 
 <br>
-A variety of other hoteloptions are availeble in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the Metric Electric lightrail.
 
+A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail.
+<br>
 
 <h4>Travel Grants</h4>
 A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
 
+
+
+
+<h2>Scientific Program</h2>
+
+The conference will open with a welcome reception the evening of Wednesday, July 9, 2025, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
+
+Scientific talks will be organized into five main scientific themes, after the following basic outline:
+
+<h3>Thursday, July 10, 2025</h3>
+<h4>Theme I: Bat immunology and within-host dynamics</h4>
+
+Session Chair: <a href="www.brooklab.org">Dr. Cara Brook>/a>, University of Chicago <br>
+Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos>/a>, Stony Brook University
+
+<h4>Theme II: Bat pathogen discovery</h4>
+
+Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert>/a>, Washington State University <br>
+Plenary Speaker:  <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony>/a>, University of California-Davis
+
+<h4>Theme III: Bat pathogen evolution</h4>
+Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee>/a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan <br>
+Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee>/a>, Icahn School of Medicine at Mount Sinai
+
+<h3>Friday, July 11, 2025</h3>
+
+<h4>Theme IV: Bat pathogen persistence and transmission dynamics</h4>
+Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker>/a>, University of Oklahoma <br>
+Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker>/a>, University of Glasgow
+
+<h4>Theme V: Reconciling bat infectious diseases and conservation</h4>
+Session Chair: <a href="https://sse.tulane.edu/eebio/faculty/frank">Dr. Hannah Frank>/a>, Tulane University <br>
+Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Bat Conservation International
+
+
+<hr>
 
 
 <div class="bs-callout bs-callout-info">
