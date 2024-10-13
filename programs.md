@@ -4,7 +4,7 @@ title: Programs
 permalink: /programs
 ---
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">BatID 2025</h5>
@@ -13,7 +13,7 @@ permalink: /programs
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Coding 4 Conservation</h5>
@@ -22,7 +22,7 @@ permalink: /programs
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-4">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">E<sup>2</sup>M<sup>2</sup></h5>
