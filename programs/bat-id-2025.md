@@ -100,7 +100,8 @@ Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Ba
 
 <hr>
 
-Thanks to the support of our Advisory Committee:<br>
+Thanks to the support of our <strong>Advisory Committee</strong>:<br>
+<br>
 <a href="https://labs.vetmedbiosci.colostate.edu/schountz/">Dr. Tony Schountz</a>, Colorado State University<br>
 <a href="http://plowrightlab.org">Dr. Raina Plowright</a>, Cornell University<br>
 <a href="https://frick.eeb.ucsc.edu">Dr. Linfa Wang</a>, Duke-NUS<br>
