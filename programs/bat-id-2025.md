@@ -13,18 +13,20 @@ permalink: /programs/bat-id-2025
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This <strong>4th Triennial BatID 2025</strong> meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
-<hr>
+<hr class="double">
 
 <h2>Logistics</h2>
+<hr class="double">
+<h4>Abstract Submissions</h4>
 <hr>
-<h4>Abstracts and Registration</h4>
-
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
 <strong>March 31, 2025</strong>: Abstract submissions close  <br>
 <br>
 <em> Submitted abstracts will be notified of their status by mid-April 2025. </em> 
-<br>
 
+<hr>
+<h4>Registration</h4>
+<hr>
 <strong>early February 2025</strong>: Registration opens for BatID 2025<br>
 <strong>April 30, 2025</strong>: Registration closes for BatID 2025 <br>
 <br>
@@ -41,24 +43,23 @@ Graduate students: $150 <br>
 
 For those not desiring to lodge in the dorms, registrants can book other options independently. 
 <br>
-There are <strong>three hotels</strong>available in the Hyde Park, Chicago area, which can be accessed esily on foot from the University of Chicago: the <a href="https://sophyhotel.com/">Sophy</a>, the <a href="https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center">Hyatt Place Chicago-South</a>, and the <a href="https://www.thestudyatuniversityofchicago.com">Study</a>.
-
+There are <strong>three hotels</strong> available in the Hyde Park, Chicago area, which can be accessed esily on foot from the University of Chicago: the <a href="https://sophyhotel.com/">Sophy</a>, the <a href="https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center">Hyatt Place Chicago-South</a>, and the <a href="https://www.thestudyatuniversityofchicago.com">Study</a>.
 <br>
-
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail.
 <hr>
 
 <h4>Travel Grants</h4>
+<hr>
 A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
 <hr>
 
-
+<hr class="double">
 
 <h2>Scientific Program</h2>
-<hr>
+<hr class="double">
 
-The conference will open with a welcome reception the evening of Wednesday, July 9, 2025, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
+The conference will open with a <strong>welcome reception the evening of Wednesday, July 9, 2025</strong>, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
 
 Scientific talks will be organized into five main scientific themes, after the following basic outline:
 <hr>
@@ -68,15 +69,15 @@ Scientific talks will be organized into five main scientific themes, after the f
 
 Session Chair: <a href="www.brooklab.org">Dr. Cara Brook</a>, University of Chicago <br>
 Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University
-<hr>
+
 <h4>Theme II: Bat pathogen discovery</h4>
-<hr>
+
 
 Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br>
 Plenary Speaker:  <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis
-<hr>
+
 <h4>Theme III: Bat pathogen evolution</h4>
-<hr>
+
 Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan <br>
 Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai
 <hr>
@@ -98,5 +99,6 @@ Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Ba
 
 
 <div class="bs-callout bs-callout-info">
-<p><em>This page last updated October 13, 2024.</em></p>
+<p><em>Stay tuned for more updates in the months ahead!<br>
+This page last updated October 13, 2024.</em></p>
 </div>
