@@ -1,6 +1,6 @@
 ---
 layout: noheader
-title: BatID 2025: International Symposium on Infectious Diseases of Bats
+title: BatID 2025-International Symposium on Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
 
@@ -22,6 +22,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <strong>March 31, 2025</strong>: Abstract submissions close  <br>
 <br>
 <em> Submitted abstracts will be notified of their status by mid-April 2025. </em> 
+<br>
 
 <strong>early February 2025</strong>: Registration opens for BatID 2025<br>
 <strong>April 30, 2025</strong>: Registration closes for BatID 2025 <br>
