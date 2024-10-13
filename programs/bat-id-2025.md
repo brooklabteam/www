@@ -6,11 +6,14 @@ permalink: /programs/bat-id-2025
 
 
 <div class="bs-callout bs-callout-info">
+<font size="10">  
 <p>We are excited to host BatID 2025 at the University of Chicago, from July 9-11, 2025!</p>
-<p><em>This page last updated October 13, 2024.</em></p>
-
+</font>
 </div>
 
+Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This <strong>4th Triennial BatID 2025</strong> meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
+
+<hr>
 
 <h2>Scientific Program</h2>
 
@@ -43,9 +46,10 @@ Plenary Speaker: Dr. Daniel Streicker, University of Glasgow
 Session Chair: Dr. Hannah Frank, Tulane University <br>
 Plenary Speaker: Dr. Winifred Frick, Bat Conservation International
 
+<hr>
 
-<h2>Abstracts and Registration</h2>
-<h4>Key dates to remember</h4>
+<h2>Lgistics/h2>
+<h4>Abstracts and Registration</h4>
 
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
 <strong>March 31, 2025</strong>: Abstract submissions close  <br>
@@ -62,8 +66,21 @@ Postdocs: $200 <br>
 Graduate students: $150 <br>
 
 <br>
-Dormitory lodging will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
+<h4>Lodging</h4>
+<strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
+
+For those not desiring to stya in the dorms, three <strong>hotels</strong> are available in the Hyde park area: the Sophy, the Hyatt, and the Study.
 
 <br>
-A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. Application details for these travel awards will be posted by <strong>January 15, 2025</strong>. 
+A variety of other hoteloptions are availeble in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the Metric Electric lightrail.
 
+
+<h4>Travel Grants</h4>
+A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
+
+
+
+
+<div class="bs-callout bs-callout-info">
+<p><em>This page last updated October 13, 2024.</em></p>
+</div>
