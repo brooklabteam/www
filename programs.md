@@ -7,9 +7,17 @@ permalink: /programs
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
+        <h5 class="card-title">BatID 2025</h5>
+        <p class="card-text">The Brook lab will be hosting the International Symposium on the Infectious Diseases of Bats at the University of Chicago, July 9-11, 2025.</p>
+        <a href="http://batid.org/" class="btn btn-primary">Learn more</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
         <h5 class="card-title">Coding 4 Conservation</h5>
-        <p class="card-text">A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields which runs from May 2022 to Dec 2023. We are now recruiting students for the second cohort of this program, starting March 2024.</p>
-        <!-- <p><em>Currently in progress!</em></p> -->
+        <p class="card-text">A year-long mentorship program in R-based data analysis and communication for Malagasy students with ongoing research projects in ecology, conservation, biodiversity science, and related fields.</p>
         <a href="https://coding4conservation.org/" class="btn btn-primary">Learn more</a>
       </div>
     </div>

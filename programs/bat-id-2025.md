@@ -13,19 +13,19 @@ permalink: /programs/bat-id-2025
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This <strong>4th Triennial BatID 2025</strong> meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
-<hr class="double">
+<hr>
+<hr>
 
 <h2>Logistics</h2>
-<hr class="double">
-<h4>Abstract Submissions</h4>
+<hr>
+<hr>
+<h4>Abstracts and Registration</h4>
 <hr>
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters <br>
 <strong>March 31, 2025</strong>: Abstract submissions close  <br>
 <br>
 <em> Submitted abstracts will be notified of their status by mid-April 2025. </em> 
 
-<hr>
-<h4>Registration</h4>
 <hr>
 <strong>early February 2025</strong>: Registration opens for BatID 2025<br>
 <strong>April 30, 2025</strong>: Registration closes for BatID 2025 <br>
@@ -53,18 +53,18 @@ A variety of other hotel options are available in the Chicago Loop, which can be
 A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
 <hr>
-
-<hr class="double">
+<hr>
 
 <h2>Scientific Program</h2>
-<hr class="double">
+<hr>
+<hr>
 
 The conference will open with a <strong>welcome reception the evening of Wednesday, July 9, 2025</strong>, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
 
 Scientific talks will be organized into five main scientific themes, after the following basic outline:
-<hr>
+<br>
 <h3>Thursday, July 10, 2025</h3>
-<hr>
+
 <h4>Theme I: Bat immunology and within-host dynamics</h4>
 
 Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago <br>
@@ -85,18 +85,18 @@ Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Ic
 <hr>
 
 <h4>Theme IV: Bat pathogen persistence and transmission dynamics</h4>
-<hr>
+
 Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma <br>
 Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow
-<hr>
+
 <h4>Theme V: Reconciling bat infectious diseases and conservation</h4>
-<hr>
+
 Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
 Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Bat Conservation International
 
 
 <hr>
-
+<hr>
 
 <div class="bs-callout bs-callout-info">
 <p><em>Stay tuned for more updates in the months ahead!<br>
