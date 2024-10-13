@@ -99,6 +99,14 @@ Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Ba
 
 
 <hr>
+
+Thanks to the support of our Advisory Committee:<br>
+<a href="https://labs.vetmedbiosci.colostate.edu/schountz/">Dr. Tony Schountz</a>, Colorado State University<br>
+<a href="http://plowrightlab.org">Dr. Raina Plowright</a>, Cornell University<br>
+<a href="https://frick.eeb.ucsc.edu">Dr. Linfa Wang</a>, Duke-NUS<br>
+<a href="https://people.ucd.ie/emma.teeling">Dr. Emma Teeling</a>, University College Dublin<br>
+<a href="https://www.amnh.org/research/staff-directory/nancy-b-simmons">Dr. Nancy Simmons</a>, American Museum of Natural History<br>
+<a href="https://sites.google.com/view/aguilarlab/home">Dr. Hector Aguilar-Carreño</a>, Cornell University<br>
 <hr>
 
 <div class="bs-callout bs-callout-info">
