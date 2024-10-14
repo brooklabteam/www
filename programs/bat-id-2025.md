@@ -61,16 +61,17 @@ Scientific talks will be organized into five main scientific themes, after the f
 
 Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago<br />
 Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University
-
+<br>
 <h6>Theme II: Bat pathogen discovery</h6>
 
 Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br />
 Plenary Speaker: <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis
-
+<br>
 <h6>Theme III: Bat pathogen evolution</h6>
 
 Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan<br />
 Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai
+<br>
 <br>
 <h4>Friday, July 11, 2025</h4>
 
@@ -78,7 +79,7 @@ Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Ic
 
 Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma<br />
 Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow
-
+<br>
 <h6>Theme V: Reconciling bat infectious diseases and conservation</h6>
 
 Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
