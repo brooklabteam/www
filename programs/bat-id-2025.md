@@ -33,7 +33,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <li>Graduate students: $150</li>
 </ul>
 
-<h5>🏠️ Lodging</56>
+<h5>🏠️ Lodging</5>
 
 <strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
 
