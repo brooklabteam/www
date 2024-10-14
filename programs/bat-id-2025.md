@@ -43,8 +43,7 @@ There are <strong>three hotels</strong> available in the Hyde Park, Chicago area
 
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail (at the <a href="https://metra.com/train-lines/stations/55th-56th-57th-street">55th-56th-57th Street stop</a>).
 
-<h5>✈️ Travel Grants</6>
-
+<h5> &#9992; Travel Grants </h5>
 A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
 <hr />
