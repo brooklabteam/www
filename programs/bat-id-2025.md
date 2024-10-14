@@ -33,7 +33,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <li>Graduate students: $150</li>
 </ul>
 
-<h5>🏠️ Lodging</5>
+<h5>&#127968; Lodging </h5>
 
 <strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
 
@@ -54,7 +54,7 @@ A limited number of travel grants will likely be available for young investigato
 The conference will open with a <strong>welcome reception the evening of Wednesday, July 9, 2025</strong>, followed by two full day sessions, including scientific talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
 
 Scientific talks will be organized into five main scientific themes, after the following basic outline:
-
+<br>
 <h4>Thursday, July 10, 2025</h4>
 
 <h6>Theme I: Bat immunology and within-host dynamics</h6>
@@ -71,7 +71,7 @@ Plenary Speaker: <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Antho
 
 Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan<br />
 Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai
-
+<br>
 <h4>Friday, July 11, 2025</h4>
 
 <h6>Theme IV: Bat pathogen persistence and transmission dynamics</h6>
