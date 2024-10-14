@@ -14,14 +14,14 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h3>Logistics</h3>
 
-<h6>Abstracts</h6>
+<h6>📝 Abstracts</h6>
 
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters<br />
 <strong>March 31, 2025</strong>: Abstract submissions close<br />
 <br />
 <em>Submitted abstracts will be notified of their status by mid-April 2025.</em> 
 
-<h6>Registration</h6>
+<h6>🎟️ Registration</h6>
 <strong>Early February 2025</strong>: Registration opens for BatID 2025<br />
 <strong>April 30, 2025</strong>: Registration closes for BatID 2025<br />
 <br />
@@ -33,7 +33,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <li>Graduate students: $150</li>
 </ul>
 
-<h6>Lodging</h6>
+<h6>🛏️ Lodging</h6>
 
 <strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
 
@@ -43,7 +43,7 @@ There are <strong>three hotels</strong> available in the Hyde Park, Chicago area
 
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail (at the <a href="https://metra.com/train-lines/stations/55th-56th-57th-street">55th-56th-57th Street stop</a>).
 
-<h6>Travel Grants</h6>
+<h6>✈️ Travel Grants</h6>
 
 A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
