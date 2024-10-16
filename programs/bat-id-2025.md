@@ -46,9 +46,11 @@ A variety of other hotel options are available in the Chicago Loop, which can be
 <h5> &#9992; Travel</h5>
 Two international airports offer easy metro/lightrail access to the University of Chicago: <a href="https://www.flychicago.com/ohare/home/pages/default.aspx">O'Hare International Airport (ORD)</a> and <a href="https://www.flychicago.com/midway/home/pages/default.aspx">Midway International Airport (MDW)</a>.
 <br>
+<br>
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
 <br>
-A limited number of travel grants will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
+<br>
+A limited number of <strong>travel grants</strong> will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
 
 
 
