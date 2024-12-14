@@ -26,7 +26,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Eco
 
 <img src="/assets/team/sophielockwood.jpg" alt="sophie" class="img-thumbnail float-start col-md-3" />
 
-**Sophie Lockwood** (she/her) is a PhD student in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She is also crrying out severl human public health projects in Madagascar, including one focused on the genomic epidemiology of HIV. Sophie holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
+**Sophie Lockwood** (she/her) is a PhD student in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She is also carrying out several human public health projects in Madagascar, including one focused on the genomic epidemiology of HIV. Sophie holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
 
 <div style="clear:both;">&nbsp;</div>
 
