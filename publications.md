@@ -7,7 +7,9 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Gonzalez FL**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: implications for viral evolution and zoonotic risk. In Review. [Link to bioRziv Preprint](https://doi.org/10.1101/2024.12.24.630179).
+- **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Henry AR, Davis RL, Laboune F, Lontine ER, Godbole S, **Horigan S**, **Ruhs EC**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Héraud J-M, Dussart P, and **Brook CE**. *Picornaviridae* and *Caliciviridae* diversity in Madagascar fruit bats is driven by cross-continental genetic exchange. In Review. [Link to bioRxiv Preprint]( https://doi.org/10.1101/2024.12.31.630946).
+
+- **Gonzalez FL**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: implications for viral evolution and zoonotic risk. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.12.24.630179).
 
 - **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
 Adams H, **Brook CE**, and **Ruhs EC**. Impacts of urbanization on the health of American Robins (*Turdus
