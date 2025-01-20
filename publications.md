@@ -23,7 +23,7 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 <h2>2025</h2>
 
-- Fenosoa ZSE, **Brook CE**, Dunham AE, Rakotomanana HF, Razafindraibe H, and Ring KA. Gut passage in lemurs enhances the germination of mistletoe seeds *Bakerella gonoclada*, in a Madagascar rainforest. 2025. *African Journal of Ecology*. 63 (1): e70012. doi:[10.1111/aje.70012](https://doi.org/10.1111/aje.70012).
+- Fenosoa ZSE, **Brook CE**, Dunham AE, Rakotomanana HF, Razafindraibe H, and Ring KA. Gut passage in lemurs enhances the germination of mistletoe seeds *Bakerella gonoclada*, in a Madagascar rainforest. 2025. *African Journal of Ecology*. 63 (1): e70012. doi: [10.1111/aje.70012](https://doi.org/10.1111/aje.70012).
 
 <h2>2024</h2>
 
