@@ -46,11 +46,13 @@ In the meantime, Mamabetsy is preparing to make mofo akondro (bananas, dipped in
 
 <img src="/assets/img/mofo_akondro.JPG" alt="Katherine, Nata and Monica making mofo akondro" class="center col-md-7" />
 
-Around sunset, we walk out to check the nets again. This time the girls want to join. For every bat we find, we untangle it and drop it into a bag and shuttle them all back to camp. Then we feed the bats sugar water and a banana to tide them over until the morning when we will process them. Then, it’s dinner. Similar to lunch, dinner is rice with a main dish (“loaka”). This time it’s a mountain of rice and potatoes, green beans and carrots. After dinner, some people go to bed and some of us stay up for a little while longer. Patrick and Nirina make a bonfire. We talk, listen to Malagasy music and maybe even dance a little. Then, it’s time for bed and we’ll do it all over again for the next 10 days or so. 
+Around sunset, we walk out to check the nets again. This time the girls want to join. For every bat we find, we untangle it and drop it into a bag and shuttle them all back to camp. Then we feed the bats sugar water and a banana to tide them over until the morning when we will process them. Then, it’s dinner. Similar to lunch, dinner is rice with a main dish (“loaka”). This time it’s a mountain of rice and potatoes, green beans and carrots. After dinner, some people go to bed and some of us stay up for a little while longer. Patrick and Nirina make a bonfire. We talk, listen to Malagasy music and maybe even dance a little. Then, it’s time for bed and we’ll do it all over again for the next 10 days or so.
+
+<img src="/assets/img/analambotaka_sunset.JPG" alt="Sunset at Analambotaka" class="center col-md-7" />
 
 *After leaving Madagascar, I miss the simple routine and the small joys of the field— the sunrise over a sea of fog, the bright orange fur of Pteropus rufus, English lessons with the girls, afternoon card games, music around the fire, and Mama Betsy’s mofo akondro (if we’re lucky). Until next time, Madagascar. “Mandra piona, Madagasikara”*
 
-<img src="/assets/img/ekipa_fanihy_analasoa.JPG" alt="Ekipa Fanihy and the Rabetsy Family in Analasoa" class="center col-md-7" />
+<img src="/assets/img/analambotaka_sunset.JPG" alt="Ekipa Fanihy and the Rabetsy Family in Analasoa" class="center col-md-7" />
 
 
 
