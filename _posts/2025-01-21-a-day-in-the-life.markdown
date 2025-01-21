@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Day in the Life of a Field Project Manager.
+title: A Day in the Life of a Field Project Manager
 date: 2025-01-21 01:00:00 -0700
 description:  (optional)
 img: katherine_pteropus.jpg
@@ -11,7 +11,7 @@ permalink: /news/day-in-the-life
 
 by Katherine McFerrin
 
-<img src="/assets/img/katherine_pteropus.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/img/katherine_pteropus.jpg" alt="katherine" class="img-thumbnail float-start col-md-4" />
 
 *Hi, I’m Katherine and I was a field project manager for Ekipa Fanihy (Team Fruit Bat) in 2023 and 2024. Here’s what a day in the field was like at my favorite field site, Analambotaka. I loved Analambotaka because it’s home to the Madagascar flying fox (Pteropus rufus)! As the largest bats in Madagascar, adult flying foxes have a 3-4 ft wingspan and lots of fluffy orange and black fur. They’re tree roosting bats as opposed to the other 2 species of Malagasy fruit bats the Brook Lab studies, which are both cave roosting. The second reason I enjoyed working at Analambotaka was the people. We worked with an extremely kind family, the Rabetsy family, and a field assistant named Patrick who loves Malagasy music. At Analambotaka, the days were long and the pace of work was slow, much slower than at sites with cave roosting bats, where catches were more guaranteed. There was time to be still and appreciate the people, the place and the bats.*
 
@@ -36,7 +36,7 @@ Then, we get to work. After lots of vial labeling and prepping the lab supplies,
 
 <img src="/assets/img/katherine_miora_processing.JPG" alt="Katherine and Miora processing bats" class="center col-md-5" />
 
-<img src="/assets/img/katherine_patrick_pteropus.jpg" alt="Katherine and Patrick holding a Pteropus rufus mom and pup pair after processing" class="center col-md-5" />
+<img src="/assets/img/katherine_patrick_pteropus.jpg" alt="Katherine and Patrick holding a Pteropus rufus mom and pup pair after processing" class="center col-md-4" />
 
 Aside from occasionally checking the nets for bats, the rest of the morning and afternoon is ours. We read books, catch up on sleep, walk around or play cards. Playing rummy is a favorite pastime of ours! This field mission, though, two of the Rabetsy daughters, Tanya and Monica, came to camp with us. So, I’ve been spending time with them! Upon Mama Betsy’s suggestion, I am teaching them English. They even bought notebooks and pens at the market in prep for my lessons. I type new words on my phone or spell them aloud and they jot down notes and draw pictures. The topic of these little lessons depends on which topics I feel like I have a solid grasp on to be able to explain in both English and Malagasy. This particular day we learn about foods and how to say that we like or dislike something. It turns into a frenzy of running around camp to ask everyone their favorite and least favorite foods and translating items at the kitchen tent. “Tiany indrindra ovy frite i Martin” (Martin likes fried potatoes the best). I love teaching the girls English and they teach me bits of Malagasy too. When I knew I would go to Madagascar back in 2023, I wanted to learn Malagasy, and during moments like this I am grateful I made language learning a part of my experience!
 
@@ -50,7 +50,7 @@ Around sunset, we walk out to check the nets again. This time the girls want to 
 
 *After leaving Madagascar, I miss the simple routine and the small joys of the field— the sunrise over a sea of fog, the bright orange fur of Pteropus rufus, English lessons with the girls, afternoon card games, music around the fire, and Mama Betsy’s mofo akondro (if we’re lucky). Until next time, Madagascar. “Mandra piona, Madagasikara”*
 
-<img src="/assets/img/ekipa_fanihy_analasoa.JPG" alt="Ekipa Fanihy and the Rabetsy Family in Analasoa" class="center col-md-10" />
+<img src="/assets/img/ekipa_fanihy_analasoa.JPG" alt="Ekipa Fanihy and the Rabetsy Family in Analasoa" class="center col-md-7" />
 
 
 
