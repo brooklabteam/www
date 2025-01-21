@@ -52,7 +52,7 @@ Around sunset, we walk out to check the nets again. This time the girls want to 
 
 *After leaving Madagascar, I miss the simple routine and the small joys of the field— the sunrise over a sea of fog, the bright orange fur of Pteropus rufus, English lessons with the girls, afternoon card games, music around the fire, and Mama Betsy’s mofo akondro (if we’re lucky). Until next time, Madagascar. “Mandra piona, Madagasikara”*
 
-<img src="/assets/img/analambotaka_sunset.JPG" alt="Ekipa Fanihy and the Rabetsy Family in Analasoa" class="center col-md-7" />
+<img src="/assets/img/ekipa_fanihy_analasoa.JPG" alt="Ekipa Fanihy and the Rabetsy Family in Analasoa" class="center col-md-7" />
 
 
 
