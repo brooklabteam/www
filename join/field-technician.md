@@ -22,13 +22,13 @@ permalink: /join/field-technician
 
 ---
 
-**Projected Project Period**: May 15, 2025 (start date) - May 14, 20265 (end date), with options to extend. 
+**Projected Project Period**: May 15, 2025 (start date) - May 14, 2026 (end date), with options to extend. 
 
 ---
 
 #### **Work Description**
 
-This one-year position, open only to US citizens, will involve organizing and participating in biweekly field expeditions for [Ekipa Fanihy](/team) with one additional tech (also from the US) and a team of Malagasy PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through December 2025 and be replaced in January 2026. 
+This one-year position, open only to US citizens, will involve organizing and participating in biweekly field expeditions for [Ekipa Fanihy](ekipafanihy.org) with one additional tech (also from the US) and a team of Malagasy PhD students from the University of Antananarivo. This position will take over from one of our outgoing techs and overlap a current tech who will remain through December 2025 and be replaced in January 2026. 
 
 Ekipa Fanihy carries out capture and sampling of Madagascar's fruit bats (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. This work supports a long-term field study aimed at deciphering the mechanisms underpinning persistence of potentially zoonotic RNA viruses in wild, Madagascar fruit bats. Bats are reservoirs for several important, highly-virulent zoonoses, including rabies, Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. This work also contributes data to population viability analyses and assessments of the conservation status of threatened fruit bats in Madagascar. Please see [Research](/research_interests) for further details about the major themes of the project.
 
@@ -76,17 +76,15 @@ Prior to arrival in Madagascar, field technicians will receive a single advance 
 - One-year supply of malaria medication (i.e. malarone, doxycycline) (a ~$200 value, depending on health insurance)
 - An extendable scientific research visa (~$55 USD value)
 
-Also prior to arrival in Madagascar, Dr. Brook will purchase [International SOS](https://www.internationalsos.com/) which provides remote medical advice and evacuation insurance for serious medical issues for the duration of the technician's employment (a ~$400 value). International SOS does not cover treatment after return a patient to the US, however, and the technician will be required to **demonstrate evidence of US medical insurance (i.e. on a family member's plan) prior to the position start date**. US medical insurance is not provided with this position.
+Also prior to arrival in Madagascar, Dr. Brook will purchase [International SOS](https://www.internationalsos.com/), which provides remote medical advice and evacuation insurance for serious medical issues, for the duration of the technician's employment (a ~$400 value). International SOS does not cover treatment after the return of a patient to the US, however, and **the technician will be required to demonstrate evidence of US medical insurance (i.e. on a family member's plan) prior to the position start date**. US medical insurance is not provided with this position.
 
 One roundtrip plane ticket from a major international US airport will be funded by the project across the duration of the one year of employment. Technicians who opt to extend for 6 months or longer may be eligible for a second roundtrip plane ticket, with decisions negotiated on a case-by-case basis. 
 
-Once arrived in-country, field technicians will be employees of our local NGO, [Association Ekipa Fanihy](https://ekipafanihy.org), and receive a monthly living stipend of 1.4 million Ariary, equivalent to $300 USD, which will be more than sufficient to support a comfortable lifestyle throughout the duration of the project (average daily cost of living is < 5,000 Ar in Madagascar). Rent on Tana housing and all in-field food expenses will be paid by the project. Field technicians will be set up with an in-country bank account following arrival and will be expected to purchase and cook food using their living stipend while in Tana. Basic in-country medical needs (e.g. over-the-counter medications, routine doctor visits, etc.) will also be paid out of the living stipend. Any excess funds from the stipend may be kept for personal use, and, if desirable, the Ekipa Fanihy will arrange for their transfer to US dollars at periodic intervals throughout the employment or at the time of the technician's return to the US. 
+Once arrived in-country, field technicians will be employees of our local NGO, [Association Ekipa Fanihy](https://ekipafanihy.org), and receive a monthly living stipend of 1.4 million Ariary, equivalent to $300 USD, which will be more than sufficient to support a comfortable lifestyle throughout the duration of the project (average daily cost of living is < 5,000 Ar in Madagascar). Rent on Tana housing and all in-field food expenses will be paid by the project. Field technicians will be set up with an in-country bank account following arrival and will be expected to purchase and cook food using their living stipend while in Tana. Basic in-country medical needs (e.g. over-the-counter medications, routine doctor visits, etc.) will also be paid out of the living stipend. Any excess funds from the stipend may be kept for personal use, and, if desirable, Ekipa Fanihy will arrange for their transfer from Ariary to US dollars at periodic intervals throughout the employment or at the time of the technician's return to the US. 
 
 Ekipa Fanihy will take a 2-week break from field work during the December holidays, and the tech will be free to travel in country or, if desired, return to the US using personal funds during this time. Breaks from field studies for personal travel of up to 3 weeks total at other times of the year will be permitted if requested with a minimum of 2 months advance notice.
 
-At the conclusion of 12 months of employment, field technicians will receive an additional $2000 bonus (taxes will be withheld) by direct deposit to their US bank to support relocation expenses upon returning home. 
-
-Any technician who opts to extend employment for 6 months or more will be eligible for an additional $1000 bonus.
+At the conclusion of 12 months of employment, field technicians will receive an additional $2000 bonus (taxes will be withheld) by direct deposit to their US bank to support relocation expenses upon returning home. Any technician who opts to extend employment for 6 months or more will be eligible for an additional $1000 bonus.
 
 
 ## **Diversity and Inclusion**
