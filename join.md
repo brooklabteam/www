@@ -4,19 +4,20 @@ title: "Join the Lab"
 permalink: /join
 ---
 
+<!--
 <div class="bs-callout bs-callout-info">
 <p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch with applicants in the next few weeks!</p>
 <p><em>This page last updated September 16, 2024.</em></p>
 
 </div>
+-->
 
-<!--
 <div class="bs-callout bs-callout-info">
-  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>September 15, 2024</strong>!</p>
-  <p><em>This page last updated Aug 15, 2024.</em></p>
+  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>Friday, February 21, 2025</strong>!</p>
+  <p><em>This page last updated January 21, 2025.</em></p>
 
 </div>
--->
+
 
 <h2>A note on diversity and inclusion</h2>
 
@@ -91,7 +92,7 @@ Applications for PREP are due internally to UChicago annually in February or Mar
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-We recently closed applications for a new Ekipa Fanihy Field Technician position, with a planned start date in January 2025. We will most likely post applications again in January 2025 for another one-year position, with a planned start date in May 2025. Please see the [field technician](/join/field-technician) page for a description of a prior job posting; if you have questions in advance of this time line, contact Cara Brook at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu).
+We are currently accepting applications for a new Ekipa Fanihy Field Technician 2025 for another one-year position, with a planned start date in May 2025. Please see the [field technician](/join/field-technician) page for a description of the job posting and a link to the application (**due February 21, 2025 at midnight!**). Please contact Cara Brook at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) with any questions.
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
 
