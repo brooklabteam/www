@@ -1,12 +1,13 @@
 ---
 layout: post
-title: A Day in the Life of a Field Project Manager (in Madagascar). by Katherine McFerrin
+title: A Day in the Life of a Field Project Manager.
 date: 2025-01-21 01:00:00 -0700
 description:  (optional)
 img: katherine_pteropus.jpg
 tags: [Madagascar, bat, education] # add tag
 permalink: /news/day-in-the-life
 ---
+
 
 by Katherine McFerrin
 
