@@ -90,7 +90,7 @@ Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, Un
 <h6>Theme V: Reconciling bat infectious diseases and conservation</h6>
 
 Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
-Plenary Speaker: <a href="https://frick.eeb.ucsc.edu">Dr. Winifred Frick</a>, Bat Conservation International
+Plenary Speaker: TBA
 
 <hr />
 
