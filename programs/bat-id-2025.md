@@ -16,14 +16,14 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h5>📝 Abstracts</h5>
 
-<strong>February 1, 2025</strong>: Abstract submissions open for talks and posters<br />
-<strong>March 31, 2025</strong>: Abstract submissions close<br />
+<strong>February 3, 2025</strong>: Abstract submissions open for talks and posters<br />
+<strong>March 15, 2025</strong>: Abstract submissions close<br />
 <br />
-<em>Submitted abstracts will be notified of their status by mid-April 2025.</em> 
+<em>Submitted abstracts will be notified of their status by early-April 2025.</em> 
 
 <h5> 🎟️ Registration </h5>
-<strong>Early February 2025</strong>: Registration opens for BatID 2025<br />
-<strong>April 30, 2025</strong>: Registration closes for BatID 2025<br />
+<strong>February 15 2025</strong>: Registration opens for BatID 2025<br />
+<strong>April 15, 2025</strong>: Registration closes for BatID 2025<br />
 <br />
 <em>Registration fees will be the same as for BatID 2022:</em>
 
