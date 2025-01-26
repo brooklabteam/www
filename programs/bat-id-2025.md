@@ -3,9 +3,21 @@ layout: noheader
 title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
+
+<!--
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
 <p>This page last updated October 13, 2024.</p>
+</div>
+
+-->
+
+<div class="bs-callout bs-callout-info">
+<p style="font-size: 1.5em;"><strong>Abstract</strong> submissions for talks and posters are open! Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>
+<br />
+
+Submit <strong>scholarship</strong> requests for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</p>
+<p>This page last updated January 26, 2025.</p>
 </div>
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This <strong>4th Triennial BatID 2025</strong> meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
@@ -16,10 +28,24 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h5>📝 Abstracts</h5>
 
-<strong>February 3, 2025</strong>: Abstract submissions open for talks and posters<br />
+<!--
+<strong>February 1, 2025</strong>: Abstract submissions open for talks and posters.<br />
 <strong>March 15, 2025</strong>: Abstract submissions close<br />
+-->
+
+ <strong>Abstract</strong> submissions are open for talks and posters! Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>!<br />
+
 <br />
 <em>Submitted abstracts will be notified of their status by early-April 2025.</em> 
+
+<h5>💸 Scholarships</h5>
+Registration fee waivers and travel scholarships are available. Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though all are welcome to apply. 
+<br />
+Apply here by <strong>February 28, 2025</strong> for consideration.<br />
+<br />
+<em>Scholarship applicants will be notified of their status by late March 2025.</em> 
+
+
 
 <h5> 🎟️ Registration </h5>
 <strong>February 15 2025</strong>: Registration opens for BatID 2025<br />
@@ -50,7 +76,7 @@ Two international airports offer easy metro/lightrail access to the University o
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
 <br>
 <br>
-A limited number of <strong>travel grants</strong> will likely be available for young investigators from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds) to attend this program. <strong>Application details for these travel awards will be posted in early January 2025</strong>. 
+
 
 
 
