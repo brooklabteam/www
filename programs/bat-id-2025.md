@@ -9,7 +9,6 @@ permalink: /programs/bat-id-2025
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
 <p>This page last updated October 13, 2024.</p>
 </div>
-
 -->
 
 <div class="bs-callout bs-callout-info">
