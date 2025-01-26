@@ -13,10 +13,11 @@ permalink: /programs/bat-id-2025
 -->
 
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;"><strong>Abstract</strong> submissions for talks and posters are open! Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>
+<p style="font-size: 1.5em;"><strong>Abstract submissions</strong> for talks and posters are open!</p> <br />
+<p style="font-size: 1.1em;"> <em>Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>
 <br />
 
-Submit <strong>scholarship</strong> requests for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</p>
+Submit <strong>scholarship requests</strong> for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</em></p>
 <p>This page last updated January 26, 2025.</p>
 </div>
 
@@ -33,28 +34,27 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <strong>March 15, 2025</strong>: Abstract submissions close<br />
 -->
 
- <strong>Abstract</strong> submissions are open for talks and posters! Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>!<br />
-
-<br />
-<em>Submitted abstracts will be notified of their status by early-April 2025.</em> 
+ <strong>Abstract</strong> submissions are open for talks and posters! <br />
+ Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>!<br />
+<em>Submitted abstracts will be notified of their status by early April 2025.</em> 
 
 <h5>💸 Scholarships</h5>
 Registration fee waivers and travel scholarships are available. Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though all are welcome to apply. 
 <br />
-Apply here by <strong>February 28, 2025</strong> for consideration.<br />
 <br />
+Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong> for consideration.<br />
 <em>Scholarship applicants will be notified of their status by late March 2025.</em> 
 
 
 
 <h5> 🎟️ Registration </h5>
-<strong>February 15 2025</strong>: Registration opens for BatID 2025<br />
+<strong>February 15, 2025</strong>: Registration opens for BatID 2025<br />
 <strong>April 15, 2025</strong>: Registration closes for BatID 2025<br />
 <br />
 <em>Registration fees will be the same as for BatID 2022:</em>
 
 <ul>
-<li>Faculty/Industry/Government Scientists: $300</li>
+<li>Faculty/Industry/Government Scientists/Media: $300</li>
 <li>Postdocs: $200</li>
 <li>Graduate students: $150</li>
 </ul>
