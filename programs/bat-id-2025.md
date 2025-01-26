@@ -22,7 +22,7 @@ permalink: /programs/bat-id-2025
 <br />
 <br />
 Submit <strong>scholarship requests</strong> for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</em></p>
-<p>This page last updated January 26, 2025.</p>
+<p>This page last updated February 1, 2025.</p>
 </div>
 
 -->
