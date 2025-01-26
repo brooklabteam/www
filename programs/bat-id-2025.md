@@ -13,10 +13,10 @@ permalink: /programs/bat-id-2025
 -->
 
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;"><strong>Abstract submissions</strong> for talks and posters are open!</p> <br />
-<p style="font-size: 1.1em;"> <em>Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>
+<p style="font-size: 1.5em;"><strong>Abstract submissions</strong> for talks and posters are open!</p> 
+<p style="font-size: 1.1em;"> <em>Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025!</strong>
 <br />
-
+<br />
 Submit <strong>scholarship requests</strong> for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</em></p>
 <p>This page last updated January 26, 2025.</p>
 </div>
@@ -39,8 +39,8 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <em>Submitted abstracts will be notified of their status by early April 2025.</em> 
 
 <h5>💸 Scholarships</h5>
-Registration fee waivers and travel scholarships are available. Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though all are welcome to apply. 
-<br />
+<strong>Registration fee waivers</strong> and <strong>travel scholarships</strong> are available! <br />
+Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though <strong>all are welcome to apply</strong>. 
 <br />
 Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong> for consideration.<br />
 <em>Scholarship applicants will be notified of their status by late March 2025.</em> 
