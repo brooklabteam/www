@@ -4,7 +4,8 @@ title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
 
-Coming to the University of Chicago, July 9-11, 2025!
+Coming to the <strong>University of Chicago, July 9-11, 2025</strong>!
+
 <!--
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
