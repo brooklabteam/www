@@ -55,8 +55,8 @@ Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">he
 -->
 
 <h5>💸 Scholarships</h5>
-<strong>Registration fee waivers</strong> and <strong>travel scholarships</strong> will be made available! <br />
-Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though <strong>all are welcome to apply</strong>. 
+Registration fee waivers and travel scholarships will be made available! <br />
+Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though all are welcome to apply. 
 <br />
 
 <strong>February 1, 2025</strong>: Scholarship applications open.<br />
