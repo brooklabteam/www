@@ -5,7 +5,7 @@ permalink: /programs/bat-id-2025
 ---
 
 <br>
-<h2>Coming to the <strong>University of Chicago, July 9-11, 2025</strong>!</h2>
+<h4>Coming to the <strong>University of Chicago, July 9-11, 2025</strong>!</h4>
 
 
 <!--
