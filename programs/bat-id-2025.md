@@ -63,7 +63,7 @@ Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">he
 
 <strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
 
-For those not desiring to lodge in the dorms, registrants can book other options independently.
+For those not desiring to lodge in the dorms, <strong>registrants can book other options independently</strong>.
 
 There are <strong>three hotels</strong> available in the Hyde Park, Chicago area, which can be accessed esily on foot from the University of Chicago: the <a href="https://sophyhotel.com/">Sophy</a>, the <a href="https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center">Hyatt Place Chicago-South</a>, and the <a href="https://www.thestudyatuniversityofchicago.com">Study</a>.
 
