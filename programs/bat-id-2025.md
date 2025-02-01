@@ -3,19 +3,19 @@ layout: noheader
 title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
-<!--
+
 <br>
 <h4>Coming to the <strong>University of Chicago, July 9-11, 2025</strong>!</h4>
--->
 
 
+<!--
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
 <p>This page last updated October 13, 2024.</p>
 </div>
 
+-->
 
-<!--
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;"><strong>Abstract submissions</strong> for talks and posters are open!</p> 
 <p style="font-size: 1.1em;"> <em>Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025!</strong>
@@ -25,7 +25,7 @@ Submit <strong>scholarship requests</strong> for registration fee waivers and tr
 <p>This page last updated February 1, 2025.</p>
 </div>
 
--->
+
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This <strong>4th Triennial BatID 2025</strong> meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
@@ -35,12 +35,12 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h5>📝 Abstracts</h5>
 
-
+<!--
 <strong>February 1, 2025</strong>: Abstract submissions open for talks and posters.<br />
 <strong>March 15, 2025</strong>: Abstract submissions close<br />
 
+-->
 
-<!--
  <strong>Abstract</strong> submissions are open for talks and posters! <br />
  Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025</strong>!<br />
 <em>Submitted abstracts will be notified of their status by early April 2025.</em> 
@@ -52,7 +52,7 @@ Preference will be given to early career researchers (students, postdocs, junior
 Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong> for consideration.<br />
 <em>Scholarship applicants will be notified of their status by late March 2025.</em> 
 
--->
+<!--
 
 <h5>💸 Scholarships</h5>
 Registration fee waivers and travel scholarships will be made available! <br />
@@ -61,7 +61,7 @@ Preference will be given to early career researchers (students, postdocs, junior
 
 <strong>February 1, 2025</strong>: Scholarship applications open.<br />
 <strong>February 28, 2025</strong>: Scholarship applications close.<br />
-
+-->
 <h5> 🎟️ Registration </h5>
 <strong>February 15, 2025</strong>: Registration opens for BatID 2025<br />
 <strong>April 15, 2025</strong>: Registration closes for BatID 2025<br />
