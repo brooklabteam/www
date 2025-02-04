@@ -17,10 +17,10 @@
 /jointhelab/fieldtechjob  /join
 /labvaluesexpectations    /values-and-policies
 /people                   /team
-/publications			  /publications
-/research.html			  /research
+/publications.html		  /publications	301!
+/research.html			  /research	301!
 /research_interests       /research
-/team.html                /team
+/team.html                /team	301!
 
 # Redirects from old CV to /cara-brook (which includes link to current CV)
 /carabrook/CV_CaraBrook_Full_April2022.pdf  /cara-brook
