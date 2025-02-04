@@ -10,7 +10,7 @@
 # Redirects from changing page URLs
 /carabrook                /cara-brook
 /fieldtechjob.html		  /join
-/index.html				  /
+/index.html				  /	200!
 /join/field-tech          /join
 /jointhelab               /join
 /jointhelab/team.html     /team
