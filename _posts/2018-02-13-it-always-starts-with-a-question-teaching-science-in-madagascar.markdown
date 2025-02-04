@@ -6,4 +6,5 @@ description:  # Add post description (optional)
 img: tsilavo-chameleon.jpg # Add image post (optional)
 tags: [disease ecology, teaching, madagascar] # add tag
 link: https://blog.nationalgeographic.org/2018/02/13/it-always-starts-with-a-question-teaching-science-in-madagascar/
+sitemap: false
 ---

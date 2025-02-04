@@ -6,4 +6,5 @@ description:  # Add post description (optional)
 img: pteropus.jpg # Add image post (optional)
 tags: [bats, zoonosis, conservation] # add tag
 link: https://blogs.scientificamerican.com/observations/bats-are-not-our-enemies/
+sitemap: false
 ---

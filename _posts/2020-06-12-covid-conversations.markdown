@@ -6,4 +6,5 @@ description:  Dr. Cara Brook joins with UC Berkeley's Dr. Britt Glaunsinger to d
 img: COVID-Conversations.jpg # Add image post (optional)
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://news.berkeley.edu/2020/06/12/of-virulent-viruses-and-reservoir-hosts/
+sitemap: false
 ---

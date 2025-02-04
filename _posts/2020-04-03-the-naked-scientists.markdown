@@ -6,4 +6,5 @@ description:  # Add post description (optional)
 img: nakedscientists.png # Add image post (optional)
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://www.thenakedscientists.com/articles/interviews/why-do-bats-carry-deadly-viruses
+sitemap: false
 ---

@@ -6,4 +6,5 @@ description:
 img: cara_makira.JPG # Add image post (optional)
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://www.dnazoo.org/post/on-the-island-of-madagascar-foxes-fly
+sitemap: false
 ---

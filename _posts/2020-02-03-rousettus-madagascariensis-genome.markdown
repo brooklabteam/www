@@ -6,4 +6,5 @@ description:
 img: rousettus_madagascariensis.JPG # Add image post (optional)
 tags: [bats, genomics] # add tag
 link: https://www.dnazoo.org/post/rousette_bats_a_coronavirus_reservoir
+sitemap: false
 ---
