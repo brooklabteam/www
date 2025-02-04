@@ -8,14 +8,17 @@
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from changing page URLs
-/jointhelab               /join
-/labvaluesexpectations    /values-and-policies
 /carabrook                /cara-brook
 /fieldtechjob.html		  /join
+/index.html				  /
 /join/field-tech          /join
+/jointhelab               /join
 /jointhelab/team.html     /team
 /jointhelab/fieldtechjob  /join
+/labvaluesexpectations    /values-and-policies
 /people                   /team
+/publications			  /publications
+/research.html			  /research
 /research_interests       /research
 /team.html                /team
 
