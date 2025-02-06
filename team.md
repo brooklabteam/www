@@ -102,7 +102,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 <img src="/assets/team/monique_ades.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
 
 
-**Monique Ades** is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. She graduated from California State University Fresno with a B.S. in Biology. While at CSU Fresno, she engaged in research regarding representation of bat specimens in the CSU Fresno vertebrate collection in comparison to similarly sized mammals and birds. Additionally, she spent three summers as a field technician on a U.S Forest Service meadow restoration project focused on restoring meadows affected by wildfires in the Sierra Nevada mountains. Most recently she worked as an Agriculture Volunteer with Peace Corps Madagascar and is now returning to Madagascar to join Ekipa fanihy.
+**Monique Ades** is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. She graduated from California State University Fresno with a B.S. in Biology. While at CSU Fresno, she engaged in research regarding representation of bat specimens in the CSU Fresno vertebrate collection in comparison to similarly sized mammals and birds. Additionally, she spent three summers as a field technician on a U.S Forest Service meadow restoration project focused on restoring meadows affected by wildfires in the Sierra Nevada mountains. Most recently she worked as an Agriculture Volunteer with Peace Corps Madagascar and is now returning to Madagascar to join Ekipa Fanihy.
 
 
 
