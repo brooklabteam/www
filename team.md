@@ -91,16 +91,20 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/katherine_mcferrin.jpg" alt="katherine" class="img-thumbnail float-start col-md-3" />
-
-**Katherine McFerrin** (she/her) is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. Katherine earned her B.A. in Biology from Carleton College where she focused on organismal biology and bioinformatics. She has previously conducted hantavirus surveillance in wild rodents in eastern Washington with the Molecular Ecology of Zoonotic and Animal Pathogens Lab at Washington State University. Additionally, she studied wildlife conservation and political ecology in Uganda where she conducted ecological surveys and used social science methods to better understand human-wildlife interactions. 
-
-<div style="clear:both;">&nbsp;</div>
 
 <img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
 
 
 **Martin Roland** is a **Field Project Manager** with Ekipa Fanihy, co-leading monthly field expeditions to capture and sample Madagascar endemic fruit bats. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/monique_ades.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
+
+
+**Monique Ades** is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. She graduated from California State University Fresno with a B.S. in Biology. While at CSU Fresno, she engaged in research regarding representation of bat specimens in the CSU Fresno vertebrate collection in comparison to similarly sized mammals and birds. Additionally, she spent three summers as a field technician on a U.S Forest Service meadow restoration project focused on restoring meadows affected by wildfires in the Sierra Nevada mountains. Most recently she worked as an Agriculture Volunteer with Peace Corps Madagascar and is now returning to Madagascar to join Ekipa fanihy.
+
+
 
 
 
@@ -109,6 +113,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 
 <h2>Ekipa Alumni</h2>
+
 
 
 **[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook lab from Sept 2021 - December 2022. She is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
@@ -125,7 +130,14 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 **Freddy Gonzalez** was a post-baccalaureate scholar funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program to work in the Brook Lab. He is now a PhD student in Dr. Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale University.
 
+
 <div style="clear:both;">&nbsp;</div>
+
+
+**Katherine McFerrin** was a Lab Manager with the Brook lab from Aug 2022 - Aug 2023 and a Field Project Manager with Association Ekipa Fanihy from Sept 2023-Dec 2024. She is now back home in West Virginia interviewing for PhD programs.
+
+<div style="clear:both;">&nbsp;</div>
+
 
 **Yimei Li** was a post-baccalaureate Research Assistant in the Brook Lab. She is now a **PhD student** working with Dr. Simon Levin, Dr. Bryan Grenfell, and Dr. A.J. te Velthuis in the Quantitative and Computational Biology program at Princeton University. 
 
