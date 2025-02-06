@@ -6,4 +6,5 @@ description:  (optional)
 img: bats-cnn.jpg # Add image post (optional)
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://cnnpressroom.blogs.cnn.com/2020/06/09/cnn-to-air-special-on-the-connection-between-bats-and-covid-19/
+sitemap: false
 ---

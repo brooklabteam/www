@@ -6,4 +6,5 @@ description: # Add post description (optional)
 img: cara_chameleon.jpg # Add image post (optional)
 tags: [bats, disease ecology, conservation, Madagascar] # add tag
 link: https://blog.nationalgeographic.org/tag/cara-brook/
+sitemap: false
 ---

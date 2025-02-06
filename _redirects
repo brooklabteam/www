@@ -8,15 +8,19 @@
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from changing page URLs
-/jointhelab               /join
-/labvaluesexpectations    /values-and-policies
 /carabrook                /cara-brook
+/fieldtechjob.html		  /join
+/index.html				  /	301!
 /join/field-tech          /join
+/jointhelab               /join
 /jointhelab/team.html     /team
 /jointhelab/fieldtechjob  /join
+/labvaluesexpectations    /values-and-policies
 /people                   /team
+/publications.html		  /publications	301!
+/research.html			  /research	301!
 /research_interests       /research
-/team.html                /team
+/team.html                /team	301!
 
 # Redirects from old CV to /cara-brook (which includes link to current CV)
 /carabrook/CV_CaraBrook_Full_April2022.pdf  /cara-brook
@@ -25,6 +29,7 @@
 /assets/CV_CaraBrook_Full_February2023.pdf  /cara-brook
 /assets/CV_CaraBrook_Full_April2024.pdf     /cara-brook
 /assets/CV_CaraBrook_Full_May2024.pdf		/cara-brook
+/assets/CV_CaraBrook_Full_August2024.pdf	/cara-brook
 /assets/CV_CaraBrook_Full_Sept2024			/cara-brook
 
 # Redirects from old post titles

@@ -6,4 +6,5 @@ description:  (optional)
 img: loreal-FWIS-2020.png # Add image post (optional)
 tags: [bats, Madagascar, women in science] # add tag
 link: https://www.aaas.org/news/loreal-usa-funds-research-and-outreach-activities-five-female-scientists
+sitemap: false
 ---

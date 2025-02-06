@@ -6,4 +6,5 @@ description: (optional)
 img: bat_cell_model.png # Add image post (optional)
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://www.youtube.com/watch?v=y5_g_pjf0eE&feature=youtu.be
+sitemap: false
 ---
