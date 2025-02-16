@@ -63,7 +63,7 @@ Preference will be given to early career researchers (students, postdocs, junior
 <strong>February 28, 2025</strong>: Scholarship applications close.<br />
 -->
 <h5> 🎟️ Registration </h5>
-<strong>February 15, 2025</strong>: Registration opens for BatID 2025<br />
+<strong>February 20, 2025</strong>: Registration opens for BatID 2025 (sorry for the delay!)<br />
 <strong>April 15, 2025</strong>: Registration closes for BatID 2025<br />
 <br />
 <em>Registration fees will be the same as for BatID 2022:</em>
