@@ -22,7 +22,7 @@ permalink: /programs/bat-id-2025
 <br />
 <br />
 Submit <strong>scholarship requests</strong> for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</em></p>
-<p>This page last updated February 1, 2025.</p>
+<p>This page last updated February 19, 2025.</p>
 </div>
 
 
@@ -63,7 +63,7 @@ Preference will be given to early career researchers (students, postdocs, junior
 <strong>February 28, 2025</strong>: Scholarship applications close.<br />
 -->
 <h5> 🎟️ Registration </h5>
-<strong>February 20, 2025</strong>: Registration opens for BatID 2025 (sorry for the delay!)<br />
+<strong>February 24, 2025</strong>: Registration opens for BatID 2025 (sorry for the delay!)<br />
 <strong>April 15, 2025</strong>: Registration closes for BatID 2025<br />
 <br />
 <em>Registration fees will be the same as for BatID 2022:</em>
