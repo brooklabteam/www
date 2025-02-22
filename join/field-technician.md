@@ -4,20 +4,20 @@ title: "Field Technician Position"
 permalink: /join/field-technician
 ---
 
-<!--
+
 <div class="bs-callout bs-callout-info">
 <p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch with applicants in the next few weeks!</p>
-<p><em>This page last updated September 19, 2024.</em></p>
+<p><em>This page last updated February 21, 2025.</em></p>
 
 </div>
 
--->
 
 
+<!--
 <div class="bs-callout bs-callout-warning">
   <p><a href="https://airtable.com/appLs4nO1FA55ZY6Q/shrtQ6x9ZhkZxKByh">Submit your application</a> by midnight (Central) on Friday, February 21, 2025 for consideration as the 2025-2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appLs4nO1FA55ZY6Q/shr8UH06iLlqbqtyb">this recommendation submission form</a> by the same deadline.</p>
 </div>
-
+-->
 
 
 ---
