@@ -47,7 +47,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h5>💸 Scholarships</h5>
 <strong>Registration fee waivers</strong> and <strong>travel scholarships</strong> are available! <br />
-Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though <strong>all are welcome to apply</strong>. 
+Preference will be given to early career researchers (students, postdocs, junior faculty), though <strong>all are welcome to apply</strong>. 
 <br />
 Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong> for consideration.<br />
 <em>Scholarship applicants will be notified of their status by late March 2025.</em> 
