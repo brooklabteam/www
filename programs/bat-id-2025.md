@@ -17,12 +17,13 @@ permalink: /programs/bat-id-2025
 -->
 
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025">Conference tickets and lodging</a></strong> are now available.</p>
-<p style="font-size: 1.5em;"><strong>Abstract submissions</strong> for talks and posters are open!</p> 
-<p style="font-size: 1.1em;"> <em>Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025!</strong>
+<p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025">Conference registration and dormitory lodging</a></strong> are now available to reserve through April 15.</p>
+<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">Abstract submissions</a></strong> for talks and posters are open through March 15!</p> 
 <br />
 <br />
-Submit <strong>scholarship requests</strong> for registration fee waivers and travel support <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong>!</em></p>
+<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">Scholarship requests</a></strong> for registration fee waivers and travel support are due by Friday, February 28!</p> 
+<br />
+
 <p>This page last updated February 23, 2025.</p>
 </div>
 
@@ -64,20 +65,23 @@ Preference will be given to early career researchers (students, postdocs, junior
 <strong>February 28, 2025</strong>: Scholarship applications close.<br />
 -->
 <h5> 🎟️ Registration </h5>
-<strong>February 24, 2025</strong>: Registration opens for BatID 2025 (sorry for the delay!)<br />
-<strong>April 15, 2025</strong>: Registration closes for BatID 2025<br />
+<strong>February 24, 2025</strong>: Registration is open for BatID 2025! 
 <br />
-<em>Registration fees will be the same as for BatID 2022:</em>
+Register for a <strong>conference ticket <a href="https://ti.to/batid-2025/conference-registration">here</a> by April 15, 2025</strong>.<br />
+
+<br />
+<em>Registration fees are as follows:</em>
 
 <ul>
 <li>Faculty/Industry/Government Scientists/Media: $300</li>
 <li>Postdocs: $200</li>
-<li>Graduate students: $150</li>
+<li>Students (graduate and undergraduate): $150</li>
 </ul>
 
 <h5>&#127968; Lodging </h5>
 
-<strong>Dormitory lodging</strong> will be available for all interested attendees and will be reserved concomitant with conference registration. The University of Chicago has not yet posted rates for dormitory lodging for summer 2025, though last year rates for a single room were <$100 per night per person and rates for a double room were <$80 per per per night. We anticipate a similar range for BatID 2025. 
+<strong>Dormitory lodging</strong> is available for all interested attendees. 
+You can reserve either a single occupancy or double occupancy dormitory <a href="https://ti.to/batid-2025/dormitory-lodging">here</a> by April 15, 2025.
 
 For those not desiring to lodge in the dorms, <strong>registrants can book other options independently</strong>.
 
