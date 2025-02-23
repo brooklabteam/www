@@ -17,9 +17,9 @@ permalink: /programs/bat-id-2025
 -->
 
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/conference-registration">Conference registration</a></strong> is now open through April 15!</p> <br/>
-<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">Abstract submissions</a></strong> for talks and posters are open through March 15!</p>  <br/>
-<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">Scholarship requests</a></strong> for registration fee waivers and travel support are due by February 28!</p>  <br/>
+<p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/conference-registration">Conference registration</a></strong> is now open through April 15!</p> 
+<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">Abstract submissions</a></strong> for talks and posters are open through March 15!</p>  
+<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">Scholarship requests</a></strong> for registration fee waivers and travel support are due by February 28!</p> 
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/dormitory-lodging">Dormitory lodging</a></strong> is available to reserve through April 15!</p>
 <br />
 
