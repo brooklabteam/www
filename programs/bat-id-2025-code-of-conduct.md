@@ -37,7 +37,7 @@ If a participant engages in harassing behavior, BatID 2025 may take any action w
 
 ## Reporting and Enforcement
 
-If you are being harassed by a member of the BatID 2025 community, notice that someone else is being harassed, or have any other concerns related to this Code of Conduct, please contact us at <a href="mailto:batid2025@brooklab.org">batid2025@brooklab.org</a> (a distribution list which includes the BatID 2025 Organizing Committee) or reach out directly to a member of the organizing committee (Dr. Cara Brook, Dr. Arinjay Banerjee, Dr. Daniel Becker, Dr. Hannah Frank, and Dr. Stephanie Seifert).
+If you are being harassed by a member of the BatID 2025 community, notice that someone else is being harassed, or have any other concerns related to this Code of Conduct, please contact us at <a href="mailto:batid2025@brooklab.org">batid2025@brooklab.org</a> (a distribution list which includes the BatID 2025 Organizing Committee: Dr. Cara Brook, Dr. Arinjay Banerjee, Dr. Daniel Becker, Dr. Hannah Frank, Dr. Stephanie Seifert) or reach out to a member of the Organizing Committee directly.
 
 ## License
 
