@@ -7,8 +7,6 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Andrianiaina AF**, **Andry S**, **Kettenburg G**, **Ranaivoson HC**, Lacoste V, Dussart P, Héraud J-M, Laverty TM, Guth S, Youn KI, Andrianarimisa A, and **Brook CE**. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2025.01.20.633693).
-
 - **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Henry AR, Davis RL, Laboune F, Lontine ER, Godbole S, **Horigan S**, **Ruhs EC**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Héraud J-M, Dussart P, and **Brook CE**. *Picornaviridae* and *Caliciviridae* diversity in Madagascar fruit bats is driven by cross-continental genetic exchange. In Review. [Link to bioRxiv Preprint]( https://doi.org/10.1101/2024.12.31.630946).
 
 - **Gonzalez FL**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: implications for viral evolution and zoonotic risk. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.12.24.630179).
@@ -19,6 +17,8 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 
 <h2>In Revision</h2>
+
+- **Andrianiaina AF**, **Andry S**, **Kettenburg G**, **Ranaivoson HC**, Lacoste V, Dussart P, Héraud J-M, Laverty TM, Guth S, Young KI, Andrianarimisa A, and **Brook CE**. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. In Revision. [Link to bioRxiv Preprint](https://doi.org/10.1101/2025.01.20.633693).
 
 - **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
