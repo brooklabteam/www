@@ -17,7 +17,7 @@ permalink: /programs/bat-id-2025
 -->
 
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025">Conference tickets</a></strong> and lodging are now available.</p>
+<p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025">Conference tickets and lodging</a></strong> are now available.</p>
 <p style="font-size: 1.5em;"><strong>Abstract submissions</strong> for talks and posters are open!</p> 
 <p style="font-size: 1.1em;"> <em>Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">here</a> by <strong>March 15, 2025!</strong>
 <br />
