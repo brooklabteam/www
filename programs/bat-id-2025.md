@@ -14,12 +14,12 @@ permalink: /programs/bat-id-2025
 <p>This page last updated October 13, 2024.</p>
 </div>
 
+<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">Scholarship requests</a></strong> for registration fee waivers and travel support are due by February 28!</p> 
 -->
 
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/conference-registration">Conference registration</a></strong> is now open through April 15!</p> 
 <p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagTmqPqNenGgMlZk/form">Abstract submissions</a></strong> for talks and posters are open through March 15!</p>  
-<p style="font-size: 1.5em;"><strong><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">Scholarship requests</a></strong> for registration fee waivers and travel support are due by February 28!</p> 
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/dormitory-lodging">Dormitory lodging</a></strong> is available to reserve through April 15!</p>
 <br />
 
@@ -46,10 +46,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <em>Submitted abstracts will be notified of their status by early April 2025.</em> 
 
 <h5>💸 Scholarships</h5>
-<strong>Registration fee waivers</strong> and <strong>travel scholarships</strong> are available! <br />
-Preference will be given to early career researchers (students, postdocs, junior faculty), though <strong>all are welcome to apply</strong>. 
-<br />
-Apply <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form">here</a> by <strong>February 28, 2025</strong> for consideration.<br />
+<strong>Applications for registration fee waivers</strong> and <strong>travel scholarships</strong> are now closed. <br />
 <em>Scholarship applicants will be notified of their status by late March 2025.</em> 
 
 <!--
