@@ -23,7 +23,7 @@ permalink: /programs/bat-id-2025
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/dormitory-lodging">Dormitory lodging</a></strong> is available to reserve through April 15!</p>
 <br />
 
-<p>This page last updated February 23, 2025.</p>
+<p>This page last updated March 1, 2025.</p>
 </div>
 
 
