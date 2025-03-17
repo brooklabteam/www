@@ -22,7 +22,7 @@ permalink: /programs/bat-id-2025
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/dormitory-lodging">Dormitory lodging</a></strong> is available to reserve through April 15!</p>
 <br />
 
-<p>This page last updated March 1, 2025.</p>
+<p>This page last updated March 17, 2025.</p>
 </div>
 
 
@@ -40,7 +40,8 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 -->
 
- <strong>Abstract</strong> submissions are now closed. Applicants will be notified of their status by early April 2025.</em> 
+ <strong>Abstract</strong> submissions are now closed. <br />
+ <em>Applicants will be notified of their status by early April 2025.</em> 
 
 <h5>💸 Scholarships</h5>
 <strong>Applications for registration fee waivers</strong> and <strong>travel scholarships</strong> are now closed. <br />
