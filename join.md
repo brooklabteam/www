@@ -54,7 +54,7 @@ I am also interested in students with strong wet lab skills in molecular detecti
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
 
-Formal applications are due to the [University of Chicago Division of Biological Sciences](https://biosciences.uchicago.edu/programs) on December 1, 2023.
+Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkeley.edu/) for details on graduate applications.
 
 -->
 
@@ -62,31 +62,23 @@ Formal applications are due to the [University of Chicago Division of Biological
 
 <h2>Postdocs</h2>
 
-**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](https://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. The [University of Chicago Fellows](https://biologicalsciences.uchicago.edu/research/chicago-fellows) program in the Biological Sciences (applications due annually in December) is one exciting opportunity specific to our university. Please feel free to reach out at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
+**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](https://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. UC Berkeley offers a range of fellowship opportunities; please feel free to reach out at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
 
 --- 
 
 
 <h2>Undergraduates</h2>
 
-We have several University of Chicago undergraduate researchers in the lab at any given time and many small projects available for an interested student. As a policy, I do not allow undergrads to intern without pay, a practice that has been shown to exacerbate inequities in opportunity and access. We do not currently have any specific positions available at this time; however, the University of Chicago abounds with opportunities for proactive undergrads to acquire funding to carry out mentored research. 
+We have several UC Berkeley undergraduate researchers in the lab at any given time and many small projects available for an interested student. As a policy, I do not allow undergrads to intern without pay, a practice that has been shown to exacerbate inequities in opportunity and access. We do not currently have any specific positions available at this time; however, UC Berkeley abounds with opportunities for proactive undergrads to acquire funding to carry out mentored research.
 
-Undergraduates wishing to conduct summer research should look out for a mid-April deadline for grants through the [Quad Summer Undergraduate Research Scholars](https://ccrf.uchicago.edu/undergraduate-research/quad-summer-undergraduate-research-scholars) program. Rising fourth years interested in pursuing honors thesis research in Ecology and Evolution over the summer should additionally watch for an email from Professor Cathy Pfister soliciting applications every ~March/April. During the academic year, the [Quad Undergraduate Research Grants](https://ccrf.uchicago.edu/undergraduate-research/quad-undergraduate-research-scholars-program) program additionally offers grants directly to students who must submit to application cycles in early October or early January. Finally, the [Quad Faculty Research Grant](https://ccrf.uchicago.edu/undergraduate-research/quad-faculty-research-grant-program) program has an early September deadline. Under this initiative (which funded Vera Soloview and Margot Bolaños-Gamez in AY 2022-2023), Professor Cara Brook would submit the application with a specific student and project in mind. 
+Undergraduates wishing to conduct summer research should explore funding opportunities through [URAP](https://research.berkeley.edu/urap/) and other campus programs. Rising seniors interested in pursuing honors thesis research should keep an eye on departmental announcements for relevant application deadlines. Under this initiative (which funded Vera Soloview and Margot Bolaños-Gamez in AY 2022-2023), Professor Cara Brook would submit the application with a specific student and project in mind.
 
-Additionally, students may apply for support to offset living expenses both during the academic year and during the summer through one of the University of Chicago's [Metcalf Internship Programs](https://careeradvancement.uchicago.edu/student-opportunities/college-sponsored-grants), which offers multiple deadlines throughout the year. However, research in an on-campus lab is not the primary goal of this program, and students are encouraged to clarify their intentions with the program's advisors before submitting an application. The Quad Scholars programs outlined above are a better fit overall.
+Additionally, students may apply for support to offset living expenses through UC Berkeley's undergraduate research and internship programs, which offer multiple deadlines throughout the year. Research in an on-campus lab is not the primary goal of every program, so students are encouraged to clarify their intentions with program advisors before submitting an application. The URAP program outlined above is often a good fit overall.
 
 If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
 
 --- 
 
-<h2>Post-Baccalaureate Fellows</h2>
-
-We periodically host post-baccaulaureate research fellows for a full year through the NIH-sponsored [University of Chicago PREP (Post-Baccaulaureate Research Education Program)](https://bsdprep.uchicago.edu/), which funds underrepresented minority students to carry out a full year of research in a host lab. PREP students also receive financial support and mentoring through the graduate school and NSF Graduate Research Fellowship application processes. Freddy Gonzalez was a PREP scholar in AY 2021-2022 and is now a PhD student in Dr. Paul Turner's lab at Yale. Mars Woodward was a PREP scholar in AY 2023-2024 and is now a PhD student studying with Dr. Kelly Speer and Dr. Luis Zaman at the University of Michigan.
-
-Applications for PREP are due internally to UChicago annually in February or March--watch for deadlines [here](https://bsdprep.uchicago.edu/program-activities/application-procedure/).
-
-
----
 
 <h2>Field Technicians</h2>
 

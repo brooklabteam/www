@@ -110,7 +110,7 @@ Scientific talks will be organized into five main scientific themes, after the f
 
 <h6>Theme I: Bat immunology and within-host dynamics</h6>
 
-Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago<br />
+Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, UC Berkeley<br />
 Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University
 <br>
 <h6>Theme II: Bat pathogen discovery</h6>
