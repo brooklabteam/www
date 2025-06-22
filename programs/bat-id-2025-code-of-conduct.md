@@ -7,7 +7,7 @@ This is the code of conduct for [BatID 2025](/programs/bat-id-2025).
 
 # Code Of Conduct
 
-<strong>This is a living policy, subject to continual refinement and expansion. Last updated February 22, 2025.</strong>
+**This is a living policy, subject to continual refinement and expansion. Last updated February 22, 2025.**
 
 Everyone participating in BatID 2025 is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
 
