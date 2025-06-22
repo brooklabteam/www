@@ -35,17 +35,25 @@ Session Chair: [Dr. Cara Brook](https://brooklab.org), University of Chicago
 Plenary Speaker: [Dr. Liliana Davalos](https://lmdavalos.github.io), Stony Brook University
 Additional Speakers:
 
-- Matae Ahn, LKC Medical School, Singapore 
+- Matae Ahn, LKC Medicine, Nanyang Technology University, Singapore
 - Ken Field, Bucknell University 
-- Sarah van Tol, Rocky Mountain Labs, National Institutes of Health 
-- Arinjay Banerjee, Vaccine and Infectious Disease Organization (VIDO), University of Saskatchewan 
+- Sarah van Tol, NIH/NIAID Rocky Mountain Labs
+- Arinjay Banerjee, VIDO, University of Saskatchewan 
 - Peter Cresswell, Yale University 
-- Nolwenn Jouvenet, Institut Pasteur de Paris
+- Nolwenn Jouvenet, Institut Pasteur, Paris, France
 - Hannah Frank, Tulane University 
-- Lea Gaucherand, CNRS, Université de Strasbourg 
-- Rita M. Quintela-Tizon, Department of Veterinary Microbiology, VIDO, University of Saskatchewan
+- Lea Gaucherand, CNRS - University of Strasbourg - IBMC
+- Rita M. Quintela-Tizon, VIDO, University of Saskatchewan
 - Daniel Becker, University of Oklahoma 
-- Lane Pierson, Case Western University 
+- Lane Pierson, Case Western Reserve University School of Medicine 
+- Eric M. Poeschla, University of Colorado School of Medicine
+- Jyoti Batra, Gladstone Institutes
+- Samuel Donaire-Carpio, Institut Pasteur, Paris, France
+- William H. Carr, Medgar Evers College (CUNY)
+- Kaushal Baid, VIDO, University of Saskatechwan 
+- Vincent Caval, Institut Pasteur, Paris, France
+- Ashley Reers, Tulane University
+- Amanda Vicente-Santos, University of Oklahoma 
 
 ##### Theme II: Bat pathogen evolution
 
@@ -53,13 +61,11 @@ Session Chair:  [Dr. Arinjay Banerjee](https://banerjeelab.ca), VIDO, University
 Plenary Speaker: [Dr. Benhur Lee](https://leelabvirus.host/about), Icahn School of Medicine at Mount Sinai
 Additional Speakers:
 
-- Olivia Cords, UC Davis 
+- Olivia Cords, UC Davis School of Veterinary Medicine
 - Luis Viquez-R, Bucknell University 
 - Phillida Charley, Colorado State University 
 - Hannah J. Eiseman, Tulane University 
 - Robert Cohen, Uniformed Services University of Health Sciences 
-- Nolwenn Jouvenet, Institut Pasteur de Paris
-- Hannah Frank, Tulane University 
 - Annabel Anyang, University of Utah 
 
 ##### Poster Session
@@ -83,10 +89,10 @@ Additional Speakers:
 - Kristian Forbes, University of Arkansas 
 - Jon Epstein, One Health Science 
 - Stephanie Seifert, Washington State University
-- Benny Borremans, Wildlife Health Ecology Research Center 
-- Maya Weinberg, University of Essex  
+- Benny Borremans, Wildlife Health Ecology Research Organization
+- Maya Weinberg, University of Cambridge, University of Essex UK
 - Sophia Horigan, University of Chicago  
-- Johnny Uelmen, University of Wisconsin-Madisun  
+- Johnny Uelmen, University of Wisconsin
 
 
 ##### Theme IV: Bat pathogen discovery
@@ -106,7 +112,7 @@ Session Chair: [Dr. Hannah Frank](https://www.hkfrank.com), Tulane University
 Plenary Speaker: [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kingston/), Texas Tech University
 Additional Speakers:
 
-- AKM Dawlat Khan 
+- AKM Dawlat Khan, IEDCR, Bangladesh
 - Abby Rutrough, Texas Tech University 
 - Kendra Phelps, University of Minnesota 
 - Benneth Obitte, Texas Tech University 
