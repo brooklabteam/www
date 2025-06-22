@@ -65,8 +65,8 @@ Additional Speakers:
 ##### Poster Session
 
 - **All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.**
-- 4:30-5:15 pm. <em> Odd number posters.
-- 5:15-6:00 pm. <em> Even number posters.
+- 4:30-5:15 pm. **Odd number posters.**
+- 5:15-6:00 pm. **Even number posters.**
 - Drinks and hors d'oeuvres provided during poster session. Dinner to follow Thursday evening will be self-organized. See restaurant recommendations below. 
 
 #### Friday, July 11, 2025
@@ -115,7 +115,7 @@ Additional Speakers:
 ##### Open Discussion
 
 - We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. 
-- 4:45 – 7:00 pm. Closing Social Hour at [The Pub at Ida Noyes Hall.](https://uofcpub.com) <em> Food and drink available for purchase. </em> 
+- 4:45 – 7:00 pm. Closing Social Hour at [The Pub at Ida Noyes Hall.](https://uofcpub.com) **Food and drink available for purchase.**
 
 ---
 
