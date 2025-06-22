@@ -39,7 +39,7 @@ Location: <a href="https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7"> Cloister Club, Id
 <li> Coffee and pastries provided </li>
 </ul>
 
-<h6>Theme I: Bat immunology and within-host dynamics</h6>
+<h5>Theme I: Bat immunology and within-host dynamics</h6>
 
 Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago<br />
 Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University<br />
@@ -59,7 +59,7 @@ Additional Speakers:
 <li> Lane Pierson, Case Western University </li>
 </ul>
 
-<h6>Theme II: Bat pathogen evolution</h6>
+<h5>Theme II: Bat pathogen evolution</h6>
 
 Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, VIDO, University of Saskatechwan<br />
 Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai<br />
@@ -77,7 +77,7 @@ Additional Speakers:
 </ul>
 
 
-<h6>Poster Session</h6>
+<h5>Poster Session</h6>
 
 <ul>
 <li> <em> All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best. </em> </li>  
@@ -90,7 +90,7 @@ Additional Speakers:
 <br>
 <h4>Friday, July 11, 2025</h4>
 
-<h6>Theme III: Bat pathogen persistence and transmission dynamics</h6>
+<h5>Theme III: Bat pathogen persistence and transmission dynamics</h6>
 
 Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma<br />
 Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow <br />
@@ -108,7 +108,7 @@ Additional Speakers:
 <li> Johnny Uelmen, University of Wisconsin-Madisun  </li>
 </ul>
 
-<h6>Theme IV: Bat pathogen discovery</h6>
+<h5>Theme IV: Bat pathogen discovery</h6>
 
 Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br />
 Plenary Speaker: <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis <br />
@@ -122,7 +122,7 @@ Additional Speakers:
 </ul>
 
 
-<h6>Theme V: Reconciling bat infectious diseases and conservation</h6>
+<h5>Theme V: Reconciling bat infectious diseases and conservation</h6>
 
 Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
 Plenary Speaker: <a href="https://kingstonlab.org/people/tigga-kingston/">Dr. Tigga Kingston</a>, Texas Tech University<br />
@@ -137,7 +137,7 @@ Additional Speakers:
 </ul>
 
 
-<h6>Open Discussion</h6>
+<h5>Open Discussion</h6>
 <ul>
 <li> We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. </li>
 <li> 4:45 – 7:00 pm. Closing Social Hour at <a href="https://uofcpub.com">The Pub at Ida Noyes Hall.</a> <em> Food and drink available for purchase. </em> </li>
@@ -146,7 +146,7 @@ Additional Speakers:
 
 <hr />
 
-<h5>🍽 Hyde Park Dining </h5>
+<h4>🍽 Hyde Park Dining </h5>
 Some recommended local restaurants that are unlikely to require reservations include: <br>
 
 <em> South of the Midway</em>
@@ -179,7 +179,7 @@ Some recommended local restaurants that are unlikely to require reservations inc
 
 <hr />
 
-<h5>&#127968; Lodging </h5>
+<h4>&#127968; Lodging </h5>
 
 Conference attendees who have not already booked dormitory lodging should book alternative lodging options independently.
 
@@ -187,7 +187,7 @@ There are <strong>three hotels</strong> available in the Hyde Park, Chicago area
 
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail (at the <a href="https://metra.com/train-lines/stations/55th-56th-57th-street">55th-56th-57th Street stop</a>).
 <br>
-<h5> &#9992; Travel</h5>
+<h4> &#9992; Travel</h5>
 Two international airports offer easy metro/lightrail access to the University of Chicago: <a href="https://www.flychicago.com/ohare/home/pages/default.aspx">O'Hare International Airport (ORD)</a> and <a href="https://www.flychicago.com/midway/home/pages/default.aspx">Midway International Airport (MDW)</a>.
 <br>
 <br>
@@ -196,10 +196,8 @@ MDW is a little closer to UChicago and therefore our recommendation if you are a
 <br>
 <strong>Getting here:</strong> The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) <a href= "https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png">"L"</a> to the Loop, then transfer to the <a href="https://metra.com/train-lines/me"> Metra Electric</a> at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the 51st/53rd St. Hyde Park or 55th - 56th - 57th Street station to walk to your lodging.
 
-<hr />
-
-
-<h3> Additional useful information</h3>
+<br>
+<h4> 📝 Additional useful information</h3>
 <ul> 
 <li> <a href="https://www.google.com/maps/place/Hyde+Park,+Chicago,+IL/data=!4m2!3m1!1s0x880e2912ce6f7027:0xc0cfb5545d4a37b2?sa=X&ved=1t:242&ictx=111">Map of Hyde Park</a> </li>
 <li> <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/4088/files/2025/01/UC_11x17-Print-Directory-Map_2024.pdf"> Map of University of Chicago </a> </li>
