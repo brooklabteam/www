@@ -21,7 +21,6 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h3>Scientific Program</h3>
 
-<br> 
 
 <h4>Wednesday, July 9, 2025</h4>
 <ul>
@@ -29,7 +28,6 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <li> Stop in to register, and grab some food or drink at nearby adjacent to the restaurant <a href="https://smallcheval.com/locations/hyde-park">Small Cheval</a> for an informal gathering before the meeting officially opens.</li>
 </ul>
 
-<br>
 
 <h4>Thursday, July 10, 2025</h4>
 
@@ -87,7 +85,6 @@ Additional Speakers:
 </ul>
 
 
-<br>
 <h4>Friday, July 11, 2025</h4>
 
 <h5>Theme III: Bat pathogen persistence and transmission dynamics</h5>
@@ -194,9 +191,8 @@ Two international airports offer easy metro/lightrail access to the University o
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
 <br>
 <br>
-<strong>Getting here:</strong> The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) <a href= "https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png">"L"</a> to the Loop, then transfer to the <a href="https://metra.com/train-lines/me"> Metra Electric</a> at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the 51st/53rd St. Hyde Park or 55th - 56th - 57th Street station to walk to your lodging.
+<strong>Getting here:</strong> The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) <a href= "https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png">"L"</a> to the Loop, then transfer to the <a href="https://metra.com/train-lines/me"> Metra Electric</a> at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the <a href="https://metra.com/train-lines/stations/51st53rd-st-hyde-park">51st/53rd St. Hyde Park stop</a> or the <a href="https://metra.com/train-lines/stations/55th-56th-57th-street">55th-56th-57th Street stop</a> to walk to your lodging.
 
-<br>
 <h4> 📝 Additional useful information</h4>
 <ul> 
 <li> <a href="https://www.google.com/maps/place/Hyde+Park,+Chicago,+IL/data=!4m2!3m1!1s0x880e2912ce6f7027:0xc0cfb5545d4a37b2?sa=X&ved=1t:242&ictx=111">Map of Hyde Park</a> </li>
