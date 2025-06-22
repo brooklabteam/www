@@ -4,11 +4,8 @@ title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
 <!--
-
 #### Coming to the **University of Chicago, July 9-11, 2025**!
 -->
-
-
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the **University of Chicago**, from **July 9-11, 2025**!</p>
 <p>This page last updated June 22, 2025.</p>
@@ -18,16 +15,12 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 ---
 
-
 ### Scientific Program
-
 
 #### Wednesday, July 9, 2025
 
 - **Conference registration** will be open from ** 5-7 pm ** at the [picnic tables in Nichols Park](https://www.google.com/maps/place/1307+E+53rd+St,+Chicago,+IL+60615/@41.799341,-87.5972069,17z/data=!3m1!4b1!4m6!3m5!1s0x880e296bee15aceb:0x51a737579e5622b3!8m2!3d41.799337!4d-87.594632!16s%2Fg%2F11rg62wy11?entry=tts&g_ep=EgoyMDI1MDYxNy4wIPu8ASoASAFQAw%3D%3D&skid=7168e7bd-e286-4ec5-bbaf-c860106ffab6).
 - Stop in to register, and grab some food or drink at nearby adjacent to the restaurant [Small Cheval](https://smallcheval.com/locations/hyde-park) for an informal gathering before the meeting officially opens.
-
-
 
 #### Thursday, July 10, 2025
 
@@ -35,7 +28,6 @@ Location: [ Cloister Club, Ida Noyes Hall, The University of Chicago ](https://m
 
 - 7-8 am: Registration open 
 - Coffee and pastries provided 
-
 
 ##### Theme I: Bat immunology and within-host dynamics
 
@@ -55,7 +47,6 @@ Additional Speakers:
 - Daniel Becker, University of Oklahoma 
 - Lane Pierson, Case Western University 
 
-
 ##### Theme II: Bat pathogen evolution
 
 Session Chair:  [Dr. Arinjay Banerjee](https://banerjeelab.ca), VIDO, University of Saskatechwan
@@ -71,17 +62,12 @@ Additional Speakers:
 - Hannah Frank, Tulane University 
 - Annabel Anyang, University of Utah 
 
-
-
 ##### Poster Session
 
-
-- <em> All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best. </em>   
-- 4:30-5:15 pm. <em> Odd number posters. </em> 
-- 5:15-6:00 pm. <em> Even number posters. </em> 
+- **All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.**
+- 4:30-5:15 pm. <em> Odd number posters.
+- 5:15-6:00 pm. <em> Even number posters.
 - Drinks and hors d'oeuvres provided during poster session. Dinner to follow Thursday evening will be self-organized. See restaurant recommendations below. 
-
-
 
 #### Friday, July 11, 2025
 
@@ -109,13 +95,10 @@ Session Chair: [Dr. Stephanie Seifert](https://labs.wsu.edu/mezap/), Washington 
 Plenary Speaker: [Dr. Simon Anthony](https://anthonylab.vetmed.ucdavis.edu), University of California-Davis 
 Additional Speakers:
 
-
 - Caleb Huntington, UC Davis 
 - Lexi E. Frank, University of Minnesota 
 - Maya Juman, Cambridge University  
 - I-Ting Tu, University of Glasgow 
-
-
 
 ##### Theme V: Reconciling bat infectious diseases and conservation
 
@@ -123,44 +106,44 @@ Session Chair: [Dr. Hannah Frank](https://www.hkfrank.com), Tulane University
 Plenary Speaker: [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kingston/), Texas Tech University
 Additional Speakers:
 
-
 - AKM Dawlat Khan 
 - Abby Rutrough, Texas Tech University 
 - Kendra Phelps, University of Minnesota 
 - Benneth Obitte, Texas Tech University 
 - Natalie Wickenkamp, Colorado State University 
 
-
-
 ##### Open Discussion
 
 - We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. 
 - 4:45 – 7:00 pm. Closing Social Hour at [The Pub at Ida Noyes Hall.](https://uofcpub.com) <em> Food and drink available for purchase. </em> 
 
-
-
 ---
 
 #### 🍽 Hyde Park Dining
-Some recommended local restaurants that are unlikely to require reservations include: 
-<em> South of the Midway</em>
+Some recommended local restaurants that are unlikely to require reservations include:
+
+**South of the Midway**
 
 - [Truth Be Told](https://www.truthbetoldtavern.com) 
 - [Bar David](https://bardavid.uchicago.edu) 
-<em> 57th Street</em>
+
+**57th Street**
 
 - [Medici on 57th](https://www.truthbetoldtavern.com) 
 - [Noodles Etc](https://bardavid.uchicago.edu) 
-<em> 55th Street</em>
+
+**55th Street**
 
 - [Nella Pizza e Pasta](https://nellachicago.com) 
 - [The Nile Hyde Park](https://www.nilehydepark.com) 
 - [Woodlawn Tap “Jimmy’s”](https://chibarproject.com/reviews/woodlawntap/) 
-<em> 53rd Street</em>
+
+**53rd Street**
 
 - [Giorodano’s Pizza](https://giordanos.com/locations/hyde-park/) 
 - [Pizza Capri](https://www.pizzacapri.com/hyde-park/) 
 - [Strings Ramen](https://www.stringsramen.com) 
+
 ---
 
 #### 🏠 Lodging
@@ -172,11 +155,10 @@ There are **three hotels** available in the Hyde Park, Chicago area, which can b
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the [Metric Electric](https://ridertools.metrarail.com) lightrail (at the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street)).
 
 #### ✈️ Travel
+
 Two international airports offer easy metro/lightrail access to the University of Chicago: [O'Hare International Airport (ORD)](https://www.flychicago.com/ohare/home/pages/default.aspx) and [Midway International Airport (MDW)](https://www.flychicago.com/midway/home/pages/default.aspx).
 
-
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
-
 
 **Getting here:** The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) ["L"](https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png) to the Loop, then transfer to the [ Metra Electric](https://metra.com/train-lines/me) at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the [51st/53rd St. Hyde Park stop](https://metra.com/train-lines/stations/51st53rd-st-hyde-park) or the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street) to walk to your lodging.
 
@@ -185,9 +167,7 @@ MDW is a little closer to UChicago and therefore our recommendation if you are a
 - [Map of Hyde Park](https://www.google.com/maps/place/Hyde+Park,+Chicago,+IL/data=!4m2!3m1!1s0x880e2912ce6f7027:0xc0cfb5545d4a37b2?sa=X&ved=1t:242&ictx=111) 
 - [ Map of University of Chicago ](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/4088/files/2025/01/UC_11x17-Print-Directory-Map_2024.pdf) 
 - [ University Parking Resources](https://safety-security.uchicago.edu/transportation/driving-parking/visitor-parking) 
-      - A variety of free street parking is also available adjacent to the university. Please see street signage for directions.
-
-
+- A variety of free street parking is also available adjacent to the university. Please see street signage for directions.
 
 ---
 
@@ -199,9 +179,6 @@ Thanks to the support of our **Advisory Committee**:
 - [Dr. Emma Teeling](https://people.ucd.ie/emma.teeling), University College Dublin
 - [Dr. Nancy Simmons](https://www.amnh.org/research/staff-directory/nancy-b-simmons), American Museum of Natural History
 - [Dr. Hector Aguilar-Carreño](https://sites.google.com/view/aguilarlab/home), Cornell University
-
-
-
 
 <!--
 
