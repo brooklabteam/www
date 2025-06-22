@@ -7,7 +7,7 @@ permalink: /programs/bat-id-2025
 #### Coming to the **University of Chicago, July 9-11, 2025**!
 -->
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;">Coming to the **University of Chicago**, from **July 9-11, 2025**!</p>
+<p style="font-size: 1.5em;">Coming to the <em>University of Chicago</em>, from <em>July 9-11, 2025</em>!</p>
 <p>This page last updated June 22, 2025.</p>
 </div>
 
@@ -19,7 +19,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 #### Wednesday, July 9, 2025
 
-- **Conference registration** will be open from ** 5-7 pm ** at the [picnic tables in Nichols Park](https://www.google.com/maps/place/1307+E+53rd+St,+Chicago,+IL+60615/@41.799341,-87.5972069,17z/data=!3m1!4b1!4m6!3m5!1s0x880e296bee15aceb:0x51a737579e5622b3!8m2!3d41.799337!4d-87.594632!16s%2Fg%2F11rg62wy11?entry=tts&g_ep=EgoyMDI1MDYxNy4wIPu8ASoASAFQAw%3D%3D&skid=7168e7bd-e286-4ec5-bbaf-c860106ffab6).
+- **Conference registration** will be open from **5-7 pm** at the [picnic tables in Nichols Park](https://www.google.com/maps/place/1307+E+53rd+St,+Chicago,+IL+60615/@41.799341,-87.5972069,17z/data=!3m1!4b1!4m6!3m5!1s0x880e296bee15aceb:0x51a737579e5622b3!8m2!3d41.799337!4d-87.594632!16s%2Fg%2F11rg62wy11?entry=tts&g_ep=EgoyMDI1MDYxNy4wIPu8ASoASAFQAw%3D%3D&skid=7168e7bd-e286-4ec5-bbaf-c860106ffab6).
 - Stop in to register, and grab some food or drink at nearby adjacent to the restaurant [Small Cheval](https://smallcheval.com/locations/hyde-park) for an informal gathering before the meeting officially opens.
 
 #### Thursday, July 10, 2025
