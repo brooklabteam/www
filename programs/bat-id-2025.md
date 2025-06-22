@@ -25,11 +25,12 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 <h4>Wednesday, July 9, 2025</h4>
 <ul>
-<li> <strong>Conference registration</strong> will be open from <strong> 5-7 pm </strong> at the <a href="https://www.google.com/maps/place/1307+E+53rd+St,+Chicago,+IL+60615/@41.799341,-87.5972069,17z/data=!3m1!4b1!4m6!3m5!1s0x880e296bee15aceb:0x51a737579e5622b3!8m2!3d41.799337!4d-87.594632!16s%2Fg%2F11rg62wy11?entry=tts&g_ep=EgoyMDI1MDYxNy4wIPu8ASoASAFQAw%3D%3D&skid=7168e7bd-e286-4ec5-bbaf-c860106ffab6">picnic tables in Nichols Park</a>, adjacent to the restaurant <a href="https://smallcheval.com/locations/hyde-park">Small Cheval</a>.</li>
-<li>Stop in to register, and grab some food or drink for an informal gathering before the meeting officially opens.</li>
+<li> <strong>Conference registration</strong> will be open from <strong> 5-7 pm </strong> at the <a href="https://www.google.com/maps/place/1307+E+53rd+St,+Chicago,+IL+60615/@41.799341,-87.5972069,17z/data=!3m1!4b1!4m6!3m5!1s0x880e296bee15aceb:0x51a737579e5622b3!8m2!3d41.799337!4d-87.594632!16s%2Fg%2F11rg62wy11?entry=tts&g_ep=EgoyMDI1MDYxNy4wIPu8ASoASAFQAw%3D%3D&skid=7168e7bd-e286-4ec5-bbaf-c860106ffab6">picnic tables in Nichols Park</a>.
+<li> Stop in to register, and grab some food or drink at nearby adjacent to the restaurant <a href="https://smallcheval.com/locations/hyde-park">Small Cheval</a> for an informal gathering before the meeting officially opens.</li>
 </ul>
 
 <br>
+
 <h4>Thursday, July 10, 2025</h4>
 
 Location: <a href="https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7"> Cloister Club, Ida Noyes Hall, The University of Chicago </a>
@@ -81,12 +82,8 @@ Additional Speakers:
 <li> <em> All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best. </em> </li>  
 <li> 4:30-5:15 pm. <em> Odd number posters. </em> </li>
 <li> 5:15-6:00 pm. <em> Even number posters. </em> </li>
-<li> Drinks and hors d'oeuvres provided. </li>
+<li> Drinks and hors d'oeuvres provided during poster session. Dinner to follow Thursday evening will be self-organized. See restaurant recommendations below. </li>
 </ul>
-
-<br>
-Dinner Thursday evening will be self-organized. See restaurant recommendations below.
-<br>
 
 
 <br>
@@ -141,15 +138,14 @@ Additional Speakers:
 
 <h6>Open Discussion</h6>
 <ul>
-<li> We'll close with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. </li>
-<li> 4:45 – 7:00 pm. Closing Social Hour at <a href="https://uofcpub.com">The Pub at Ida Noyes Hall.</a> </li>
-    <li> <em> Food and drink available for purchase. </em> </li>
+<li> We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. </li>
+<li> 4:45 – 7:00 pm. Closing Social Hour at <a href="https://uofcpub.com">The Pub at Ida Noyes Hall.</a> <em> Food and drink available for purchase. </em> </li>
 </ul>
 
 
 <hr />
 
-<h5>🍽️️; Hyde Park Dining </h5>
+<h5>🍽 Hyde Park Dining </h5>
 Some recommended local restaurants that are unlikely to require reservations include:
 
 <em> South of the Midway</em>
@@ -197,6 +193,7 @@ Two international airports offer easy metro/lightrail access to the University o
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
 <br>
 <br>
+Getting here: The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) <a href= "https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png">"L"</a> to the Loop, then transfer to the <a href="https://metra.com/train-lines/me"> Metra Electric</a> at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the 51st/53rd St. Hyde Park or 55th - 56th - 57th Street station to walk to your lodging.
 
 <hr />
 
@@ -207,7 +204,7 @@ MDW is a little closer to UChicago and therefore our recommendation if you are a
 <li> <a href="https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/4088/files/2025/01/UC_11x17-Print-Directory-Map_2024.pdf"> Map of University of Chicago </a> </li>
 <li> <a href="https://safety-security.uchicago.edu/transportation/driving-parking/visitor-parking"> University Parking Resources</a> </li>
       <li> A variety of free street parking is also available adjacent to the university. Please see street signage for directions.</li>
-<li>  Getting here: The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) <a href= "https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png">"L"</a> to the Loop, then transfer to the <a href="https://metra.com/train-lines/me"> Metra Electric</a> at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the 51st/53rd St. Hyde Park or 55th - 56th - 57th Street station to walk to your lodging.
+<li> 
 </ul>
 
 
