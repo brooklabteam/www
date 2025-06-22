@@ -38,7 +38,7 @@ Location: <a href="https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7"> Cloister Club, Id
 <li> 7-8 am: Registration open </li>
 <li> Coffee and pastries provided </li>
 </ul>
-<br>
+
 <h6>Theme I: Bat immunology and within-host dynamics</h6>
 
 Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago<br />
@@ -58,7 +58,7 @@ Additional Speakers:
 <li> Daniel Becker, University of Oklahoma </li>
 <li> Lane Pierson, Case Western University </li>
 </ul>
-<br>
+
 <h6>Theme II: Bat pathogen evolution</h6>
 
 Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, VIDO, University of Saskatechwan<br />
@@ -76,7 +76,7 @@ Additional Speakers:
 <li> Annabel Anyang, University of Utah </li>
 </ul>
 
-<br>
+
 <h6>Poster Session</h6>
 
 <ul>
@@ -107,7 +107,7 @@ Additional Speakers:
 <li> Sophia Horigan, University of Chicago  </li>
 <li> Johnny Uelmen, University of Wisconsin-Madisun  </li>
 </ul>
-<br>
+
 <h6>Theme IV: Bat pathogen discovery</h6>
 
 Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br />
@@ -121,7 +121,7 @@ Additional Speakers:
 <li> I-Ting Tu, University of Glasgow </li>
 </ul>
 
-<br>
+
 <h6>Theme V: Reconciling bat infectious diseases and conservation</h6>
 
 Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
@@ -136,7 +136,7 @@ Additional Speakers:
 <li> Natalie Wickenkamp, Colorado State University </li>
 </ul>
 
-<br>
+
 <h6>Open Discussion</h6>
 <ul>
 <li> We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. </li>
