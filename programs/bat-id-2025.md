@@ -13,6 +13,8 @@ permalink: /programs/bat-id-2025
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
+<p><a href="/programs/bat-id-2025/schedule">View the detailed conference schedule here.</a></p>
+
 ---
 
 ### Scientific Program
@@ -209,7 +211,7 @@ Thanks to the support of our **Advisory Committee**:
 **March 15, 2025**: Abstract submissions close
 **Abstract** submissions are now closed. 
 **Abstract submissions ** are now closed, and applicants have been notified of their status. 
-<em> We will post the symposium schedule in June 2025.</em> 
+<em><a href="/programs/bat-id-2025/schedule">View the full symposium schedule here</a>.</em>
 
 ##### 💸 Scholarships
 **Applications for registration fee waivers** and **travel scholarships** are now closed, and applicants have been notified of their status. 
