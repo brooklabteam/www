@@ -150,10 +150,10 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 ---
 
-### Session 4: Bat Pathogen Persistence & Transmission Dynamics  
+### Session 3: Bat Pathogen Persistence & Transmission Dynamics  
 **Moderator:** Daniel Becker, University of Oklahoma
 
-#### Plenary 4
+#### Plenary 3
 *(25 min + 5 min Q&A)*
 
 **8:10 – 8:40 am** – *Daniel Streicker, University of Glasgow*
@@ -194,7 +194,7 @@ _Lunch_
 
 ---
 
-### Session 3: Bat pathogen discovery  
+### Session 4: Bat pathogen discovery  
 **Moderator:** Stephanie Seifert, Washington State University
 
 #### Plenary 4
