@@ -21,3 +21,7 @@ gem "jekyll", "4.1.1"
 group :jekyll_plugins do
    gem "jekyll-sitemap"
 end
+
+group :development, :test do
+  gem 'html-proofer'
+end
