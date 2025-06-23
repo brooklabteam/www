@@ -44,7 +44,7 @@ _Coffee and pastries provided._
 - **9:15 – 9:30 am** – *Sarah van Tol, NIH/NIAID Rocky Mountain Labs*  
   “Filovirus – bat compatibility is spectral”
 - **9:30 – 9:45 am** – *Arinjay Banerjee, VIDO, University of Saskatchewan*  
-  “A bat model to study coronavirus persistence”
+  “An insectivorous bat model to investigate Middle East respiratory syndrome coronavirus infection dynamics, tissue tropism, antiviral immunity and persistence”
 - **9:45 – 10:00 am** – *Peter Cresswell, Yale University*  
   “Adaptations to the MHC-I antigen processing pathway in bats”
 
@@ -85,7 +85,7 @@ _Feel free to eat in the lecture hall, in the lobby of Ida Noyes Hall, or out fr
 - **1:45 – 1:50 pm** – *William H. Carr, Medgar Evers College (CUNY)*  
   “MENTOR - Multiplex Embedding of Networks for Team-Based Omics Research analysis identifies potential novel mechanisms for regulating anti-viral immunity in the cave nectar bat”
 - **1:50 – 1:55 pm** – *Kaushal Baid, VIDO, University of Saskatechwan*  
-  (may be presented by labmate Victoria Gonzalez)
+  *(may be presented by labmate Victoria Gonzalez)* <br>
   “Early innate immune response and evolution of a SARS-CoV-2 furin cleavage site inactive variant in bat cells”
 - **1:55 – 2:00 pm** – *Vincent Caval, Institut Pasteur, Paris, France*  
   “Bat antiviral effectors: from comparative transcriptomic analysis to functional studies”
