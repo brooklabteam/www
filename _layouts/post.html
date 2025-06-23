@@ -16,4 +16,8 @@ pagination:
   </div>
 </article>
 
+{% if page.link %}
+  <p><a class="external-link" href="{{ page.link }}">Original article</a></p>
+{% endif %}
+
 <a href="/news">Back to News</a>
