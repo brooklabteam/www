@@ -4,8 +4,6 @@ title: BatID 2025 Schedule
 permalink: /programs/bat-id-2025/schedule
 ---
 
-# BatID 2025 Conference Program
-
 ### Wednesday, July 9, 2025
 
 **5:00 – 7:00 pm**  
@@ -222,6 +220,8 @@ _Lunch_
 **3:30 – 4:30 pm**  
 Open Discussion – _Final planning for Conference Proceedings Paper_
 
-**4:45 – 7:00 pm**  
+**4:45 – 7:00 pm**
 **Closing Social Hour** at *The Pub*
+
+<p><a href="/programs/bat-id-2025">Back to the main BatID 2025 page</a></p>
 
