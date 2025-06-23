@@ -8,7 +8,7 @@ permalink: /programs/bat-id-2025
 -->
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
-<p>This page last updated June 22, 2025.</p>
+<p>This page last updated June 23, 2025.</p>
 </div>
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
@@ -102,27 +102,23 @@ MDW is a little closer to UChicago and therefore our recommendation if you are a
 #### 🍽 Hyde Park Dining
 Some recommended local restaurants that are unlikely to require reservations include:
 
-**South of the Midway**
+- **South of the Midway**
+  - [Truth Be Told](https://www.truthbetoldtavern.com) 
+  - [Bar David](https://bardavid.uchicago.edu) 
 
-- [Truth Be Told](https://www.truthbetoldtavern.com) 
-- [Bar David](https://bardavid.uchicago.edu) 
+- **57th Street**
+  - [Medici on 57th](https://www.truthbetoldtavern.com) 
+  - [Noodles Etc](https://bardavid.uchicago.edu) 
 
-**57th Street**
+- **55th Street**
+  - [Nella Pizza e Pasta](https://nellachicago.com) 
+  - [The Nile Hyde Park](https://www.nilehydepark.com) 
+  - [Woodlawn Tap “Jimmy’s”](https://chibarproject.com/reviews/woodlawntap/) 
 
-- [Medici on 57th](https://www.truthbetoldtavern.com) 
-- [Noodles Etc](https://bardavid.uchicago.edu) 
-
-**55th Street**
-
-- [Nella Pizza e Pasta](https://nellachicago.com) 
-- [The Nile Hyde Park](https://www.nilehydepark.com) 
-- [Woodlawn Tap “Jimmy’s”](https://chibarproject.com/reviews/woodlawntap/) 
-
-**53rd Street**
-
-- [Giorodano’s Pizza](https://giordanos.com/locations/hyde-park/) 
-- [Pizza Capri](https://www.pizzacapri.com/hyde-park/) 
-- [Strings Ramen](https://www.stringsramen.com) 
+- **53rd Street**
+  - [Giorodano’s Pizza](https://giordanos.com/locations/hyde-park/) 
+  - [Pizza Capri](https://www.pizzacapri.com/hyde-park/) 
+  - [Strings Ramen](https://www.stringsramen.com) 
 
 #### 📝 Additional useful information
  
