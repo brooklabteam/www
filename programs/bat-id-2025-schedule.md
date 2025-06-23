@@ -21,12 +21,12 @@ Registration open in [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
-**Opening Remarks** – Cara Brook, UC Berkeley
+**Opening Remarks** – Cara Brook, University of Chicago
 
 ---
 
 ### Session 1: Bat immunology and within-host dynamics  
-**Moderator:** Cara Brook, UC Berkeley
+**Moderator:** Cara Brook, University of Chicago
 
 #### Plenary 1
 *(25 min + 5 min Q&A)*
@@ -146,7 +146,7 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 ## Friday, July 11, 2025
 
 **8:00 – 8:10 am**  
-**Day 2 Opening Remarks** – Cara Brook, UC Berkeley
+**Day 2 Opening Remarks** – Cara Brook, University of Chicago
 
 ---
 
