@@ -34,6 +34,7 @@ Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://map
 ##### Theme I: Bat immunology and within-host dynamics
 
 Session Chair, part 1: [Dr. Cara Brook](https://brooklab.org), University of Chicago
+
 Session Chair, part 2: [Dr. Karen Sears](https://www.searslab.eeb.ucla.edu), University of California-Los Angeles 
 
 Plenary Speaker: [Dr. Liliana Davalos](https://lmdavalos.github.io), Stony Brook University
