@@ -17,7 +17,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 ---
 
-### Scientific Program
+### Program Overview
 
 #### Wednesday, July 9, 2025
 
@@ -33,7 +33,8 @@ Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://map
 
 ##### Theme I: Bat immunology and within-host dynamics
 
-Session Chair: [Dr. Cara Brook](https://brooklab.org), University of Chicago
+Session Chair, part 1: [Dr. Cara Brook](https://brooklab.org), University of Chicago
+Session Chair, part 2: [Dr. Karen Sears](https://www.searslab.eeb.ucla.edu), University of California-Los Angeles 
 
 Plenary Speaker: [Dr. Liliana Davalos](https://lmdavalos.github.io), Stony Brook University
 
@@ -45,12 +46,13 @@ Plenary Speaker: [Dr. Benhur Lee](https://leelabvirus.host/about), Icahn School 
 
 ##### Poster Session
 
-- **All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.**
-- 4:30-5:15 pm. **Odd number posters.**
-- 5:15-6:00 pm. **Even number posters.**
-- Drinks and hors d'oeuvres provided during poster session. Dinner to follow Thursday evening will be self-organized. See restaurant recommendations below. 
+- All posters will need to fit on an easel that measures 40x32 inches.
+- Drinks and hors d'oeuvres provided during poster session. 
+- Dinner to follow Thursday evening will be self-organized. See restaurant recommendations below. 
 
 #### Friday, July 11, 2025
+
+Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 
 ##### Theme III: Bat pathogen persistence and transmission dynamics
 
@@ -73,9 +75,26 @@ Plenary Speaker: [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kings
 ##### Open Discussion
 
 - We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. 
-- 4:45 – 7:00 pm. Closing Social Hour at [The Pub at Ida Noyes Hall.](https://uofcpub.com) **Food and drink available for purchase.**
+- 4:45 – 7:00 pm. Closing Social Hour at [The Pub at Ida Noyes Hall.](https://uofcpub.com)
+  - *Food and drink available for purchase.*
 
 ---
+
+#### 🏠 Lodging
+
+Conference attendees who have not already booked dormitory lodging should book alternative lodging options independently.
+
+There are **three hotels** available in the Hyde Park, Chicago area, which can be accessed easily on foot from the University of Chicago: the [Sophy](https://sophyhotel.com/), the [Hyatt Place Chicago-South](https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center), and the [Study](https://www.thestudyatuniversityofchicago.com).
+
+A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the [Metric Electric](https://ridertools.metrarail.com) lightrail (at the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street)).
+
+#### ✈️ Travel
+
+Two international airports offer easy metro/lightrail access to the University of Chicago: [O'Hare International Airport (ORD)](https://www.flychicago.com/ohare/home/pages/default.aspx) and [Midway International Airport (MDW)](https://www.flychicago.com/midway/home/pages/default.aspx).
+
+MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
+
+**Getting here:** The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) ["L"](https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png) to the Loop, then transfer to the [ Metra Electric](https://metra.com/train-lines/me) at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the [51st/53rd St. Hyde Park stop](https://metra.com/train-lines/stations/51st53rd-st-hyde-park) or the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street) to walk to your lodging.
 
 #### 🍽 Hyde Park Dining
 Some recommended local restaurants that are unlikely to require reservations include:
@@ -101,24 +120,6 @@ Some recommended local restaurants that are unlikely to require reservations inc
 - [Giorodano’s Pizza](https://giordanos.com/locations/hyde-park/) 
 - [Pizza Capri](https://www.pizzacapri.com/hyde-park/) 
 - [Strings Ramen](https://www.stringsramen.com) 
-
----
-
-#### 🏠 Lodging
-
-Conference attendees who have not already booked dormitory lodging should book alternative lodging options independently.
-
-There are **three hotels** available in the Hyde Park, Chicago area, which can be accessed easily on foot from the University of Chicago: the [Sophy](https://sophyhotel.com/), the [Hyatt Place Chicago-South](https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center), and the [Study](https://www.thestudyatuniversityofchicago.com).
-
-A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the [Metric Electric](https://ridertools.metrarail.com) lightrail (at the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street)).
-
-#### ✈️ Travel
-
-Two international airports offer easy metro/lightrail access to the University of Chicago: [O'Hare International Airport (ORD)](https://www.flychicago.com/ohare/home/pages/default.aspx) and [Midway International Airport (MDW)](https://www.flychicago.com/midway/home/pages/default.aspx).
-
-MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
-
-**Getting here:** The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) ["L"](https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png) to the Loop, then transfer to the [ Metra Electric](https://metra.com/train-lines/me) at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the [51st/53rd St. Hyde Park stop](https://metra.com/train-lines/stations/51st53rd-st-hyde-park) or the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street) to walk to your lodging.
 
 #### 📝 Additional useful information
  

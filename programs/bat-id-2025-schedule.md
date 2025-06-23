@@ -12,7 +12,7 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 
 ---
 
-### Thursday, July 10, 2025
+## Thursday, July 10, 2025
 
 Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 
@@ -21,18 +21,21 @@ Registration open in [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
-**Opening Remarks** – *Cara Brook, UC Berkeley*
+**Opening Remarks** – Cara Brook, UC Berkeley
 
 ---
 
-## Session 1: Bat immunology and within-host dynamics  
+### Session 1: Bat immunology and within-host dynamics  
 **Moderator:** Cara Brook, UC Berkeley
 
-**8:15 – 8:45 am**  
-**Plenary 1** (25 min + 5 min Q&A) – *Liliana Davalos, Stony Brook University*  
+#### Plenary 1
+*(25 min + 5 min Q&A)*
+
+**8:15 – 8:45 am** – *Liliana Davalos, Stony Brook University*  
 “Demographic circumstances necessary to explain unique bat (immune) adaptations”
 
-### Short Talks (12 min + 3 min Q&A)
+#### Short Talks 
+*(12 min + 3 min Q&A)*
 
 - **8:45 – 9:00 am** – *Matae Ahn, LKC Medicine, Nanyang Technology University, Singapore*  
   “Bat-inspired new targets to fight infectious diseases and beyond”
@@ -66,15 +69,16 @@ _Feel free to eat in the lecture hall, in the lobby of Ida Noyes Hall, or out fr
 
 ---
 
-**Session 1 (continued)**  
-**Moderator:** Karen Sears, UCLA
+#### Session 1 (continued)
+**Moderator:** Karen Sears, University of California-Los Angeles
 
 - **1:10 – 1:25 pm** – *Eric M. Poeschla, University of Colorado School of Medicine*  
   “Retroviral restriction in bats: characterization of a specific *Pteropid* post-entry restriction to primate lentiviruses and identification of P. alecto TRIM5 as a functional antiretroviral restriction factor”
 - **1:25 – 1:40 pm** – *Jyoti Batra, Gladstone Institutes*  
   “Mapping SARS-CoV-2 host networks: A comparative analysis in bats and humans”
 
-### Lightning Talks (5 min, no Q&A)
+#### Lightning Talks 
+*(5 min, no Q&A)*
 
 - **1:40 – 1:45 pm** – *Samuel Donaire-Carpio, Institut Pasteur, Paris, France*  
   “Exploring the proteomic landscape of Eptesicus fuscus cells following Rio Bravo Virus infection”
@@ -95,13 +99,17 @@ _Coffee Break and Networking_
 
 ---
 
-## Session 2: Bat pathogen evolution  
+### Session 2: Bat pathogen evolution  
 **Moderator:** Arinjay Banerjee, VIDO, University of Saskatechwan
 
-**2:45 – 3:15 pm**  
-**Plenary 2** (25 min + 5 min Q&A) – *Benhur Lee, Icahn School of Medicine at Mount Sinai*
+#### Plenary 2
+*(25 min + 5 min Q&A)*
 
-### Short Talks (12 min + 3 min Q&A)
+**2:45 – 3:15 pm**  – *Benhur Lee, Icahn School of Medicine at Mount Sinai*
+
+
+#### Short Talks 
+*(12 min + 3 min Q&A)*
 
 - **3:15 – 3:30 pm** – *Olivia Cords, UC Davis School of Veterinary Medicine*  
   “Ecological drivers of cross-species coronavirus transmission in bats”
@@ -112,18 +120,22 @@ _Coffee Break and Networking_
 - **4:00 – 4:15 pm** – *Hannah J. Eiseman, Tulane University*  
   “Patterns and drivers of hemispheric differences in global bat-viral diversity”
 
-### Lightning Talks (5 min. No Q&A)
+#### Lightning Talks 
+*(5 min. No Q&A)*
 
 - **4:15 – 4:20 pm** – *Robert Cohen, Uniformed Services University of Health Sciences*  
   “Ebolavirus evolution and emergence are associated with land use change”
 - **4:20 – 4:25 pm** – *Annabel Anyang, University of Utah*  
   “The role of intermediate hosts in the molecular evolution of zoonotic coronaviruses”
 
+---
+
+### Poster Session
 **4:30 – 6:00 pm**
-**Poster Session**
-- **All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.**
-- Odd numbers: 4:30 – 5:15 pm
-- Even numbers: 5:15 – 6:00 pm
+
+- All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.
+- Odd number posters: *4:30 – 5:15 pm*
+- Even number posters: *5:15 – 6:00 pm*
 _Drinks and hors d'oeuvres provided_
 
 **Dinner**  
@@ -131,20 +143,22 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 ---
 
-### Friday, July 11, 2025
+## Friday, July 11, 2025
 
 **8:00 – 8:10 am**  
-**Day 2 Opening Remarks** – *Cara Brook, UC Berkeley*
+**Day 2 Opening Remarks** – Cara Brook, UC Berkeley
 
 ---
 
-## Session 4: Bat Pathogen Persistence & Transmission Dynamics  
+### Session 4: Bat Pathogen Persistence & Transmission Dynamics  
 **Moderator:** Daniel Becker, University of Oklahoma
 
-**8:10 – 8:40 am**  
-**Plenary 4** (25 min + 5 min Q&A) – *Daniel Streicker, University of Glasgow*
+#### Plenary 4
+*(25 min + 5 min Q&A)*
 
-### Short Talks
+**8:10 – 8:40 am** – *Daniel Streicker, University of Glasgow*
+
+#### Short Talks
 
 - **8:40 – 8:55 am** – *Gwen Kettenburg, University of Chicago*  
   “The dynamics of henipavirus persistence in wild, Madagascar fruit bats”
@@ -165,7 +179,8 @@ _Coffee Break and Networking_
 - **10:45 – 11:00 am** – *Benny Borremans, Wildlife Health Ecology Research Organization*  
   “Reconstructing prevalence dynamics from pooled and individual samples”
 
-### Lightning Talks (5 min. No Q&A)
+#### Lightning Talks 
+*(5 min. No Q&A)*
 
 - **11:00 – 11:05 am** – *Maya Weinberg, University of Cambridge, University of Essex UK*  
   “Bats as bacterial reservoirs - Unravelling Staphylococcus aureus dynamics in Rousettus fruit bats”
@@ -179,13 +194,16 @@ _Lunch_
 
 ---
 
-## Session 3: Bat pathogen discovery  
+### Session 3: Bat pathogen discovery  
 **Moderator:** Stephanie Seifert, Washington State University
 
-**12:45 – 1:15 pm**  
-**Plenary 4** (25 min + 5 min Q&A) – *Simon Anthony, UC Davis*
+#### Plenary 4
+*(25 min + 5 min Q&A)*
 
-### Lightning Talks
+**12:45 – 1:15 pm**  – *Simon Anthony, University of California-Davis*
+
+#### Lightning Talks
+*(5 min. No Q&A)*
 
 - **1:15 – 1:20 pm** – *Caleb Huntington, UC Davis*  
   “Building out our toolkit: environmental air sampling for wildlife viral surveillance”
@@ -198,13 +216,14 @@ _Lunch_
 
 ---
 
-## Session 5: Reconciling bat infectious diseases and conservation
+### Session 5: Reconciling bat infectious diseases and conservation
 **Moderator:** Hannah Frank, Tulane University
 
 **1:40 – 2:10 pm**  
 **Plenary 5** Plenary 5 (25 min + 5 min Q&A) – *Tigga Kingston, Texas Tech University*
 
-### Short Talks (12 min + 3 min Q&A)
+#### Short Talks
+*(12 min + 3 min Q&A)*
 
 - **2:10 – 2:25 pm** – *AKM Dawlat Khan, IEDCR, Bangladesh*  
   “Bats as beneficial animals: Perceptions and public health implications in a bat-hunting community of Bangladesh”
