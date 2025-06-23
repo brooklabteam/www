@@ -64,7 +64,7 @@ Bonus traits include:
 * interest in science communication, outreach, or writing
 * French and/or Malagasy language skills
 
-**Candidates who do not meet the above requirements will not be automatically discarded but will need to justify their interest in this position and commitment to catching up on the necessary skills in their application.** Please do not hesitate to reach out to Cara Brook at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) with any questions or concerns.
+**Candidates who do not meet the above requirements will not be automatically discarded but will need to justify their interest in this position and commitment to catching up on the necessary skills in their application.** Please do not hesitate to reach out to Cara Brook at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) with any questions or concerns.
 
 ---
 

@@ -31,7 +31,7 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 
 <!--
-**As a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to [Cara Brook](mailto:cbrook@uchicago.edu) directly.**
+**As a result of our NIH DP2 award, we are currently eligible to apply for an [NIH Research Supplement to Promote Diversity in Health-Related Research](https://grants.nih.gov/grants/guide/pa-files/PA-23-189.html). These supplements can support individuals at the high school, post-bacc, graduate, or postdoc level. If you are interested in joining the lab and believe you might be eligible for one of these supplements, please reach out to [Cara Brook](mailto:cbrook@berkeley.edu) directly.**
 
 -->
 
@@ -62,7 +62,7 @@ Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkel
 
 <h2>Postdocs</h2>
 
-**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](https://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. UC Berkeley offers a range of fellowship opportunities; please feel free to reach out at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) if you are interested in developing a fellowship application to join the group.
+**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](https://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. UC Berkeley offers a range of fellowship opportunities; please feel free to reach out at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) if you are interested in developing a fellowship application to join the group.
 
 --- 
 
@@ -75,7 +75,7 @@ Undergraduates wishing to conduct summer research should explore funding opportu
 
 Additionally, students may apply for support to offset living expenses through UC Berkeley's undergraduate research and internship programs, which offer multiple deadlines throughout the year. Research in an on-campus lab is not the primary goal of every program, so students are encouraged to clarify their intentions with program advisors before submitting an application. The URAP program outlined above is often a good fit overall.
 
-If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
+If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
 
 --- 
 
@@ -84,7 +84,7 @@ If you are an undergrad with an interest in applying for one of these opportunit
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-We just closed applications for another one-year Ekipa Fanihy Field Technician position, with a planned start date in May 2025. Please see the [field technician](/join/field-technician) page for a description of the job postin. We will likely search again in September 2025 for a new technician to start in January 2026. Please contact Cara Brook at [cbrook@uchicago.edu](mailto:cbrook@uchicago.edu) with any questions.
+We just closed applications for another one-year Ekipa Fanihy Field Technician position, with a planned start date in May 2025. Please see the [field technician](/join/field-technician) page for a description of the job postin. We will likely search again in September 2025 for a new technician to start in January 2026. Please contact Cara Brook at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) with any questions.
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
 
