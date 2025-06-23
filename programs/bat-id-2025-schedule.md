@@ -7,8 +7,8 @@ permalink: /programs/bat-id-2025/schedule
 ### Wednesday, July 9, 2025
 
 **5:00 – 7:00 pm**  
-Registration open at Nichols Park picnic tables on 53rd Street.  
-_Food and drink available for purchase next door at Small Cheval._
+Registration open at [Nichols Park picnic tables](https://maps.app.goo.gl/79L5AXsw3uapcDYw6) on 53rd Street.  
+_Food and drink available for purchase next door at [Small Cheval](https://smallcheval.com/locations/hyde-park)._
 
 ---
 
@@ -17,7 +17,7 @@ _Food and drink available for purchase next door at Small Cheval._
 Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 
 **7:00 – 8:00 am**
-Registration open in Ida Noyes Hall.
+Registration open in [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7).
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
@@ -25,19 +25,19 @@ _Coffee and pastries provided._
 
 ---
 
-## Session 1: Bat Immunology and Within-Host Dynamics  
+## Session 1: Bat immunology and within-host dynamics  
 **Moderator:** Cara Brook, UC Berkeley
 
 **8:15 – 8:45 am**  
-**Plenary 1** – *Liliana Davalos, Stony Brook University*  
+**Plenary 1** (25 min + 5 min Q&A) – *Liliana Davalos, Stony Brook University*  
 “Demographic circumstances necessary to explain unique bat (immune) adaptations”
 
 ### Short Talks (12 min + 3 min Q&A)
 
-- **8:45 – 9:00 am** – *Matae Ahn, LKC Medicine, NTU Singapore*  
+- **8:45 – 9:00 am** – *Matae Ahn, LKC Medicine, Nanyang Technology University, Singapore*  
   “Bat-inspired new targets to fight infectious diseases and beyond”
 - **9:00 – 9:15 am** – *Ken Field, Bucknell University*  
-  “Humoral immune responses to Ebolavirus antigens in little epauletted fruit bats…”
+  “Humoral immune responses to Ebolavirus antigens in little epauletted fruit bats (*Epomophorus labiatus*) show evidence of disease tolerance towards RNA-virus sensing pathways”
 - **9:15 – 9:30 am** – *Sarah van Tol, NIH/NIAID Rocky Mountain Labs*  
   “Filovirus – bat compatibility is spectral”
 - **9:30 – 9:45 am** – *Arinjay Banerjee, VIDO, University of Saskatchewan*  
@@ -48,76 +48,76 @@ _Coffee and pastries provided._
 **10:00 – 10:35 am**  
 Coffee Break and Networking
 
-### Continued Short Talks
-
-- **10:35 – 10:50 am** – *Nolwenn Jouvenet, Institut Pasteur*  
-  “BANAL-236 virus evasion in Rhinolophus cells”
+- **10:35 – 10:50 am** – *Nolwenn Jouvenet, Institut Pasteur, Paris, France*  
+  “Entry, replication and innate immunity evasion of BANAL-236, a SARS-CoV-2-related bat virus, in *Rhinolophus* cells”
 - **10:50 – 11:05 am** – *Hannah Frank, Tulane University*
 - **11:05 – 11:20 am** – *Lea Gaucherand, CNRS - University of Strasbourg - IBMC*  
-  “Role of Dicer in bat antiviral immunity”
-- **11:20 – 11:35 am** – *Rita M. Quintela-Tizon, VIDO*  
-  “Interferon beta specificity in humans vs bats”
+  “Deciphering the role of the Dicer protein in bat antiviral immunity” 
+- **11:20 – 11:35 am** – *Rita M. Quintela-Tizon, VIDO, University of Saskatchewan*  
+  “Interferon beta specificity in humans and bats contributes to differences in viral replication and tolerance”
 - **11:35 – 11:50 am** – *Daniel Becker, University of Oklahoma*  
-  “Viral relapse and spring migration”
-- **11:55 – 12:05 pm** – *Lane Pierson, Case Western Reserve University*  
-  “Species-specific differences in STING functionality”
+  “Viral relapse is driven by the immunological costs of spring migration in wild bats”
+- **11:55 – 12:05 pm** – *Lane Pierson, Case Western Reserve University School of Medicine*  
+  “Testing of bat STING orthologs reveals species specific differences in STING functionality”
 
 **12:05 – 1:10 pm**  
-_Lunch (boxed lunches provided; eat in lecture hall, lobby, or lawn)_
+_Boxed lunches will be provided._
+_Feel free to eat in the lecture hall, in the lobby of Ida Noyes Hall, or out front on the lawn._
 
 ---
 
 **Session 1 (continued)**  
 **Moderator:** Karen Sears, UCLA
 
-- **1:10 – 1:25 pm** – *Eric M. Poeschla, University of Colorado*  
-  “Retroviral restriction in bats and TRIM5”
+- **1:10 – 1:25 pm** – *Eric M. Poeschla, University of Colorado School of Medicine*  
+  “Retroviral restriction in bats: characterization of a specific *Pteropid* post-entry restriction to primate lentiviruses and identification of P. alecto TRIM5 as a functional antiretroviral restriction factor”
 - **1:25 – 1:40 pm** – *Jyoti Batra, Gladstone Institutes*  
-  “Mapping SARS-CoV-2 host networks in bats vs humans”
+  “Mapping SARS-CoV-2 host networks: A comparative analysis in bats and humans”
 
 ### Lightning Talks (5 min, no Q&A)
 
-- **1:40 – 1:45 pm** – *Samuel Donaire-Carpio, Institut Pasteur*  
-  “Eptesicus fuscus proteomics after Rio Bravo Virus infection”
-- **1:45 – 1:50 pm** – *William H. Carr, CUNY*  
-  “MENTOR: Omics networks in cave nectar bats”
-- **1:50 – 1:55 pm** – *Kaushal Baid, VIDO*  
-  “SARS-CoV-2 variant in bat cells”
-- **1:55 – 2:00 pm** – *Vincent Caval, Institut Pasteur*  
-  “Bat antiviral effectors”
+- **1:40 – 1:45 pm** – *Samuel Donaire-Carpio, Institut Pasteur, Paris, France*  
+  “Exploring the proteomic landscape of Eptesicus fuscus cells following Rio Bravo Virus infection”
+- **1:45 – 1:50 pm** – *William H. Carr, Medgar Evers College (CUNY)*  
+  “MENTOR - Multiplex Embedding of Networks for Team-Based Omics Research analysis identifies potential novel mechanisms for regulating anti-viral immunity in the cave nectar bat”
+- **1:50 – 1:55 pm** – *Kaushal Baid, VIDO, University of Saskatechwan*  
+  (may be presented by labmate Victoria Gonzalez)
+  “Early innate immune response and evolution of a SARS-CoV-2 furin cleavage site inactive variant in bat cells”
+- **1:55 – 2:00 pm** – *Vincent Caval, Institut Pasteur, Paris, France*  
+  “Bat antiviral effectors: from comparative transcriptomic analysis to functional studies”
 - **2:00 – 2:05 pm** – *Ashley Reers, Tulane University*  
-  “IGH reference sequences in bat immunity”
+  “IGH reference sequences enable investigations and reveal insights into bat-specific immunity”
 - **2:05 – 2:10 pm** – *Amanda Vicente-Santos, University of Oklahoma*  
-  “Ecological predictors of bat immunity”
+  “Ecological and evolutionary predictors of bat immunity”
 
 **2:10 – 2:45 pm**  
 _Coffee Break and Networking_
 
 ---
 
-## Session 2: Bat Pathogen Evolution  
-**Moderator:** Arinjay Banerjee, VIDO
+## Session 2: Bat pathogen evolution  
+**Moderator:** Arinjay Banerjee, VIDO, University of Saskatechwan
 
 **2:45 – 3:15 pm**  
-**Plenary 2** – *Benhur Lee, Icahn School of Medicine at Mount Sinai*
+**Plenary 2** (25 min + 5 min Q&A) – *Benhur Lee, Icahn School of Medicine at Mount Sinai*
 
-### Short Talks
+### Short Talks (12 min + 3 min Q&A)
 
-- **3:15 – 3:30 pm** – *Olivia Cords, UC Davis*  
-  “Ecological drivers of cross-species coronavirus transmission”
+- **3:15 – 3:30 pm** – *Olivia Cords, UC Davis School of Veterinary Medicine*  
+  “Ecological drivers of cross-species coronavirus transmission in bats”
 - **3:30 – 3:45 pm** – *Luis Viquez-R, Bucknell University*  
-  “Bat diversity in viral experimental infections”
+  “Despite the increasing number of studies, bat diversity is underrepresented in viral experimental infection studies”
 - **3:45 – 4:00 pm** – *Phillida Charley, Colorado State University*
-  “MERS-CoV passage selects variant in bats”
+  “MERS-CoV passaged on Jamaican fruit bat cells selects a variant with mutations in Orf5 gene with enhanced infectivity and immunogenicity in bats”
 - **4:00 – 4:15 pm** – *Hannah J. Eiseman, Tulane University*  
-  “Hemispheric patterns in bat-viral diversity”
+  “Patterns and drivers of hemispheric differences in global bat-viral diversity”
 
-### Lightning Talks
+### Lightning Talks (5 min. No Q&A)
 
-- **4:15 – 4:20 pm** – *Robert Cohen, Uniformed Services University*  
-  “Ebolavirus and land use change”
+- **4:15 – 4:20 pm** – *Robert Cohen, Uniformed Services University of Health Sciences*  
+  “Ebolavirus evolution and emergence are associated with land use change”
 - **4:20 – 4:25 pm** – *Annabel Anyang, University of Utah*  
-  “Intermediate hosts in coronavirus evolution”
+  “The role of intermediate hosts in the molecular evolution of zoonotic coronaviruses”
 
 **4:30 – 6:00 pm**
 **Poster Session**
@@ -127,7 +127,7 @@ _Coffee Break and Networking_
 _Drinks and hors d'oeuvres provided_
 
 **Dinner**  
-Self-organized. See main website for recommendations.
+Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 ---
 
@@ -142,86 +142,86 @@ Self-organized. See main website for recommendations.
 **Moderator:** Daniel Becker, University of Oklahoma
 
 **8:10 – 8:40 am**  
-**Plenary 4** – *Daniel Streicker, University of Glasgow*
+**Plenary 4** (25 min + 5 min Q&A) – *Daniel Streicker, University of Glasgow*
 
 ### Short Talks
 
 - **8:40 – 8:55 am** – *Gwen Kettenburg, University of Chicago*  
-  “Henipavirus persistence in Madagascar bats”
+  “The dynamics of henipavirus persistence in wild, Madagascar fruit bats”
 - **8:55 – 9:10 am** – *Tamika Lunn, University of Georgia*  
-  “Shifts in viral load and spillover risk”
-- **9:10 – 9:25 am** – *Vera C. Mols, Erasmus University*  
-  “Coronavirus shedding in Serotine Bat colony”
+  “Periodic shifts in viral load increase risk of spillover from bats”
+- **9:10 – 9:25 am** – *Vera C. Mols, Erasmus University Medical Center*  
+  “Metagenomics reveals recurrent coronavirus shedding pulses in a Serotine Bat maternity colony are not driven by variant introductions or immune escape mutations”
 - **9:25 – 9:40 am** – *Kristian Forbes, University of Arkansas*  
-  “Human-bat interactions in rural Kenya”
+  “Exposure as a prerequisite to spillover: understanding human-bat interactions in houses of rural Kenya”
 - **9:40 – 9:55 am** – *Jon Epstein, One Health Science*  
-  “Co-circulation of multiple viruses in South Asian bats”
+  “Co-circulation dynamics of henipaviruses, filoviruses and rubulaviruses in South Asian bat populations”
 
 **9:55 – 10:30 am**  
 _Coffee Break and Networking_
 
 - **10:30 – 10:45 am** – *Stephanie Seifert, Washington State University*  
-  “Serosurveys in Republic of Congo”
-- **10:45 – 11:00 am** – *Benny Borremans, Wildlife Health Ecology Research Org*  
-  “Prevalence dynamics from pooled vs individual samples”
+  “Longitudinal serosurveys reveal bat-virus dynamics in northern Republic of Congo”
+- **10:45 – 11:00 am** – *Benny Borremans, Wildlife Health Ecology Research Organization*  
+  “Reconstructing prevalence dynamics from pooled and individual samples”
 
-### Lightning Talks
+### Lightning Talks (5 min. No Q&A)
 
-- **11:00 – 11:05 am** – *Maya Weinberg, Cambridge/Essex*  
-  “Staphylococcus aureus in Rousettus bats”
+- **11:00 – 11:05 am** – *Maya Weinberg, University of Cambridge, University of Essex UK*  
+  “Bats as bacterial reservoirs - Unravelling Staphylococcus aureus dynamics in Rousettus fruit bats”
 - **11:05 – 11:10 am** – *Sophia Horigan, University of Chicago*  
-  “Henipavirus spillover in Madagascar”
+  “Seasonal infection dynamics and anthropogenic landscape change drive henipavirus spillover risk from a Malagasy fruit bat”
 - **11:10 – 11:15 am** – *Johnny Uelmen, University of Wisconsin*  
-  “Nipah virus spillover zones in Bangladesh”
+  “Anthropogenic change, bat stress, and ecotonal shifts: Identifying high-risk Nipah virus spillover zones in Bangladesh”
 
 **11:30 am – 12:45 pm**  
 _Lunch_
 
 ---
 
-## Session 3: Bat Pathogen Discovery  
+## Session 3: Bat pathogen discovery  
 **Moderator:** Stephanie Seifert, Washington State University
 
 **12:45 – 1:15 pm**  
-**Plenary 4** – *Simon Anthony, UC Davis*
+**Plenary 4** (25 min + 5 min Q&A) – *Simon Anthony, UC Davis*
 
 ### Lightning Talks
 
 - **1:15 – 1:20 pm** – *Caleb Huntington, UC Davis*  
-  “Environmental air sampling for viral surveillance”
+  “Building out our toolkit: environmental air sampling for wildlife viral surveillance”
 - **1:20 – 1:25 pm** – *Lexi E. Frank, University of Minnesota*  
-  “Nanopore sampling for species identification”
+  “Nanopore adaptive sampling as a rapid molecular barcoding tool for identification of host species and their metacommunities”
 - **1:25 – 1:30 pm** – *Maya Juman, Cambridge University*  
-  “Paramyxovirus discovery in museum collections”
+  “Model-guided paramyxovirus discovery in museum bat collections”
 - **1:30 – 1:35 pm** – *I-Ting Tu, University of Glasgow*  
-  “H5 avian influenza spillover to vampire bats”
+  “Recurrent spillover of H5 avian influenza to vampire bats at the marine-terrestrial interface”
 
 ---
 
-## Session 5: Reconciling Bat Infectious Diseases and Conservation  
+## Session 5: Reconciling bat infectious diseases and conservation
 **Moderator:** Hannah Frank, Tulane University
 
 **1:40 – 2:10 pm**  
-**Plenary 5** – *Tigga Kingston, Texas Tech University*
+**Plenary 5** Plenary 5 (25 min + 5 min Q&A) – *Tigga Kingston, Texas Tech University*
 
-### Short Talks
+### Short Talks (12 min + 3 min Q&A)
 
 - **2:10 – 2:25 pm** – *AKM Dawlat Khan, IEDCR, Bangladesh*  
-  “Public health perceptions in bat-hunting communities”
-- **2:25 – 2:40 pm** – *Abby Rutrough, Texas Tech*  
-  “Field hygiene practices among bat researchers”
+  “Bats as beneficial animals: Perceptions and public health implications in a bat-hunting community of Bangladesh”
+- **2:25 – 2:40 pm** – *Abby Rutrough, Texas Tech University*  
+  “Protecting researchers, protecting bats—norms and control drive bat researchers' intent to adopt field hygiene practices”
 - **2:40 – 2:55 pm** – *Kendra Phelps, University of Minnesota*  
-  “Western Asia Bat Research Network (WABNet)”
-- **2:55 – 3:10 pm** – *Benneth Obitte, Texas Tech*  
-  “Reducing bat meat consumption through behavior change”
+  “The Western Asia Bat Research Network (WABNet): First regional network to integrate bat ecological and virological research”
+- **2:55 – 3:10 pm** – *Benneth Obitte, Texas Tech University*  
+  “Targeting taste and leveraging leadership influence: a behavioral approach to reducing bat meat consumption and zoonotic disease risk”
 - **3:10 – 3:25 pm** – *Natalie Wickenkamp, Colorado State University*  
-  “Genomics of Horseshoe bat species complex”
+  “Genomic insights into a Horseshoe bat (Rhinolophus fumigatus/eloquens) cryptic species complex”
 
 **3:30 – 4:30 pm**  
-Open Discussion – _Final planning for Conference Proceedings Paper_
+_Open Discussion, including final plan for Conference Proceedings Paper._
 
 **4:45 – 7:00 pm**
-**Closing Social Hour** at *The Pub*
+**Closing Social Hour** at *[The Pub](https://uofcpub.com)*
 
 <p><a href="/programs/bat-id-2025">Back to the main BatID 2025 page</a></p>
 

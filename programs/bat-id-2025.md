@@ -26,7 +26,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 #### Thursday, July 10, 2025
 
-Location: [ Cloister Club, Ida Noyes Hall, The University of Chicago ](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
+Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 
 - 7-8 am: Registration open 
 - Coffee and pastries provided 
@@ -34,41 +34,14 @@ Location: [ Cloister Club, Ida Noyes Hall, The University of Chicago ](https://m
 ##### Theme I: Bat immunology and within-host dynamics
 
 Session Chair: [Dr. Cara Brook](https://brooklab.org), University of Chicago
-Plenary Speaker: [Dr. Liliana Davalos](https://lmdavalos.github.io), Stony Brook University
-Additional Speakers:
 
-- Matae Ahn, LKC Medicine, Nanyang Technology University, Singapore
-- Ken Field, Bucknell University 
-- Sarah van Tol, NIH/NIAID Rocky Mountain Labs
-- Arinjay Banerjee, VIDO, University of Saskatchewan 
-- Peter Cresswell, Yale University 
-- Nolwenn Jouvenet, Institut Pasteur, Paris, France
-- Hannah Frank, Tulane University 
-- Lea Gaucherand, CNRS - University of Strasbourg - IBMC
-- Rita M. Quintela-Tizon, VIDO, University of Saskatchewan
-- Daniel Becker, University of Oklahoma 
-- Lane Pierson, Case Western Reserve University School of Medicine 
-- Eric M. Poeschla, University of Colorado School of Medicine
-- Jyoti Batra, Gladstone Institutes
-- Samuel Donaire-Carpio, Institut Pasteur, Paris, France
-- William H. Carr, Medgar Evers College (CUNY)
-- Kaushal Baid, VIDO, University of Saskatechwan 
-- Vincent Caval, Institut Pasteur, Paris, France
-- Ashley Reers, Tulane University
-- Amanda Vicente-Santos, University of Oklahoma 
+Plenary Speaker: [Dr. Liliana Davalos](https://lmdavalos.github.io), Stony Brook University
 
 ##### Theme II: Bat pathogen evolution
 
 Session Chair:  [Dr. Arinjay Banerjee](https://banerjeelab.ca), VIDO, University of Saskatechwan
-Plenary Speaker: [Dr. Benhur Lee](https://leelabvirus.host/about), Icahn School of Medicine at Mount Sinai
-Additional Speakers:
 
-- Olivia Cords, UC Davis School of Veterinary Medicine
-- Luis Viquez-R, Bucknell University 
-- Phillida Charley, Colorado State University 
-- Hannah J. Eiseman, Tulane University 
-- Robert Cohen, Uniformed Services University of Health Sciences 
-- Annabel Anyang, University of Utah 
+Plenary Speaker: [Dr. Benhur Lee](https://leelabvirus.host/about), Icahn School of Medicine at Mount Sinai
 
 ##### Poster Session
 
@@ -82,43 +55,20 @@ Additional Speakers:
 ##### Theme III: Bat pathogen persistence and transmission dynamics
 
 Session Chair: [Dr. Daniel Becker](http://beckerlab.weebly.com), University of Oklahoma
+
 Plenary Speaker: [Dr. Daniel Streicker](https://streickerlab.com), University of Glasgow 
-Additional Speakers:
-
-- Gwen Kettenburg, University of Chicago 
-- Tamika Lunn, University of Georgia 
-- Vera C. Mols, Erasmus University Medical Center 
-- Kristian Forbes, University of Arkansas 
-- Jon Epstein, One Health Science 
-- Stephanie Seifert, Washington State University
-- Benny Borremans, Wildlife Health Ecology Research Organization
-- Maya Weinberg, University of Cambridge, University of Essex UK
-- Sophia Horigan, University of Chicago  
-- Johnny Uelmen, University of Wisconsin
-
 
 ##### Theme IV: Bat pathogen discovery
 
 Session Chair: [Dr. Stephanie Seifert](https://labs.wsu.edu/mezap/), Washington State University 
-Plenary Speaker: [Dr. Simon Anthony](https://anthonylab.vetmed.ucdavis.edu), University of California-Davis 
-Additional Speakers:
 
-- Caleb Huntington, UC Davis 
-- Lexi E. Frank, University of Minnesota 
-- Maya Juman, Cambridge University  
-- I-Ting Tu, University of Glasgow 
+Plenary Speaker: [Dr. Simon Anthony](https://anthonylab.vetmed.ucdavis.edu), University of California-Davis 
 
 ##### Theme V: Reconciling bat infectious diseases and conservation
 
 Session Chair: [Dr. Hannah Frank](https://www.hkfrank.com), Tulane University 
-Plenary Speaker: [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kingston/), Texas Tech University
-Additional Speakers:
 
-- AKM Dawlat Khan, IEDCR, Bangladesh
-- Abby Rutrough, Texas Tech University 
-- Kendra Phelps, University of Minnesota 
-- Benneth Obitte, Texas Tech University 
-- Natalie Wickenkamp, Colorado State University 
+Plenary Speaker: [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kingston/), Texas Tech University
 
 ##### Open Discussion
 
