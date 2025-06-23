@@ -14,7 +14,7 @@ permalink: /programs/bat-id-2025
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
 <p><a href="/programs/bat-id-2025/schedule">View the detailed conference schedule here.</a></p>
-<p>All BatID speakers, please upload your final conference presentation <a href="https://airtable.com/appdHarZm5kC7Fkqf/pag9EQgXT6221ORU3/form">here</a> by <strong> 8 am CT on Wednesday, July 9, 2025.</strong> </p>
+<p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag9EQgXT6221ORU3/form">All BatID speakers, please upload your final conference presentation here</a> by <strong> 8 am CT on Wednesday, July 9, 2025.</strong> </p>
 
 
 ---
