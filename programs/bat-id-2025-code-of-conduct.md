@@ -3,17 +3,17 @@ layout: noheader
 title: Code of Conduct - BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025/conduct
 ---
-This is the code of conduct for <a href="/programs/bat-id-2025">BatID 2025</a>.
+This is the code of conduct for [BatID 2025](/programs/bat-id-2025).
 
 # Code Of Conduct
 
-<strong>This is a living policy, subject to continual refinement and expansion. Last updated February 22, 2025.</strong>
+**This is a living policy, subject to continual refinement and expansion. Last updated February 22, 2025.**
 
 Everyone participating in BatID 2025 is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
 
 Anyone who violates our Code of Conduct may be removed from these spaces at the discretion of the BatID 2025 Organizing Committee.
 
-If you have questions about this policy, or suggestions for ways it might be improved, please contact us at <a href="mailto:batid2025@brooklab.org">batid2025@brooklab.org</a>.
+If you have questions about this policy, or suggestions for ways it might be improved, please contact us at [batid2025@brooklab.org](mailto:batid2025@brooklab.org).
 
 BatID 2025 is committed to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
@@ -37,7 +37,7 @@ If a participant engages in harassing behavior, BatID 2025 may take any action w
 
 ## Reporting and Enforcement
 
-If you are being harassed by a member of the BatID 2025 community, notice that someone else is being harassed, or have any other concerns related to this Code of Conduct, please contact us at <a href="mailto:batid2025@brooklab.org">batid2025@brooklab.org</a> (a distribution list which includes the BatID 2025 Organizing Committee: Dr. Cara Brook, Dr. Arinjay Banerjee, Dr. Daniel Becker, Dr. Hannah Frank, Dr. Stephanie Seifert) or reach out to a member of the Organizing Committee directly.
+If you are being harassed by a member of the BatID 2025 community, notice that someone else is being harassed, or have any other concerns related to this Code of Conduct, please contact us at [batid2025@brooklab.org](mailto:batid2025@brooklab.org) (a distribution list which includes the BatID 2025 Organizing Committee: Dr. Cara Brook, Dr. Arinjay Banerjee, Dr. Daniel Becker, Dr. Hannah Frank, Dr. Stephanie Seifert) or reach out to a member of the Organizing Committee directly.
 
 ## License
 
