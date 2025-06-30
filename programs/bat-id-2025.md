@@ -7,7 +7,7 @@ permalink: /programs/bat-id-2025
 #### Coming to the **University of Chicago, July 9-11, 2025**!
 -->
 <center>
-  <img src="/assets/batid-img/BatIDlogo_bw_trimmed.png" alt="BatID 2025 logo" />
+  <img src="/programs/batid-img/BatIDlogo_bw_trimmed.png" alt="BatID 2025 logo" />
 </center>
 
 <div class="bs-callout bs-callout-info">
