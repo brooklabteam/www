@@ -2,10 +2,9 @@
 layout: noheader
 title: Code of Conduct - BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025/conduct
+ogimage: /programs/batid-img/logo.png
 ---
 This is the code of conduct for [BatID 2025](/programs/bat-id-2025).
-
-# Code Of Conduct
 
 **This is a living policy, subject to continual refinement and expansion. Last updated February 22, 2025.**
 
@@ -44,3 +43,9 @@ If you are being harassed by a member of the BatID 2025 community, notice that s
 This policy is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
 
 This policy is based on resources provided by [XOXO](https://xoxofest.com) and borrows heavily from their published [Code Of Conduct](https://github.com/xoxo/conduct/). It also considers similar policies authored by [Evolution 2025](https://www.evolutionmeetings.org/policies.html) and [ASN](https://www.amnat.org/announcements/SafeEvo.html).
+
+<center>
+  <div class="logo-circle">
+	<img src="/programs/batid-img/logo.png" alt="BatID 2025 logo" />
+  </div>
+</center>

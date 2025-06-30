@@ -2,6 +2,7 @@
 layout: noheader
 title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
+ogimage: /programs/batid-img/logo.png
 ---
 <!--
 #### Coming to the **University of Chicago, July 9-11, 2025**!
@@ -16,6 +17,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <p><a href="/programs/bat-id-2025/schedule">View the detailed conference schedule here.</a></p>
 <p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag9EQgXT6221ORU3/form">All BatID speakers, please upload your final conference presentation here</a> by <strong> 8 am CT on Wednesday, July 9, 2025.</strong> </p>
 
+<p>Please remember our <a href="/programs/bat-id-2025/conduct">Code of Conduct</a>.</p>
 
 ---
 
@@ -137,6 +139,12 @@ Thanks to the support of our **Advisory Committee**:
 - [Dr. Emma Teeling](https://people.ucd.ie/emma.teeling), University College Dublin
 - [Dr. Nancy Simmons](https://www.amnh.org/research/staff-directory/nancy-b-simmons), American Museum of Natural History
 - [Dr. Hector Aguilar-Carreño](https://sites.google.com/view/aguilarlab/home), Cornell University
+
+<center>
+  <div class="logo-circle">
+    <img src="/programs/batid-img/logo.png" alt="BatID 2025 logo" />
+  </div>
+</center>
 
 <!--
 

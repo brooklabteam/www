@@ -2,8 +2,8 @@
 layout: noheader
 title: BatID 2025 Schedule
 permalink: /programs/bat-id-2025/schedule
+ogimage: /programs/batid-img/logo.png
 ---
-
 ### Wednesday, July 9, 2025
 
 **5:00 – 7:00 pm**  
@@ -244,3 +244,8 @@ _Open Discussion, including final plan for Conference Proceedings Paper._
 
 <p><a href="/programs/bat-id-2025">Back to the main BatID 2025 page</a></p>
 
+<center>
+  <div class="logo-circle">
+    <img src="/programs/batid-img/logo.png" alt="BatID 2025 logo" />
+  </div>
+</center>
