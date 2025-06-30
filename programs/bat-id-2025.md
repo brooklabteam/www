@@ -17,7 +17,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 <p><a href="/programs/bat-id-2025/schedule">View the detailed conference schedule here.</a></p>
 <p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag9EQgXT6221ORU3/form">All BatID speakers, please upload your final conference presentation here</a> by <strong> 8 am CT on Wednesday, July 9, 2025.</strong> </p>
 
-<p><a href="/programs/bat-id-2025/conduct">Please remember our <strong>Code of Conduct</strong>.</a></p>
+<p>Please remember our <a href="/programs/bat-id-2025/conduct">Code of Conduct</a>.</p>
 
 ---
 
