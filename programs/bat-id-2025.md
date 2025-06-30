@@ -8,7 +8,7 @@ permalink: /programs/bat-id-2025
 -->
 <center>
   <div class="logo-circle">
-    <img src="/programs/batid-img/BatIDlogo_bw_trimmed.png" alt="BatID 2025 logo" height="200px" />
+    <img src="/programs/batid-img/BatIDlogo_bw_trimmed.png" alt="BatID 2025 logo" />
   </div>
 </center>
 
