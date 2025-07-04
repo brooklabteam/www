@@ -4,6 +4,7 @@ title: Ekipa Fanihy releases the Rousettus madagascariensis genome open-access w
 date: 2020-02-03 01:00:00 +0300
 description:  
 img: rousettus_madagascariensis.JPG # Add image post (optional)
+alt: Rousettus madagascariensis fruit bat.
 tags: [bats, genomics] # add tag
 link: https://www.dnazoo.org/post/rousette_bats_a_coronavirus_reservoir
 sitemap: false

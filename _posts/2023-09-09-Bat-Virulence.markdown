@@ -4,6 +4,7 @@ title: New paper offers a mechanism for the extreme virulence of bat virus zoono
 date: 2023-09-09 01:00:00 -0700
 description:  (optional)
 img: Brook2023PLoSBio.jpg
+alt: Cover image from Brook et al. 2023 PLoS Biology article.
 tags: [bat, virus, virulence, tradeoff theory] # add tag
 permalink: /news/bat-virus-virulence
 ---

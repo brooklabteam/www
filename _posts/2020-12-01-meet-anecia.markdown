@@ -4,6 +4,7 @@ title: Meet Anecia Gentles!
 date: 2020-12-01 01:00:00 -0700
 description:  (optional)
 img: anecia_gentles.jpg # Add image post (optional)
+alt: Portrait of Anecia Gentles.
 tags: [bats, Madagascar, women in science] # add tag
 permalink: /news/meet-anecia
 ---

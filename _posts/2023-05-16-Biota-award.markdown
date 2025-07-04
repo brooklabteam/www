@@ -4,6 +4,7 @@ title: Cara wins Biota award for conservation-related research!
 date: 2023-05-16 01:00:00 -0700
 description:  (optional)
 img: Spotlight-BiotaAwards.jpg
+alt: Banner for the Walder Foundation Biota Awards.
 tags: [Walder Foundation, Biota Awards, grant] # add tag
 permalink: /news/Biota
 ---

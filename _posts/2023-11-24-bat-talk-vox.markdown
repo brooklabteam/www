@@ -4,6 +4,7 @@ title: Cara goes on camera with Vox Science to talk bat physiology and its conse
 date: 2023-11-24 01:00:00 -0700
 description:  (optional)
 img: vox-icon.png
+alt: Vox Science Explained icon.
 tags: [bat, virus] # add tag
 permalink: /news/bat-talk-vox
 ---
