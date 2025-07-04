@@ -14,7 +14,7 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 
 ## Thursday, July 10, 2025
 
-Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
+Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:00 – 8:00 am**
 Registration open in [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7).
@@ -131,11 +131,11 @@ _Coffee Break and Networking_
 ---
 
 ### Poster Session
-**4:30 – 6:00 pm**
+**4:45 – 6:15 pm**
 
 - All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.
-- Odd number posters: *4:30 – 5:15 pm*
-- Even number posters: *5:15 – 6:00 pm*
+- Odd number posters: *4:45 – 5:30 pm*
+- Even number posters: *5:30 – 6:15 pm*
 _Drinks and hors d'oeuvres provided_
 
 **Dinner**  
@@ -160,7 +160,7 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 #### Short Talks
 
-- **8:40 – 8:55 am** – *Gwen Kettenburg, University of Chicago*  
+- **8:40 – 8:55 am** – *Cara Brook, University of Chicago*  
   “The dynamics of henipavirus persistence in wild, Madagascar fruit bats”
 - **8:55 – 9:10 am** – *Tamika Lunn, University of Georgia*  
   “Periodic shifts in viral load increase risk of spillover from bats”
