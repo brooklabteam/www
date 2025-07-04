@@ -124,11 +124,11 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 <div style="clear:both;">&nbsp;</div>
 
-**Mars Woodward** was a post-baccalaureate scholar funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program to work in the Brook Lab. They are now a PhD student working with Dr, Kelly Speer and Dr. Luis Zaman in the Department of Ecology and Evolutionary Biology at the University of Michigan. 
+**Mars Woodward** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab. They are now a PhD student working with Dr, Kelly Speer and Dr. Luis Zaman in the Department of Ecology and Evolutionary Biology at the University of Michigan. 
 
 <div style="clear:both;">&nbsp;</div>
 
-**Freddy Gonzalez** was a post-baccalaureate scholar funded through the [NIH PREP](https://www.nigms.nih.gov/training/PREP) program to work in the Brook Lab. He is now a PhD student in Dr. Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale University.
+**Freddy Gonzalez** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab. He is now a PhD student in Dr. Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale University.
 
 
 <div style="clear:both;">&nbsp;</div>
