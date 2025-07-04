@@ -61,7 +61,7 @@ Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://
 
 ##### Theme III: Bat pathogen persistence and transmission dynamics
 
-Session Chair: [Dr. Daniel Becker](http://beckerlab.weebly.com), University of Oklahoma
+Session Chair: [Dr. Daniel Becker](https://beckerlab.weebly.com), University of Oklahoma
 
 Plenary Speaker: [Dr. Daniel Streicker](https://streickerlab.com), University of Glasgow 
 
