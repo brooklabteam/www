@@ -30,7 +30,7 @@ Bats are the recognized reservoir host of several of the world's most high profi
 
 #### Thursday, July 10, 2025
 
-Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
+Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 - 7-8 am: Registration open 
 - Coffee and pastries provided 
@@ -57,7 +57,7 @@ Plenary Speaker: [Dr. Benhur Lee](https://leelabvirus.host/about), Icahn School 
 
 #### Friday, July 11, 2025
 
-Location: [Cloister Club, Ida Noyes Hall, The University of Chicago](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
+Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 ##### Theme III: Bat pathogen persistence and transmission dynamics
 
