@@ -55,7 +55,7 @@ Per university policy, University of Chicago salaries include medical and retire
 
 ### Research Funding
 
-It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your résumé. A list of small grants with links to websites can be found [here](https://docs.google.com/spreadsheets/d/1z9SNPZm1uGCIqnq5D3jXC35xzpPvCV_VKG3qQ-TEO0I/edit#gid=0) -- please add as you find other opportunities.
+It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your résumé. A list of small grants with links to websites can be found [here](https://docs.google.com/spreadsheets/d/1z9SNPZm1uGCIqnq5D3jXC35xzpPvCV_VKG3qQ-TEO0I/edit) -- please add as you find other opportunities.
 
 ### Personal Development and Personal Equipment
 
