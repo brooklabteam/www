@@ -4,6 +4,7 @@ title: Ekipa Fanihy releases first Madagascar fruit bat genome (Pteropus rufus) 
 date: 2019-11-21 01:00:00 +0300
 description:   
 img: cara_makira.JPG # Add image post (optional)
+alt: Cara Brook with collaborators in Makira, Madagascar.
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://www.dnazoo.org/post/on-the-island-of-madagascar-foxes-fly
 sitemap: false

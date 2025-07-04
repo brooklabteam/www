@@ -4,6 +4,7 @@ title: Cara speaks at ASM Microbe 2024!
 date: 2024-07-03 01:00:00 -0700
 description:  (optional)
 img: ASMlogo.jpg
+alt: American Society for Microbiology logo.
 tags: [ASM, conference] # add tag
 permalink: /news/ASM-Microbe-2024
 ---

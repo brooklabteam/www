@@ -4,6 +4,7 @@ title: Emily publishes first application of VirScan technology to identify virus
 date: 2023-10-01 01:00:00 -0700
 description:  (optional)
 img: bat-virscan.jpg
+alt: Graphic illustrating the bat VirScan antibody study.
 tags: [bat, virus, virscan] # add tag
 permalink: /news/bat-virscan
 ---

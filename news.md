@@ -9,7 +9,7 @@ permalink: /news
 <article class="post">
   <div class="post-image" class="float-start col-md-3">
     <a class="post-thumbnail" href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">
-      <img src="{{"/assets/img/" | prepend: site.baseurl | append : post.img}}" class="img-fluid" />
+      <img src="{{"/assets/img/" | prepend: site.baseurl | append : post.img}}" class="img-fluid" alt="{{ post.alt | default: post.title }}" />
     </a>
   </div>
   <div class="post-content" style="float:left; margin-left:2em; max-width:500px;">

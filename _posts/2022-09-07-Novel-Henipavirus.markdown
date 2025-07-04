@@ -4,6 +4,7 @@ title: Novel henipavirus from the Malagasy fruit bat, Eidolon dupreanum!
 date: 2022-09-07 01:00:00 -0700
 description:  (optional)
 img: eidolon-dupreanum-duped.jpeg
+alt: Eidolon dupreanum fruit bat roost.
 tags: [Madagascar, fruit bats, viral discovery] # add tag
 permalink: /news/novel-henipavirus
 ---

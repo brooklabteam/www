@@ -4,6 +4,7 @@ title: Cara blogged for National Geographic throughout her PhD. Read her doctora
 date: 2016-05-05 00:00:00 +0300
 description: # Add post description (optional)
 img: cara_chameleon.jpg # Add image post (optional)
+alt: Cara Brook with a chameleon during fieldwork.
 tags: [bats, disease ecology, conservation, Madagascar] # add tag
 link: https://blog.nationalgeographic.org/tag/cara-brook/
 sitemap: false

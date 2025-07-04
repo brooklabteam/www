@@ -4,6 +4,7 @@ title: Cara writes for NatGeo about teaching ecological modeling in Madagascar -
 date: 2018-02-13 00:00:00 +0300
 description:  # Add post description (optional)
 img: tsilavo-chameleon.jpg # Add image post (optional)
+alt: Tsilavo Rasolonjatovo holding a chameleon in Madagascar.
 tags: [disease ecology, teaching, madagascar] # add tag
 link: https://blog.nationalgeographic.org/2018/02/13/it-always-starts-with-a-question-teaching-science-in-madagascar/
 sitemap: false
