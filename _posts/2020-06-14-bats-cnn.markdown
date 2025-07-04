@@ -4,7 +4,7 @@ title: Cara appears on CNN special with Anderson Cooper, 'Bats, The Mystery Behi
 date: 2020-06-14 01:00:00 +0300
 description:  (optional)
 img: bats-cnn.jpg # Add image post (optional)
-alt: Screenshot from CNN special ‘Bats: The Mystery Behind COVID-19.’
+alt: 'Screenshot from CNN special ‘Bats: The Mystery Behind COVID-19.’'
 tags: [bats, zoonosis, COVID-19] # add tag
 link: https://cnnpressroom.blogs.cnn.com/2020/06/09/cnn-to-air-special-on-the-connection-between-bats-and-covid-19/
 sitemap: false
