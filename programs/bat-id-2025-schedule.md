@@ -14,10 +14,10 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 
 ## Thursday, July 10, 2025
 
-Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
+Location: [Kent Chemical Laboratory Room 120, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:00 – 8:00 am**
-Registration open in [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).
+Registration open in [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
@@ -64,8 +64,8 @@ Coffee Break and Networking
   “Testing of bat STING orthologs reveals species specific differences in STING functionality”
 
 **12:05 – 1:10 pm**  
-_Boxed lunches will be provided._
-_Feel free to eat in the lecture hall, in the lobby of Ida Noyes Hall, or out front on the lawn._
+_Boxed lunches will be provided._ <br>
+_Feel free to eat in the lecture hall, in the lobby of Kent Chemistry, or out front on the lawn._
 
 ---
 
@@ -132,14 +132,14 @@ _Coffee Break and Networking_
 
 ### Poster Session
 
-Location: [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
+Location: [Ida Noyes Hall, Cloister Club Room](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 
 **4:45 – 6:15 pm**
 
 - All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.
 - Odd number posters: *4:45 – 5:30 pm*
 - Even number posters: *5:30 – 6:15 pm*
-_Drinks and hors d'oeuvres provided_
+- _Drinks and hors d'oeuvres provided_
 
 **Dinner**  
 Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
@@ -148,7 +148,7 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 ## Friday, July 11, 2025
 
-Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
+Location: [Kent Chemical Laboratory Room 120, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 
 **8:00 – 8:10 am**  
