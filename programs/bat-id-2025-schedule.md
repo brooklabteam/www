@@ -131,6 +131,9 @@ _Coffee Break and Networking_
 ---
 
 ### Poster Session
+
+Location: [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
+
 **4:45 – 6:15 pm**
 
 - All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.
@@ -144,6 +147,9 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 ---
 
 ## Friday, July 11, 2025
+
+Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
+
 
 **8:00 – 8:10 am**  
 **Day 2 Opening Remarks** – Cara Brook, University of Chicago
