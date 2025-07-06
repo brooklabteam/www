@@ -17,7 +17,7 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:00 – 8:00 am**
-Registration open in [Ida Noyes Hall](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7).
+Registration open in [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
