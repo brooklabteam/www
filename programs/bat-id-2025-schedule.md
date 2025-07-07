@@ -14,10 +14,10 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 
 ## Thursday, July 10, 2025
 
-Location: [Kent Chemical Laboratory Room 120, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
+Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:00 – 8:00 am**
-Registration open in [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
+Registration open in [Kent Chemical Laboratory Rom 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
@@ -54,6 +54,7 @@ Coffee Break and Networking
 - **10:35 – 10:50 am** – *Nolwenn Jouvenet, Institut Pasteur, Paris, France*  
   “Entry, replication and innate immunity evasion of BANAL-236, a SARS-CoV-2-related bat virus, in *Rhinolophus* cells”
 - **10:50 – 11:05 am** – *Hannah Frank, Tulane University*
+  "From ancient duplication break to new functionality?"
 - **11:05 – 11:20 am** – *Lea Gaucherand, CNRS - University of Strasbourg - IBMC*  
   “Deciphering the role of the Dicer protein in bat antiviral immunity” 
 - **11:20 – 11:35 am** – *Rita M. Quintela-Tizon, VIDO, University of Saskatchewan*  
@@ -105,7 +106,8 @@ _Coffee Break and Networking_
 #### Plenary 2
 *(25 min + 5 min Q&A)*
 
-**2:45 – 3:15 pm**  – *Benhur Lee, Icahn School of Medicine at Mount Sinai*
+**2:45 – 3:15 pm**  – *Benhur Lee, Icahn School of Medicine at Mount Sinai* <br>
+"Paramyxoviruses from bats: receptor tropism and pathogenesis"
 
 
 #### Short Talks 
@@ -150,7 +152,7 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 ## Friday, July 11, 2025
 
-Location: [Kent Chemical Laboratory Room 120, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
+Location: [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 
 **8:00 – 8:10 am**  
@@ -164,12 +166,13 @@ Location: [Kent Chemical Laboratory Room 120, 1020 E 58th St, Chicago, IL 60637]
 #### Plenary 3
 *(25 min + 5 min Q&A)*
 
-**8:10 – 8:40 am** – *Daniel Streicker, University of Glasgow*
+**8:10 – 8:40 am** – *Daniel Streicker, University of Glasgow* <br>
+"Interventions for primary prevention of viral spillover from bats"
 
 #### Short Talks
 
 - **8:40 – 8:55 am** – *Cara Brook, University of Chicago*  
-  “The dynamics of henipavirus persistence in wild, Madagascar fruit bats”
+  “The dynamics of henipavirus circulation and persistence in wild, Madagascar fruit bats”
 - **8:55 – 9:10 am** – *Tamika Lunn, University of Georgia*  
   “Periodic shifts in viral load increase risk of spillover from bats”
 - **9:10 – 9:25 am** – *Vera C. Mols, Erasmus University Medical Center*  
@@ -208,7 +211,8 @@ _Lunch_
 #### Plenary 4
 *(25 min + 5 min Q&A)*
 
-**12:45 – 1:15 pm**  – *Simon Anthony, University of California-Davis*
+**12:45 – 1:15 pm**  – *Simon Anthony, University of California-Davis* <br>
+"Building Predictive Intelligence for Pandemic Prevention"
 
 #### Lightning Talks
 *(5 min. No Q&A)*
@@ -228,7 +232,8 @@ _Lunch_
 **Moderator:** Hannah Frank, Tulane University
 
 **1:40 – 2:10 pm**  
-**Plenary 5** Plenary 5 (25 min + 5 min Q&A) – *Tigga Kingston, Texas Tech University*
+**Plenary 5** Plenary 5 (25 min + 5 min Q&A) – *Tigga Kingston, Texas Tech University* <br>
+"Reconciling bat infectious disease research and conservation: One Health Action Plans for species at the human-bat interface"
 
 #### Short Talks
 *(12 min + 3 min Q&A)*
