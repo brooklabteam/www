@@ -9,12 +9,15 @@ ogimage: /programs/batid-img/logo.png
 -->
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
-<p>This page last updated June 23, 2025.</p>
+<p>This page last updated July 7, 2025.</p>
 </div>
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
 <p><a href="/programs/bat-id-2025/schedule">View the detailed conference schedule here.</a></p>
+
+<p><a href="https://github.com/brooklabteam/www/blob/main/programs/BatID-2025-Final-Abstracts.pdf">Our full list of abstracts is available here.</a></p>
+
 <p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag9EQgXT6221ORU3/form">All BatID speakers, please upload your final conference presentation here</a> by <strong> 8 am CT on Wednesday, July 9, 2025.</strong> </p>
 
 <p>Please remember our <a href="/programs/bat-id-2025/conduct">Code of Conduct</a>.</p>
@@ -50,6 +53,8 @@ Session Chair:  [Dr. Arinjay Banerjee](https://banerjeelab.ca), VIDO, University
 Plenary Speaker: [Dr. Benhur Lee](https://leelabvirus.host/about), Icahn School of Medicine at Mount Sinai
 
 ##### Poster Session
+
+Location: [Ida Noyes Hall, Cloister Club Room](https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7)
 
 - All posters will need to fit on an easel that measures 40x32 inches.
 - Drinks and hors d'oeuvres provided during poster session. 

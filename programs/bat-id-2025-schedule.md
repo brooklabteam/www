@@ -17,7 +17,7 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:00 – 8:00 am**
-Registration open in [Kent Chemical Laboratory Rom 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
+Registration open in [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
@@ -155,7 +155,7 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 Location: [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:30 – 8:00 am**
-Late registration open in [Kent Chemical Laboratory Rom 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
+Late registration open in [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
 _Coffee and pastries provided._
 
 
