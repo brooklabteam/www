@@ -154,6 +154,10 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 
 Location: [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
+**7:30 – 8:00 am**
+Late registration open in [Kent Chemical Laboratory Rom 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
+_Coffee and pastries provided._
+
 
 **8:00 – 8:10 am**  
 **Day 2 Opening Remarks** – Cara Brook, University of Chicago
@@ -231,8 +235,9 @@ _Lunch_
 ### Session 5: Reconciling bat infectious diseases and conservation
 **Moderator:** Hannah Frank, Tulane University
 
-**1:40 – 2:10 pm**  
-**Plenary 5** Plenary 5 (25 min + 5 min Q&A) – *Tigga Kingston, Texas Tech University* <br>
+#### Plenary 5
+*(25 min + 5 min Q&A)*
+**1:40 – 2:10 pm** – *Tigga Kingston, Texas Tech University* <br>
 "Reconciling bat infectious disease research and conservation: One Health Action Plans for species at the human-bat interface"
 
 #### Short Talks
