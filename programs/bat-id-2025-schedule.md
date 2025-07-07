@@ -138,7 +138,7 @@ Location: [Ida Noyes Hall, Cloister Club Room](https://maps.app.goo.gl/mG31rWwLb
 
 **4:45 – 6:15 pm**
 
-- _Drinks and hors d'oeuvres provided_
+- _Drinks and hors d'oeuvres provided throughout the session._
 - All posters will need to fit on an easel that measures 40x32 inches. The easels can be oriented either vertically or horizontally, so you may choose to display your poster in whichever direction suits you best.
 - Upon arrival to the poster hall, all poster presenters will be responsible for finding the numbered easel corresponding to their poster and setting up accordingly.
 - Check your poster number in our [program abstracts](https://uchicago.box.com/s/aix39764d7wh736t993jkzzk0yohkonr)
