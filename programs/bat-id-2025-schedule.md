@@ -54,7 +54,7 @@ Coffee Break and Networking
 - **10:35 – 10:50 am** – *Nolwenn Jouvenet, Institut Pasteur, Paris, France*  
   “Entry, replication and innate immunity evasion of BANAL-236, a SARS-CoV-2-related bat virus, in *Rhinolophus* cells”
 - **10:50 – 11:05 am** – *Hannah Frank, Tulane University*
-  "From ancient duplication break to new functionality?"
+  “From ancient duplication break to new functionality?” 
 - **11:05 – 11:20 am** – *Lea Gaucherand, CNRS - University of Strasbourg - IBMC*  
   “Deciphering the role of the Dicer protein in bat antiviral immunity” 
 - **11:20 – 11:35 am** – *Rita M. Quintela-Tizon, VIDO, University of Saskatchewan*  
@@ -237,6 +237,7 @@ _Lunch_
 
 #### Plenary 5
 *(25 min + 5 min Q&A)*
+
 **1:40 – 2:10 pm** – *Tigga Kingston, Texas Tech University* <br>
 "Reconciling bat infectious disease research and conservation: One Health Action Plans for species at the human-bat interface"
 
