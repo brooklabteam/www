@@ -86,7 +86,7 @@ _Feel free to eat in the lecture hall, in the lobby of Kent Chemistry, or out fr
 - **1:45 – 1:50 pm** – *William H. Carr, Medgar Evers College (CUNY)*  
   “MENTOR - Multiplex Embedding of Networks for Team-Based Omics Research analysis identifies potential novel mechanisms for regulating anti-viral immunity in the cave nectar bat”
 - **1:50 – 1:55 pm** – *Kaushal Baid, VIDO, University of Saskatechwan*  
-  *(may be presented by labmate Victoria Gonzalez)* <br>
+  *(presented by labmate Victoria Gonzalez)* <br>
   “Early innate immune response and evolution of a SARS-CoV-2 furin cleavage site inactive variant in bat cells”
 - **1:55 – 2:00 pm** – *Vincent Caval, Institut Pasteur, Paris, France*  
   “Bat antiviral effectors: from comparative transcriptomic analysis to functional studies”
@@ -127,8 +127,7 @@ _Coffee Break and Networking_
 
 - **4:15 – 4:20 pm** – *Robert Cohen, Uniformed Services University of Health Sciences*  
   “Ebolavirus evolution and emergence are associated with land use change”
-- **4:20 – 4:25 pm** – *Annabel Anyang, University of Utah*  
-  “The role of intermediate hosts in the molecular evolution of zoonotic coronaviruses”
+
 
 ---
 
