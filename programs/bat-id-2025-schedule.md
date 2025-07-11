@@ -260,6 +260,7 @@ _Open Discussion, including final plan for Conference Proceedings Paper._
 
 **4:45 – 7:00 pm**
 **Closing Social Hour** at *[The Pub](https://uofcpub.com)*
+  - *Drinks and snacks provided.*
 
 <p><a href="/programs/bat-id-2025">Back to the main BatID 2025 page</a></p>
 

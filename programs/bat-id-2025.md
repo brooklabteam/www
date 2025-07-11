@@ -9,7 +9,7 @@ ogimage: /programs/batid-img/logo.png
 -->
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
-<p>This page last updated July 9, 2025.</p>
+<p>This page last updated July 10, 2025.</p>
 </div>
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
@@ -86,7 +86,7 @@ Plenary Speaker: [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kings
 
 - We will close the meeting with an Open Discussion of future priorities for the field and plans for a conference proceedings paper. 
 - 4:45 – 7:00 pm. Closing Social Hour at [The Pub at Ida Noyes Hall.](https://uofcpub.com)
-  - *Food and drink available for purchase.*
+  - *Drinks and snacks provided.*
 
 ---
 
