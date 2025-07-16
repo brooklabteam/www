@@ -9,7 +9,7 @@ ogimage: /programs/batid-img/logo.png
 -->
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Thanks all for a great meeting!</p>
-<p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagDaLnFGysQWvEJP/form"><strong>Please fill out the brief survey linked here by July 25, 2025 to help us plan the next BatID.</strong></a></p>
+<p style="font-size: 1.5em;"><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagDaLnFGysQWvEJP/form"><strong>Please fill out the brief survey linked here by July 25, 2025 to help us plan the next BatID.</strong></a></p>
 <p>This page last updated July 16, 2025.</p>
 </div>
 
