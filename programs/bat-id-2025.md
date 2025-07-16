@@ -9,17 +9,22 @@ ogimage: /programs/batid-img/logo.png
 -->
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;">Coming to the <strong>University of Chicago</strong>, from <strong>July 9-11, 2025</strong>!</p>
-<p>This page last updated July 10, 2025.</p>
+<p>This page last updated July 16, 2025.</p>
 </div>
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
+<br>
+
+Thanks all for a great meeting! <p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pagDaLnFGysQWvEJP/form">Please fill out the brief survey linked here by July 25, 2025 to help us plan the next BatID.</a></p>
+
+
 <p><a href="/programs/bat-id-2025/schedule">View the detailed conference schedule here.</a></p>
 
 <p><a href="/programs/BatID-2025-Final-Abstracts.pdf">Our full list of conference abstracts is available for download here.</a></p>
-
+<!--
 <p><a href="https://airtable.com/appdHarZm5kC7Fkqf/pag9EQgXT6221ORU3/form">All BatID speakers, please upload your final conference presentation here</a> by <strong> 8 am CT on Wednesday, July 9, 2025.</strong> </p>
-
+-->
 <p>Please remember our <a href="/programs/bat-id-2025/conduct">Code of Conduct</a>.</p>
 
 ---
