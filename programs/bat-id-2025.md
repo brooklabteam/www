@@ -47,7 +47,7 @@ Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://
 
 ##### Theme I: Bat immunology and within-host dynamics
 
-Session Chair, part 1: [Dr. Cara Brook](https://brooklab.org), University of Chicago
+Session Chair, part 1: [Dr. Cara Brook](https://brooklab.org), UC Berkeley
 
 Session Chair, part 2: [Dr. Karen Sears](https://www.searslab.eeb.ucla.edu), University of California-Los Angeles 
 
@@ -159,7 +159,6 @@ Thanks to the support of our **Advisory Committee**:
 </center>
 
 <!--
-
 <p style="font-size: 1.5em;">**[Scholarship requests](https://airtable.com/appdHarZm5kC7Fkqf/pag1tw65yNV2QcS2a/form)** for registration fee waivers and travel support are due by February 28!</p> 
 
 
@@ -211,8 +210,57 @@ Register for a **conference ticket [here](https://ti.to/batid-2025/conference-re
 
 
 
+<hr />
+
+<h3>Scientific Program</h3>
+
+Conference registration will open the evening of Wednesday, July 9, 2025. Scientific programming will take place over two full day sessions, including talks, a poster session, and a brainstorming session to delineate future research priorities in the field. 
+
+Scientific talks will be organized into five main scientific themes, after the following basic outline:
+<br>
+<h4>Thursday, July 10, 2025</h4>
+
+<h6>Theme I: Bat immunology and within-host dynamics</h6>
+
+Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, UC Berkeley<br />
+Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University
+<br>
+<h6>Theme II: Bat pathogen discovery</h6>
+
+Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br />
+Plenary Speaker: <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis
+<br>
+<h6>Theme III: Bat pathogen evolution</h6>
+
+Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, Vaccine and Infectious Diseases Organization, University of Saskatechwan<br />
+Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai
+<br>
+<br>
+<h4>Friday, July 11, 2025</h4>
+
+<h6>Theme IV: Bat pathogen persistence and transmission dynamics</h6>
+
+Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma<br />
+Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow
+<br>
+<h6>Theme V: Reconciling bat infectious diseases and conservation</h6>
+
+Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
+Plenary Speaker: <a href="https://kingstonlab.org/people/tigga-kingston/">Dr. Tigga Kingston</a>, Texas Tech University
+
+<hr />
+
+Thanks to the support of our <strong>Advisory Committee</strong>:
+<ul>
+<li><a href="https://labs.vetmedbiosci.colostate.edu/schountz/">Dr. Tony Schountz</a>, Colorado State University</li>
+<li><a href="https://plowrightlab.org">Dr. Raina Plowright</a>, Cornell University</li>
+<li><a href="https://frick.eeb.ucsc.edu">Dr. Linfa Wang</a>, Duke-NUS</li>
+<li><a href="https://people.ucd.ie/emma.teeling">Dr. Emma Teeling</a>, University College Dublin</li>
+<li><a href="https://www.amnh.org/research/staff-directory/nancy-b-simmons">Dr. Nancy Simmons</a>, American Museum of Natural History</li>
+<li><a href="https://sites.google.com/view/aguilarlab/home">Dr. Hector Aguilar-Carreño</a>, Cornell University</li>
+</ul>
+
 <div class="bs-callout bs-callout-info">
 <p>Stay tuned for more updates in the days ahead!</p>
 </div>
-
 -->
