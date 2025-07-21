@@ -39,7 +39,7 @@ Twice a year, in August and January, the Brook Lab hosts a meeting in which each
 
 ### Individual Meetings
 
-Students, postdocs, and lab managers who make up the University of Chicago contingent of the lab are expected to attend weekly, half-hour meetings with Cara. These can take place in person or digitally, as you choose, and the timing for these meetings will be set at the beginning of every quarter. The agenda is yours during this time--we can discuss ongoing work, future plans, or anything else you may need. It is also fine to check in to say that there is nothing you need to talk about on a given week. I am also available to meet in impromptu settings at other times during the week for both University of Chicago and University of Antananarivo members of the lab--please don't be shy to ask! 
+Students, postdocs, and lab managers who make up the UC Berkeley contingent of the lab are expected to attend weekly, half-hour meetings with Cara. These can take place in person or digitally, as you choose, and the timing for these meetings will be set at the beginning of every quarter. The agenda is yours during this time--we can discuss ongoing work, future plans, or anything else you may need. It is also fine to check in to say that there is nothing you need to talk about on a given week. I am also available to meet in impromptu settings at other times during the week for both UC Berkeley and University of Antananarivo members of the lab--please don't be shy to ask!
 
 ---
 
@@ -49,9 +49,9 @@ Funding is rarely discussed openly in academic settings but is generally a criti
 
 ### Salary
 
-If you are a University of Chicago postdoc or technician or a University of Antananarivo PhD student, your salary is covered by the lab for the duration of your contract and subject to renewal on an annual basis. If you are a University of Chicago PhD student, you are funded through a combination of departmental funds, training grants, personal fellowships, and grant money from the lab. I expect and encourage all PhD students and postdocs to pursue fellowship opportunities, as grant writing is good practice, and fellowships are prestigious additions to a CV.
+If you are a UC Berkeley postdoc or technician or a University of Antananarivo PhD student, your salary is covered by the lab for the duration of your contract and subject to renewal on an annual basis. If you are a UC Berkeley PhD student, you are funded through a combination of departmental funds, training grants, personal fellowships, and grant money from the lab. I expect and encourage all PhD students and postdocs to pursue fellowship opportunities, as grant writing is good practice, and fellowships are prestigious additions to a CV.
 
-Per university policy, University of Chicago salaries include medical and retirement benefits.
+Per university policy, UC Berkeley salaries include medical and retirement benefits.
 
 ### Research Funding
 
@@ -59,21 +59,21 @@ It is the duty of the PI to support student and postdoc research interests finan
 
 ### Personal Development and Personal Equipment
 
-University of Chicago and University of Antananarivo PhD students, postdocs, and lab technicians working in the Brook Lab will have the opportunity to purchase one computer for personal research use during their tenure in the lab–this can be acquired immediately upon entering the lab or at a later date, as each person sees fit. The exact specifications of the machine will be worked out on a case-by-case basis between the student and the PI. Please be aware that the University of Chicago monitors all computer purchases and registers machines within their network, and all machines must be returned at the end of each individual's tenure within the lab.
+UC Berkeley and University of Antananarivo PhD students, postdocs, and lab technicians working in the Brook Lab will have the opportunity to purchase one computer for personal research use during their tenure in the lab–this can be acquired immediately upon entering the lab or at a later date, as each person sees fit. The exact specifications of the machine will be worked out on a case-by-case basis between the student and the PI. Please be aware that UC Berkeley monitors all computer purchases and registers machines within their network, and all machines must be returned at the end of each individual's tenure within the lab.
 
-Each lab member, both from the University of Chicago and the University of Antananarivo, will have access to $200 annually for personal development (monitors, headphones, books, workshops, etc.), corresponding to the start date of your employment. These funds can roll over from year-to-year, and you will be able to access them in advance for a larger, composite purchase if desired, pending discussion with me regarding available funds. 
+Each lab member, both from UC Berkeley and the University of Antananarivo, will have access to $200 annually for personal development (monitors, headphones, books, workshops, etc.), corresponding to the start date of your employment. These funds can roll over from year-to-year, and you will be able to access them in advance for a larger, composite purchase if desired, pending discussion with me regarding available funds.
 
 ### Conference Travel
 
-University of Chicago PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification. 
+UC Berkeley PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification.
 
 University of Antananarivo PhD students will be funded to attend one international conference per person during the duration of their PhD tenure (conference fees, travel, lodging). If opportunities for domestic conferences that are scientifically relevant arise within Madagascar, the lab will fund attendance to these, as well.
 
-Outside of the Brook lab, University of Chicago graduate students have access to \$500 of "student funds" per year which can compile from year-to-year and can be applied to conferences, travel, electronics, or a variety of other items. Check with Audrey Aronowksy for details.
+Outside of the Brook lab, UC Berkeley graduate students have access to \$500 of "student funds" per year which can compile from year-to-year and can be applied to conferences, travel, electronics, or a variety of other items. Check with departmental staff for details.
 
-Additionally, U-Chicago grad students are eligible to apply for a \$500 travel grant once every calendar year through the Biological Sciences Division (BSD). There is both a fall and a spring deadline for applications, which are solicited via email. Scroll down on [this link](https://biosciences.uchicago.edu/current-students/funding) for details about how to apply.
+Additionally, UC Berkeley grad students are eligible to apply for travel and professional development grants through the Graduate Division. Check the departmental website for details.
 
-University of Chicago postdoctoral scholars are eligible to apply for either a \$500 travel grant for conferences or a \$1000 travel grant for career development workshops through the BSD Office for Postdoctoral Affairs. Applications are solicited annually via email. See details from last year [here](https://bsdpostdoc.uchicago.edu/2019/08/22/2019-2020-bsd-career-advancement-for-postdocs-travel-award/).
+UC Berkeley postdoctoral scholars are eligible to apply for professional development funding through the Visiting Scholar and Postdoc Affairs (VSPA) office. Details are posted annually on the <a href="https://vspa.berkeley.edu/">VSPA website</a>.
 
 ---
 
@@ -83,13 +83,13 @@ Lifestyle freedom is one of the great perks of being an academic, and I do not p
 
 You are entitled to 4 weeks of vacation, 8 designated holidays, and 12 sick days per year per university policy. You can allocate these as you see fit, and I trust you to keep your own calendar--if you work on a Sunday so you can take a Friday off when family is in town, that is perfectly reasonable. For longer vacations, I simply ask that you keep me informed of your plans a month or two in advance. For my own part, I often take vacation as: ~1.5 weeks off around the holidays, ~2 weeks off in the summer, and a smattering of long weekends interspersed throughout the year.
 
-Due to our cross-continental extent, the Brook Lab has many policies in place that support remote work. That said, University of Chicago PhD students and postdocs are expected to live in Chicago to attend courses and participate in departmental and lab activities. Deviations from this practice should be addressed with Cara on a case-by-case basis. 
+Due to our cross-continental extent, the Brook Lab has many policies in place that support remote work. That said, UC Berkeley PhD students and postdocs are expected to live in Berkeley to attend courses and participate in departmental and lab activities. Deviations from this practice should be addressed with Cara on a case-by-case basis.
 
-University of Antananarivo PhD students will be funded to train at the University of Chicago for a minimum of one four week session during the course of their PhD research. These trainings will require significant advance planning and flexibility with timing on the part of the student.
+University of Antananarivo PhD students will be funded to train at UC Berkeley for a minimum of one four week session during the course of their PhD research. These trainings will require significant advance planning and flexibility with timing on the part of the student.
 
 ### Parental Leave
 
-We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of the University of Chicago, as outlined here. That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
+We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of UC Berkeley, as outlined here. That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
 
 ---
 
@@ -97,7 +97,7 @@ We are a family-friendly lab with several parents on staff. Parental leave durin
 
 Code and data for all projects carried out in the lab must be uploaded to a project folder on our [Brook Lab GitHub](https://github.com/brooklabteam) team platform, where we also store composite datasets available for any lab member to use following clearance from the PI (Cara). Use of lab data resources should be accompanied by a data-sharing discussion with the PI, and it is likely that any members of the lab involved in data collection (in particular those based in Madagascar) will need to be included as co-authors on the associated work. 
 
-We keep track of helpful computing resources and tips (including use of the U-Chicago computing cluster, Midway) [in our team's resources on GitHub](https://github.com/brooklabteam/brooklab-resources).
+We keep track of helpful computing resources and tips (including use of the UC Berkeley computing cluster, Savio) [in our team's resources on GitHub](https://github.com/brooklabteam/brooklab-resources).
 
 Additionally, we also communicate regularly and share progress on Slack.
 
