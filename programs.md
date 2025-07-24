@@ -8,7 +8,7 @@ permalink: /programs
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">BatID 2025</h5>
-        <p class="card-text">The Brook lab will be hosting the International Symposium on the Infectious Diseases of Bats at the University of Chicago, July 9-11, 2025.</p>
+        <p class="card-text">The Brook lab hosted the International Symposium on the Infectious Diseases of Bats at the University of Chicago, July 9-11, 2025.</p>
         <a href="/programs/bat-id-2025" class="btn btn-primary">Learn more</a>
       </div>
     </div>
@@ -19,7 +19,7 @@ permalink: /programs
       <div class="card-body">
         <h5 class="card-title">E<sup>2</sup>M<sup>2</sup></h5>
         <p class="card-text">An introduction to R and workshop introducing the use of dynamical models in understanding ecological and epidemiological data.</p>
-         <p><em>Accepting applications for May 2025  workshop through Dec 13, 2024!</em></p>
+         <p><em>Applications for the next workshop will be released sometime in 2026.</em></p>
         <a href="https://e2m2.org/" class="btn btn-primary">Learn more</a>
       </div>
     </div>

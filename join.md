@@ -6,7 +6,7 @@ permalink: /join
 
 
 <div class="bs-callout bs-callout-info">
-<p>I am recruiting a PhD student to join the Brook lab in fall 2026. Please fill out the <a href="https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form">short expression of interest form linked here</a> if you are interested by Friday, October, 17, 2025!</p>
+<p>I am recruiting a PhD student to join the Brook lab in fall 2026. Please fill out the <a href="https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form">short form linked here</a> to express your interest by Friday, October, 17, 2025!</p>
 <p><em>This page last updated July 23, 2025.</em></p>
 
 </div>
@@ -50,7 +50,7 @@ Please do not feel pressure to spend exorbitant amounts of time on this submissi
 
 Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkeley.edu/) for details on graduate applications.
 
--->
+
 
 ---
 
