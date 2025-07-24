@@ -6,8 +6,8 @@ permalink: /join
 
 
 <div class="bs-callout bs-callout-info">
-<p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch with applicants in the next few weeks!</p>
-<p><em>This page last updated February 21, 2025.</em></p>
+<p>I am recruiting a PhD student to join the Brook lab in fall 2026. Please fill out the <a href="https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form">short expression of interest form linked here</a> if you are interested by Friday, October, 17, 2025!</p>
+<p><em>This page last updated July 23, 2025.</em></p>
 
 </div>
 
@@ -41,16 +41,10 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-**All PhD positions in my group are full at this time.** I am not planning to take on any new students in the fall 2024 application cycle. I may solicit applications in the subsequent year (fall 2025 for a 2026 start), though I have not yet finalized those plans. In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. If you think you would be a good fit, please feel free to reach out, particularly if eligible for the NIH supplement listed above.
+**I am recruiting one PhD student to join my group in fall 2026 (fall 2025 application cycle).**  In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+For recruits to start in AY2026-2027, I am particularly interested in a field-capable graduate student with a strong interest and/or background in international research and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
 
-<!--
-For recruits to start in AY2024-2025, I am particularly interested in students with a strong interest and/or background in international field work and a desire to spend extensive amounts of time in Madagascar. There are also potential opportunities for a field-capable graduate student to lead efforts to launch new bat virus-focused research projects at pilot field sites in the Southwestern US (in collaboration with the [Laverty Lab](https://lavertylab.org/) at NMSU) or in Cambodia (in collaboration with the [ICER Program](https://www.niaid.nih.gov/about/cambodia-icer-program)).
-
-I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
-
-
-
-**If you are interested in joining the Brook Lab in AY2024-2025, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/shr9BK76MwdhBhxlG) prior to midnight on October 13, 2023**.
+**If you are interested in joining the Brook Lab in AY2026-2027, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form) prior to midnight on Friday, October 17, 2025**.
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
 
@@ -71,9 +65,7 @@ Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkel
 
 We have several UC Berkeley undergraduate researchers in the lab at any given time and many small projects available for an interested student. As a policy, I do not allow undergrads to intern without pay, a practice that has been shown to exacerbate inequities in opportunity and access. We do not currently have any specific positions available at this time; however, UC Berkeley abounds with opportunities for proactive undergrads to acquire funding to carry out mentored research.
 
-Undergraduates wishing to conduct summer research should explore funding opportunities through [URAP](https://research.berkeley.edu/urap/) and other campus programs. Rising seniors interested in pursuing honors thesis research should keep an eye on departmental announcements for relevant application deadlines. Under this initiative (which funded Vera Soloview and Margot Bolaños-Gamez in AY 2022-2023), Professor Cara Brook would submit the application with a specific student and project in mind.
-
-Additionally, students may apply for support to offset living expenses through UC Berkeley's undergraduate research and internship programs, which offer multiple deadlines throughout the year. Research in an on-campus lab is not the primary goal of every program, so students are encouraged to clarify their intentions with program advisors before submitting an application. The URAP program outlined above is often a good fit overall.
+Undergraduates wishing to conduct summer research should explore funding opportunities through [URAP](https://research.berkeley.edu/urap/), [SURF](https://research.berkeley.edu/surf/), and [Rose Hills](https://research.berkeley.edu/rose-hills-program/) programs at UC Berkeley. 
 
 If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
 
