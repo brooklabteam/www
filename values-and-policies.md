@@ -11,7 +11,7 @@ We believe that open policies and expectations promote a more equitable and incl
 
 ## Land Acknowledgement
 
-In Chicago, the land on which we gather, inhabit, work, and live represents the original homeland and traditional territory of the Kiikaapoi (Kickapoo), Peoria, Bodéwadmiakiwen (Potawatomi), Kaskaskia, and Myaamia people. We recognize the Indigenous peoples as original stewards of this land and all the relatives within it. These lands continue to be embedded with the rich histories and struggles for the survival of each nation. Chicago’s founding came at a dire cost to Native Nations and peoples whose land this University was built upon. This acknowledgment is the education and inclusion we must practice in recognizing our institutional history, responsibility, and commitment.
+In Berkeley, the land on which we gather, inhabit, work, and live represents the original homeland and traditional territory of the xučyun (Huichin), the original landscape of the Chochenyo speaking Ohlone people. We recognize the Indigenous peoples as original stewards of this land and all the relatives within it. These lands continue to be embedded with the rich histories and struggles for the survival of each nation. Berkeley’s founding came at a dire cost to Native Nations and peoples whose land this University was built upon. This acknowledgment is the education and inclusion we must practice in recognizing our institutional history, responsibility, and commitment. Read more on the [UC Berkeley Centers for Educational Justice and Community Engagement website](https://cejce.berkeley.edu/ohloneland).
 
 In Madagascar, where we conduct the bulk of our field work, the land represents the original homeland of the Malagasy people, who arrived to the island around 2000 BCE, traveling from modern-day Indonesian and shortly after from Africa. Today, Madagascar is home to 18 distinct ethnic subgroups, who speak varying dialects of Malagasy and inhabit different regions of the country. The Brook lab members from the Global North, in particular, humbly recognize that field work in Madagascar would not be possible without the support, contributions, and sacrifice of both historical and modern-day Malagasy. We affirm our commitment to scientific capacity building, development, and equitable attribution of scientific credit to the original stewards of the land in which we work.
 
@@ -23,7 +23,7 @@ In Madagascar, where we conduct the bulk of our field work, the land represents 
 
 ### Weekly Lab Meeting
 
-A weekly hour-long lab meeting forms the core of our laboratory culture. We hold these meetings as video conferences to facilitate equal partnership with our colleagues who are not based in Chicago, most particularly those who are based in Madagascar. We set the calendar for lab meeting on a quarterly basis, with different lab members taking turns leading each session. We open each quarter with a lab meeting dedicated to discussions and readings surrounding issues related to Diversity, Equity, and Inclusion (DEI).
+A weekly hour-long lab meeting forms the core of our laboratory culture. We hold these meetings as video conferences to facilitate equal partnership with our colleagues who are not based in Berkeley, most particularly those who are based in Madagascar. We set the calendar for lab meeting on a semesterly basis, with different lab members taking turns leading each session. We open each semester with a lab meeting dedicated to discussions and readings surrounding issues related to Diversity, Equity, and Inclusion (DEI).
 
 After our inaugural DEI meeting, we alternate between weeks focused on "Research Updates" and "Science Lessons." Prior to the central topic of the day, all lab meetings open with individual updates where each lab member shares one positive result from the week, one frustration, and one topic of anticipation for future weeks.
 
@@ -33,13 +33,10 @@ After our inaugural DEI meeting, we alternate between weeks focused on "Research
 
 You should expect, on average, to lead ~two lab meetings per quarter, one "Research Update" and one "Science Lesson". We are also always available for impromptu meetings if a lab member needs to practice a talk or receive quick feedback on a piece of work.
 
-### Semi-Annual Goals Meeting
-
-Twice a year, in August and January, the Brook Lab hosts a meeting in which each member briefly summarizes the work they carried out over the last six months as well as the work they aim to accomplish in the next six months. During these meetings, members may also highlight any shortcomings related to their research and discuss potential solutions to increase future success.
 
 ### Individual Meetings
 
-Students, postdocs, and lab managers who make up the UC Berkeley contingent of the lab are expected to attend weekly, half-hour meetings with Cara. These can take place in person or digitally, as you choose, and the timing for these meetings will be set at the beginning of every quarter. The agenda is yours during this time--we can discuss ongoing work, future plans, or anything else you may need. It is also fine to check in to say that there is nothing you need to talk about on a given week. I am also available to meet in impromptu settings at other times during the week for both UC Berkeley and University of Antananarivo members of the lab--please don't be shy to ask!
+Students, postdocs, and lab managers who make up the UC Berkeley contingent of the lab are expected to attend regular half-hour meetings with Cara. The schedule for these will be made available at the beginning of the semester, and you can sign up on Calendly as frequently as you would like--sufficient timeslots for all members of the lab will be available each week, but you do not need to sign up weekly unless you wish to. It is advisable to aim for an every-other-week cadence, however, especially for new students. One-on-one meetings can take place in person or digitally, as you choose. The agenda is yours during this time--we can discuss ongoing work, future plans, or anything else you may need. I am also available to meet in impromptu settings at other times during the week for both UC Berkeley and University of Antananarivo members of the lab--please don't be shy to ask!
 
 ---
 
@@ -49,29 +46,29 @@ Funding is rarely discussed openly in academic settings but is generally a criti
 
 ### Salary
 
-If you are a UC Berkeley postdoc or technician or a University of Antananarivo PhD student, your salary is covered by the lab for the duration of your contract and subject to renewal on an annual basis. If you are a UC Berkeley PhD student, you are funded through a combination of departmental funds, training grants, personal fellowships, and grant money from the lab. I expect and encourage all PhD students and postdocs to pursue fellowship opportunities, as grant writing is good practice, and fellowships are prestigious additions to a CV.
+If you are a UC Berkeley postdoc or technician or a University of Antananarivo PhD student, your salary is covered by the lab for the duration of your contract and subject to renewal on an annual basis. If you are a UC Berkeley PhD student, you are funded through a combination of departmental funds, training grants, personal fellowships, and grant money from the lab. I expect and encourage all PhD students and postdocs to pursue fellowship opportunities, as grant writing is good practice, and fellowships are prestigious additions to a CV. UC Berkeley Department of Integrative Biology guarantees PhD students five years of funding with semesterly Graduate Student Instruction (GSI, the Berkeley word for 'TA') service; however, I will aspire to substantially reduce the number of semesters you are required to GSI by supporting you in fellowship applications and writing your role into my grant applications. Note that two semesters of GSI service are required to graduate from the program. 
 
 Per university policy, UC Berkeley salaries include medical and retirement benefits.
 
 ### Research Funding
 
-It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your résumé. A list of small grants with links to websites can be found [here](https://docs.google.com/spreadsheets/d/1z9SNPZm1uGCIqnq5D3jXC35xzpPvCV_VKG3qQ-TEO0I/edit) -- please add as you find other opportunities.
+It is the duty of the PI to support student and postdoc research interests financially. I will work to raise money for projects you have proposed, and I will fund publication fees on your work, though I ask that you seek fee reductions or waivers when possible. I also encourage students and postdocs to apply for small grants, as these are great opportunities to fine-tune your research questions, while also boosting your résumé. A list of small grants with links to websites can be found [here](https://docs.google.com/spreadsheets/d/1z9SNPZm1uGCIqnq5D3jXC35xzpPvCV_VKG3qQ-TEO0I/edit), including several that are UC Berkeley-specific opportunities -- please add as you find other opportunities.
 
 ### Personal Development and Personal Equipment
 
 UC Berkeley and University of Antananarivo PhD students, postdocs, and lab technicians working in the Brook Lab will have the opportunity to purchase one computer for personal research use during their tenure in the lab–this can be acquired immediately upon entering the lab or at a later date, as each person sees fit. The exact specifications of the machine will be worked out on a case-by-case basis between the student and the PI. Please be aware that UC Berkeley monitors all computer purchases and registers machines within their network, and all machines must be returned at the end of each individual's tenure within the lab.
 
-Each lab member, both from UC Berkeley and the University of Antananarivo, will have access to $200 annually for personal development (monitors, headphones, books, workshops, etc.), corresponding to the start date of your employment. These funds can roll over from year-to-year, and you will be able to access them in advance for a larger, composite purchase if desired, pending discussion with me regarding available funds.
+UC Berkeley graduate students will have access to \$1000 to be used as desired for personal development (monitors, headphones, books, workshops, etc.) across the course of their PhD. These funds can be used in a single lump sum or periodically throughout the duration of training. All PhD students will be issued a private chartstring at the beginning of their enrollment to allow them to charge these accounts freely. Equipment or tech purchases exceeding \$200 will not be allowed in the last 12 months prior to graduation. Please use your funds early.
 
 ### Conference Travel
 
-UC Berkeley PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification.
+UC Berkeley PhD students, postdocs, and technicians will be funded to attend one domestic conference annually per person for a full value of ~$500 (conference fees, travel, lodging). I encourage attendance at the annual Ecology and Evolution of Infectious Diseases (EEID) meeting, which I almost always attend, though I recognize this may not be the best academic fit for everyone. Lab members interested in attending more than one conference annually are encouraged to apply for travel grants or use personal development funds. On rare occasions, I will consider funding multiple meetings in the same year with justification.
 
 University of Antananarivo PhD students will be funded to attend one international conference per person during the duration of their PhD tenure (conference fees, travel, lodging). If opportunities for domestic conferences that are scientifically relevant arise within Madagascar, the lab will fund attendance to these, as well.
 
-Outside of the Brook lab, UC Berkeley graduate students have access to \$500 of "student funds" per year which can compile from year-to-year and can be applied to conferences, travel, electronics, or a variety of other items. Check with departmental staff for details.
+Outside of the Brook lab, UC Berkeley graduate students in the Department of Integrative Biology can apply for \$600 each year to support their dissertation research, in addition to another \$600 to support conference travel. See [here](https://ib.berkeley.edu/grad/forms/grac.php) for details--applications are due on the last Monday of each month. 
 
-Additionally, UC Berkeley grad students are eligible to apply for travel and professional development grants through the Graduate Division. Check the departmental website for details.
+Additionally, UC Berkeley grad students are eligible to apply for travel and professional development grants through the Graduate Division (\$600 for California travel, \$900 for US travel, and up to \$1500 for international travel). Check [here](https://grad.berkeley.edu/financial/options-for-financial-support/fellowships/) for details--applications are accepted quarterly (fall, spring, summer).
 
 UC Berkeley postdoctoral scholars are eligible to apply for professional development funding through the Visiting Scholar and Postdoc Affairs (VSPA) office. Details are posted annually on the <a href="https://vspa.berkeley.edu/">VSPA website</a>.
 
@@ -89,7 +86,7 @@ University of Antananarivo PhD students will be funded to train at UC Berkeley f
 
 ### Parental Leave
 
-We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of UC Berkeley, as outlined here. That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
+We are a family-friendly lab with several parents on staff. Parental leave during employment follows the policies of UC Berkeley, as outlined [here](https://hr.berkeley.edu/policies/leaves/fmla). That said, I am more than happy to negotiate flexible working arrangements for new parents; please let me know if this becomes an issue under consideration for you, and I am happy to discuss arrangements that will work for both you and the lab.
 
 ---
 
