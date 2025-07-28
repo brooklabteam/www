@@ -7,7 +7,7 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Kettenburg G**, **Ranaivoson HC**, *Andrianianina A*, *Andry S*, Lacoste V, Héraud J-M, Dussart P, *Brook CE*. "A rabies-like *Lyssavirus* in three endemic Malagasy fruit bats." In Review.
+- **Kettenburg G**, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, Lacoste V, Héraud J-M, Dussart P, **Brook CE**. "A rabies-like *Lyssavirus* in three endemic Malagasy fruit bats." In Review.
 
 - **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Henry AR, Davis RL, Laboune F, Lontine ER, Godbole S, **Horigan S**, **Ruhs EC**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Héraud J-M, Dussart P, and **Brook CE**. *Picornaviridae* and *Caliciviridae* diversity in Madagascar fruit bats is driven by cross-continental genetic exchange. In Review. [Link to bioRxiv Preprint]( https://doi.org/10.1101/2024.12.31.630946).
 
