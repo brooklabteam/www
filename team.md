@@ -52,9 +52,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/sophiahorigan.jpg" alt="sophia" class="img-thumbnail float-start col-md-3" />
-
-
 
 <img src="/assets/team/natalia_cortes_delgado.jpg" alt="natalia" class="img-thumbnail float-start col-md-3" />
 
