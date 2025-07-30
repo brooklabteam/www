@@ -76,7 +76,7 @@ Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the De
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/rova_indrianala_ratsimamanga.jpg" alt="rova" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/rova_indrianala_ratsimamanga.jpeg" alt="rova" class="img-thumbnail float-start col-md-3" />
 
 **Rova Ratsimamanga** (he/him) is a **Master's Student** with Association Ekipa Fanihy.
 
