@@ -13,7 +13,7 @@ by Cara Brook
 
 <br>
 
-<img src="/assets/img/UC-Berkeley-Simbolo.jpg" alt="Berkeley" class="img-thumbnail float-start col-md-5" />
+<img src="/assets/img/UC-Berkeley-Simbolo.jpg" alt="Berkeley" class="img-thumbnail col-md-6" align="center" />
 
 <br>
 
@@ -22,4 +22,7 @@ After four truly wonderful years in the [Department of Ecology and Evolution](ht
 <br>
 
 
-<img src="/assets/img/uc-berkeley-landscape.jpg" alt="Berkeley-landscape" class="img-thumbnail float-start col-md-5" />
+<img src="/assets/img/uc-berkeley-landscape.jpg" alt="Berkeley-landscape" class="img-thumbnail col-md-8" align="center" />
+
+<br>
+
