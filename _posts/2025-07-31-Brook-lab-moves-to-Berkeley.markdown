@@ -10,9 +10,7 @@ permalink: /news/Brook-lab-at-Cal
 ---
 
 by Cara Brook
-
 <br>
-
 <img src="/assets/img/UC-Berkeley-Simbolo.jpg" alt="Berkeley" class="img-thumbnail col-md-6" align="center" />
 <br>
 
