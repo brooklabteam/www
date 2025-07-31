@@ -7,17 +7,17 @@ permalink: /join
 
 <div class="bs-callout bs-callout-info">
 <p>I am recruiting a PhD student to join the Brook lab in fall 2026. Please fill out the <a href="https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form">short form linked here</a> to express your interest by Friday, October, 17, 2025!</p>
-<p><em>This page last updated July 23, 2025.</em></p>
+<p><em>This page last updated July 31, 2025.</em></p>
 
 </div>
 
-<!--
+
 <div class="bs-callout bs-callout-info">
-  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>Friday, February 21, 2025</strong>!</p>
-  <p><em>This page last updated January 21, 2025.</em></p>
+  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>Friday, August 15, 2025</strong>!</p>
+  <p><em>This page last updated July 31, 2025.</em></p>
 
 </div>
--->
+
 
 <h2>A note on diversity and inclusion</h2>
 
@@ -76,7 +76,7 @@ If you are an undergrad with an interest in applying for one of these opportunit
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-We just closed applications for another one-year Ekipa Fanihy Field Technician position, with a planned start date in May 2025. Please see the [field technician](/join/field-technician) page for a description of the job postin. We will likely search again in September 2025 for a new technician to start in January 2026. Please contact Cara Brook at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) with any questions.
+We are currently recruiting for a new technician to start in September 2025. Please see the [field technician](/join/field-technician) page for a description of the job posting. We will be hiring again for a second technician to start in January 2026, so please apply if this is of interest to you as well. Please contact Cara Brook at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) with any questions.
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
 

@@ -4,25 +4,26 @@ title: "Field Technician Position"
 permalink: /join/field-technician
 ---
 
-
+<!--
 <div class="bs-callout bs-callout-info">
 <p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch with applicants in the next few weeks!</p>
 <p><em>This page last updated February 21, 2025.</em></p>
 
 </div>
-
-
-
-<!--
-<div class="bs-callout bs-callout-warning">
-  <p><a href="https://airtable.com/appLs4nO1FA55ZY6Q/shrtQ6x9ZhkZxKByh">Submit your application</a> by midnight (Central) on Friday, February 21, 2025 for consideration as the 2025-2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appLs4nO1FA55ZY6Q/shr8UH06iLlqbqtyb">this recommendation submission form</a> by the same deadline.</p>
-</div>
 -->
+
+
+
+<div class="bs-callout bs-callout-warning">
+  <p><a href="https://airtable.com/appzsepiA9iPlKP95/shr0abOunCuKGTmMn">Submit your application</a> by midnight (Central) on Friday, August 15, 2025 for consideration as the 2025-2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appzsepiA9iPlKP95/shruNWBFGRrN0oIdf">this recommendation submission form</a> by Friday, August 22, 2025.</p>
+</div>
+
 
 
 ---
 
-**Projected Project Period**: May 15, 2025 (start date) - May 14, 2026 (end date), with options to extend. 
+**Projected Project Period**: September 15, 2025 (start date) - September 14, 2026 (end date), with options to extend. Start and end dates somewhat negotiable. 
+Note: While this posting is focused on recruitment for a September 2025 start date, we will also be hiring a new technician to start in January 2026. If this timeline works better for you, please apply now and indicate this on your application.
 
 ---
 
@@ -32,7 +33,7 @@ This one-year position, open only to US citizens, will involve organizing and pa
 
 Ekipa Fanihy carries out capture and sampling of Madagascar's fruit bats (*Pteropus rufus,* *Eidolon dupreanum,* and *Rousettus madagascariensis*) at roost sites in the District of Moramanga, Madagascar, with possible extensions to field sites elsewhere. This work supports a long-term field study aimed at deciphering the mechanisms underpinning persistence of potentially zoonotic RNA viruses in wild, Madagascar fruit bats. Bats are reservoirs for several important, highly-virulent zoonoses, including rabies, Hendra and Nipah henipaviruses, Ebola and Marburg filoviruses, and SARS, MERS, and SARS-CoV-2 coronaviruses. This work also contributes data to population viability analyses and assessments of the conservation status of threatened fruit bats in Madagascar. Please see [Research](/research) for further details about the major themes of the project.
 
-Field technicians will be trained in the field in May 2025 by project PI, Professor Cara Brook, then supervised remotely (from UC Berkeley) for the duration of the year, interspersed with regular visits from Dr. Brook and other members of the Brook lab.
+Field technicians will be trained in the field in September 2025 by project PI, Professor Cara Brook, and one current technician on the job, then supervised remotely (from UC Berkeley) for the duration of the year, interspersed with regular visits from Dr. Brook and other members of the Brook lab.
 
 Techs will spend approximately 70% of their time in the field. During each field mission, techs will travel with University of Antananarivo PhD students for up to 1-2 days to remote field sites in vehicles with hired drivers. While in the field, the team will reside in tents provided by the project for up to two weeks at a time. The work will necessitate strenuous hiking and hauling heavy equipment, sometimes in adverse weather conditions. During field missions, a local cook will be hired to prepare meals, and all expenses (including food) will be funded by the project.  
 
@@ -42,7 +43,7 @@ In between field missions (30% of the time), techs will live in a shared house i
 
 When not in the field, techs will additionally have opportunities to take part in professional development in the form of remote lab meetings with the Brook Lab at UC Berkeley, as well as receive guidance on the graduate school application process if desired. Field technicians will be acknowledged on publications arising from this work and may or may not be included as co-authors depending on the duration of their employment and the extent of their intellectual contributions to data analysis and interpretation after the field work concludes. Opportunities for independent work--either in science communication or in research--may be pursued on a case-by-case basis.
 
-Please visit our [News](/news) page to read prior field technician Katherine McFerrin's blog post, summarizing "[A Day in the Life of a Field Project Manager](/news/day-in-the-life)" to read what life is like for our team in the field. Feel free to reach out to contact former and current Ekipa Fanihy field technicians, Katherine McFerrin (at [katherine.mcferrin@gmail.com](mailto:katherine.mcferrin@gmail.com)) or Martin Roland (at [martincroland@gmail.com](mailto:martincroland@gmail.com)), with any questions about the job.
+Please visit our [News](/news) page to read prior field technician Katherine McFerrin's blog post, summarizing "[A Day in the Life of a Field Project Manager](/news/day-in-the-life)" to read what life is like for our team in the field. Feel free to reach out to contact former and current Ekipa Fanihy field technicians, Monique Ades (at [mnades06@gmail.com](mailto:mnades06@gmail.com)) or Martin Roland (at [martincroland@gmail.com](mailto:martincroland@gmail.com)), with any questions about the job.
 
 ---
 
