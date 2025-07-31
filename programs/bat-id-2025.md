@@ -18,6 +18,7 @@ ogimage: /programs/batid-img/logo.png
 <p style="font-size: 1.5em;">Thanks all for a great meeting! Stay tuned for information about the next BatID, tentatively scheduled for summer 2027!</p>
 <p>This page last updated July 31, 2025.</p>
 
+</div>
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This **4th Triennial BatID 2025** meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
