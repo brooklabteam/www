@@ -92,17 +92,11 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/kyle_wilson.jpg" alt="kyle" class="img-thumbnail float-start col-md-3" />
-
-**Kyle Wilson** (he/him) is a **Field Project Manager**. He co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. He graduated from the University of Colorado Boulder with a B.S. in Biology. He has worked as a wildlife biologist for construction projects, national parks, and Tribal lands, working with birds, small mammals, and small mammals. Additionally, he has engaged in parasitic research with The Johnson Lab and MSB (Museum of Southwest Biology), focusing on helminth identification, behaviors, and parasite-host relationships. He is Tsenjikini, born for Tabhaai from Ganado, AZ.
-
-
-<div style="clear:both;">&nbsp;</div>
-
 
 
 
 <h2>Ekipa Alumni</h2>
+
 
 **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a **Postdoctoral Scholar** in the Brook lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
 
@@ -112,7 +106,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 <div style="clear:both;">&nbsp;</div>
 
-**Abigail Mendoza** (she/her) is the Data Manager for the lab. She is a recent graduate of the University of Houston (UH) where she received a Bachelors in Biology with a minor in Chemistry. Her current goal is to understand more about how evolution and ecology informs conservation, agriculture, and public health by applying to graduate school in 2025-26. She previously received an undergraduate research fellowship in 2023, and presented her results at the 2024 ESA conference in Long Beach. Her project centered on determining how plant-microbe interactions drives biodiversity by examining the relationship between native microbes and native and nonnative plant species. She has also been a data manager previously for the Hidden Life of Houston project which explores wildlife dynamics in the Greater Houston Area.
+**Abigail Mendoza** (she/her) was the Data Manager for the lab from Aug 2024-July 2025. She is now a research technician at Loyola University Chicago.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -155,7 +149,6 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 **Vera Soloview** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook lab in 2023. She is now an intern with the American Bird Conservancy in Chicago. 
 
 <div style="clear:both;">&nbsp;</div>
-
 
 **Nuzha Baksh** was a Field Project Manager with Association Ekipa Fanihy from Sept 2022-Aug 2023 and a Data Manager from Sep 2023-June 2024. She is now a PhD student in Dr. Tamika Lunn's lab in the Odum School of Ecology at the University of Georgia.
 

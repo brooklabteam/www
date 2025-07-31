@@ -5,18 +5,17 @@ permalink: /join
 ---
 
 
+
+<div class="bs-callout bs-callout-warning">
+  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Pacific) on <strong>Friday, August 15, 2025</strong>!</p>
+</div>
+
 <div class="bs-callout bs-callout-info">
-<p>I am recruiting a PhD student to join the Brook lab in fall 2026. Please fill out the <a href="https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form">short form linked here</a> to express your interest by Friday, October, 17, 2025!</p>
+<p>I am recruiting a PhD student to join the Brook lab in fall 2026. Please fill out the <a href="https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form">short form linked here</a> to express your interest by <strong>Friday, October, 17, 2025</strong>!</p>
 <p><em>This page last updated July 31, 2025.</em></p>
 
 </div>
 
-
-<div class="bs-callout bs-callout-info">
-  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Central) on <strong>Friday, August 15, 2025</strong>!</p>
-  <p><em>This page last updated July 31, 2025.</em></p>
-
-</div>
 
 
 <h2>A note on diversity and inclusion</h2>
