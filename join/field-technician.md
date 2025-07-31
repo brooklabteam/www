@@ -15,7 +15,7 @@ permalink: /join/field-technician
 
 
 <div class="bs-callout bs-callout-warning">
-  <p><a href="https://airtable.com/appzsepiA9iPlKP95/shr0abOunCuKGTmMn">Submit your application</a> by midnight (Pacific) on Friday, August 15, 2025 for consideration as the 2025-2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appzsepiA9iPlKP95/shruNWBFGRrN0oIdf">this recommendation submission form</a> by Friday, August 22, 2025.</p>
+  <p><a href="https://airtable.com/appzsepiA9iPlKP95/shr3qHdnf6pKARb1i">Submit your application</a> by midnight (Pacific) on Sunday, August 17, 2025 for consideration as the 2025-2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appzsepiA9iPlKP95/shruNWBFGRrN0oIdf">this recommendation submission form</a> by Friday, August 22, 2025.</p>
 </div>
 
 

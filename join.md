@@ -7,7 +7,7 @@ permalink: /join
 
 
 <div class="bs-callout bs-callout-warning">
-  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Pacific) on <strong>Friday, August 15, 2025</strong>!</p>
+  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Pacific) on <strong>Sunday, August 17, 2025</strong>!</p>
 </div>
 
 <div class="bs-callout bs-callout-info">
