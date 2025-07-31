@@ -22,7 +22,7 @@ Over 140 people attended, representing 9 countries and 24 states. Plenary Speake
 respectively, on *'Bat immunology and within-host dynamics'*, *'Bat pathogen evolution'*, *'Bat pathogen persistence & transmission dynamics'*, *'Bat pathogen discovery'*, and *'Reconciling bat infectious diseases and conservation'*. 
 <br>
 
-I owe a huge thanks to co-organizers, [Dr. Arinjay Banerjee](https://banerjeelab.ca) from VIDO, University of Saskatchewan; [Dr. Hannah Frank](https://www.hkfrank.com) from Tulane University, [Dr. Stephanie Seifert](https://labs.wsu.edu/mezap/) from Washington State University; and [Dr. Daniel Becker](https://beckerlab.weebly.com) from the University of Oklahoma. 
+I owe a huge thanks to co-organizers, [Dr. Arinjay Banerjee](https://banerjeelab.ca) from VIDO, University of Saskatchewan; [Dr. Hannah Frank](https://www.hkfrank.com) from Tulane University; [Dr. Stephanie Seifert](https://labs.wsu.edu/mezap/) from Washington State University; and [Dr. Daniel Becker](https://beckerlab.weebly.com) from the University of Oklahoma. 
 <br>
 
 With support from the [NSF IOS Division](https://www.nsf.gov/bio/ios), we were able to fund 17 students to attend with travel awards from all over the world. Please see the [meeting webpage](https://brooklab.org/programs/bat-id-2025) for more information. 
