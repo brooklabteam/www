@@ -11,7 +11,7 @@ permalink: /news/BatID-2025
 
 by Cara Brook
 <br />
-<img src="/programs/batid-img/BatIDlogo_bw_trimmed.png" alt="BatID" class="img-thumbnail float-start col-md-8" />
+<img src="/programs/batid-img/BatIDlogo_bw_trimmed.png" alt="BatID" class="img-thumbnail col-md-5" align="center" />
 <br />
 From July 9-11, 2025, the Brook lab hosted the Fourth International Symposium on the Infectious Diseases of Bats (BatID 2025)- at the University of Chicago. 
 Over 140 people attended, representing 9 countries and 24 states. Plenary Speakers [Dr. Liliana Davalos](https://lmdavalos.github.io) from Stony Brook University, [Dr. Benhur Lee](https://leelabvirus.host/about) from Icahn School of Medicine at Mount Sinai, [Dr. Daniel Streicker](https://streickerlab.com) from the University of Glasgow, [Dr. Simon Anthony](https://anthonylab.vetmed.ucdavis.edu) from UC Davis, and [Dr. Tigga Kingston](https://kingstonlab.org/people/tigga-kingston/) from Texas Tech University led off five fascinating sessions focused, 
