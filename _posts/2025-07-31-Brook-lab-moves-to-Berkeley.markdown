@@ -20,7 +20,7 @@ After four truly wonderful years in the [Department of Ecology and Evolution](ht
 While there are many things we will miss about Chicago and our amazing former department, we are excited to have arrived to the Golden State and looking forward to the scientific adventures ahead! 
 <br>
 
-Stay tuned for future updates from the Bear Den!
+Stay tuned for future updates from California!
 <br>
 
 <img src="/assets/img/uc-berkeley-landscape.jpg" alt="Berkeley-landscape" class="img-thumbnail col-md-10" align="center" />
