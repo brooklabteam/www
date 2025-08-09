@@ -4,7 +4,8 @@ title: BatID 2025-International Symposium on the Infectious Diseases of Bats
 permalink: /programs/bat-id-2025
 ---
 <!--
-<br>
+
+
 <h4>Coming to the <strong>University of Chicago, July 9-11, 2025</strong>!</h4>
 -->
 
@@ -16,7 +17,7 @@ permalink: /programs/bat-id-2025
 
 Bats are the recognized reservoir host of several of the world's most high profile emerging zoonotic diseases; yet they appear not to experience substantial disease from infections that cause high pathology in other mammals. This <strong>4th Triennial BatID 2025</strong> meeting brings together an interdisciplinary array of virologists, immunologists, geneticists, ecologists, and evolutionary biologists to interrogate the role of bats as pathogen hosts.
 
-<hr />
+---
 
 
 <h3>Scientific Program</h3>
@@ -39,8 +40,8 @@ Location: <a href="https://maps.app.goo.gl/mG31rWwLbS1QTfwZ7"> Cloister Club, Id
 
 <h5>Theme I: Bat immunology and within-host dynamics</h5>
 
-Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago<br />
-Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University<br />
+Session Chair: <a href="https://brooklab.org">Dr. Cara Brook</a>, University of Chicago\
+Plenary Speaker: <a href="https://lmdavalos.github.io">Dr. Liliana Davalos</a>, Stony Brook University\
 
 Additional Speakers:
 <ul>
@@ -59,8 +60,8 @@ Additional Speakers:
 
 <h5>Theme II: Bat pathogen evolution</h5>
 
-Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, VIDO, University of Saskatechwan<br />
-Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai<br />
+Session Chair:  <a href="https://banerjeelab.ca">Dr. Arinjay Banerjee</a>, VIDO, University of Saskatechwan\
+Plenary Speaker: <a href="https://leelabvirus.host/about">Dr. Benhur Lee</a>, Icahn School of Medicine at Mount Sinai\
 
 Additional Speakers:
 <ul>
@@ -89,8 +90,8 @@ Additional Speakers:
 
 <h5>Theme III: Bat pathogen persistence and transmission dynamics</h5>
 
-Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma<br />
-Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow <br />
+Session Chair: <a href="http://beckerlab.weebly.com">Dr. Daniel Becker</a>, University of Oklahoma\
+Plenary Speaker: <a href="https://streickerlab.com">Dr. Daniel Streicker</a>, University of Glasgow \
 Additional Speakers:
 <ul>
 <li> Gwen Kettenburg, University of Chicago </li>
@@ -107,8 +108,8 @@ Additional Speakers:
 
 <h5>Theme IV: Bat pathogen discovery</h5>
 
-Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University <br />
-Plenary Speaker: <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis <br />
+Session Chair: <a href="https://labs.wsu.edu/mezap/">Dr. Stephanie Seifert</a>, Washington State University \
+Plenary Speaker: <a href="https://anthonylab.vetmed.ucdavis.edu">Dr. Simon Anthony</a>, University of California-Davis \
 Additional Speakers:
 
 <ul>
@@ -121,8 +122,8 @@ Additional Speakers:
 
 <h5>Theme V: Reconciling bat infectious diseases and conservation</h5>
 
-Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University <br>
-Plenary Speaker: <a href="https://kingstonlab.org/people/tigga-kingston/">Dr. Tigga Kingston</a>, Texas Tech University<br />
+Session Chair: <a href="https://www.hkfrank.com">Dr. Hannah Frank</a>, Tulane University \
+Plenary Speaker: <a href="https://kingstonlab.org/people/tigga-kingston/">Dr. Tigga Kingston</a>, Texas Tech University\
 Additional Speakers:
 
 <ul>
@@ -141,40 +142,40 @@ Additional Speakers:
 </ul>
 
 
-<hr />
+---
 
 <h4>🍽 Hyde Park Dining </h4>
-Some recommended local restaurants that are unlikely to require reservations include: <br>
+Some recommended local restaurants that are unlikely to require reservations include: \
 
 <em> South of the Midway</em>
 <ul>
-<li> <a href="https://www.truthbetoldtavern.com">Truth Be Told</a> <br /> </li>
-<li> <a href="https://bardavid.uchicago.edu">Bar David</a> <br /> </li>
+<li> <a href="https://www.truthbetoldtavern.com">Truth Be Told</a> \ </li>
+<li> <a href="https://bardavid.uchicago.edu">Bar David</a> \ </li>
 </ul>
 
 <em> 57th Street</em>
 <ul>
-<li> <a href="https://www.truthbetoldtavern.com">Medici on 57th</a> <br /> </li>
-<li> <a href="https://bardavid.uchicago.edu">Noodles Etc</a> <br /> </li>
+<li> <a href="https://www.truthbetoldtavern.com">Medici on 57th</a> \ </li>
+<li> <a href="https://bardavid.uchicago.edu">Noodles Etc</a> \ </li>
 </ul>
 
 <em> 55th Street</em>
 <ul>
-<li> <a href="https://nellachicago.com">Nella Pizza e Pasta</a> <br /> </li>
-<li> <a href="https://www.nilehydepark.com">The Nile Hyde Park</a> <br /> </li>
-<li> <a href="https://chibarproject.com/reviews/woodlawntap/">Woodlawn Tap “Jimmy’s”</a> <br /> </li>
+<li> <a href="https://nellachicago.com">Nella Pizza e Pasta</a> \ </li>
+<li> <a href="https://www.nilehydepark.com">The Nile Hyde Park</a> \ </li>
+<li> <a href="https://chibarproject.com/reviews/woodlawntap/">Woodlawn Tap “Jimmy’s”</a> \ </li>
 </ul>
 
 
 <em> 53rd Street</em>
 <ul>
-<li> <a href="https://giordanos.com/locations/hyde-park/">Giorodano’s Pizza</a> <br /> </li>
-<li> <a href="https://www.pizzacapri.com/hyde-park/">Pizza Capri</a> <br /> </li>
-<li> <a href="https://www.stringsramen.com">Strings Ramen</a> <br /> </li>
+<li> <a href="https://giordanos.com/locations/hyde-park/">Giorodano’s Pizza</a> \ </li>
+<li> <a href="https://www.pizzacapri.com/hyde-park/">Pizza Capri</a> \ </li>
+<li> <a href="https://www.stringsramen.com">Strings Ramen</a> \ </li>
 </ul>
 
 
-<hr />
+---
 
 <h4>&#127968; Lodging </h4>
 
@@ -183,14 +184,17 @@ Conference attendees who have not already booked dormitory lodging should book a
 There are <strong>three hotels</strong> available in the Hyde Park, Chicago area, which can be accessed easily on foot from the University of Chicago: the <a href="https://sophyhotel.com/">Sophy</a>, the <a href="https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center">Hyatt Place Chicago-South</a>, and the <a href="https://www.thestudyatuniversityofchicago.com">Study</a>.
 
 A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the <a href="https://ridertools.metrarail.com">Metric Electric</a> lightrail (at the <a href="https://metra.com/train-lines/stations/55th-56th-57th-street">55th-56th-57th Street stop</a>).
-<br>
+
+
 <h4> &#9992; Travel</h4>
 Two international airports offer easy metro/lightrail access to the University of Chicago: <a href="https://www.flychicago.com/ohare/home/pages/default.aspx">O'Hare International Airport (ORD)</a> and <a href="https://www.flychicago.com/midway/home/pages/default.aspx">Midway International Airport (MDW)</a>.
-<br>
-<br>
+
+
+
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
-<br>
-<br>
+
+
+
 <strong>Getting here:</strong> The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) <a href= "https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png">"L"</a> to the Loop, then transfer to the <a href="https://metra.com/train-lines/me"> Metra Electric</a> at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the <a href="https://metra.com/train-lines/stations/51st53rd-st-hyde-park">51st/53rd St. Hyde Park stop</a> or the <a href="https://metra.com/train-lines/stations/55th-56th-57th-street">55th-56th-57th Street stop</a> to walk to your lodging.
 
 <h4> 📝 Additional useful information</h4>
@@ -202,7 +206,7 @@ MDW is a little closer to UChicago and therefore our recommendation if you are a
 </ul>
 
 
-<hr />
+---
 
 Thanks to the support of our <strong>Advisory Committee</strong>:
 <ul>
@@ -224,7 +228,7 @@ Thanks to the support of our <strong>Advisory Committee</strong>:
 <div class="bs-callout bs-callout-info">
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/conference-registration">Conference registration</a></strong> is now open through April 15!</p> 
 <p style="font-size: 1.5em;"><strong><a href="https://ti.to/batid-2025/dormitory-lodging">Dormitory lodging</a></strong> is available to reserve through April 15!</p>
-<br />
+
 
 <p>This page last updated March 17, 2025.</p>
 </div>
@@ -236,35 +240,36 @@ Thanks to the support of our <strong>Advisory Committee</strong>:
 <h5>📝 Abstracts</h5>
 
 
-<strong>February 1, 2025</strong>: Abstract submissions open for talks and posters.<br />
-<strong>March 15, 2025</strong>: Abstract submissions close<br />
+<strong>February 1, 2025</strong>: Abstract submissions open for talks and posters.\
+<strong>March 15, 2025</strong>: Abstract submissions close\
 
 
- <strong>Abstract</strong> submissions are now closed. <br />
- <strong>Abstract submissions </strong> are now closed, and applicants have been notified of their status. <br />
+ <strong>Abstract</strong> submissions are now closed. \
+ <strong>Abstract submissions </strong> are now closed, and applicants have been notified of their status. \
  <em> We will post the symposium schedule in June 2025.</em> 
 
 <h5>💸 Scholarships</h5>
-<strong>Applications for registration fee waivers</strong> and <strong>travel scholarships</strong> are now closed, and applicants have been notified of their status. <br />
+<strong>Applications for registration fee waivers</strong> and <strong>travel scholarships</strong> are now closed, and applicants have been notified of their status. \
 <em>We are working with scholarship applicants to arrange conference attendence.</em> 
 
 <!--
 
 <h5>💸 Scholarships</h5>
-Registration fee waivers and travel scholarships will be made available! <br />
+Registration fee waivers and travel scholarships will be made available! \
 Preference will be given to early career researchers (students, postdocs, junior faculty) from underserved populations (low- and middle- income countries and/or underrepresented minority backgrounds), though all are welcome to apply. 
-<br />
 
-<strong>February 1, 2025</strong>: Scholarship applications open.<br />
-<strong>February 28, 2025</strong>: Scholarship applications close.<br />
+
+<strong>February 1, 2025</strong>: Scholarship applications open.\
+<strong>February 28, 2025</strong>: Scholarship applications close.\
 
 <h5> 🎟️ Registration </h5>
 Registration for <strong>BatID 2025</strong> is now closed. 
 
 
 <strong>February 24, 2025</strong>: Registration is open for BatID 2025! 
-<br />
-Register for a <strong>conference ticket <a href="https://ti.to/batid-2025/conference-registration">here</a> by April 15, 2025</strong>.<br />
+
+
+Register for a <strong>conference ticket <a href="https://ti.to/batid-2025/conference-registration">here</a> by April 15, 2025</strong>.\
 
 
 <em>Registration fees are as follows:</em>

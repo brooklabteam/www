@@ -11,7 +11,7 @@ permalink: /news/bat-virscan
 
 by Emily Ruhs
 
-<br />
+
 What if we could apply technology designed for human viral surveillance to other mammals known to host a variety of highly pathogenic viruses? In a recent paper published by the Brook lab in <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1212018/full" target="_blank">Frontiers in Public Health</a>, we do just that!
 
 PhIP-Seq, or Phage-Immunoprecipitation Sequencing, uses recently advanced biomedical technology – broadly, multiplexed genomic sequencing - to identify antiviral antibody-specific binding to peptides displayed on bacteriophages. PhIP-Seq technology has previously been used to comprehensively profile human serum samples for antibodies to the <a href="https://hms.harvard.edu/news/viral-history-drop-blood" target="_blank">VirScan</a> peptidome, a peptide library representing over 200 viruses that constitute the complete known human virome (see <a href="https://www.science.org/doi/10.1126/science.aaa0698" target="_blank">here</a>).
