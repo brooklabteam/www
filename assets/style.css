@@ -1,31 +1,45 @@
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):link {
-  color: #800000;
+  color: #003262;
   text-decoration: underline;
 }
 
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
-  color: #800000;
+  color: #003262;
   text-decoration: underline;
 }
 
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
-  color: #26190D;
+  color: #3B7EA1;
   text-decoration: none;
 }
 
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
-  color: #26190D;
+  color: #00254C;
   text-decoration: none;
 }
 
 .btn-primary:link, .btn-primary:visited {
-  background-color: #800000;
-  border-color: #800000;
+  background-color: #003262;
+  border-color: #003262;
+  color: #FFFFFF;
 }
 
 .btn-primary:hover, .btn-primary:active {
-  background-color: #26190D;
-  border-color: #26190D;
+  background-color: #00254C;
+  border-color: #00254C;
+  color: #FFFFFF;
+}
+
+.btn-accent:link, .btn-accent:visited {
+  background-color: #FDB515;
+  border-color: #FDB515;
+  color: #003262;
+}
+
+.btn-accent:hover, .btn-accent:active {
+  background-color: #FDB515;
+  border-color: #FDB515;
+  color: #003262;
 }
 
 /*
