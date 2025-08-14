@@ -17,7 +17,7 @@ _Food and drink available for purchase next door at [Small Cheval](https://small
 Location: [Kent Chemical Laboratory, 1020 E 58th St, Chicago, IL 60637](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:00 – 8:00 am**
-Registration open in [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
+Registration open in [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).\\
 _Coffee and pastries provided._
 
 **8:00 – 8:15 am**  
@@ -65,7 +65,7 @@ Coffee Break and Networking
   “Testing of bat STING orthologs reveals species specific differences in STING functionality”
 
 **12:05 – 1:10 pm**  
-_Boxed lunches will be provided._ <br>
+_Boxed lunches will be provided._\\
 _Feel free to eat in the lecture hall, in the lobby of Kent Chemistry, or out front on the lawn._
 
 ---
@@ -86,7 +86,7 @@ _Feel free to eat in the lecture hall, in the lobby of Kent Chemistry, or out fr
 - **1:45 – 1:50 pm** – *William H. Carr, Medgar Evers College (CUNY)*  
   “MENTOR - Multiplex Embedding of Networks for Team-Based Omics Research analysis identifies potential novel mechanisms for regulating anti-viral immunity in the cave nectar bat”
 - **1:50 – 1:55 pm** – *Kaushal Baid, VIDO, University of Saskatechwan*  
-  *(presented by labmate Victoria Gonzalez)* <br>
+  *(presented by labmate Victoria Gonzalez)*\\
   “Early innate immune response and evolution of a SARS-CoV-2 furin cleavage site inactive variant in bat cells”
 - **1:55 – 2:00 pm** – *Vincent Caval, Institut Pasteur, Paris, France*  
   “Bat antiviral effectors: from comparative transcriptomic analysis to functional studies”
@@ -106,7 +106,7 @@ _Coffee Break and Networking_
 #### Plenary 2
 *(25 min + 5 min Q&A)*
 
-**2:45 – 3:15 pm**  – *Benhur Lee, Icahn School of Medicine at Mount Sinai* <br>
+**2:45 – 3:15 pm**  – *Benhur Lee, Icahn School of Medicine at Mount Sinai*\\
 "Paramyxoviruses from bats: receptor tropism and pathogenesis"
 
 
@@ -155,7 +155,7 @@ Self-organized. See [main website](/programs/bat-id-2025) for recommendations.
 Location: [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637)
 
 **7:30 – 8:00 am**
-Late registration open in [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).<br>
+Late registration open in [Kent Chemical Laboratory Room 120](https://www.google.com/maps/place/1020+E+58th+St,+Chicago,+IL+60637).\\
 _Coffee and pastries provided._
 
 
@@ -170,7 +170,7 @@ _Coffee and pastries provided._
 #### Plenary 3
 *(25 min + 5 min Q&A)*
 
-**8:10 – 8:40 am** – *Daniel Streicker, University of Glasgow* <br>
+**8:10 – 8:40 am** – *Daniel Streicker, University of Glasgow*\\
 "Interventions for primary prevention of viral spillover from bats"
 
 #### Short Talks
@@ -215,7 +215,7 @@ _Lunch_
 #### Plenary 4
 *(25 min + 5 min Q&A)*
 
-**12:45 – 1:15 pm**  – *Simon Anthony, University of California-Davis* <br>
+**12:45 – 1:15 pm**  – *Simon Anthony, University of California-Davis*\\
 "Building Predictive Intelligence for Pandemic Prevention"
 
 #### Lightning Talks
@@ -238,7 +238,7 @@ _Lunch_
 #### Plenary 5
 *(25 min + 5 min Q&A)*
 
-**1:40 – 2:10 pm** – *Tigga Kingston, Texas Tech University* <br>
+**1:40 – 2:10 pm** – *Tigga Kingston, Texas Tech University*\\
 "Reconciling bat infectious disease research and conservation: One Health Action Plans for species at the human-bat interface"
 
 #### Short Talks

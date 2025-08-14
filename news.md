@@ -15,10 +15,7 @@ permalink: /news
   <div class="post-content" style="float:left; margin-left:2em; max-width:500px;">
     
     <a href="{% if post.link %}{{post.link}}{% else %}{{ post.url| prepend: site.baseurl}}{% endif %}">{{ post.title }}{% if post.link %}<span class="link-arrow"> ↗</span>{% endif %}</a>
-
-    <br/>
-
-    <span class="post-date">{{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <div class="post-date">{{post.date | date: '%b %d, %Y'}}&nbsp;&nbsp;&nbsp;&nbsp;</div>
   </div>
 </article>
 

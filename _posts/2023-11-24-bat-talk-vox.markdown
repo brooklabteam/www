@@ -12,7 +12,7 @@ permalink: /news/bat-talk-vox
 
 
 
-<br />
+
 Cara went on camera with Vox: "Science Explained!" to talk about bat physiology and its consequences for viral infection! Watch the short video here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xkuh6JqDiQc?si=3JgDcLuiKRFbHOFl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

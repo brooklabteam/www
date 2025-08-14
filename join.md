@@ -22,10 +22,7 @@ permalink: /join
 
 <img src="/assets/join/brook_lab_ranomafana.jpeg" alt="ranomafana" class="float-start col-sm-5" />
 
-We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below. 
-
-
-<br>
+We are an equal-opportunity group, committed to enacting anti-racist and anti-sexist policies to promote inclusivity in our lab, the biological sciences, and the academy. We believe that black lives matter, women's rights are human rights, and no life is illegal. Applicants from underrepresented backgrounds, ethnicities, genders, sexual orientations, and lifestyles are enthusiastically encouraged to apply to any of the positions outlined below.
 
 
 
