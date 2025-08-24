@@ -1,20 +1,28 @@
+:root {
+  --cal-blue: #003262;
+  --cal-blue-light: #3B7EA1; /* lighter offset */
+  --cal-blue-dark: #00254C;  /* darker offset */
+  --cal-gold: #FDB515;
+  --cal-gold-dark: #C4820E;  /* offset for visited links */
+}
+
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):link {
-  color: #003262;
+  color: var(--cal-blue);
   text-decoration: underline;
 }
 
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):visited {
-  color: #003262;
+  color: var(--cal-gold-dark);
   text-decoration: underline;
 }
 
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):hover {
-  color: #3B7EA1;
+  color: var(--cal-gold);
   text-decoration: none;
 }
 
 a:not(.nav-link):not(.navbar-brand):not(.btn-primary):active {
-  color: #00254C;
+  color: var(--cal-blue-dark);
   text-decoration: none;
 }
 
