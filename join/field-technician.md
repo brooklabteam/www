@@ -77,6 +77,7 @@ Prior to arrival in Madagascar, field technicians will receive a single advance 
 - Rabies vaccination. This three-shot series can cost up to ~$1000 if not covered by insurance, though, depending on health insurance, this can usually be acquired cheaply with a letter from the project. Please reach out to your State Department of Public Health or City/County Public Health Department if struggling to obtain this from your Primary Care Provider.
 - One-year supply of malaria medication (i.e. malarone, doxycycline) (a ~$200 value, depending on health insurance)
 - An extendable scientific research visa (~$55 USD value)
+- Professional liability insurance through UC Berkeley (available [here](https://ucberk.campusconnexionsuc.com/product/category/vendors-contractors/); this $750 purchase will be reimbursed but the technician will need to front the initial payment)
 
 Also prior to arrival in Madagascar, Dr. Brook will purchase [International SOS](https://www.internationalsos.com/), which provides remote medical advice and evacuation insurance for serious medical issues, for the duration of the technician's employment (a ~$400 value). International SOS does not cover treatment after the return of a patient to the US, however, and **the technician will be required to demonstrate evidence of US medical insurance (i.e. on a family member's plan) prior to the position start date**. US medical insurance is not provided with this position.
 
