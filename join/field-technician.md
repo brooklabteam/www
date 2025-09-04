@@ -3,7 +3,7 @@ layout: page
 title: "Field Technician Position"
 permalink: /join/field-technician
 ---
-
+<!--
 
 <div class="bs-callout bs-callout-info">
 <p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch with applicants in the next few weeks!</p> <br>
@@ -11,20 +11,20 @@ permalink: /join/field-technician
 <p><em>This page last updated August 18, 2025.</em></p>
 
 </div>
-
-
-
-<!--
-<div class="bs-callout bs-callout-warning">
-  <p><a href="https://airtable.com/appzsepiA9iPlKP95/shr3qHdnf6pKARb1i">Submit your application</a> by midnight (Pacific) on Sunday, August 17, 2025 for consideration as the 2025-2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appzsepiA9iPlKP95/shruNWBFGRrN0oIdf">this recommendation submission form</a> by Friday, August 22, 2025.</p>
-</div>
 -->
+
+
+
+<div class="bs-callout bs-callout-warning">
+  <p><a href="https://airtable.com/appKcAjQ13Knj2Bd3/shr3ZW0dPYSLBtmtR">Submit your application</a> by midnight (Pacific) on Tuesday, September 30, 2025 for consideration as the 2026 Association Ekipa Fanihy Field Technician! Two recommenders should upload letters using <a href="https://airtable.com/appKcAjQ13Knj2Bd3/shrm2HKbksyN9wwBL">this recommendation submission form</a> by the same time and date.</p>
+</div>
+
 
 
 ---
 
-**Projected Project Period**: September 15, 2025 (start date) - September 14, 2026 (end date), with options to extend. Start and end dates somewhat negotiable. 
-Note: While this posting is focused on recruitment for a September 2025 start date, we will also be hiring a new technician to start in January 2026. If this timeline works better for you, please apply now and indicate this on your application.
+**Projected Project Period**: January 5, 2026 (start date) - December 10, 2026 (end date), with options to extend. Start and end dates somewhat negotiable. 
+
 
 ---
 
@@ -84,7 +84,7 @@ One roundtrip plane ticket from a major international US airport will be funded 
 
 Once arrived in-country, field technicians will be employees of our local NGO, [Association Ekipa Fanihy](https://ekipafanihy.org), and receive a monthly living stipend of 1.4 million Ariary, equivalent to $300 USD, which will be more than sufficient to support a comfortable lifestyle throughout the duration of the project (average daily cost of living is < 5,000 Ar in Madagascar). Rent on Tana housing and all in-field food expenses will be paid by the project. Field technicians will be set up with an in-country bank account following arrival and will be expected to purchase and cook food using their living stipend while in Tana. Basic in-country medical needs (e.g. over-the-counter medications, routine doctor visits, etc.) will also be paid out of the living stipend. Any excess funds from the stipend may be kept for personal use, and, if desirable, Ekipa Fanihy will arrange for their transfer from Ariary to US dollars at periodic intervals throughout the employment or at the time of the technician's return to the US. 
 
-Ekipa Fanihy will take a 2-week break from field work during the December holidays, and the tech will be free to travel in country or, if desired, return to the US using personal funds during this time. Breaks from field studies for personal travel of up to 3 weeks total at other times of the year will be permitted if requested with a minimum of 2 months advance notice.
+Breaks from field studies for personal travel of up to 3 weeks total will be permitted if requested with a minimum of 2 months advance notice. The team will take a 2-week break over the December holidays following the close date for this position.
 
 At the conclusion of 12 months of employment, field technicians will receive an additional $2000 bonus (taxes will be withheld) by direct deposit to their US bank to support relocation expenses upon returning home. Any technician who opts to extend employment for 6 months or more will be eligible for an additional $1000 bonus.
 
