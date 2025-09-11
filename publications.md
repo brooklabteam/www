@@ -18,13 +18,13 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 <h2>In Revision</h2>
 
-- **Gonzalez FL**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: implications for viral evolution and zoonotic risk. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.12.24.630179).
-
 - **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
 - **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
 
 <h2>2025</h2>
+
+- **Gonzalez FL**, **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: Implications for viral evolution and zoonotic risk. 2025. *PLoS One*. 20 (9): e0331736. doi: [10.1371/journal.pone.0331736](https://doi.org/10.1371/journal.pone.0331736).
 
 - **Andrianiaina AF**, **Andry S**, **Kettenburg G**, **Ranaivoson HC**, Lacoste V, Dussart P, Héraud J-M, Laverty TM, Guth S, Young KI, Andrianarimisa A, and **Brook CE**. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. 2025. *Parasites & Vector*. 18: 302. doi: [10.1186/s13071-025-06805-z](https://doi.org/10.1186/s13071-025-06805-z).
 
