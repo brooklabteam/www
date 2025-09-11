@@ -26,7 +26,7 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 - **Gonzalez FL**, **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: Implications for viral evolution and zoonotic risk. 2025. *PLoS One*. 20 (9): e0331736. doi: [10.1371/journal.pone.0331736](https://doi.org/10.1371/journal.pone.0331736).
 
-- **Andrianiaina AF**, **Andry S**, **Kettenburg G**, **Ranaivoson HC**, Lacoste V, Dussart P, Héraud J-M, Laverty TM, Guth S, Young KI, Andrianarimisa A, and **Brook CE**. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. 2025. *Parasites & Vector*. 18: 302. doi: [10.1186/s13071-025-06805-z](https://doi.org/10.1186/s13071-025-06805-z).
+- **Andrianiaina AF**, **Andry S**, **Kettenburg G**, **Ranaivoson HC**, Lacoste V, Dussart P, Héraud J-M, Laverty TM, Guth S, Young KI, Andrianarimisa A, and **Brook CE**. Diversity and seasonality of ectoparasite burden on two species of Madagascar fruit bat, *Eidolon dupreanum* and *Rousettus madagascariensis*. 2025. *Parasites & Vectors*. 18: 302. doi: [10.1186/s13071-025-06805-z](https://doi.org/10.1186/s13071-025-06805-z).
 
 - Fenosoa ZSE, **Brook CE**, Dunham AE, Rakotomanana HF, Razafindraibe H, and Ring KA. Gut passage in lemurs enhances the germination of mistletoe seeds *Bakerella gonoclada*, in a Madagascar rainforest. 2025. *African Journal of Ecology*. 63 (1): e70012. doi: [10.1111/aje.70012](https://doi.org/10.1111/aje.70012).
 
