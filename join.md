@@ -42,12 +42,14 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 **I have now closed applications for PhD students to join my group in fall 2026 (fall 2025 application cycle).**  In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
 For recruits to start in AY2026-2027, I am particularly interested in a field-capable graduate student with a strong interest and/or background in international research and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
+Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkeley.edu/) for details on graduate applications.
+
 <!--
 **If you are interested in joining the Brook Lab in AY2026-2027, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form) prior to midnight on Friday, October 17, 2025**.
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
 -->
-Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkeley.edu/) for details on graduate applications.
+
 
 
 
