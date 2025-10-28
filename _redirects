@@ -1,54 +1,54 @@
 # netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
 
 # Redirects from what the browser requests to what we serve
-/feed              /feed.xml
+/feed /feed.xml
 
-# Plausible Analytics https://plausible.io/docs/proxy/guides/netlify with https://plausible.io/docs/script-extensions
+# Plausible Analytics based on https://plausible.io/docs/proxy/guides/vercel
 /pio/js/pa-U8c9HXvYxNw3mZ0R4jXlV.js https://plausible.io/js/pa-U8c9HXvYxNw3mZ0R4jXlV.js 200
 /pio/api/event https://plausible.io/api/event 200
 
 # Redirects from changing page URLs
-/carabrook                /cara-brook
-/fieldtechjob.html		  /join
-/index.html				  /	301!
-/join/field-tech          /join
-/jointhelab               /join
-/jointhelab/team.html     /team
-/jointhelab/fieldtechjob  /join
-/labvaluesexpectations    /values-and-policies
-/people                   /team
-/publications.html		  /publications	301!
-/research.html			  /research	301!
-/research_interests       /research
-/team.html                /team	301!
+/carabrook /cara-brook
+/fieldtechjob.html /join
+/index.html / 301!
+/join/field-tech /join
+/jointhelab /join
+/jointhelab/team.html /team
+/jointhelab/fieldtechjob /join
+/labvaluesexpectations /values-and-policies
+/people /team
+/publications.html /publications 301!
+/research.html /research 301!
+/research_interests /research
+/team.html /team 301!
 
 # Redirects from old CV to /cara-brook (which includes link to current CV)
-/carabrook/CV_CaraBrook_Full_April2022.pdf  /cara-brook
-/assets/CV_CaraBrook_Full_June2022.pdf      /cara-brook
-/cara-brook/CV_CaraBrook_Full_June2022.pdf  /cara-brook
-/assets/CV_CaraBrook_Full_February2023.pdf  /cara-brook
-/assets/CV_CaraBrook_Full_April2024.pdf     /cara-brook
-/assets/CV_CaraBrook_Full_May2024.pdf		/cara-brook
-/assets/CV_CaraBrook_Full_August2024.pdf	/cara-brook
-/assets/CV_CaraBrook_Full_Sept2024.pdf			/cara-brook
-/assets/CV_CaraBrook_Full_Nov2024.pdf			/cara-brook
-/assets/CV_CaraBrook_Full_Feb2025.pdf			/cara-brook
+/carabrook/CV_CaraBrook_Full_April2022.pdf /cara-brook
+/assets/CV_CaraBrook_Full_June2022.pdf /cara-brook
+/cara-brook/CV_CaraBrook_Full_June2022.pdf /cara-brook
+/assets/CV_CaraBrook_Full_February2023.pdf /cara-brook
+/assets/CV_CaraBrook_Full_April2024.pdf /cara-brook
+/assets/CV_CaraBrook_Full_May2024.pdf /cara-brook
+/assets/CV_CaraBrook_Full_August2024.pdf /cara-brook
+/assets/CV_CaraBrook_Full_Sept2024.pdf /cara-brook
+/assets/CV_CaraBrook_Full_Nov2024.pdf /cara-brook
+/assets/CV_CaraBrook_Full_Feb2025.pdf /cara-brook
 
 # Redirects from old post titles
-/news/2022-02-20-FR-post	/news/gastrointestinal-microbiomes
-/news/2022-02-20-fr-post	/news/gastrointestinal-microbiomes
-/news/2022-02-07-GK-post	/news/nobecoviruses-paper
-/news/2022-02-07-gk-post	/news/nobecoviruses-paper
-/news/2021-04-18-FR-post	/news/covid-in-madagascar
-/news/2021-04-18-fr-post	/news/covid-in-madagascar
-/news/2021-04-13-SA-post	/news/santino-reflects-on-covid-in-madagascar
-/news/2021-04-13-sa-post	/news/santino-reflects-on-covid-in-madagascar
-/news/2021-01-11-AA-post	/news/meet-angelo
-/news/2021-01-11-aa-post	/news/meet-angelo
-/news/2020-12-16-FR-post	/news/fifi-coronavirus-review
-/news/2020-12-16-fr-post	/news/fifi-coronavirus-review
-/news/2020-12-15-FR-post	/news/meet-fifi
-/news/2020-12-15-fr-post	/news/meet-fifi
-/news/2020-12-02-ag-post	/news/anecia-review-paper
-/news/2020-12-01-AG-post	/news/meet-anecia
-/news/2020-12-01-ag-post	/news/meet-anecia
+/news/2022-02-20-FR-post /news/gastrointestinal-microbiomes
+/news/2022-02-20-fr-post /news/gastrointestinal-microbiomes
+/news/2022-02-07-GK-post /news/nobecoviruses-paper
+/news/2022-02-07-gk-post /news/nobecoviruses-paper
+/news/2021-04-18-FR-post /news/covid-in-madagascar
+/news/2021-04-18-fr-post /news/covid-in-madagascar
+/news/2021-04-13-SA-post /news/santino-reflects-on-covid-in-madagascar
+/news/2021-04-13-sa-post /news/santino-reflects-on-covid-in-madagascar
+/news/2021-01-11-AA-post /news/meet-angelo
+/news/2021-01-11-aa-post /news/meet-angelo
+/news/2020-12-16-FR-post /news/fifi-coronavirus-review
+/news/2020-12-16-fr-post /news/fifi-coronavirus-review
+/news/2020-12-15-FR-post /news/meet-fifi
+/news/2020-12-15-fr-post /news/meet-fifi
+/news/2020-12-02-ag-post /news/anecia-review-paper
+/news/2020-12-01-AG-post /news/meet-anecia
+/news/2020-12-01-ag-post /news/meet-anecia
