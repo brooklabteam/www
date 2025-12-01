@@ -7,9 +7,9 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Kettenburg G**, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, Lacoste V, Héraud J-M, Dussart P, **Brook CE**. "A rabies-like *Lyssavirus* in three endemic Malagasy fruit bats." In Review.
+- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Rahombanjanahary N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and Brook CE. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Review.
 
-- **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Henry AR, Davis RL, Laboune F, Lontine ER, Godbole S, **Horigan S**, **Ruhs EC**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Héraud J-M, Dussart P, and **Brook CE**. *Picornaviridae* and *Caliciviridae* diversity in Madagascar fruit bats is driven by cross-continental genetic exchange. In Review. [Link to bioRxiv Preprint]( https://doi.org/10.1101/2024.12.31.630946).
+- **Kettenburg G**, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, Lacoste V, Héraud J-M, Dussart P, **Brook CE**. A rabies-like *Lyssavirus* in three endemic Malagasy fruit bats. In Review.
 
 - **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
 Adams H, **Brook CE**, and **Ruhs EC**. Impacts of urbanization on the health of American Robins (*Turdus
@@ -18,11 +18,15 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 <h2>In Revision</h2>
 
+- **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Henry AR, Davis RL, Laboune F, Lontine ER, Godbole S, **Horigan S**, **Ruhs EC**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Héraud J-M, Dussart P, and **Brook CE**. *Picornaviridae* and *Caliciviridae* diversity in Madagascar fruit bats is driven by cross-continental genetic exchange. In Review. [Link to bioRxiv Preprint]( https://doi.org/10.1101/2024.12.31.630946).
+
 - **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
 - **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
 
 <h2>2025</h2>
+
+- Rekedal, MS, **Ruhs EC**, **Ranaivoson HC**, Mittal N, Sterling SL, **Kettenburg K**, **Andrianiaina A**, **Andry S**, Yan L, Lehrer AT, Héraud J-M, Lacoste V, Dussart P, **Brook CE** and Laing ED. Serologic evidence of orthomarburgviruses and an orthoebolavirus in frugivorous Malagasy bats. 2025. *One Health Outlook*. 7 (1) 55. doi: [10.1186/s42522-025-00178-0](https://doi.org/10.1186/s42522-025-00178-0).
 
 - **Gonzalez FL**, **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: Implications for viral evolution and zoonotic risk. 2025. *PLoS One*. 20 (9): e0331736. doi: [10.1371/journal.pone.0331736](https://doi.org/10.1371/journal.pone.0331736).
 
