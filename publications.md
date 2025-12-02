@@ -7,7 +7,7 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Rahombanjanahary N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and Brook CE. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Review.
+- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Review.
 
 - **Kettenburg G**, **Ranaivoson HC**, **Andrianianina A**, **Andry S**, Lacoste V, Héraud J-M, Dussart P, **Brook CE**. A rabies-like *Lyssavirus* in three endemic Malagasy fruit bats. In Review.
 
