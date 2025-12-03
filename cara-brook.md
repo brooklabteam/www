@@ -11,7 +11,7 @@ Prior to joining IB, I was an Assistant Professor in the [Department of Ecology 
 
 * Contact: cbrook (at) berkeley (dot) edu
 * Pronouns: she/her
-* <a href="/assets/CV_CaraBrook_Full_July2025.pdf">Full CV</a>
+* <a href="/assets/CV_CaraBrook_Full_December2025.pdf">Full CV</a>
 
 * <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
