@@ -94,7 +94,7 @@ We are a family-friendly lab with several parents on staff. Parental leave durin
 
 Code and data for all projects carried out in the lab must be uploaded to a project folder on our [Brook Lab GitHub](https://github.com/brooklabteam) team platform, where we also store composite datasets available for any lab member to use following clearance from the PI (Cara). Use of lab data resources should be accompanied by a data-sharing discussion with the PI, and it is likely that any members of the lab involved in data collection (in particular those based in Madagascar) will need to be included as co-authors on the associated work. 
 
-We keep track of helpful computing resources and tips (including use of the UC Berkeley computing cluster, Savio) [in our team's resources on GitHub](https://github.com/brooklabteam/brooklab-resources).
+We keep track of helpful computing resources and tips (including use of the UC Berkeley computing cluster, Savio) [in our team's resources on GitHub](https://github.com/brooklabteam/brooklab-resources). Please review the ['Using Savio'](https://github.com/brooklabteam/brooklab-resources/blob/main/savio-how-to.md) notes in their entirety before you start working on the computing cluster.
 
 Additionally, we also communicate regularly and share progress on Slack.
 
