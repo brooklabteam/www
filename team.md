@@ -95,7 +95,7 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/ethan_kilroy.jpg" alt="eliza" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/ethan_kilroy.jpg" alt="ethan" class="img-thumbnail float-start col-md-3" />
 
 **Ethan Kilroy** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Florida with a B.S. in Zoology. During his undergraduate education, he studied in both Kenya and Madagascar. After graduating, Ethan joined a forest team with AmeriCorps NCCC where he aided national forests in the southeast and served as a Type II Wildland Firefighter. He then worked as a field technician for the National Ecological Observatory Network, collecting data on various flora and fauna in Florida and Georgia, before joining Ekipa Fanihy.
 
@@ -108,9 +108,9 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 <h2>Ekipa Alumni</h2>
 
+<div style="clear:both;">&nbsp;</div>
 
-
-**Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook lab from 2023-2025 at the University of Chicago. She is now working as a Lecturer in Genetics in her home country of Colombia.
+**Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
 
 <div style="clear:both;">&nbsp;</div>
 
