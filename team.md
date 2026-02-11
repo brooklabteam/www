@@ -88,14 +88,14 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 
 
 
-<img src="/assets/team/eliza_buttram.jpg" alt="eliza" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/eliza_buttram.jpeg" alt="eliza" class="img-thumbnail float-start col-md-3" />
 
 **Elizabeth (Eliza) Buttram** (she/her) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats to further epidemiological research and conservation efforts. Graduating in 2019 with a BS in Natural Resource Management - Wildlife, she has worked internationally in Senegal with Peace Corps, netted bats in Costa Rica for a biological internship, worked with vervet monkeys in South Africa, and conducted aerial infrared surveys in Canada for moose and boreal caribou. Nationally, she has worked diverse leadership positions with wildlife ranging from herpetofauna, birds, ungulates, and carnivores, with favorite project species being Mojave desert tortoises, California spotted owls, and polar bears.
 
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/ethan_kilroy.jpg" alt="ethan" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/ethan_kilroy.jpeg" alt="ethan" class="img-thumbnail float-start col-md-3" />
 
 **Ethan Kilroy** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Florida with a B.S. in Zoology. During his undergraduate education, he studied in both Kenya and Madagascar. After graduating, Ethan joined a forest team with AmeriCorps NCCC where he aided national forests in the southeast and served as a Type II Wildland Firefighter. He then worked as a field technician for the National Ecological Observatory Network, collecting data on various flora and fauna in Florida and Georgia, before joining Ekipa Fanihy.
 
