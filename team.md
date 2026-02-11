@@ -36,6 +36,14 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/monique_ades.jpg" alt="monique" class="img-thumbnail float-start col-md-3" />
+
+
+**Monique Ades** (she/her) is a **Lab Technician**. She formerly served as a Field Technician with Ekipa Fanihy in 2025. She graduated from California State University Fresno with a B.S. in Biology. While at CSU Fresno, she engaged in research regarding representation of bat specimens in the CSU Fresno vertebrate collection in comparison to similarly sized mammals and birds. Additionally, she spent three summers as a field technician on a U.S Forest Service meadow restoration project focused on restoring meadows affected by wildfires in the Sierra Nevada mountains. Most recently she worked as an Agriculture Volunteer with Peace Corps Madagascar and is now returning to Madagascar to join Ekipa Fanihy.
+
+<div style="clear:both;">&nbsp;</div>
+
+
 
 
 <h2>University of Chicago Team</h2>
@@ -52,12 +60,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
-
-<img src="/assets/team/natalia_cortes_delgado.jpg" alt="natalia" class="img-thumbnail float-start col-md-3" />
-
-Dr. **Natalia Cortes-Delgado** (she/her) is a **Postdoctoral Scholar** in the Department of Ecology and Evolution at the University of Chicago. Her research focuses on estimating effective population size and connectivity of three species of Malagasy bats, as well as the influence of bat microbiome on tolerance to viral infections. Natalia holds a PhD in Ecology and Evolution from the University of Illinois at Chicago, where she investigated the role of the Andes as a driver of genetic differentiation in bat populations. She has a Master’s degree in Sciences from the Instituto de Ecologia, A.C. in Mexico where she studied roost use and foraging areas by the fruit bat species *Sturnira hondurensis*. Natalia’s research interests are broad and are mainly concentrated in bat evolution, including the understanding of patterns of genetic structure and speciation in bat species, in addition to bat immune response evolution.
-
-<div style="clear:both;">&nbsp;</div>
 
 
 
@@ -85,17 +87,32 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 <div style="clear:both;">&nbsp;</div>
 
 
-<img src="/assets/team/monique_ades.jpg" alt="monique" class="img-thumbnail float-start col-md-3" />
+
+<img src="/assets/team/eliza_buttram.jpg" alt="eliza" class="img-thumbnail float-start col-md-3" />
+
+**Elizabeth (Eliza) Buttram** (she/her) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats to further epidemiological research and conservation efforts. Graduating in 2019 with a BS in Natural Resource Management - Wildlife, she has worked internationally in Senegal with Peace Corps, netted bats in Costa Rica for a biological internship, worked with vervet monkeys in South Africa, and conducted aerial infrared surveys in Canada for moose and boreal caribou. Nationally, she has worked diverse leadership positions with wildlife ranging from herpetofauna, birds, ungulates, and carnivores, with favorite project species being Mojave desert tortoises, California spotted owls, and polar bears.
+
+<div style="clear:both;">&nbsp;</div>
 
 
-**Monique Ades** (she/her) is a **Field Project Manager**. She co-leads monthly field expeditions to capture and sample Madagascar endemic fruit bats. She graduated from California State University Fresno with a B.S. in Biology. While at CSU Fresno, she engaged in research regarding representation of bat specimens in the CSU Fresno vertebrate collection in comparison to similarly sized mammals and birds. Additionally, she spent three summers as a field technician on a U.S Forest Service meadow restoration project focused on restoring meadows affected by wildfires in the Sierra Nevada mountains. Most recently she worked as an Agriculture Volunteer with Peace Corps Madagascar and is now returning to Madagascar to join Ekipa Fanihy.
+<img src="/assets/team/ethan_kilroy.jpg" alt="eliza" class="img-thumbnail float-start col-md-3" />
+
+**Ethan Kilroy** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Florida with a B.S. in Zoology. During his undergraduate education, he studied in both Kenya and Madagascar. After graduating, Ethan joined a forest team with AmeriCorps NCCC where he aided national forests in the southeast and served as a Type II Wildland Firefighter. He then worked as a field technician for the National Ecological Observatory Network, collecting data on various flora and fauna in Florida and Georgia, before joining Ekipa Fanihy.
+
 
 <div style="clear:both;">&nbsp;</div>
 
 
 
 
+
 <h2>Ekipa Alumni</h2>
+
+
+
+**Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook lab from 2023-2025 at the University of Chicago. She is now working as a Lecturer in Genetics in her home country of Colombia.
+
+<div style="clear:both;">&nbsp;</div>
 
 
 **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a **Postdoctoral Scholar** in the Brook lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
