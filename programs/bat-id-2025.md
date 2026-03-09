@@ -106,7 +106,7 @@ Conference attendees who have not already booked dormitory lodging should book a
 
 There are **three hotels** available in the Hyde Park, Chicago area, which can be accessed easily on foot from the University of Chicago: the [Sophy](https://sophyhotel.com/), the [Hyatt Place Chicago-South](https://www.hyatt.com/hyatt-place/en-US/chizu-hyatt-place-chicago-south-university-medical-center), and the [Study](https://www.thestudyatuniversityofchicago.com).
 
-A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the [Metric Electric](https://ridertools.metrarail.com) lightrail (at the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street)).
+A variety of other hotel options are available in the Chicago Loop, which can be accessed easily from the University of Chicago via a 20-minute ride on the [Metra Electric](https://ridertools.metrarail.com) lightrail (at the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street)).
 
 #### ✈️ Travel
 
@@ -114,7 +114,7 @@ Two international airports offer easy metro/lightrail access to the University o
 
 MDW is a little closer to UChicago and therefore our recommendation if you are able to find equivalent flight options to either airport.
 
-**Getting here:** The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) ["L"](https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png) to the Loop, then transfer to the [ Metra Electric](https://metra.com/train-lines/me) at Millenium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the [51st/53rd St. Hyde Park stop](https://metra.com/train-lines/stations/51st53rd-st-hyde-park) or the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street) to walk to your lodging.
+**Getting here:** The University of Chicago is easily accessible from both O'Hare (ORD) and Midway International Airports (MDW). You can take the Blue line (ORD) or Orange line (MDW) ["L"](https://www.transitchicago.com/assets/1/6/ctamap_Lsystem.png) to the Loop, then transfer to the [ Metra Electric](https://metra.com/train-lines/me) at Millennium Station. From there, you can take the Metra direct to Hyde Park, getting off at either the [51st/53rd St. Hyde Park stop](https://metra.com/train-lines/stations/51st53rd-st-hyde-park) or the [55th-56th-57th Street stop](https://metra.com/train-lines/stations/55th-56th-57th-street) to walk to your lodging.
 
 #### 🍽 Hyde Park Dining
 Some recommended local restaurants that are unlikely to require reservations include:
@@ -124,8 +124,8 @@ Some recommended local restaurants that are unlikely to require reservations inc
   - [Bar David](https://bardavid.uchicago.edu) 
 
 - **57th Street**
-  - [Medici on 57th](https://www.truthbetoldtavern.com) 
-  - [Noodles Etc](https://bardavid.uchicago.edu) 
+  - [Medici on 57th](https://www.medici57.com)
+  - [Noodles Etc](http://noodlesetc.com/)
 
 - **55th Street**
   - [Nella Pizza e Pasta](https://nellachicago.com) 
@@ -133,7 +133,7 @@ Some recommended local restaurants that are unlikely to require reservations inc
   - [Woodlawn Tap “Jimmy’s”](https://chibarproject.com/reviews/woodlawntap/) 
 
 - **53rd Street**
-  - [Giorodano’s Pizza](https://giordanos.com/locations/hyde-park/) 
+  - [Giordano’s Pizza](https://giordanos.com/locations/hyde-park/) 
   - [Pizza Capri](https://www.pizzacapri.com/hyde-park/) 
   - [Strings Ramen](https://www.stringsramen.com) 
 
