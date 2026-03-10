@@ -39,7 +39,7 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 - **Brook CE**, Rozins C, Bohl JA, Ahyong V, Chea S, Fahsbender E, Huy R, Lay S, Leang R, **Li Y**, Lon C, Man S, Oum M, Northrup GR, Oliveira F, Pacheco AR, Parker DM, **Young KI**, Boots M, Tato CM, DeRisi JL, Yek C, and Manning JE. Climate, demography, immunology, and virology combine to drive two decades of dengue virus dynamics in Cambodia. 2024. *PNAS*. 121 (36): e2318704121. doi: [10.1073/pnas.2318704121](https://doi.org/10.1073/pnas.2318704121).
 
-- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianianina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud, JM, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. 2024. *Virology Journal*. 21: 195. doi: [10.1186/s12985-024-02471-2](https://doi.org/10.1186/s12985-024-02471-2)
+- **Horigan S**, **Kettenburg G**, Kistler A, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**,  Raharinosy V, Randriambolamanantsoa TH, Tato CM, Lacoste V, Héraud J-M, Dussart P, and **Brook CE**. Detection, characterization, and phylogenetic analysis of a near-whole genome sequence of a novel astrovirus in an endemic Malagasy fruit bat, *Rousettus madagascariensis*. 2024. *Virology Journal*. 21: 195. doi: [10.1186/s12985-024-02471-2](https://doi.org/10.1186/s12985-024-02471-2)
 
 <h2>2023</h2>
 
@@ -58,15 +58,15 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 - **Andrianiaina A\*, Andry S\* , Gentles A**, Guth S, Héraud JM, **Ranaivoson HC**, Ravelomanantsoa
 NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile growth in three Malagasy fruit bats. 2022. *Journal of Mammalogy*. 103 (6): 1397-1408. doi: [10.1093/jmammal/gyac072](https://doi.org/10.1093/jmammal/gyac072).
 
-- Madera S, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Heraud JM, and **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. 96 (18): e00921-22. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
+- Madera S, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Ravelomanantsoa NAF, Tato CM, DeRisi JL, Aguilar HC, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**.  Discovery and genomic characterization of a novel henipavirus, Angavokely virus, from fruit bats in Madagascar. 2022. *Journal of Virology*. 96 (18): e00921-22. doi: [10.1128/jvi.00921-22](https://doi.org/10.1128/jvi.00921-22)
 
 - Guth S, Mollentze N, Renault K, Streicker DG, Visher E, Boots M±, and **Brook CE±**. Bats host the most virulent—but not the most dangerous—zoonotic viruses. 2022. *PNAS*. 119 (14): e2113628119. doi: [10.1073/pnas.2113628119](https://doi.org/10.1073/pnas.2113628119). ± = equal senior contributions
 
-- **Kettenburg G**, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, DeRisi JL, **Gentles A**, Raharinosy V, Randriambolamanantsoa TH, **Ravelomanantsoa NAF**, Tato CM, Dussart P, Heraud JM, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. 2022. *Frontiers in Public Health*. 10: 786060. doi: [10.3389/fpubh.2022.786060](https://doi.org/10.3389/fpubh.2022.786060).
+- **Kettenburg G**, Kistler A, **Ranaivoson HC**, Ahyong V, **Andrianiaina A**, **Andry S**, DeRisi JL, **Gentles A**, Raharinosy V, Randriambolamanantsoa TH, **Ravelomanantsoa NAF**, Tato CM, Dussart P, Héraud J-M, and **Brook CE**. Full genome *Nobecovirus* sequences from Malagasy fruit bats define a unique evolutionary history for this coronavirus clade. 2022. *Frontiers in Public Health*. 10: 786060. doi: [10.3389/fpubh.2022.786060](https://doi.org/10.3389/fpubh.2022.786060).
 
 - Jones DN, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK\*, and **Brook CE**\*. Do gastrointestinal microbiomes play a role in bats' unique viral hosting capacity? 2022. *Trends in Microbiology*. 30 (7): 632-642. doi: [10.1016/j.tim.2021.12.009](https://doi.org/10.1016/j.tim.2021.12.009). \*=equal senior contributions	
 
-- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Randriambolamanantsoa TH, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Ratsimbazafy AM, Raharinosy V, Rabemananjara AH, **Ranaivoson HC**, Razafimanjato H, Randremanana R±, Heraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. 2022. *Epidemics*. 38: 1000533. doi: [10.1016/j.epidem.2021.100533](https://doi.org/10.1016/j.epidem.2021.100533). \*=equal lead contributions; ± equal senior contributions
+- Andriamandimby SF\*, **Brook CE**\*, Razanajatovo N, Randriambolamanantsoa TH, Rakotondramanga J-M, Rasambainarivo F, Raharimanga V, Razanajatovo IM, Mangahasimbola R, Razafindratsimandresy R, Randrianarisoa S, Bernardson B, Rabarison JH, Randrianarisoa M, Nasolo FS, Rabetombosoa RM, Ratsimbazafy AM, Raharinosy V, Rabemananjara AH, **Ranaivoson HC**, Razafimanjato H, Randremanana R±, Héraud J-M±, Dussart P±.  Cross-sectional cycle threshold values reflect epidemic dynamics of COVID-19 in Madagascar. 2022. *Epidemics*. 38: 1000533. doi: [10.1016/j.epidem.2021.100533](https://doi.org/10.1016/j.epidem.2021.100533). \*=equal lead contributions; ± equal senior contributions
 
 <h2>2021</h2>
 
@@ -108,7 +108,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 - Guth S, Visher E, Boots M, and **Brook CE.** 2019. Host phylogenetic distance drives trends in virus virulence and transmissibility across the animal-human interface. *Philosophical Transactions of the Royal Society.* 374 (1782): 20190296. doi: [10.1098/rstb.2019.0296](https://doi.org/10.1098/rstb.2019.0296).
 
--	**Brook CE**, **Ranaivoson HC**, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE±, and Dobson AP±. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology.* . 88 (7): 1001-1016. doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). ±=equal senior contributions.
+-	**Brook CE**, **Ranaivoson HC**, Broder CC, Cunningham AA, Héraud JM, Peel AJ, Gibson L, Wood JLN, Metcalf CJE±, and Dobson AP±. 2019. Disentangling serology to elucidate henipa- and filovirus transmission in Madagascar fruit bats. *Journal of Animal Ecology*. 88 (7): 1001-1016. doi: [10.1111/1365-2656.12985](https://doi.org/10.1111/1365-2656.12985). ±=equal senior contributions.
       - Profiled in JAE blog [here](https://animalecologyinfocus.com/2019/04/16/disentangling-disease-transmission-in-madagascar-fruit-bats/).
 
 - **Brook CE**, Ranaivoson HC, Andriafidison D, Ralisata M, Razafimanahaka J, Héraud JM, Dobson AP, and Metcalf CJE. 2019. Population trends for two Malagasy fruit bats. *Biological Conservation.* 234: 165-171. doi: [10.1016/j.biocon.2019.03.032](https://doi.org/10.1016/j.biocon.2019.03.032).
@@ -125,7 +125,7 @@ NAF, Treuer T, and **Brook CE**. Reproduction, seasonal morphology, and juvenile
 
 <h2>2016</h2>
 
-- Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Heraud J-M±, and Metcalf CJE. 2016±. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. *Journal of the Royal Society Interface.* 13 (177): 20151101. \* =  equal lead contributions; ±=equal senior contributions. doi: [10.1098/rsif.2015.110](https://doi.org/10.1098/rsif.2015.110).
+- Wesolowski A\*, Mensah K\*, **Brook CE**\*, Andrianjafimasy M, Winter A, Buckee CO, Razafindratsimendresy R, Tatem AJ, Héraud J-M±, and Metcalf CJE. 2016±. Introduction of Rubella-Containing-Vaccine to Madagascar: Implications for roll-out and local elimination across low-income countries. *Journal of the Royal Society Interface.* 13 (177): 20151101. \* =  equal lead contributions; ±=equal senior contributions. doi: [10.1098/rsif.2015.110](https://doi.org/10.1098/rsif.2015.110).
 
 <h2>2015</h2>
 
