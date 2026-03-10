@@ -64,11 +64,21 @@ These are Markdown files in the root directory. Each uses `layout: page` unless 
 | `research.md` | `/research` | |
 | `publications.md` | `/publications` | |
 | `cara-brook.md` | `/cara-brook` | |
-| `team.md` | `/team` | Team member photos live in `assets/team/` |
+| `team.md` | `/team` | Team member photos live in `assets/team/` — see below |
 | `values-and-policies.md` | `/values-and-policies` | |
 | `join.md` | `/join` | |
 | `news.md` | `/news` | Lists all posts automatically |
 | `programs.md` | `/programs` | |
+
+## Team Photos
+
+Photos for `team.md` live in `assets/team/`. All headshots should be **square** (1:1 aspect ratio), ideally **600×600 px**. When adding a new photo:
+
+1. **Save the original** (unmodified) into `assets/team/originals/` first.
+2. Crop the working copy to a square, centered on the person's face, and resize to 600×600 px (or the native square size if the source is smaller than 600px — do not upscale).
+3. Reference the cropped file in `team.md` as usual.
+
+This ensures consistent appearance across all team member photos on the page.
 
 ## Navigation
 
