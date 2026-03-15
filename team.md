@@ -87,12 +87,14 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 <div style="clear:both;">&nbsp;</div>
 
 
+<img src="/assets/team/miora_nambinintsoa.jpg" alt="miora" class="img-thumbnail float-start col-md-3" />
 
-<img src="/assets/team/eliza_buttram.jpeg" alt="eliza" class="img-thumbnail float-start col-md-3" />
+**Miora Nambinintsoa** (he/him) is a **Field Technician** with Association Ekipa Fanihy.
 
-**Elizabeth (Eliza) Buttram** (she/her) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats to further epidemiological research and conservation efforts. Graduating in 2019 with a BS in Natural Resource Management - Wildlife, she has worked internationally in Senegal with Peace Corps, netted bats in Costa Rica for a biological internship, worked with vervet monkeys in South Africa, and conducted aerial infrared surveys in Canada for moose and boreal caribou. Nationally, she has worked diverse leadership positions with wildlife ranging from herpetofauna, birds, ungulates, and carnivores, with favorite project species being Mojave desert tortoises, California spotted owls, and polar bears.
+He has studied many Malagasy taxa over the course of his Bachelor's studies and the years following, from primates to amphibians and reptiles to small mammals. He joined the team in 2024. 
 
 <div style="clear:both;">&nbsp;</div>
+
 
 
 <img src="/assets/team/ethan_kilroy.jpeg" alt="ethan" class="img-thumbnail float-start col-md-3" />
@@ -164,6 +166,10 @@ Rova is currently pursuing a Master's degree in the Department of Zoology and An
 <div style="clear:both;">&nbsp;</div>
 
 **Vera Soloview** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook lab in 2023. She is now an intern with the American Bird Conservancy in Chicago. 
+
+<div style="clear:both;">&nbsp;</div>
+
+**Elizabeth Buttram** was a Field Project Manager with Association Ekipa Fanihy from October 2025-March 2026. 
 
 <div style="clear:both;">&nbsp;</div>
 
