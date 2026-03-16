@@ -96,3 +96,4 @@ Nav links are hardcoded in `_includes/header.html`. To add/remove a nav item, ed
 ## Todo
 
 - Explore migrating from Jekyll to Eleventy
+- Explore consolidating external sites (e2m2, coding4conservation, batid)
