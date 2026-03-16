@@ -25,3 +25,17 @@ jobs:
       - name: HTMLProofer
         run: |
           bundle exec htmlproofer ./_site || true
+      - name: Check CV link is a real file
+        run: |
+          cv_href=$(grep -oP '(?<=href=")[^"]+\.pdf' cara-brook.md | head -1)
+          echo "CV link found: $cv_href"
+          if [ -z "$cv_href" ]; then
+            echo "ERROR: No PDF CV link found in cara-brook.md"
+            exit 1
+          fi
+          cv_file="_site${cv_href}"
+          if [ ! -f "$cv_file" ]; then
+            echo "ERROR: CV file not found at $cv_file — the link in cara-brook.md is broken"
+            exit 1
+          fi
+          echo "OK: CV file exists at $cv_file"
