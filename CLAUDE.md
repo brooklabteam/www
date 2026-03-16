@@ -92,3 +92,7 @@ Nav links are hardcoded in `_includes/header.html`. To add/remove a nav item, ed
 
 - **Production:** Netlify deploys automatically from `main`. No manual step needed after pushing.
 - **CI:** GitHub Actions (`.github/workflows/jekyll.yml`) runs `jekyll build` and `htmlproofer` on every push/PR to verify the build.
+
+## Todo
+
+- Explore migrating from Jekyll to Eleventy
