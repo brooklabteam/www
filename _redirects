@@ -3,10 +3,6 @@
 # Redirects from what the browser requests to what we serve
 /feed /feed.xml
 
-# Plausible Analytics based on https://plausible.io/docs/proxy/guides/netlify
-/pio/js/pa-U8c9HXvYxNw3mZ0R4jXlV.js https://plausible.io/js/pa-U8c9HXvYxNw3mZ0R4jXlV.js 200
-/pio/api/event https://plausible.io/api/event 200
-
 # Redirects from changing page URLs
 /carabrook /cara-brook
 /fieldtechjob.html /join
