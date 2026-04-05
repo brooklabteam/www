@@ -27,6 +27,8 @@ Saturday morning we hit the Mist Trail up to Vernal Fall. The waterfall was runn
 
 After drying off and grabbing lunch, we spent the afternoon on the valley floor. Lower Yosemite Falls, the iconic Ahwahnee Hotel, and a lot of happy wandering. The cliffs in Yosemite are amazing — getting to see Half Dome, El Cap, and more all in person was special. We talked about how one of the cliff-dwelling fruit bats we study in Madagascar, *Eidolon dupreanum*, would absolutely love it here (minus the cold).
 
+![Lower Yosemite Falls viewed through the trees.](/assets/img/yosemite-lower-falls.gif)
+
 ![El Capitan and Bridalveil Fall from the Yosemite Valley floor.](/assets/img/yosemite-valley-floor.gif)
 
 The day wrapped up with pizza at the Curry Village Pizza Deck, which was delicious and just what we needed after 12 miles of walking. Plenty of Common Ravens (*Corvus corax*) were perched nearby, ready to take any crumbs left behind by park visitors. Funnily enough, this relationship between human influence and raven foraging habits happened to be what Cara studied for her undergrad thesis at Stanford. Cara told us about her summer spent here studying these ravens, staying in the same cabins we were in on this trip!
