@@ -22,7 +22,7 @@ Saturday morning we hit the Mist Trail up to Vernal Fall. The waterfall was runn
 
 ![Vernal Fall running hard with spring snowmelt.](/assets/img/posts/2026-04-05-lab-retreat-2026-yosemite/yosemite-vernal-fall.gif)
 
-![Brook Lab at Vernal Fall on the Mist Trail. Left to right: Gwen Kettenburg, Charlie Voirin, Cara Brook, Monique Ades, Martin Roland, Christian Ranaivoson.](/assets/img/posts/2026-04-05-lab-retreat-2026-yosemite/yosemite-vernal-fall-group.png)
+![Brook Lab at Vernal Fall on the Mist Trail. Left to right: Gwen Kettenburg, Charlie Voirin, Cara Brook, Monique Ades, Martin Roland, Christian Ranaivoson.](/assets/img/posts/2026-04-05-lab-retreat-2026-yosemite/yosemite-vernal-fall-group.jpg)
 
 *Pictured left to right: Gwen Kettenburg, Charlie Voirin, Cara Brook, Monique Ades, Martin Roland, Christian Ranaivoson.*
 
@@ -38,7 +38,7 @@ The day wrapped up with pizza at the Curry Village Pizza Deck, which was delicio
 
 Sunday opened with the sunrise over the valley, which was worth every minute of the early alarm.
 
-![Yosemite Valley at sunrise, with El Capitan and Bridalveil Fall visible in the distance.](/assets/img/posts/2026-04-05-lab-retreat-2026-yosemite/yosemite-tunnel-view-sunrise.png)
+![Yosemite Valley at sunrise, with El Capitan and Bridalveil Fall visible in the distance.](/assets/img/posts/2026-04-05-lab-retreat-2026-yosemite/yosemite-tunnel-view-sunrise.jpg)
 
 We followed that with a hike out to Mirror Lake. It was truly the stillest lake I've ever seen, offering a perfect reflection of the surrounding cliffs.
 
