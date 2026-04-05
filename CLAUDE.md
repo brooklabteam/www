@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the [Brook Lab](https://brooklab.org) website — a Jekyll static site deployed via Netlify. Content is written in Markdown. Netlify auto-deploys on every push to `main`.
+This is the [Brook Lab](https://brooklab.org) website — a Jekyll static site deployed via Cloudflare Pages. Content is written in Markdown.
 
 ## Local Development
 
