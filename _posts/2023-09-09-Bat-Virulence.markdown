@@ -6,7 +6,7 @@ description:  (optional)
 img: Brook2023PLoSBio.jpg
 alt: Cover image from Brook et al. 2023 PLoS Biology article.
 tags: [bat, virus, virulence, tradeoff theory] # add tag
-permalink: /news/bat-virus-virulence
+permalink: /news/bat-virulence-mechanism
 ---
 By Cara Brook
 
