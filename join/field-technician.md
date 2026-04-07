@@ -6,8 +6,8 @@ permalink: /join/field-technician
 
 
 <div class="bs-callout bs-callout-info">
-<p>Applications are now closed for the Ekipa Fanihy field technician position. We will be in touch with applicants in the next few weeks!</p> <br>
-<p><em>This page last updated October 1, 2025.</em></p>
+<p>Applications are currently closed for the Ekipa Fanihy field technician position. We will next be hiring in fall 2026 for a January 2027 start date.</p> <br>
+<p><em>This page last updated April 7, 2026.</em></p>
 </div>
 
 
