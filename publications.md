@@ -7,13 +7,13 @@ permalink: /publications
 
 <h2>In Review</h2>
 
-- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Review.
-
 - **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
 Adams H, **Brook CE**, and **Ruhs EC**. Impacts of urbanization on the health of American Robins (*Turdus
 migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.11.24.625046). 
 
 <h2>In Revision</h2>
+
+- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Revision. [Link to ResearchSquare preprint](https://doi.org/10.21203/rs.3.rs-9086867/v1).
 
 - **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
