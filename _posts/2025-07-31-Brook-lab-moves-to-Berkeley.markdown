@@ -6,7 +6,7 @@ description:  (optional)
 img: UCBerkeley-logo.jpg
 alt: UCBerkeley
 tags: [Cal, Berkeley, Brook lab] # add tag
-permalink: /news/Brook-lab-at-Cal
+permalink: /news/brook-lab-at-cal
 ---
 
 by Cara Brook

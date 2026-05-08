@@ -6,7 +6,7 @@ description:  (optional)
 img: BatIDlogo.jpg
 alt: BatID 2025
 tags: [BatID, conference, UChicago] # add tag
-permalink: /news/BatID-2025
+permalink: /news/batid-2025
 ---
 
 by Cara Brook
