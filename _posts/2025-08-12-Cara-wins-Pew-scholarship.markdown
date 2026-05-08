@@ -6,7 +6,7 @@ description:  (optional)
 img: pew-logo.jpg
 alt: Pew
 tags: [Pew, Berkeley, Brook lab] # add tag
-permalink: /news/Pew-scholar
+permalink: /news/pew-scholar
 ---
 
 
