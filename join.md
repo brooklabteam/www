@@ -4,21 +4,18 @@ title: "Join the Lab"
 permalink: /join
 ---
 
-<!--
-
 <div class="bs-callout bs-callout-info">
-<div class="bs-callout bs-callout-warning">
-  <p>We are recruiting a new field technician for Ekipa Fanihy! See <a href="/join/field-technician">the field technician</a> page for job description and application, due by midnight (Pacific) on <strong>Tuesday, September 30, 2025</strong>!</p>
+  <p>We are recruiting a new lab manager for the Brook lab! Candidate will ideally start sometime in summer 2026. Please submit a CV and cover letter <a href="/join/chicago-field-fellow">here</a> to apply. Application review begins on <strong>June 9, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
--->
 
+<!--
 <div class="bs-callout bs-callout-warning">
 <p>Applications are now closed for PhD positions in my lab to start in fall 2026. Please stay tuned for postings in summer 2026 for a fall 2027 start date.</p>
 <p><em>This page last updated October 18, 2025.</em></p>
 
 </div>
-
+-->
 
 
 <h2>A note on diversity and inclusion</h2>
