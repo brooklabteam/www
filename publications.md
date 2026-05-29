@@ -13,11 +13,14 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 <h2>In Revision</h2>
 
-- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Revision. [Link to ResearchSquare preprint](https://doi.org/10.21203/rs.3.rs-9086867/v1).
-
 - **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
 - **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
+
+<h2>In Press</h2>
+
+- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Press. *BMC Infectious Diseases*. [Link to ResearchSquare preprint](https://doi.org/10.21203/rs.3.rs-9086867/v1).
+
 
 <h2>2026</h2>
 
