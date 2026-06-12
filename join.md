@@ -5,7 +5,11 @@ permalink: /join
 ---
 
 <div class="bs-callout bs-callout-info">
-  <p>We are recruiting a new lab manager for the Brook lab! Candidate will ideally start sometime in summer 2026. Please submit a CV and cover letter <a href="https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=86383&PostingSeq=1">here</a> to apply. Application review begins on <strong>June 9, 2026</strong> and will be rolling thereafter!</p>
+  <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Candidate will ideally start in late summer or fall 2026. Position is available for two years and may be eligible for renewal dependent on funding and performance. Please see [here](/join/postdoc) for details about the desired qualifications, compensation, and a link to apply. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
+</div>
+
+<div class="bs-callout bs-callout-info">
+  <p>Applications remain open for a new lab manager for the Brook lab. Candidate will ideally start sometime in summer 2026. Please submit a CV and cover letter <a href="https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=86383&PostingSeq=1">here</a> to apply. Application review began on <strong>June 9, 2026</strong> and is rolling thereafter!</p>
 </div>
 
 
@@ -38,7 +42,7 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 <h2>PhD Positions</h2>
 
 **I have now closed applications for PhD students to join my group in fall 2026 (fall 2025 application cycle).**  In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
-For recruits to start in AY2026-2027, I am particularly interested in a field-capable graduate student with a strong interest and/or background in international research and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
+For recruits to start in AY2027-2028, I am particularly interested in a field-capable graduate student with a strong interest and/or background in international research and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
 Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkeley.edu/) for details on graduate applications.
 
 <!--
@@ -54,7 +58,7 @@ Please do not feel pressure to spend exorbitant amounts of time on this submissi
 
 <h2>Postdocs</h2>
 
-**All funded postdoc positions in my lab are full at this time.** However, independent postdoctoral fellows are always welcome, and I am happy to advise any interested individuals on related fellowship or grant applications. I have previous experience as both a [Miller Fellow](https://miller.berkeley.edu/) and a [Branco Weiss Fellow](https://brancoweissfellowship.org/) myself and would be delighted to help strategize an application. UC Berkeley offers a range of fellowship opportunities; please feel free to reach out at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) if you are interested in developing a fellowship application to join the group.
+**We are currently searching for a Postdoctoral Scholar in the broad field of 'Bat Infectious Disease'!** Please see [here](/join/postdoc) for details on the desired qualifications and a link to the application site.
 
 --- 
 
