@@ -4,7 +4,7 @@ title: "Brook Lab at UC Berkeley"
 ---
 
 
-<div class="bs-callout bs-callout-info">
+<div class="bs-callout bs-callout-warning">
   <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Candidate will ideally start in late summer or fall 2026. Position is available for two years and may be eligible for renewal dependent on funding and performance. Please see [here](/join/postdoc) for details about the desired qualifications, compensation, and a link to apply. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
