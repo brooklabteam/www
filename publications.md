@@ -17,12 +17,10 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 - **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
 
-<h2>In Press</h2>
-
-- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). In Press. *BMC Infectious Diseases*. [Link to ResearchSquare preprint](https://doi.org/10.21203/rs.3.rs-9086867/v1).
-
 
 <h2>2026</h2>
+
+- **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). 2026. *BMC Infectious Diseases*. doi: [10.1186/s12879-026-13715-7](https://doi.org/10.1186/s12879-026-13715-7).
 
 - **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Henry AR, Davis RL, Laboune F, Longtine ER, Godbole S, **Horigan S**, **Ruhs EC**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Héraud J-M, Dussart P, Douek DC, and **Brook CE**. Co-speciation and host-switching drives diversity of picornaviruses and sapoviruses in Malagasy fruit bats. 2026. *Scientific Reports*. 16: 6582. doi: [10.1038/s41598-025-34969-2](https://doi.org/10.1038/s41598-025-34969-2).
 
