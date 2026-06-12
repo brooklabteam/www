@@ -5,11 +5,12 @@ title: "Brook Lab at UC Berkeley"
 
 
 <div class="bs-callout bs-callout-warning">
-  <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Candidate will ideally start in late summer or fall 2026. Position is available for two years and may be eligible for renewal dependent on funding and performance. Please see [here](/join/postdoc) for details about the desired qualifications, compensation, and a link to apply. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
+  <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
 <div class="bs-callout bs-callout-info">
-  <p>Applications remain open for a new lab manager for the Brook lab. Candidate will ideally start sometime in summer 2026. Please submit a CV and cover letter <a href="https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=86383&PostingSeq=1">here</a> to apply. Application review began on <strong>June 9, 2026</strong> and is rolling thereafter!</p>
+  <p>Applications remain open for a new lab manager for the Brook lab. Please submit a CV and cover letter <a href="https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=86383&PostingSeq=1">here</a> to apply. Applications are rolling!</p>
+  <p><em>This page last updated June 11, 2026.</em></p>
 </div>
 
 
