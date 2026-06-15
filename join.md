@@ -9,11 +9,11 @@ permalink: /join
   <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
-<div class="bs-callout bs-callout-info">
-  <p>Applications remain open for a new lab manager for the Brook lab. Please submit a CV and cover letter <a href="https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=86383&PostingSeq=1">here</a> to apply. Applications are rolling!</p>
-  <p><em>This page last updated June 11, 2026.</em></p>
-</div>
 
+<div class="bs-callout bs-callout-info">
+  <p>Applications for the Brook lab manager position are currently closed and under review. Candidates who have applied will be notified of their status within the next two weeks. </p>
+  <p><em>This page last updated June 15, 2026.</em></p>
+</div>
 
 
 
@@ -82,7 +82,7 @@ If you are an undergrad with an interest in applying for one of these opportunit
 
 We typically employ two **Field Technicians** in one-year positions based in Madagascar. These technicians work with [Association Ekipa Fanihy](https://ekipafanihy.org) to undertake bat capture and collection of biological samples for our longterm project, as well as rudimentary laboratory processing. These positions are targeted towards American post-baccalaureate students eager to work with Malagasy PhD students on [Ekipa Fanihy](/team). I have found this to be a rewarding experience for both American and Malagasy students in the past, allowing both parties to engage in scientific and cultural exchange.
 
-Please see the [field technician](/join/field-technician) page for a description of the last job posting. Please contact Cara Brook at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) with any questions. We will likely hire again in fall 2026 for a January 2027 start date.
+Please see the [field technician](/join/field-technician) page for a description of the last job posting. Please contact Cara Brook at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) with any questions. We will likely hire again in January 2027 for a ~April/May 2027 start date.
 
 Outside of my lab, if you are interested in finding research positions in the field, you may want to explore the following job boards or research opportunities:
 

@@ -9,8 +9,8 @@ permalink: /team
 </div>
 
 <div class="bs-callout bs-callout-info">
-  <p>Applications remain open for a new lab manager for the Brook lab. Please submit a CV and cover letter <a href="https://careerspub.universityofcalifornia.edu/psp/ucb/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=21&JobOpeningId=86383&PostingSeq=1">here</a> to apply. Applications are rolling!</p>
-  <p><em>This page last updated June 11, 2026.</em></p>
+  <p>Applications for the Brook lab manager position are currently closed and under review. Candidates who have applied will be notified of their status within the next two weeks. </p>
+  <p><em>This page last updated June 15, 2026.</em></p>
 </div>
 
 
