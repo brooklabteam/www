@@ -26,7 +26,7 @@ migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.o
 
 <h2>2025</h2>
 
-- Rekedal, MS, **Ruhs EC**, **Ranaivoson HC**, Mittal N, Sterling SL, **Kettenburg K**, **Andrianiaina A**, **Andry S**, Yan L, Lehrer AT, Héraud J-M, Lacoste V, Dussart P, **Brook CE** and Laing ED. Serologic evidence of orthomarburgviruses and an orthoebolavirus in frugivorous Malagasy bats. 2025. *One Health Outlook*. 7 (1) 55. doi: [10.1186/s42522-025-00178-0](https://doi.org/10.1186/s42522-025-00178-0).
+- Rekedal, MS, **Ruhs EC**, **Ranaivoson HC**, Mittal N, Sterling SL, **Kettenburg K**, **Andrianiaina A**, **Andry S**, Yan L, Lehrer AT, Héraud J-M, Lacoste V, Dussart P, **Brook CE±** and Laing ED±. Serologic evidence of orthomarburgviruses and an orthoebolavirus in frugivorous Malagasy bats. 2025. *One Health Outlook*. 7 (1) 55. doi: [10.1186/s42522-025-00178-0](https://doi.org/10.1186/s42522-025-00178-0). ± = equal senior contributions
 
 - **Gonzalez FL**, **Kettenburg G**, **Ranaivoson HC**, **Andrianiaina A**, **Andry S**, Raharinosy V, Randriambolamanantsoa TH, Lacoste V, Dussart P, Héraud J-M, and **Brook CE**. Genomic characterization of novel bat kobuviruses in Madagascar: Implications for viral evolution and zoonotic risk. 2025. *PLoS One*. 20 (9): e0331736. doi: [10.1371/journal.pone.0331736](https://doi.org/10.1371/journal.pone.0331736).
 
