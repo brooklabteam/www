@@ -113,7 +113,7 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <img src="/assets/team/victor_kowalski.jpeg" alt="ethan" class="img-thumbnail float-start col-md-3" />
 
-**Victor Kowalski** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Delaware with a B.S. in Wildlife Ecology and Conservation. As an undergrad he worked with small mammals, aquatic macro-invertebrates, and fish. Following graduation he worked various seasonal positions including collecting data on salmon passage in Alaska, monitoring invasive carp in Illinois, and capturing deer in Maryland.
+**Victor Kowalski** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Delaware with a B.S. in Wildlife Ecology and Conservation. As an undergrad he worked with small mammals, aquatic macro-invertebrates, and fish. Following graduation he worked various seasonal positions including collecting data on salmon passage in Alaska, monitoring invasive carp in Illinois, and capturing deer in Maryland
 
 
 <div style="clear:both;">&nbsp;</div>
