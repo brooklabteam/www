@@ -119,14 +119,14 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <h2>Lab Pets</h2>
 
-<img src="/assets/team/luna.jpeg" alt="luna" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/luna.jpg" alt="luna" class="img-thumbnail float-start col-md-3" />
 
 **Luna** (<i>Canis familiaris</i>) is a Bernese mountain dog. Her primary research interests include long walks, big sticks, and enthusiastic greetings.  
 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/veela.jpeg" alt="veela" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/veela.jpg" alt="veela" class="img-thumbnail float-start col-md-3" />
 
 **Veela** (<i>Felis catus</i>) is a Siamese cat. She currently engages in research conducting naps in the sunshine.
 
