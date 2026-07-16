@@ -36,6 +36,10 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/radha_srinivasan.jpeg" alt="radha" class="img-thumbnail float-start col-md-3" />
+
+**Radha Srinivasan** (she/her) is our Lab Manager. She graduated from UC Berkeley with a B.A. in Integrative Biology and a minor in Anthropology, where she conducted research on the evolutionary genetics of ultraviolet pigmentation patterns in monkeyflowers. She’s also engaged in research with the Smithsonian Environmental Research Center studying the effects of climate change on coastal forests, and volunteers with the UC Botanical Gardens as a science communicator developing interpretative signage. In her free time, she enjoys painting, birdwatching, and hiking around the Bay Area.
+
 
 <img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
 
