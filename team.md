@@ -8,12 +8,6 @@ permalink: /team
   <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
-<div class="bs-callout bs-callout-info">
-  <p>Applications for the Brook lab manager position are currently closed and under review. Candidates who have applied will be notified of their status within the next two weeks. </p>
-  <p><em>This page last updated June 15, 2026.</em></p>
-</div>
-
-
 
 
 <img src="/assets/team/EkipaFanihyLogoWhite.png" alt="bat" class="img-thumbnail float-start col-md-3" />
@@ -38,7 +32,7 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/radha_srinivasan.jpeg" alt="radha" class="img-thumbnail float-start col-md-3" />
 
-**Radha Srinivasan** (she/her) is our Lab Manager. She graduated from UC Berkeley with a B.A. in Integrative Biology and a minor in Anthropology, where she conducted research on the evolutionary genetics of ultraviolet pigmentation patterns in monkeyflowers. She’s also engaged in research with the Smithsonian Environmental Research Center studying the effects of climate change on coastal forests, and volunteers with the UC Botanical Gardens as a science communicator developing interpretative signage. In her free time, she enjoys painting, birdwatching, and hiking around the Bay Area.
+**Radha Srinivasan** (she/her) is our **Lab Manager**. She graduated from UC Berkeley with a B.A. in Integrative Biology and a minor in Anthropology, where she conducted research on the evolutionary genetics of ultraviolet pigmentation patterns in monkeyflowers. She’s also engaged in research with the Smithsonian Environmental Research Center studying the effects of climate change on coastal forests, and volunteers with the UC Botanical Gardens as a science communicator developing interpretative signage. In her free time, she enjoys painting, birdwatching, and hiking around the Bay Area.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -116,12 +110,29 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/victor_kowalski.jpeg" alt="ethan" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/victor_kowalski.jpeg" alt="victor" class="img-thumbnail float-start col-md-3" />
 
 **Victor Kowalski** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Delaware with a B.S. in Wildlife Ecology and Conservation. As an undergrad he worked with small mammals, aquatic macro-invertebrates, and fish. Following graduation he worked various seasonal positions including collecting data on salmon passage in Alaska, monitoring invasive carp in Illinois, and capturing deer in Maryland.
 
 
 <div style="clear:both;">&nbsp;</div>
+
+<h2>Lab Pets</h2>
+
+<img src="/assets/team/luna.jpeg" alt="luna" class="img-thumbnail float-start col-md-3" />
+
+**Luna** (<i> Canis familiaris <i>) is a Bernese mountain dog. Her primary research interests include long walks, big sticks, and enthusiastic greetings.  
+
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/veela.jpeg" alt="veela" class="img-thumbnail float-start col-md-3" />
+
+**Veela** (<i> Felis catus <i>) is a Siamese cat. She currently engages in research conducting naps in the sunshine.
+
+
+<div style="clear:both;">&nbsp;</div>
+
 
 
 
