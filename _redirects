@@ -50,3 +50,13 @@
 /news/2020-12-02-ag-post /news/anecia-review-paper
 /news/2020-12-01-AG-post /news/meet-anecia
 /news/2020-12-01-ag-post /news/meet-anecia
+
+# Redirects from old mixed-case /news permalinks (permalinks are now lowercase)
+/news/SC2-Mada /news/sc2-mada 301
+/news/Biota /news/biota 301
+/news/C4C-year1 /news/c4c-year1 301
+
+# Redirects from mismatched /news slugs seen 404ing in analytics
+/news/yosemite-2026 /news/lab-retreat-2026-yosemite 301
+/news/Pew-Scholar /news/pew-scholar 301
+/news/BatID-2025 /news/batid-2025 301

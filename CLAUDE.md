@@ -54,6 +54,30 @@ Use `class="float-start ..."` to wrap text around an image; add `<div style="cle
 
 Posts appear on `/news` sorted by date (newest first). The `img` field is required — it shows as the thumbnail on the news index.
 
+**Keep the permalink slug all-lowercase.** URLs are case-sensitive on Cloudflare Pages, so `/news/My-Slug` and `/news/my-slug` are different pages — a mixed-case slug 404s for anyone who types or links it in lowercase. The CI build fails if any post permalink contains an uppercase letter.
+
+### Two kinds of news posts
+
+There are two post patterns, and both show up together in the `/news` feed:
+
+1. **Hosted post** (most posts) — written and read on this site. Use the front matter above with a `permalink: /news/short-url-slug`, then write the body below the `---`.
+2. **External-link post** — a pointer to coverage on another site (a news article, podcast, press release). Instead of a `permalink` and body, add a `link:` field with the external URL and `sitemap: false`; leave the body empty. On `/news` the thumbnail and title link straight to `link:` (with a `↗` arrow) and open off-site.
+
+```yaml
+---
+layout: post
+title: Cara appears on a CNN special about bats and COVID-19
+date: 2020-06-14 01:00:00 +0300
+img: bats-cnn.jpg
+alt: Brief image alt text.
+tags: [bats, COVID-19]
+link: https://example.com/the-external-article   # external target
+sitemap: false                                    # keep the stub page out of the sitemap
+---
+```
+
+Do not give an external-link post a `permalink` — it has no on-site page worth linking to, and `sitemap: false` keeps the auto-generated stub out of search results.
+
 ## Top-Level Pages
 
 These are Markdown files in the root directory. Each uses `layout: page` unless noted.

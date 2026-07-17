@@ -1,7 +1,5 @@
 ---
 layout: page
-pagination:
-  enabled: true
 title: News
 permalink: /news
 ---
