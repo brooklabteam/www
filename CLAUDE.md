@@ -90,7 +90,8 @@ Nav links are hardcoded in `_includes/header.html`. To add/remove a nav item, ed
 
 ## Deployment
 
-- **Production:** Netlify deploys automatically from `main`. No manual step needed after pushing.
+- **Production:** Cloudflare Pages builds and deploys automatically from `main` (project `brooklab-www`). No manual step needed after pushing. `functions/pio/[[path]].js` is a Cloudflare Pages Function proxying Plausible Analytics.
+- **CI:** GitHub Actions (`.github/workflows/jekyll.yml`) runs `jekyll build`, HTMLProofer, and a CV-link check on every push/PR to verify the build.
 
 ## Todo
 
