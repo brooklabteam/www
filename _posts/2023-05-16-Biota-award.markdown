@@ -6,7 +6,7 @@ description:  (optional)
 img: Spotlight-BiotaAwards.jpg
 alt: Banner for the Walder Foundation Biota Awards.
 tags: [Walder Foundation, Biota Awards, grant] # add tag
-permalink: /news/Biota
+permalink: /news/biota
 ---
 
 We are excited to announce that Cara is one of five recipients of the <a href="https://www.walderfoundation.org/news/meet-the-2023-biota-awardees">2023 Biota Awards</a> from the Walder Foundation, a Chicago-based non-profit that is here providing funding for conservation-related research.

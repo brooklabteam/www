@@ -5,3 +5,7 @@
 .Rproj
 www.Rproj
 .DS_Store
+
+# Jekyll build output and local bundler artifacts
+_site/
+Gemfile.lock

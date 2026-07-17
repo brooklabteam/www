@@ -33,6 +33,15 @@ jobs:
             --disable-external \
             --no-enforce-https \
             --ignore-urls "/^\/pio\//"
+      - name: Check post permalinks are lowercase
+        run: |
+          bad=$(grep -rHn '^permalink:' _posts | grep -E ': /news/.*[A-Z]' || true)
+          if [ -n "$bad" ]; then
+            echo "ERROR: post permalinks must be all-lowercase (URLs are case-sensitive on Cloudflare Pages):"
+            echo "$bad"
+            exit 1
+          fi
+          echo "OK: all post permalinks are lowercase"
       - name: Check CV link is a real file
         run: |
           cv_href=$(grep -oP '(?<=href=")[^"]+\.pdf' cara-brook.md | head -1)
