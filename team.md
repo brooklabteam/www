@@ -132,96 +132,74 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <h2>Ekipa Alumni</h2>
 
-<div style="clear:both;">&nbsp;</div>
 
 **Martin Roland** (he/him) was both a Lab Manager and a Field Technician with the Brook Lab. He is now a PhD student in the Becker Lab at the University of Nebraska.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook Lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
 
-<div style="clear:both;">&nbsp;</div>
 
 
 **[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a **Postdoctoral Scholar** in the Brook Lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Sophia Horigan** was a **PhD student** in the Brook Lab from 2021-2025 at the University of Chicago. She is now a research scientist in the wastewater surveillance division at the California Department of Public Health. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Abigail Mendoza** (she/her) was the Data Manager for the lab from Aug 2024-July 2025. She is now a research technician at Loyola University Chicago.
 
-<div style="clear:both;">&nbsp;</div>
 
 **[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook Lab from Sept 2021 - December 2022 at the University of Chicago. She is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Katie Young** was a **Postdoctoral Scholar** in the Brook Lab from Jan 2022 - December 2022 at the University of Chicago. She is now an **Adjunct Assistant Professor** at New Mexico State University and a postdoctoral scholar at the University of Texas, El Paso.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Mars Woodward** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab from 2023-2024 at the University of Chicago. They are now a PhD student working with Dr. Kelly Speer and Dr. Luis Zaman in the Department of Ecology and Evolutionary Biology at the University of Michigan. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Freddy Gonzalez** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab from 2021-2022 at the University of Chicago. He is now a PhD student in Dr. Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale University.
 
 
-<div style="clear:both;">&nbsp;</div>
 
 
 **Katherine McFerrin** was a Lab Manager with the Brook Lab from Aug 2022 - Aug 2023 at the University of Chicago and a Field Project Manager with Association Ekipa Fanihy from Sept 2023-Dec 2024. She is now a PhD student in Dr. Tamika Lunn's lab in the Odum School of Ecology at the University of Georgia.
 
-<div style="clear:both;">&nbsp;</div>
 
 
 **Yimei Li** was a post-baccalaureate Research Assistant in the Brook Lab at the University of Chicago from 2021-2022. She is now a **PhD student** working with Dr. Simon Levin, Dr. Bryan Grenfell, and Dr. A.J. te Velthuis in the Quantitative and Computational Biology program at Princeton University. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Areen Khan** was a high school student working with the Brook Lab through the  University of Chicago Laboratory School "Summer LabLink" program. She is back at classes in her senior year and now applying to college.
 
-<div style="clear:both;">&nbsp;</div>
 
 
 **Margot Bolaños-Gamez** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook Lab in 2023. She is now a Master's in Public Health student at Emory University in Atlanta.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Vera Soloview** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook Lab in 2023. She is now an intern with the American Bird Conservancy in Chicago. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Elizabeth Buttram** was a Field Project Manager with Association Ekipa Fanihy from October 2025-March 2026. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Nuzha Baksh** was a Field Project Manager with Association Ekipa Fanihy from Sept 2022-Aug 2023 and a Data Manager from Sep 2023-June 2024. She is now a PhD student in Dr. Tamika Lunn's lab in the Odum School of Ecology at the University of Georgia.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Michael McGuire** was a Field Project Manager with Association Ekipa Fanihy from Jan-Dec 2023. He is now working forestry and conservation jobs in the Pacific Northwest. 
 
-<div style="clear:both;">&nbsp;</div>
 
 **Kendall Fitzgerald** was a Field Project Manager with Association Ekipa Fanihy and a Research Technician in the Brook Lab at UChicago from Feb 2022-August 2023. She is now an independent documentary filmmaker.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Dominic Daniels** was Field Project Manager for Association Ekipa Fanihy from Feb-Sept 2022. He is now working for Bat Conservation International in Pennsylvania.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Anecia Gentles** was Field Project Manager for Association Ekipa Fanihy from Jan 2019 - March 2020. She is now a PhD student in Dr. Nicole Gottdenker's lab in the Odum School of Ecology at the University of Georgia.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Kimberly Rivera** was Field Project Manager for Association Ekipa Fanihy from Jan 2019 - Sep 2019. She is now the Urban Wildlife Information Network Coordinator at the Lincoln Park Zoo.
 
-<div style="clear:both;">&nbsp;</div>
 
 **Sarah Guth** was a PhD student in Mike Boots' lab at UC Berkeley while Cara was a postdoc (2017-2021). Sarah worked closely with Cara on several field and computational projects. She is now an Assistant Professor of Biology at Skyline College in San Bruno, CA.
 
