@@ -13,7 +13,7 @@ By Cara Brook
 
 
 
-In a [paper the Brook lab published in PNAS in 2022](https://doi.org/10.1073/pnas.2113628119), we compiled data from the literature to demonstrate that bat-borne viral zoonoses result in higher case fatality rates following spillover to humans than do viruses derived from any other known mammal- or bird host. These highly virulent bat zoonoses include Ebola and Marbugh filoviruses, Hendra and Nipah henipaviruses, and SARS and MERS coronaviruses.  In [our new paper, out this week in PLoS Biology,](https://doi.org/10.1371/journal.pbio.3002268) we offer a mechanistic explanation for the extraordinary virulence of bat virus zoonoses. 
+In a [paper the Brook Lab published in PNAS in 2022](https://doi.org/10.1073/pnas.2113628119), we compiled data from the literature to demonstrate that bat-borne viral zoonoses result in higher case fatality rates following spillover to humans than do viruses derived from any other known mammal- or bird host. These highly virulent bat zoonoses include Ebola and Marburg filoviruses, Hendra and Nipah henipaviruses, and SARS and MERS coronaviruses.  In [our new paper, out this week in PLoS Biology,](https://doi.org/10.1371/journal.pbio.3002268) we offer a mechanistic explanation for the extraordinary virulence of bat virus zoonoses. 
 
 <img src="/assets/img/Brook2023Fig1.png" alt="zoonotic virus virulence" class="center col-md-4" />
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Angelo Andrianiaiana!
+title: Meet Angelo Andrianiaina!
 date: 2021-01-11 01:00:00 -0700
 description:  (optional)
 img: angelo_andrianiaina.jpg # Add image post (optional)
@@ -9,7 +9,7 @@ permalink: /news/meet-angelo
 ---
 <img src="/assets/img/angelo_andrianiaina.jpg" alt="angelo" class="img-left-w-text" />
 
-Hello, I am Angelo Andianiaina, one of the members of Ekipa Fanihy. I am PhD student at the Department of Zoology and Animal Biodiversity of the University of Antananarivo, Madagascar and  a graduate of the University of Antananarivo in Animal Conservation. I have previously worked on projects to promote lemur conservation in northern and eastern Madagascar, as well as on projects to document the biodiversity and herpetology of small mammals in the east part of Madagascar. What people told me was that working with fruit bats would be a challenge, so I felt inspired to take up this challenge.
+Hello, I am Angelo Andrianiaina, one of the members of Ekipa Fanihy. I am a PhD student at the Department of Zoology and Animal Biodiversity of the University of Antananarivo, Madagascar and  a graduate of the University of Antananarivo in Animal Conservation. I have previously worked on projects to promote lemur conservation in northern and eastern Madagascar, as well as on projects to document the biodiversity and herpetology of small mammals in the east part of Madagascar. What people told me was that working with fruit bats would be a challenge, so I felt inspired to take up this challenge.
 
 
 

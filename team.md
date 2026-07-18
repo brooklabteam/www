@@ -5,7 +5,7 @@ permalink: /team
 ---
 
 <div class="bs-callout bs-callout-warning">
-  <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
+  <p>We are searching for a Postdoctoral Scholar to join the Brook Lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
 
@@ -20,7 +20,7 @@ The **Brook Lab** includes students and postdocs based in the [Department of Int
 
 <img src="/assets/team/charlie_voirin.JPG" alt="charlie" class="img-thumbnail float-start col-md-3" />
 
-**Charlie Voirin** (he/him) is a **PhD student** in the Department of Integrative Biology at UC Berkeley. He is interested in combining experimental and computational techniques to study the ecology and immunology of bats so that we can better predict the spillover of infectious diseases from animal to human populations. Before joining the Brook lab, Charlie was a postbaccalaureate fellow in the Viral Epidemiology and Immunity unit at NIAID, where he worked on a clinical trial studying the human immune response to a dengue vaccine. He holds a BA in Biology from Kenyon College, where he studied how environmental and ontogenetic factors impact telomere dynamics in nestling barn swallows, and an MSc in Ecology and Evolution from the University of Chicago.
+**Charlie Voirin** (he/him) is a **PhD student** in the Department of Integrative Biology at UC Berkeley. He is interested in combining experimental and computational techniques to study the ecology and immunology of bats so that we can better predict the spillover of infectious diseases from animal to human populations. Before joining the Brook Lab, Charlie was a postbaccalaureate fellow in the Viral Epidemiology and Immunity unit at NIAID, where he worked on a clinical trial studying the human immune response to a dengue vaccine. He holds a BA in Biology from Kenyon College, where he studied how environmental and ontogenetic factors impact telomere dynamics in nestling barn swallows, and an MSc in Ecology and Evolution from the University of Chicago.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -33,12 +33,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 <img src="/assets/team/radha_srinivasan.jpeg" alt="radha" class="img-thumbnail float-start col-md-3" />
 
 **Radha Srinivasan** (she/her) is our **Lab Manager**. She graduated from UC Berkeley with a B.A. in Integrative Biology and a minor in Anthropology, where she conducted research on the evolutionary genetics of ultraviolet pigmentation patterns in monkeyflowers. She’s also engaged in research with the Smithsonian Environmental Research Center studying the effects of climate change on coastal forests, and volunteers with the UC Botanical Gardens as a science communicator developing interpretative signage. In her free time, she enjoys painting, birdwatching, and hiking around the Bay Area.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
-
-**Martin Roland** (he/him) is our **Lab Manager**. He formerly served as a Field Technician with Ekipa Fanihy, as well as an NIH Post-Baccalaureate Fellow in the lab. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -79,7 +73,7 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/santino_andry.jpg" alt="santino" class="img-thumbnail float-start col-md-3" />
 
-**Santino Andry** (he/him) is a **PhD student** in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and is just starting his PhD work with the team, splitting time between GPS telemetry and fruit bat ecotparasite projects.
+**Santino Andry** (he/him) is a **PhD student** in the Department of Entomology at the University of Antananarivo, Madagascar, where he worked with the Madagascar Biodiversity Center to document the effects of logging intensification on exotic and native ant assemblages in the new protected area of Ambohidray, District of Moramanga, Madagascar. Santino joined Ekipa Fanihy in August 2019 and is just starting his PhD work with the team, splitting time between GPS telemetry and fruit bat ectoparasite projects.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -140,16 +134,20 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <div style="clear:both;">&nbsp;</div>
 
-**Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
+**Martin Roland** (he/him) was both a Lab Manager and a Field Technician with the Brook Lab. He is now a PhD student in the Becker Lab at the University of Nebraska.
+
+<div style="clear:both;">&nbsp;</div>
+
+**Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook Lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
 
 <div style="clear:both;">&nbsp;</div>
 
 
-**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a **Postdoctoral Scholar** in the Brook lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
+**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a **Postdoctoral Scholar** in the Brook Lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
 
 <div style="clear:both;">&nbsp;</div>
 
-**Sophia Horigan** was a **PhD student** in the Brook lab from 2021-2025 at the University of Chicago. She is now a research scientist in the wastewater surveillance division at the California Department of Public Health. 
+**Sophia Horigan** was a **PhD student** in the Brook Lab from 2021-2025 at the University of Chicago. She is now a research scientist in the wastewater surveillance division at the California Department of Public Health. 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -157,15 +155,15 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <div style="clear:both;">&nbsp;</div>
 
-**[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook lab from Sept 2021 - December 2022 at the University of Chicago. She is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
+**[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook Lab from Sept 2021 - December 2022 at the University of Chicago. She is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
 
 <div style="clear:both;">&nbsp;</div>
 
-**Katie Young** was a **Postdoctoral Scholar** in the Brook lab from Jan 2022 - December 2022 at the University of Chicago. She is now a **Adjunct Assistant Professor** at New Mexico State University and a postdoctoral scholar at the University of Texas, El Paso.
+**Katie Young** was a **Postdoctoral Scholar** in the Brook Lab from Jan 2022 - December 2022 at the University of Chicago. She is now an **Adjunct Assistant Professor** at New Mexico State University and a postdoctoral scholar at the University of Texas, El Paso.
 
 <div style="clear:both;">&nbsp;</div>
 
-**Mars Woodward** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab from 2023-2024 at the University of Chicago. They are now a PhD student working with Dr, Kelly Speer and Dr. Luis Zaman in the Department of Ecology and Evolutionary Biology at the University of Michigan. 
+**Mars Woodward** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab from 2023-2024 at the University of Chicago. They are now a PhD student working with Dr. Kelly Speer and Dr. Luis Zaman in the Department of Ecology and Evolutionary Biology at the University of Michigan. 
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -175,7 +173,7 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 <div style="clear:both;">&nbsp;</div>
 
 
-**Katherine McFerrin** was a Lab Manager with the Brook lab from Aug 2022 - Aug 2023 at the University of Chicago and a Field Project Manager with Association Ekipa Fanihy from Sept 2023-Dec 2024. She is now a PhD student in Dr. Tamika Lunn's lab in the Odum School of Ecology at the University of Georgia.
+**Katherine McFerrin** was a Lab Manager with the Brook Lab from Aug 2022 - Aug 2023 at the University of Chicago and a Field Project Manager with Association Ekipa Fanihy from Sept 2023-Dec 2024. She is now a PhD student in Dr. Tamika Lunn's lab in the Odum School of Ecology at the University of Georgia.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -184,16 +182,16 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <div style="clear:both;">&nbsp;</div>
 
-**Areen Khan** was a high school student working with the Brook lab through the  University of Chicago Laboratory School "Summer LabLink" program. She is back at classes in her senior year and now applying to college.
+**Areen Khan** was a high school student working with the Brook Lab through the  University of Chicago Laboratory School "Summer LabLink" program. She is back at classes in her senior year and now applying to college.
 
 <div style="clear:both;">&nbsp;</div>
 
 
-**Margot Bolaños-Gamez** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook lab in 2023. She is now a Master's in Public Health student at Emory University in Atlanta.
+**Margot Bolaños-Gamez** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook Lab in 2023. She is now a Master's in Public Health student at Emory University in Atlanta.
 
 <div style="clear:both;">&nbsp;</div>
 
-**Vera Soloview** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook lab in 2023. She is now an intern with the American Bird Conservancy in Chicago. 
+**Vera Soloview** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook Lab in 2023. She is now an intern with the American Bird Conservancy in Chicago. 
 
 <div style="clear:both;">&nbsp;</div>
 

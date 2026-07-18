@@ -13,7 +13,7 @@ We are excited to announce that Cara is one of five recipients of the <a href="h
 
 <img src="/assets/img/Spotlight-BiotaAwards.jpg" alt="Biota" class="center col-md-6" />
 
-Under the funded project, "Harnessing Fruit Bat Conservation to Combat Zoonotic Risk in Madagascar",  Association Ekipa Fanihy is deploying GPS telemetry trackers on Malagasy fruit bats to quantify conncectivity and dispersal, which will be paired with survival data from our longterm field project, to build a metapopulation model of fruit bat conservation status on the island of Madagascar. 
+Under the funded project, "Harnessing Fruit Bat Conservation to Combat Zoonotic Risk in Madagascar",  Association Ekipa Fanihy is deploying GPS telemetry trackers on Malagasy fruit bats to quantify connectivity and dispersal, which will be paired with survival data from our longterm field project, to build a metapopulation model of fruit bat conservation status on the island of Madagascar. 
 
 
 <img src="/assets/img/pteropus-tag.JPG" alt="tagged pteropus rufus" class="center col-md-5" />

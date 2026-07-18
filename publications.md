@@ -9,7 +9,7 @@ permalink: /publications
 
 - **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
 Adams H, **Brook CE**, and **Ruhs EC**. Impacts of urbanization on the health of American Robins (*Turdus
-migratorus*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.11.24.625046). 
+migratorius*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.11.24.625046). 
 
 <h2>In Revision</h2>
 

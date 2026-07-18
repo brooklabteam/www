@@ -13,7 +13,7 @@ permalink: /join/postdoc
 
 
 <div class="bs-callout bs-callout-warning">
-  <p><a href="https://aprecruit.berkeley.edu/JPF05374">Apply here for the Brook lab postdoc position in Bat Infectious Diseases.</a> Application review begins on June 25 and will be rolling thereafter.</p>
+  <p><a href="https://aprecruit.berkeley.edu/JPF05374">Apply here for the Brook Lab postdoc position in Bat Infectious Diseases.</a> Application review begins on June 25 and will be rolling thereafter.</p>
 </div>
 
 
@@ -26,8 +26,8 @@ permalink: /join/postdoc
 
 #### **Work Description**
 
-The Brook lab is searching for a Postdoctoral Scholar working broadly in the field of **Bat Infectious Diseases**. 
-The Postdoctoral Scholar will work on themes central to the Brook lab research program, specifically related to the transmission of potentially zoonotic infections among wild fruit bats in a Madagascar ecosystem.
+The Brook Lab is searching for a Postdoctoral Scholar working broadly in the field of **Bat Infectious Diseases**. 
+The Postdoctoral Scholar will work on themes central to the Brook Lab research program, specifically related to the transmission of potentially zoonotic infections among wild fruit bats in a Madagascar ecosystem.
 The focus of the position will be primarily analysis of existing data and writing, with a goal of completing a minimum of two peer-reviewed publications over the 2-year time horizon.
 
 The Scholar may engage in lab work (at UC Berkeley) and field work (at the Madagascar research site) to fill gaps in the scientific storyline from pre-existing data as needed. International field work is an optional opportunity that may arise during the course of employment but is not a requirement for this position. 
