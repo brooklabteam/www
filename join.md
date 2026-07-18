@@ -6,12 +6,12 @@ permalink: /join
 
 
 <div class="bs-callout bs-callout-warning">
-  <p>We are searching for a Postdoctoral Scholar to join the Brook lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
+  <p>We are searching for a Postdoctoral Scholar to join the Brook Lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
 
 <div class="bs-callout bs-callout-info">
-  <p>Applications for the Brook lab manager position are currently closed and under review. Candidates who have applied will be notified of their status within the next two weeks. </p>
+  <p>Applications for the Brook Lab manager position are currently closed and under review. Candidates who have applied will be notified of their status within the next two weeks. </p>
   <p><em>This page last updated June 15, 2026.</em></p>
 </div>
 

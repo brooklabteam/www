@@ -8,7 +8,7 @@ permalink: /programs
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">BatID 2025</h5>
-        <p class="card-text">The Brook lab hosted the International Symposium on the Infectious Diseases of Bats at the University of Chicago, July 9-11, 2025.</p>
+        <p class="card-text">The Brook Lab hosted the International Symposium on the Infectious Diseases of Bats at the University of Chicago, July 9-11, 2025.</p>
         <a href="/programs/bat-id-2025" class="btn btn-primary">Learn more</a>
       </div>
     </div>

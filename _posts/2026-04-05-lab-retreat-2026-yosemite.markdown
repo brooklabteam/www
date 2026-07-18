@@ -6,7 +6,7 @@ description:
 img: posts/2026-04-05-lab-retreat-2026-yosemite/yosemite-group-tunnel-view.jpeg
 alt: Brook Lab members at the Yosemite Valley tunnel view overlook.
 author: Martin Roland
-tags: [Brook lab, Berkeley, fieldtrip]
+tags: [Brook Lab, Berkeley, fieldtrip]
 permalink: /news/lab-retreat-2026-yosemite
 ---
 

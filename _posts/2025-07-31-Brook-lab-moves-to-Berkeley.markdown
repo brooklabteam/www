@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Brook lab moves to UC Berkeley!
+title: Brook Lab moves to UC Berkeley!
 date: 2025-07-31 01:00:00 -0700
 description:  (optional)
 img: UCBerkeley-logo.jpg
 alt: UCBerkeley
-tags: [Cal, Berkeley, Brook lab] # add tag
+tags: [Cal, Berkeley, Brook Lab] # add tag
 permalink: /news/brook-lab-at-cal
 ---
 
