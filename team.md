@@ -36,6 +36,12 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
+<img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
+
+**Martin Roland** (he/him) is our **Lab Manager**. He formerly served as a Field Technician with Ekipa Fanihy, as well as an NIH Post-Baccalaureate Fellow in the lab. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
+
+<div style="clear:both;">&nbsp;</div>
+
 <img src="/assets/team/monique_ades.jpg" alt="monique" class="img-thumbnail float-start col-md-3" />
 
 
@@ -131,9 +137,6 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 
 <h2>Ekipa Alumni</h2>
-
-
-**Martin Roland** (he/him) was both a Lab Manager and a Field Technician with the Brook Lab. He is now a PhD student in the Becker Lab at the University of Nebraska.
 
 
 **Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook Lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
