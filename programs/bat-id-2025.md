@@ -15,7 +15,7 @@ ogimage: /programs/batid-img/logo.png
 -->
 
 <div class="bs-callout bs-callout-info">
-<p style="font-size: 1.5em;">Thanks all for a great meeting! Stay tuned for information about the next BatID, tentatively scheduled for summer 2027!</p>
+<p style="font-size: 1.5em;">Thanks all for a great meeting! Stay tuned for information about the next BatID, tentatively scheduled for summer 2028!</p>
 <p>This page last updated July 31, 2025.</p>
 
 </div>
