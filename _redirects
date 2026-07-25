@@ -59,4 +59,5 @@
 # Redirects from mismatched /news slugs seen 404ing in analytics
 /news/yosemite-2026 /news/lab-retreat-2026-yosemite 301
 /news/Pew-Scholar /news/pew-scholar 301
+/news/Pew-scholar /news/pew-scholar 301
 /news/BatID-2025 /news/batid-2025 301
