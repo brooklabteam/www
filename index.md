@@ -5,9 +5,16 @@ title: "Brook Lab at UC Berkeley"
 
 
 <div class="bs-callout bs-callout-warning">
+  <p>We are recruiting PhD students in fall 2026 for an AY27-28 start. If interested to apply, please fill out this brief <a href="https://forms.gle/ZcNs7FvSAsGazZ5aA">Expression of Interest</a> by <strong>Friday, October 16</strong> at midnight PT!</p>
+</div>
+
+
+<!--
+<div class="bs-callout bs-callout-warning">
   <p>We are searching for a Postdoctoral Scholar to join the Brook Lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
 </div>
 
+-->
 <!--
 <div class="bs-callout bs-callout-info">
   <p>Applications are currently closed and under review for the lab manager position for the Brook Lab. Candidates who have applied will be notified of their status within the next two weeks. </p>

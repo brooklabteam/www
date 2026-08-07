@@ -6,15 +6,18 @@ permalink: /join
 
 
 <div class="bs-callout bs-callout-warning">
-  <p>We are searching for a Postdoctoral Scholar to join the Brook Lab! Please see <a href="https://brooklab.org/join/postdoc">here</a> for details. Application review begins on <strong>June 25, 2026</strong> and will be rolling thereafter!</p>
+  <p>We are recruiting PhD students in fall 2026 for an AY27-28 start. If interested to apply, please fill out this brief <a href="https://forms.gle/ZcNs7FvSAsGazZ5aA">Expression of Interest</a> by <strong>Friday, October 16</strong> at midnight PT!</p>
+  <p><em>This page last updated August 6, 2026.</em></p>
 </div>
 
 
+
+<!--
 <div class="bs-callout bs-callout-info">
   <p>Applications for the Brook Lab manager position are currently closed and under review. Candidates who have applied will be notified of their status within the next two weeks. </p>
   <p><em>This page last updated June 15, 2026.</em></p>
 </div>
-
+-->
 
 
 <!--
@@ -45,15 +48,15 @@ We are an equal-opportunity group, committed to enacting anti-racist and anti-se
 
 <h2>PhD Positions</h2>
 
-**I have now closed applications for PhD students to join my group in fall 2026 (fall 2025 application cycle).**  In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
+**We are recruiting PhD students in the fall 2026 application cycle to start in AY2027-2028.**  In general, my lab attracts motivated students with broad interests in disease ecology, conservation biology, and/or epidemiology who are eager to undertake a multi-faceted PhD involving some combination of field study, molecular work, and dynamical modeling. 
 For recruits to start in AY2027-2028, I am particularly interested in a field-capable graduate student with a strong interest and/or background in international research and a desire to spend extensive amounts of time in Madagascar. I am also interested in students with strong wet lab skills in molecular detection of viruses in biological samples (PCR + NGS) or serological detection of antibodies in field-collected serum. Finally, I am always interested in students with a background or interest in building and fitting dynamical, mechanistic transmission models to infectious disease data and/or matrix population models to abundance data. 
 Please see the [UC Berkeley Department of Integrative Biology](https://ib.berkeley.edu/) for details on graduate applications.
 
-<!--
-**If you are interested in joining the Brook Lab in AY2026-2027, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://airtable.com/app7Txy3E64J0EIXn/pagGnBXYIg1W1JEmo/form) prior to midnight on Friday, October 17, 2025**.
+
+**If you are interested in joining the Brook Lab in AY2027-2028, I ask that you please fill out an expression of interest and upload a short CV or resumé at the form [linked here](https://forms.gle/ZcNs7FvSAsGazZ5aA) prior to midnight on Friday, October 16, 2026**.
 
 Please do not feel pressure to spend exorbitant amounts of time on this submission--it is not intended to be an intimidating application! I am simply trying to make the graduate admissions process as fair and transparent as possible, and I believe that considering applicants in one, consolidated block will support this goal.
--->
+
 
 
 
