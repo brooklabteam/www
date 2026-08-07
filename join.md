@@ -65,7 +65,7 @@ Please do not feel pressure to spend exorbitant amounts of time on this submissi
 
 <h2>Postdocs</h2>
 
-**We are currently searching for a Postdoctoral Scholar in the broad field of 'Bat Infectious Disease'!** Please see [here](/join/postdoc) for details on the desired qualifications and a link to the application site.
+**Applications for the Postdoctoral Scholar position in Bat Infectious Disease are now closed, and we have made an offer to a candidate.** If you are interested in applying for an independent fellowship to postdoc in the Brook lab, please reach out to Cara directly at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) to discuss.
 
 --- 
 
@@ -76,7 +76,7 @@ We have several UC Berkeley undergraduate researchers in the lab at any given ti
 
 Undergraduates wishing to conduct summer research should explore funding opportunities through [URAP](https://research.berkeley.edu/urap/), [SURF](https://research.berkeley.edu/surf/), and [Rose Hills](https://research.berkeley.edu/rose-hills-program/) programs at UC Berkeley. 
 
-If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better.
+If you are an undergrad with an interest in applying for one of these opportunities to conduct research in the lab, please email me at [cbrook@berkeley.edu](mailto:cbrook@berkeley.edu) to set up a meeting to discuss! The earlier you reach out prior to these deadlines, the better. Please note that you should reach out with a specific project idea for one of these proposals in mind. We are unable to craft project ideas for you at this time.
 
 --- 
 
