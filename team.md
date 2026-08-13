@@ -36,8 +36,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
-
 
 
 
@@ -127,10 +125,10 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <h2>Ekipa Alumni</h2>
 
-**Martin Roland** (he/him) was both a Lab Manager and a Field Technician with the Brook Lab. He is now a PhD student in the Becker Lab at the University of Oklahoma.
+**Martin Roland** was both a Lab Manager and a Field Technician with the Brook Lab. He is now a PhD student in the Becker Lab at the University of Oklahoma.
 
 
-**Monique Ades** (she/her) was both a Lab Technician and a Field Technician with the Brook Lab. She is now a PhD student in the Becker Lab at the University of Oklahoma.
+**Monique Ades** was both a Lab Technician and a Field Technician with the Brook Lab. She is now a PhD student in the Becker Lab at the University of Oklahoma.
 
 
 **Natalia Cortes-Delgado** was a Postdoctoral Scholar in the Brook Lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
