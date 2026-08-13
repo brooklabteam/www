@@ -38,17 +38,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/martin-roland.jpg" alt="martin" class="img-thumbnail float-start col-md-3" />
 
-**Martin Roland** (he/him) is our **Lab Manager**. He formerly served as a Field Technician with Ekipa Fanihy, as well as an NIH Post-Baccalaureate Fellow in the lab. He graduated from the University of Chicago with a B.A. in Environmental Studies and a Minor in Biological Sciences, where he engaged in research focused on the morphological study of field mice for species identification. As a field TA he has led student groups on rigorous field projects including sampling for aquatic insect diversity in the mountains of Arizona, trapping rodents in the Midwest, and surveying intertidal algae abundance in Cape Cod.
-
-<div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/monique_ades.jpg" alt="monique" class="img-thumbnail float-start col-md-3" />
-
-
-**Monique Ades** (she/her) is a **Lab Technician**. She formerly served as a Field Technician with Ekipa Fanihy in 2025. She graduated from California State University Fresno with a B.S. in Biology. While at CSU Fresno, she engaged in research regarding representation of bat specimens in the CSU Fresno vertebrate collection in comparison to similarly sized mammals and birds. Additionally, she spent three summers as a field technician on a U.S Forest Service meadow restoration project focused on restoring meadows affected by wildfires in the Sierra Nevada mountains. Most recently she worked as an Agriculture Volunteer with Peace Corps Madagascar and is now returning to Madagascar to join Ekipa Fanihy.
-
-<div style="clear:both;">&nbsp;</div>
-
 
 
 
@@ -138,24 +127,28 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 <h2>Ekipa Alumni</h2>
 
-
-**Natalia Cortes-Delgado** was a **Postdoctoral Scholar** in the Brook Lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
-
+**Martin Roland** (he/him) was both a Lab Manager and a Field Technician with the Brook Lab. He is now a PhD student in the Becker Lab at the University of Oklahoma.
 
 
-**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a **Postdoctoral Scholar** in the Brook Lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
+**Monique Ades** (she/her) was both a Lab Technician and a Field Technician with the Brook Lab. She is now a PhD student in the Becker Lab at the University of Oklahoma.
 
 
-**Sophia Horigan** was a **PhD student** in the Brook Lab from 2021-2025 at the University of Chicago. She is now a research scientist in the wastewater surveillance division at the California Department of Public Health. 
+**Natalia Cortes-Delgado** was a Postdoctoral Scholar in the Brook Lab from 2023-2025 at the University of Chicago. She is now a Lecturer in Genetics at a university in her home country of Colombia.
+
+
+**[Emily Cornelius Ruhs](https://emilycorneliusruhs.weebly.com)** was a Postdoctoral Scholar in the Brook Lab from 2021-2025 at the University of Chicago. She is now a Postdoctoral Research Scientist in the Grainger Bioinformatics Center at the Field Museum of Natural History in Chicago, IL.
+
+
+**Sophia Horigan** was a PhD student in the Brook Lab from 2021-2025 at the University of Chicago. She is now a research scientist in the wastewater surveillance division at the California Department of Public Health. 
 
 
 **Abigail Mendoza** (she/her) was the Data Manager for the lab from Aug 2024-July 2025. She is now a research technician at Loyola University Chicago.
 
 
-**[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook Lab from Sept 2021 - December 2022 at the University of Chicago. She is now an **Assistant Professor** in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
+**[Theresa Laverty](https://theresalaverty.weebly.com/)** was a postdoctoral scholar in the Brook Lab from Sept 2021 - December 2022 at the University of Chicago. She is now an Assistant Professor in the Department of Fish, Wildlife, and Conservation Ecology at New Mexico State University. 
 
 
-**Katie Young** was a **Postdoctoral Scholar** in the Brook Lab from Jan 2022 - December 2022 at the University of Chicago. She is now an **Adjunct Assistant Professor** at New Mexico State University and a postdoctoral scholar at the University of Texas, El Paso.
+**Katie Young** was a Postdoctoral Scholar in the Brook Lab from Jan 2022 - December 2022 at the University of Chicago. She is now an Adjunct Assistant Professor at New Mexico State University and a postdoctoral scholar at the University of Texas, El Paso.
 
 
 **Mars Woodward** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab from 2023-2024 at the University of Chicago. They are now a PhD student working with Dr. Kelly Speer and Dr. Luis Zaman in the Department of Ecology and Evolutionary Biology at the University of Michigan. 
@@ -164,17 +157,13 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 **Freddy Gonzalez** was a post-baccalaureate scholar funded through the NIH PREP program to work in the Brook Lab from 2021-2022 at the University of Chicago. He is now a PhD student in Dr. Paul Turner's lab in the Department of Ecology and Evolutionary Biology at Yale University.
 
 
-
-
 **Katherine McFerrin** was a Lab Manager with the Brook Lab from Aug 2022 - Aug 2023 at the University of Chicago and a Field Project Manager with Association Ekipa Fanihy from Sept 2023-Dec 2024. She is now a PhD student in Dr. Tamika Lunn's lab in the Odum School of Ecology at the University of Georgia.
 
 
-
-**Yimei Li** was a post-baccalaureate Research Assistant in the Brook Lab at the University of Chicago from 2021-2022. She is now a **PhD student** working with Dr. Simon Levin, Dr. Bryan Grenfell, and Dr. A.J. te Velthuis in the Quantitative and Computational Biology program at Princeton University. 
+**Yimei Li** was a post-baccalaureate Research Assistant in the Brook Lab at the University of Chicago from 2021-2022. She is now a PhD student working with Dr. Simon Levin, Dr. Bryan Grenfell, and Dr. A.J. te Velthuis in the Quantitative and Computational Biology program at Princeton University. 
 
 
 **Areen Khan** was a high school student working with the Brook Lab through the  University of Chicago Laboratory School "Summer LabLink" program. She is back at classes in her senior year and now applying to college.
-
 
 
 **Margot Bolaños-Gamez** was an undergraduate who completed her University of Chicago Honor's thesis in the Brook Lab in 2023. She is now a Master's in Public Health student at Emory University in Atlanta.
