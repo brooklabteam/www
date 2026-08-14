@@ -5,17 +5,17 @@ permalink: /publications
 ---
 <a href="https://scholar.google.com/citations?user=jDzdfmMAAAAJ&hl=en&oi=ao">Google Scholar Page</a>
 
-<h2>In Review</h2>
-
-- **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
-Adams H, **Brook CE**, and **Ruhs EC**. Impacts of urbanization on the health of American Robins (*Turdus
-migratorius*) in Chicagoland. In Review. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.11.24.625046). 
-
 <h2>In Revision</h2>
 
 - **Ruhs EC**, **Kettenburg G**, **Andrianiaina A**, **Andry S**, **Ranaivoson HC**, Grewe F, and **Brook CE**. Quantifying the seasonal reproductive cycle in three species of Malagasy fruit bats, with implications for pathogen and population dynamics. In Review.  [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.21.608949v1). 
 
 - **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
+
+<h2> In Press</h2>
+
+- **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
+Adams H, **Brook CE**, and **Ruhs EC**. Impacts of urbanization on the health of American Robins ( *Turdus
+migratorius* ) in Chicagoland. In Press. *Urban Ecosystems*. [Link to bioRxiv Preprint](https://doi.org/10.1101/2024.11.24.625046). 
 
 
 <h2>2026</h2>
