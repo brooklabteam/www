@@ -110,7 +110,9 @@ Nav links are hardcoded in `_includes/header.html`. To add/remove a nav item, ed
 
 ## Site Configuration
 
-`_config.yml` holds the site title, URL (`https://brooklab.org`), timezone, and plugins. The only active plugin is `jekyll-sitemap`.
+`_config.yml` holds the site title, URL (`https://brooklab.org`), timezone, and plugins. The only registered plugin is `jekyll-sitemap`.
+
+`_plugins/outbound_ref_param.rb` is a local build plugin (no gem, always loaded): it appends `?ref=brooklab.org` to outbound links at build time, so referrer analytics on the destination site show traffic came from here. It only touches `<a href="...">` tags pointing to an absolute `http(s)` URL on a different hostname, and skips links that already carry a `ref` param.
 
 ## Deployment
 
