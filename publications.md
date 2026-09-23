@@ -19,8 +19,8 @@ permalink: /publications
 <h2>2026</h2>
 
 - **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
-Adams H, **Brook CE**, and **Ruhs EC**. Does urbanization influence the health of American Robins ( *Turdus
-migratorius* )?. 2026. *Urban Ecosystems*. 29 (5): 250. doi: [10.1007/s11252-026-02103-3](https://doi.org/10.1007/s11252-026-02103-3). 
+Adams H, **Brook CE**, and **Ruhs EC**. Does urbanization influence the health of American Robins (*Turdus
+migratorius*)? 2026. *Urban Ecosystems*. 29 (5): 250. doi: [10.1007/s11252-026-02103-3](https://doi.org/10.1007/s11252-026-02103-3). 
 
 - **Lockwood S**, **Ranaivoson HC**, Randriambolamanantsoa TS, Razanajatovo N, Raharinosy V, Ahyong V, Héraud J-M, Dussart P, Lacoste V, and **Brook CE**. Identifying viral infections through metagenomic Next Generation Sequencing analysis of undiagnosed respiratory fevers in Madagascar (2014-2019). 2026. *BMC Infectious Diseases*. doi: [10.1186/s12879-026-13715-7](https://doi.org/10.1186/s12879-026-13715-7).
 
