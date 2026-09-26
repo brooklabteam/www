@@ -90,7 +90,7 @@ He has studied many Malagasy taxa over the course of his Bachelor's studies and 
 
 
 
-<img src="/assets/team/ethan_kilroy.jpeg" alt="ethan" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/ethan_kilroy_new.jpg" alt="ethan" class="img-thumbnail float-start col-md-3" />
 
 **Ethan Kilroy** (he/him) is a **Field Project Manager**, co-leading monthly field missions in Madagascar to capture and sample fruit bats. He graduated from the University of Florida with a B.S. in Zoology. During his undergraduate education, he studied in both Kenya and Madagascar. After graduating, Ethan joined a forest team with AmeriCorps NCCC where he aided national forests in the southeast and served as a Type II Wildland Firefighter. He then worked as a field technician for the National Ecological Observatory Network, collecting data on various flora and fauna in Florida and Georgia, before joining Ekipa Fanihy.
 
