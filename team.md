@@ -18,15 +18,21 @@ The **Brook Lab** includes students and postdocs based in the [Department of Int
 
 <h2>UC Berkeley Team</h2>
 
-<img src="/assets/team/charlie_voirin.JPG" alt="charlie" class="img-thumbnail float-start col-md-3" />
-
-**Charlie Voirin** (he/him) is a **PhD student** in the Department of Integrative Biology at UC Berkeley. He is interested in combining experimental and computational techniques to study the ecology and immunology of bats so that we can better predict the spillover of infectious diseases from animal to human populations. Before joining the Brook Lab, Charlie was a postbaccalaureate fellow in the Viral Epidemiology and Immunity unit at NIAID, where he worked on a clinical trial studying the human immune response to a dengue vaccine. He holds a BA in Biology from Kenyon College, where he studied how environmental and ontogenetic factors impact telomere dynamics in nestling barn swallows, and an MSc in Ecology and Evolution from the University of Chicago.
-
-<div style="clear:both;">&nbsp;</div>
-
 <img src="/assets/team/christian_ranaivoson.jpg" alt="christian" class="img-thumbnail float-start col-md-3" />
 
 Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Department of Integrative Biology at UC Berkeley. He leads mNGS efforts targeting viral discovery in Malagasy fruit bats and febrile patients reporting to public hospitals in Madagascar. He has a PhD from the Department of Zoology and Animal Biodiversity at the University of Antananarivo, Madagascar and worked as a Research Engineer in the Virology Unit at Institut Pasteur de Madagascar, as well as a Postdoctoral Scholar in the Department of Ecology and Evolution at the University of Chicago. Christian's PhD research focused on the distribution and transmission of intra-erythrocytic parasites of Malagasy fruit bats, specifically *Babesia* spp. infections of the Madagascar flying fox, *Pteropus rufus*. At IPM, Christian led NGS studies focused on [SARS-CoV-2 genomic surveillance in Madagascar](https://nextstrain.org/community/brooklabteam/ncov-Madagascar). Christian holds a Master's degree in Biology, Ecology, and Animal Conservation from the University of Antananarivo and has previously studied infections of Malagasy crayfishes and nematode parasites of Malagasy reptiles.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/gwen_kettenburg_new.jpg" alt="gwen" class="img-thumbnail float-start col-md-3" />
+
+Dr. **Gwenddolen Kettenburg** (she/her) is a **Postdoctoral Scholar** in the Department of Integrative Biology at UC Berkeley where she explores the role that the interferon response of bats’ immune systems plays in the evolution of virus growth rates. She has a PhD in Ecology and Evolution from the University of Chicago in the Brook lab, where  she studied seasonal pathogen dynamics of henipaviruses and coronaviruses in Madagascar bats. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously worked on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. She is broadly interested in seasonal drivers of viral dynamics in wildlife populations.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/charlie_voirin.JPG" alt="charlie" class="img-thumbnail float-start col-md-3" />
+
+**Charlie Voirin** (he/him) is a **PhD student** in the Department of Integrative Biology at UC Berkeley. He is interested in combining experimental and computational techniques to study the ecology and immunology of bats so that we can better predict the spillover of infectious diseases from animal to human populations. Before joining the Brook Lab, Charlie was a postbaccalaureate fellow in the Viral Epidemiology and Immunity unit at NIAID, where he worked on a clinical trial studying the human immune response to a dengue vaccine. He holds a BA in Biology from Kenyon College, where he studied how environmental and ontogenetic factors impact telomere dynamics in nestling barn swallows, and an MSc in Ecology and Evolution from the University of Chicago.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -37,8 +43,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 <div style="clear:both;">&nbsp;</div>
 
 
-
-
 <h2>University of Chicago Team</h2>
 
 <img src="/assets/team/sophielockwood.jpg" alt="sophie" class="img-thumbnail float-start col-md-3" />
@@ -46,14 +50,6 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 **Sophie Lockwood** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She is also carrying out several human public health projects in Madagascar, including one focused on the genomic epidemiology of HIV. Sophie holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
 
 <div style="clear:both;">&nbsp;</div>
-
-<img src="/assets/team/gwenkettenburg.jpg" alt="gwen" class="img-thumbnail float-start col-md-3" />
-
-**Gwenddolen Kettenburg** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago, where she studies seasonal pathogen dynamics and carries out novel virus discovery in Madagascar bats, while also exploring the experimental evolution of virus growth rates in bat cell lines. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously worked on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania.
-
-<div style="clear:both;">&nbsp;</div>
-
-
 
 
 <h2>Madagascar Team</h2>
