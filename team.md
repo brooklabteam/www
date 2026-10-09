@@ -26,7 +26,7 @@ Dr. **Christian Ranaivoson** (he/him) is a **Postdoctoral Scholar** in the Depar
 
 <img src="/assets/team/gwen_kettenburg_new.jpg" alt="gwen" class="img-thumbnail float-start col-md-3" />
 
-Dr. **Gwenddolen Kettenburg** (she/her) is a **Postdoctoral Scholar** in the Department of Integrative Biology at UC Berkeley where she explores the role that the interferon response of bats’ immune systems plays in the evolution of virus growth rates. She has a PhD in Ecology and Evolution from the University of Chicago in the Brook lab, where  she studied seasonal pathogen dynamics of henipaviruses and coronaviruses in Madagascar bats. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously worked on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. She is broadly interested in seasonal drivers of viral dynamics in wildlife populations.
+Dr. **Gwenddolen Kettenburg** (she/her) is a **Postdoctoral Scholar** in the Department of Integrative Biology at UC Berkeley where she explores the role that the interferon response of bats’ immune systems plays in the evolution of virus growth rates. She has a PhD in Ecology and Evolution from the University of Chicago in the Brook lab, where she studied seasonal pathogen dynamics of henipaviruses and coronaviruses in Madagascar bats. Gwen holds a Master’s degree in Infectious Diseases and Microbiology from the University of Pittsburgh while working as a research technician and has previously worked on projects investigating inhibiting cell death pathways after avian influenza virus infection in a human precision-cut lung slice model. She earned her B.S. in Biology in 2018 from Keystone College working on studying antibiotic resistance and phage resistance in model bacteria species and studying pathogen prevalence in deer ticks in Pennsylvania. She is broadly interested in seasonal drivers of viral dynamics in wildlife populations.
 
 <div style="clear:both;">&nbsp;</div>
 
@@ -39,6 +39,12 @@ Dr. **Gwenddolen Kettenburg** (she/her) is a **Postdoctoral Scholar** in the Dep
 <img src="/assets/team/radha_srinivasan.jpeg" alt="radha" class="img-thumbnail float-start col-md-3" />
 
 **Radha Srinivasan** (she/her) is our **Lab Manager**. She graduated from UC Berkeley with a B.A. in Integrative Biology and a minor in Anthropology, where she conducted research on the evolutionary genetics of ultraviolet pigmentation patterns in monkeyflowers. She’s also engaged in research with the Smithsonian Environmental Research Center studying the effects of climate change on coastal forests, and volunteers with the UC Botanical Gardens as a science communicator developing interpretative signage. In her free time, she enjoys painting, birdwatching, and hiking around the Bay Area.
+
+<div style="clear:both;">&nbsp;</div>
+
+<img src="/assets/team/leon_chiricescu.jpeg" alt="leon" class="img-thumbnail float-start col-md-3" />
+
+**Leon Chiricescu** (He/Him) is a **Third Year Undergraduate** currently pursuing a major in Molecular and Cell Biology and a minor in Mathematics at UC Berkeley. He is interested in the mathematical modeling of infectious diseases to better understand their evolution and diffusion across populations. Leon is currently working on a zoonotic spillover project investigating the transmission mechanisms between different strains of Nipah virus. In his free time, he enjoys climbing trees and foraging for fruit.
 
 <div style="clear:both;">&nbsp;</div>
 
