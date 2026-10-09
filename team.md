@@ -42,7 +42,7 @@ Dr. **Gwenddolen Kettenburg** (she/her) is a **Postdoctoral Scholar** in the Dep
 
 <div style="clear:both;">&nbsp;</div>
 
-<img src="/assets/team/leon_chiricescu.jpeg" alt="leon" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/leon_chiricescu.jpg" alt="leon" class="img-thumbnail float-start col-md-3" />
 
 **Leon Chiricescu** (He/Him) is a **Third Year Undergraduate** currently pursuing a major in Molecular and Cell Biology and a minor in Mathematics at UC Berkeley. He is interested in the mathematical modeling of infectious diseases to better understand their evolution and diffusion across populations. Leon is currently working on a zoonotic spillover project investigating the transmission mechanisms between different strains of Nipah virus. In his free time, he enjoys climbing trees and foraging for fruit.
 
