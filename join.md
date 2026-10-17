@@ -6,8 +6,8 @@ permalink: /join
 
 
 <div class="bs-callout bs-callout-warning">
-  <p>We are recruiting PhD students in fall 2026 for an AY27-28 start. If interested to apply, please fill out this brief <a href="https://forms.gle/ZcNs7FvSAsGazZ5aA">Expression of Interest</a> by <strong>Friday, October 16</strong> at midnight PT!</p>
-  <p><em>This page last updated August 6, 2026.</em></p>
+  <p>Expressions if interest are now closed for PhD students interested in applying ib fall 2026 for an AY27-28 start. We will be in touch with prospective applicants soon. If you missed the deadline, please check back in summer 2027 for the next year's application cycle.</p>
+  <p><em>This page last updated October 17, 2026.</em></p>
 </div>
 
 
