@@ -3,7 +3,7 @@ layout: home
 title: "Brook Lab at UC Berkeley"
 ---
 
-<div class="bs-callout bs-callout-warning">
+<div class="bs-callout bs-callout-info">
   <p>Applications are now open for E<sup>2</sup>M<sup>2</sup> (Ecological and Epidemiological Modeling in Madagascar) 2027! Please visit the <a href="https://e2m2.org/">E<sup>2</sup>M<sup>2</sup> website</a> for more information. Applications are due November 30, 2026.</p>
 </div>
 
