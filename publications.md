@@ -13,8 +13,7 @@ permalink: /publications
 
 <h2> In Press</h2>
 
-- **Fitzgerald KE**, **Brook CE**, Grewe F, Ferguson AW, **Ruhs EC**. Optimizing pathogen-based sampling methods for vertebrate field research. *BMC Zoology*.
-
+- **Fitzgerald KE**, **Brook CE**, Grewe F, Ferguson AW, **Ruhs EC**. Optimizing pathogen-based sampling methods for vertebrate field research. *BMC Zoology*. doi: [10.1186/s40850-026-00289-9](https://doi.org/10.1186/s40850-026-00289-9).
 
 <h2>2026</h2>
 
