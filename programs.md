@@ -19,8 +19,8 @@ permalink: /programs
       <div class="card-body">
         <h5 class="card-title">E<sup>2</sup>M<sup>2</sup></h5>
         <p class="card-text">An introduction to R and workshop introducing the use of dynamical models in understanding ecological and epidemiological data.</p>
-         <p><em>Applications for the next workshop will be released sometime in 2026.</em></p>
-        <a href="https://e2m2.org/" class="btn btn-primary">Learn more</a>
+         <p><em>Applications for the next workshop are due November 30, 2026.</em></p>
+        <a href="https://e2m2.org/" class="btn btn-primary">Apply here!</a>
       </div>
     </div>
   </div>
