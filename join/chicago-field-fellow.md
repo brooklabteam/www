@@ -33,7 +33,7 @@ In between field missions (30% of the time), techs will live in a shared house i
 
 When not in the field, techs will additionally have opportunities to take part in professional development in the form of remote lab meetings with the Brook Lab at UC Berkeley, as well as receive guidance on the graduate school application process if desired. Field technicians will be acknowledged on publications arising from this work and may or may not be included as co-authors depending on the duration of their employment and the extent of their intellectual contributions to data analysis and interpretation after the field work concludes. Opportunities for independent work--either in science communication or in research--may be pursued on a case-by-case basis.
 
-Please visit our [News](/news) page or prior field tech Kendall Fitzgerald's [blogsite](https://fitzgeraldmadagascar.wordpress.com/) to read previous reports of the team's adventures in the field. Feel free to reach out to contact current Ekipa Fanihy field technicians, Nuzha Baksh ([nuzha.baksh@ekipafanihy.org](mailto:nuzha.baksh@ekipafanihy.org)) or Michael McGuire ([michael.mcguire@ekipafanihy.org](mailto:michael.mcguire@ekipafanihy.org)), with any questions about the job.
+Please visit our [News](/news) page or prior field tech Kendall Fitzgerald's [blogsite](https://fitzgeraldmadagascar.wordpress.com/) to read previous reports of the team's adventures in the field.
 
 ---
 
