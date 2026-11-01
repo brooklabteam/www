@@ -96,10 +96,10 @@ These are Markdown files in the root directory. Each uses `layout: page` unless 
 
 ## Team Photos
 
-Photos for `team.md` live in `assets/team/`. All headshots should be **square** (1:1 aspect ratio), ideally **600×600 px**. When adding a new photo:
+Photos for `team.md` live in `assets/team/`. All headshots must be **exactly 600×600 px** (square, 1:1). When adding a new photo:
 
 1. **Save the original** (unmodified) into `assets/team/originals/` first.
-2. Crop the working copy to a square, centered on the person's face, and resize to 600×600 px (or the native square size if the source is smaller than 600px — do not upscale).
+2. Crop the working copy to a square, centered on the person's face, and resize to exactly 600×600 px. If the source is slightly smaller than 600px, a small upscale is fine; the page needs every photo at the same size.
 3. Reference the cropped file in `team.md` as usual.
 
 This ensures consistent appearance across all team member photos on the page.
