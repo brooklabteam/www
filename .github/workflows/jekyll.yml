@@ -5,15 +5,22 @@ on:
     branches: [ main ]
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Pinned: ubuntu-latest (26.04) has no Ruby 3.3.8 build. Unpin when
+    # .ruby-version moves to the latest 3.3.x (see www-infra TODO).
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: .ruby-version
       - name: Install dependencies
+        # .bundle/config skips the development/test groups for Cloudflare;
+        # CI needs html-proofer, so clear that (CI-only; not committed).
         run: |
           bundle config set --local without ''
           bundle install
@@ -56,3 +63,7 @@ jobs:
             exit 1
           fi
           echo "OK: CV file exists at $cv_file"
+      - name: Audit gems for known vulnerabilities
+        run: |
+          gem install bundler-audit
+          bundle-audit check --update
