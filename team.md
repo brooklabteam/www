@@ -51,9 +51,9 @@ Dr. **Gwenddolen Kettenburg** (she/her) is a **Postdoctoral Scholar** in the Dep
 
 <h2>University of Chicago Team</h2>
 
-<img src="/assets/team/sophielockwood.jpg" alt="sophie" class="img-thumbnail float-start col-md-3" />
+<img src="/assets/team/sophie_lockwood_new.jpeg" alt="sophie" class="img-thumbnail float-start col-md-3" />
 
-**Sophie Lockwood** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She is also carrying out several human public health projects in Madagascar, including one focused on the genomic epidemiology of HIV. Sophie holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
+**Sophie Lockwood** (she/her) is a **PhD student** in the Department of Ecology and Evolution at the University of Chicago where she is interested in combining computational and field biology to understand the transmission dynamics of zoonotic viruses. She is also carrying out several human public health projects in Madagascar, including one focused on the genomic epidemiology of HIV and SARS-CoV-2. Sophie holds a MSPH from Rollins School of Public Health at Emory University and a BS from Georgetown University and has previously worked on projects exploring the intersections between climate change and health and in outbreak response and science policy with local and federal government.
 
 <div style="clear:both;">&nbsp;</div>
 
