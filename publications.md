@@ -14,7 +14,7 @@ permalink: /publications
 
 <h2>2026</h2>
 
-- **Kettenburg G**, Simonis MC, Ferretti P, Sánchez CA, Gaucherand L, **Williams KM**, Islam S, Lutz HL, Frank LE, Huntington CA, Juman MM, Mols VC, Quintela-Tizon RM, **Voirin CJ**, Ansil BR, Vicente-Santos AC, Víquez-R L, Lelli D, Phelps KL, Weinberg M, Woodson SE, Barker BR, Dávalos LM, Kingston T, Schmidt AG, Streicker DG, Uelmen J, Banerjee A, Frank HK, Seifert SN, Becker DJ, and **Brook CE**. Prioritizing the next decade of research in bat infectious disease (batID). 2026. Nature Communications. 17: 11919. doi: [10.1038/s41467-026-79693-1](https://doi.org/10.1038/s41467-026-79693-1).
+- **Kettenburg G**, Simonis MC, Ferretti P, Sánchez CA, Gaucherand L, **Williams KM**, Islam S, Lutz HL, Frank LE, Huntington CA, Juman MM, Mols VC, Quintela-Tizon RM, **Voirin CJ**, Ansil BR, Vicente-Santos AC, Víquez-R L, Lelli D, Phelps KL, Weinberg M, Woodson SE, Barker BR, Dávalos LM, Kingston T, Schmidt AG, Streicker DG, Uelmen J, Banerjee A, Frank HK, Seifert SN, Becker DJ, and **Brook CE**. Prioritizing the next decade of research in bat infectious disease (batID). 2026. *Nature Communications*. 17: 11919. doi: [10.1038/s41467-026-79693-1](https://doi.org/10.1038/s41467-026-79693-1).
 
 - **Fitzgerald KE**, **Brook CE**, Grewe F, Ferguson AW, **Ruhs EC**. Optimizing pathogen-based sampling methods for vertebrate field research. 2026. *BMC Zoology*. doi: [10.1186/s40850-026-00289-9](https://doi.org/10.1186/s40850-026-00289-9).
 
