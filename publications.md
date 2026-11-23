@@ -11,11 +11,12 @@ permalink: /publications
 
 - **Ruhs EC**, **McFerrin K**, Jones DN, **Cortes-Delgado N**, **Ravelomanantsoa NAF**, Yeoman CJ, Plowright RK, and **Brook CE**. Rapid GIT transit time in volant vertebrates, with implications for convergence in microbiome composition. In Review. [Link to bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2024.08.09.607319v1). 
 
-<h2> In Press</h2>
-
-- **Fitzgerald KE**, **Brook CE**, Grewe F, Ferguson AW, **Ruhs EC**. Optimizing pathogen-based sampling methods for vertebrate field research. *BMC Zoology*. doi: [10.1186/s40850-026-00289-9](https://doi.org/10.1186/s40850-026-00289-9).
 
 <h2>2026</h2>
+
+- **Kettenburg G**, Simonis MC, Ferretti P, Sánchez CA, Gaucherand L, **Williams KM**, Islam S, Lutz HL, Frank LE, Huntington CA, Juman MM, Mols VC, Quintela-Tizon RM, **Voirin CJ**, Ansil BR, Vicente-Santos AC, Víquez-R L, Lelli D, Phelps KL, Weinberg M, Woodson SE, Barker BR, Dávalos LM, Kingston T, Schmidt AG, Streicker DG, Uelmen J, Banerjee A, Frank HK, Seifert SN, Becker DJ, and **Brook CE**. Prioritizing the next decade of research in bat infectious disease (batID). 2026. Nature Communications. 17: 11919. doi: [10.1038/s41467-026-79693-1](https://doi.org/10.1038/s41467-026-79693-1).
+
+- **Fitzgerald KE**, **Brook CE**, Grewe F, Ferguson AW, **Ruhs EC**. Optimizing pathogen-based sampling methods for vertebrate field research. 2026. *BMC Zoology*. doi: [10.1186/s40850-026-00289-9](https://doi.org/10.1186/s40850-026-00289-9).
 
 - **Riccardi A\***, Douglass KR\*, Jackson VS, Dehnert GK, Herbst H, Grewe F, Walker M, Magle S, Murray MH,
 Adams H, **Brook CE**, and **Ruhs EC**. Does urbanization influence the health of American Robins (*Turdus
