@@ -1,55 +1,57 @@
-# netlify redirects https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file
+# Cloudflare Pages _redirects: https://developers.cloudflare.com/pages/configuration/redirects/
+# Format: <from> <to> <status>. ALWAYS write the status code. Cloudflare Pages defaults to 302
+# (temporary), unlike Netlify, which defaults to 301. CI fails on a rule without a status code.
 
 # Redirects from what the browser requests to what we serve
-/feed /feed.xml
+/feed /feed.xml 301
 
 # Redirects from changing page URLs
-/carabrook /cara-brook
-/fieldtechjob.html /join
+/carabrook /cara-brook 301
+/fieldtechjob.html /join 301
 /index.html / 301
-/join/field-tech /join
-/jointhelab /join
-/jointhelab/team.html /team
-/jointhelab/fieldtechjob /join
-/labvaluesexpectations /values-and-policies
-/people /team
+/join/field-tech /join 301
+/jointhelab /join 301
+/jointhelab/team.html /team 301
+/jointhelab/fieldtechjob /join 301
+/labvaluesexpectations /values-and-policies 301
+/people /team 301
 /publications.html /publications 301
 /research.html /research 301
-/research_interests /research
+/research_interests /research 301
 /team.html /team 301
 
 # Redirects from old CV to /cara-brook (which includes link to current CV)
-/carabrook/CV_CaraBrook_Full_April2022.pdf /cara-brook
-/assets/CV_CaraBrook_Full_June2022.pdf /cara-brook
-/cara-brook/CV_CaraBrook_Full_June2022.pdf /cara-brook
-/assets/CV_CaraBrook_Full_February2023.pdf /cara-brook
-/assets/CV_CaraBrook_Full_April2024.pdf /cara-brook
-/assets/CV_CaraBrook_Full_May2024.pdf /cara-brook
-/assets/CV_CaraBrook_Full_August2024.pdf /cara-brook
-/assets/CV_CaraBrook_Full_Sept2024.pdf /cara-brook
-/assets/CV_CaraBrook_Full_Nov2024.pdf /cara-brook
-/assets/CV_CaraBrook_Full_Feb2025.pdf /cara-brook
-/assets/CV_CaraBrook_Full_July2025.pdf /cara-brook
-/assets/CV_CaraBrook_Full_December2025.pdf /cara-brook
+/carabrook/CV_CaraBrook_Full_April2022.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_June2022.pdf /cara-brook 301
+/cara-brook/CV_CaraBrook_Full_June2022.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_February2023.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_April2024.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_May2024.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_August2024.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_Sept2024.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_Nov2024.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_Feb2025.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_July2025.pdf /cara-brook 301
+/assets/CV_CaraBrook_Full_December2025.pdf /cara-brook 301
 
 # Redirects from old post titles
-/news/2022-02-20-FR-post /news/gastrointestinal-microbiomes
-/news/2022-02-20-fr-post /news/gastrointestinal-microbiomes
-/news/2022-02-07-GK-post /news/nobecoviruses-paper
-/news/2022-02-07-gk-post /news/nobecoviruses-paper
-/news/2021-04-18-FR-post /news/covid-in-madagascar
-/news/2021-04-18-fr-post /news/covid-in-madagascar
-/news/2021-04-13-SA-post /news/santino-reflects-on-covid-in-madagascar
-/news/2021-04-13-sa-post /news/santino-reflects-on-covid-in-madagascar
-/news/2021-01-11-AA-post /news/meet-angelo
-/news/2021-01-11-aa-post /news/meet-angelo
-/news/2020-12-16-FR-post /news/fifi-coronavirus-review
-/news/2020-12-16-fr-post /news/fifi-coronavirus-review
-/news/2020-12-15-FR-post /news/meet-fifi
-/news/2020-12-15-fr-post /news/meet-fifi
-/news/2020-12-02-ag-post /news/anecia-review-paper
-/news/2020-12-01-AG-post /news/meet-anecia
-/news/2020-12-01-ag-post /news/meet-anecia
+/news/2022-02-20-FR-post /news/gastrointestinal-microbiomes 301
+/news/2022-02-20-fr-post /news/gastrointestinal-microbiomes 301
+/news/2022-02-07-GK-post /news/nobecoviruses-paper 301
+/news/2022-02-07-gk-post /news/nobecoviruses-paper 301
+/news/2021-04-18-FR-post /news/covid-in-madagascar 301
+/news/2021-04-18-fr-post /news/covid-in-madagascar 301
+/news/2021-04-13-SA-post /news/santino-reflects-on-covid-in-madagascar 301
+/news/2021-04-13-sa-post /news/santino-reflects-on-covid-in-madagascar 301
+/news/2021-01-11-AA-post /news/meet-angelo 301
+/news/2021-01-11-aa-post /news/meet-angelo 301
+/news/2020-12-16-FR-post /news/fifi-coronavirus-review 301
+/news/2020-12-16-fr-post /news/fifi-coronavirus-review 301
+/news/2020-12-15-FR-post /news/meet-fifi 301
+/news/2020-12-15-fr-post /news/meet-fifi 301
+/news/2020-12-02-ag-post /news/anecia-review-paper 301
+/news/2020-12-01-AG-post /news/meet-anecia 301
+/news/2020-12-01-ag-post /news/meet-anecia 301
 
 # Redirects from old mixed-case /news permalinks (permalinks are now lowercase)
 /news/SC2-Mada /news/sc2-mada 301
